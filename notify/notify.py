@@ -89,7 +89,7 @@ def send_ntfy(*, topic: str, server: str, title: str, body: str,
         return False
 
 
-def send_email_resend(*, api_key: str, sender: str, recipient: str,
+def send_email_resend(*, api_key: str, sender: str, recipients: list[str],
                       subject: str, html_body: str, text_body: str) -> bool:
     try:
         r = requests.post(
@@ -100,7 +100,7 @@ def send_email_resend(*, api_key: str, sender: str, recipient: str,
             },
             json={
                 "from": sender,
-                "to": [recipient],
+                "to": recipients,
                 "subject": subject,
                 "text": text_body,
                 "html": html_body,
@@ -108,7 +108,7 @@ def send_email_resend(*, api_key: str, sender: str, recipient: str,
             timeout=15,
         )
         r.raise_for_status()
-        print(f"✓ email sent to {recipient}")
+        print(f"✓ email sent to {', '.join(recipients)}")
         return True
     except Exception as e:
         print(f"✗ email failed: {e}", file=sys.stderr)
@@ -208,12 +208,13 @@ def main() -> int:
 
     resend_key = os.environ.get("RESEND_API_KEY", "").strip()
     email_from = os.environ.get("EMAIL_FROM", "").strip()
-    email_to = os.environ.get("EMAIL_TO", "").strip()
+    email_to_raw = os.environ.get("EMAIL_TO", "").strip()
+    email_to = [addr.strip() for addr in email_to_raw.split(",") if addr.strip()]
     if resend_key and email_from and email_to:
         any_attempted = True
         text_body = f"{title}\n\n{ntfy_body}\n\n{dashboard_url or ''}".strip()
         if send_email_resend(api_key=resend_key, sender=email_from,
-                             recipient=email_to, subject=email_subject,
+                             recipients=email_to, subject=email_subject,
                              html_body=email_html, text_body=text_body):
             any_sent = True
 
