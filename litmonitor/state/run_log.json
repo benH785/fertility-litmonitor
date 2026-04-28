@@ -1,10 +1,11 @@
 [
   {
-    "filename": "digest_2026-04-28.json",
-    "digest_date": "2026-04-28",
-    "generated_at": "2026-04-28T21:05:05Z",
+    "run_at": "2026-04-28T21:05:05Z",
     "mode": "retrospective 5y",
-    "paper_count": 436,
+    "since": "2021-04-29",
+    "new_papers": 436,
+    "total_seen": 436,
+    "digest_filename": "digest_2026-04-28.md",
     "topic_counts": {
       "zymot_microfluidic": 17,
       "antagonist_protocol_normoresponder": 122,
