@@ -1,0 +1,65 @@
+name: Weekly Fertility Literature Digest
+
+# Runs every Monday at 09:00 UTC. Adjust the cron expression if you want a
+# different time. Cron uses UTC; 09:00 UTC = 09:00 GMT / 10:00 BST.
+on:
+  schedule:
+    - cron: "0 9 * * 1"
+  workflow_dispatch:  # lets you trigger a run manually from the Actions tab
+
+permissions:
+  contents: write  # needed to commit the new digest back to the repo
+
+jobs:
+  run-digest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run weekly digest
+        env:
+          NCBI_API_KEY: ${{ secrets.NCBI_API_KEY }}
+        run: |
+          cd litmonitor
+          python fertility_litmonitor.py --weekly
+
+      - name: Show what changed
+        run: |
+          cd litmonitor
+          ls -la digests/ state/ || true
+          cat state/last_run_summary.json || true
+
+      - name: Commit and push new digest
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add litmonitor/digests/ litmonitor/state/
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Weekly digest: $(date -u +%Y-%m-%d)"
+            git push
+          fi
+
+      - name: Send notifications
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          NTFY_SERVER: ${{ secrets.NTFY_SERVER }}
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
+          EMAIL_TO: ${{ secrets.EMAIL_TO }}
+          DASHBOARD_URL: ${{ vars.DASHBOARD_URL }}
+          # Set NOTIFY_ON_EMPTY=1 if you want a "nothing new this week" ping too
+          NOTIFY_ON_EMPTY: ${{ vars.NOTIFY_ON_EMPTY }}
+        run: python notify/notify.py

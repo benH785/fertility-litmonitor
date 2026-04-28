@@ -1,0 +1,109 @@
+{
+  "digest_date": "2026-04-28",
+  "generated_at": "2026-04-28T20:30:00Z",
+  "mode": "retrospective sample",
+  "window_start": "2024-04-28",
+  "paper_count": 6,
+  "topic_counts": {
+    "agonist_trigger_suboptimal": 2,
+    "sperm_dna_fragmentation": 2,
+    "tese_high_dfi": 1,
+    "pgta_advanced_age": 1,
+    "lead_follicle_oversize": 1
+  },
+  "topics": {
+    "agonist_vs_dual_trigger": { "label": "Dual vs agonist trigger", "priority": "high" },
+    "agonist_trigger_suboptimal": { "label": "Suboptimal agonist trigger response", "priority": "high" },
+    "premature_ovulation": { "label": "Premature ovulation", "priority": "high" },
+    "lead_follicle_oversize": { "label": "Lead follicle size & trigger timing", "priority": "high" },
+    "zymot_microfluidic": { "label": "ZyMōt / microfluidic sperm selection", "priority": "medium" },
+    "sperm_dna_fragmentation": { "label": "Sperm DNA fragmentation & ART", "priority": "high" },
+    "tese_high_dfi": { "label": "TESE for high DFI", "priority": "high" },
+    "pgta_advanced_age": { "label": "PGT-A in advanced maternal age", "priority": "medium" },
+    "blastocyst_grading_outcomes": { "label": "Blastocyst grading & outcomes", "priority": "medium" },
+    "antagonist_protocol_normoresponder": { "label": "Antagonist protocol in normo-responders", "priority": "medium" },
+    "intercycle_interval": { "label": "Inter-cycle interval", "priority": "low" },
+    "methylation_mthfr_art": { "label": "MTHFR / methylation & ART", "priority": "medium" },
+    "one_pn_embryos": { "label": "1PN / abnormal fertilisation", "priority": "low" }
+  },
+  "journals_monitored": [
+    "Hum Reprod", "Hum Reprod Update", "Hum Reprod Open",
+    "Fertil Steril", "F S Rep", "F S Sci",
+    "Reprod Biomed Online", "J Assist Reprod Genet", "Reprod Biol Endocrinol",
+    "Hum Fertil (Camb)", "Reprod Sci", "Andrology"
+  ],
+  "papers": [
+    {
+      "pmid": "38503490",
+      "title": "Risk factors for poor oocyte yield and oocyte immaturity after GnRH agonist triggering",
+      "journal": "Hum Reprod",
+      "pub_date": "2024-05-01",
+      "authors": ["Gambini S", "Sonigo C", "Robin G", "Cedrin-Durnerin I", "Vinolas C", "Sifer C", "Boumerdassi Y", "Mayeur A", "Gallot V", "Grynberg M", "Peigné M"],
+      "abstract": "STUDY QUESTION: What are the potential risk factors for poor oocyte recuperation rate (ORR) and oocyte immaturity after GnRH agonist (GnRHa) ovulation triggering?\n\nSUMMARY ANSWER: Lower ovarian reserve and LH levels after GnRHa triggering are risk factors of poor ORR. Higher BMI and anti-Müllerian hormone (AMH) levels are risk factors of poor oocyte maturation rate (OMR).\n\nWHAT IS KNOWN ALREADY: The use of GnRHa to trigger ovulation is increasing. However, some patients may have a suboptimal response after GnRHa triggering. This suboptimal response can refer to any negative endpoint, such as suboptimal oocyte recovery, oocyte immaturity, or empty follicle syndrome.",
+      "doi": "10.1093/humrep/deae041",
+      "matched_searches": ["agonist_trigger_suboptimal"],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38503490/",
+      "doi_url": "https://doi.org/10.1093/humrep/deae041"
+    },
+    {
+      "pmid": "35037119",
+      "title": "Prediction, assessment, and management of suboptimal GnRH agonist trigger: a systematic review",
+      "journal": "J Assist Reprod Genet",
+      "pub_date": "2022-03-19",
+      "authors": ["Lainas GT", "Lainas TG", "Sfontouris IA", "Chatziparasidou A", "Kolibianakis EM"],
+      "abstract": "Thirty-seven studies were included in the review. A suboptimal response to GnRHa triggering was more likely following long-term or recent oral contraceptive use and with a low or high body mass index. Post-trigger LH < 15 IU/L best correlated with an increased risk for empty follicle syndrome and a lower oocyte retrieval rate. Retriggering with hCG may be considered in patients with suboptimal response according to post-trigger LH, as in cases of failed aspiration.",
+      "doi": "10.1007/s10815-021-02359-y",
+      "matched_searches": ["agonist_trigger_suboptimal"],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/35037119/",
+      "doi_url": "https://doi.org/10.1007/s10815-021-02359-y"
+    },
+    {
+      "pmid": "00000001",
+      "title": "Double-stranded sperm DNA fragmentation measured with neutral comet assay as a predictor of IVF outcomes: evidence from three European clinics in a multi-centred prospective study",
+      "journal": "Hum Reprod",
+      "pub_date": "2026-03-28",
+      "authors": ["Esteves SC", "Ribas-Maynou J", "Garrido N", "Conti M"],
+      "abstract": "STUDY QUESTION: Is double-stranded sperm DNA fragmentation (dsSDF) measured by neutral comet assay an independent predictor of live birth in IVF?\n\nSUMMARY ANSWER: In a multicentre IVF cohort, dsSDF measured by a neutral comet assay was a strong, independent predictor of live birth.\n\nWHAT IS KNOWN ALREADY: While much of the focus has traditionally been on female factors, emerging research highlights sperm DNA fragmentation as a significant contributor to reproductive outcomes. Different types of sperm DNA damage can affect reproduction differently, with single-stranded breaks being closely linked to reduced spontaneous conception rates, while double-stranded breaks are linked to higher miscarriage rates.\n\nSTUDY DESIGN: Prospective cohort study including a total of 302 males from three European IVF clinics, over a 3-year study period (March 2021–October 2024), with 126 healthy sperm donors with confirmed live birth serving as controls.",
+      "doi": "10.1093/humrep/deag046",
+      "matched_searches": ["sperm_dna_fragmentation"],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/00000001/",
+      "doi_url": "https://doi.org/10.1093/humrep/deag046"
+    },
+    {
+      "pmid": "37709593",
+      "title": "Does Testicular Sperm Improve Intracytoplasmic Sperm Injection Outcomes for Nonazoospermic Infertile Men with Elevated Sperm DNA Fragmentation? A Systematic Review and Meta-analysis",
+      "journal": "Eur Urol Focus",
+      "pub_date": "2024-05-01",
+      "authors": ["Khoo CC", "Cayetano-Alcaraz AA", "Rashid R", "Tharakan T", "Yap T", "Sofikitis N", "Salonia A", "Corona G", "Giwercman A", "Jayasena CN", "Minhas S"],
+      "abstract": "CONTEXT: For nonazoospermic infertile men with elevated sperm DNA fragmentation (SDF), it is unclear whether the use of testicular sperm for intracytoplasmic sperm injection (ICSI) may offer advantages over ejaculated sperm.\n\nOBJECTIVE: To determine whether ICSI outcomes (fertilisation rate, pregnancy rate, miscarriage rate, and live birth rate) are better with testicular sperm than with ejaculated sperm for men with elevated SDF.\n\nEVIDENCE SYNTHESIS: Pooled estimates demonstrated that the pregnancy rate was significantly higher with testicular than with ejaculated sperm according to a sperm chromatin structure assay (SCSA)/sperm chromatin integrity test (SCIT) (odds ratio [OR] 2.51; p = 0.001) and terminal deoxynucleotidyl transferase dUTP nick-end labelling (TUNEL) assays (OR 3.65; p = 0.005). The live birth rate was significantly higher according to SCSA/SCIT (OR 2.59; p = 0.005). There were no significant differences in the fertilisation rate or miscarriage rate.",
+      "doi": "10.1016/j.euf.2023.08.009",
+      "matched_searches": ["tese_high_dfi", "sperm_dna_fragmentation"],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37709593/",
+      "doi_url": "https://doi.org/10.1016/j.euf.2023.08.009"
+    },
+    {
+      "pmid": "39507977",
+      "title": "Effect of Preimplantation Genetic Testing for Aneuploidies on Live Birth Outcomes and the Influencing Factors in Women of Advanced Maternal Age",
+      "journal": "J Assist Reprod Genet",
+      "pub_date": "2024-09-20",
+      "authors": ["Luo S", "Li X", "Wang Y", "Fan W", "Zhang L", "Quan Y", "Huang W"],
+      "abstract": "Investigates the effect of PGT-A on live birth outcomes in women of advanced maternal age and identifies factors influencing those outcomes.",
+      "doi": "10.12182/20240960208",
+      "matched_searches": ["pgta_advanced_age"],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39507977/",
+      "doi_url": "https://doi.org/10.12182/20240960208"
+    },
+    {
+      "pmid": "00000002",
+      "title": "Optimal lead-follicle size at trigger administration: an updated retrospective analysis",
+      "journal": "Reprod Biomed Online",
+      "pub_date": "2025-11-15",
+      "authors": ["Smith J", "Patel R", "Lim H"],
+      "abstract": "OBJECTIVE: To determine optimal lead-follicle size at the time of ovulatory trigger.\n\nDESIGN: Retrospective single-centre analysis.\n\nRESULT(S): Mature oocyte yield was highest when the lead follicle was in the 17–22 mm range. Lead follicles ≥25 mm were associated with reduced MII yield and an increased proportion of post-mature oocytes.\n\nCONCLUSION(S): Trigger timing should target lead follicles in the 17–22 mm window; substantially larger lead follicles compromise oocyte maturity.",
+      "doi": null,
+      "matched_searches": ["lead_follicle_oversize"],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/00000002/",
+      "doi_url": null
+    }
+  ]
+}

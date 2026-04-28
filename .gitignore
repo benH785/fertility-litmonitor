@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+.DS_Store
+.vscode/
+.idea/
+
+# Don't ignore digest output — they're committed by the Action
+!litmonitor/digests/
+!litmonitor/state/
