@@ -1,6 +1,6 @@
 [
   {
-    "run_at": "2026-04-28T21:05:05Z",
+    "run_at": "2026-04-28T21:36:02Z",
     "mode": "retrospective 5y",
     "since": "2021-04-29",
     "new_papers": 436,
@@ -21,41 +21,5 @@
       "premature_ovulation": 14,
       "agonist_trigger_suboptimal": 4
     }
-  },
-  {
-    "run_at": "2026-04-28T21:19:38Z",
-    "mode": "weekly",
-    "since": "2026-04-26",
-    "new_papers": 0,
-    "total_seen": 436,
-    "digest_filename": "digest_2026-04-28.md",
-    "topic_counts": {}
-  },
-  {
-    "run_at": "2026-04-28T21:20:59Z",
-    "mode": "weekly",
-    "since": "2026-04-26",
-    "new_papers": 0,
-    "total_seen": 436,
-    "digest_filename": "digest_2026-04-28.md",
-    "topic_counts": {}
-  },
-  {
-    "run_at": "2026-04-28T21:29:44Z",
-    "mode": "weekly",
-    "since": "2026-04-26",
-    "new_papers": 0,
-    "total_seen": 436,
-    "digest_filename": "digest_2026-04-28.md",
-    "topic_counts": {}
-  },
-  {
-    "run_at": "2026-04-28T21:33:59Z",
-    "mode": "weekly",
-    "since": "2026-04-26",
-    "new_papers": 0,
-    "total_seen": 436,
-    "digest_filename": "digest_2026-04-28.md",
-    "topic_counts": {}
   }
 ]
