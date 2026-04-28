@@ -619,16 +619,21 @@ def main() -> int:
     md_path = digests_dir / f"digest_{digest_date}.md"
     json_path = digests_dir / f"digest_{digest_date}.json"
 
-    md_path.write_text(render_digest_markdown(new_papers, since=since, mode=mode))
-    json_path.write_text(json.dumps(
-        render_digest_json(new_papers, since=since, mode=mode, digest_date=digest_date),
-        indent=2,
-    ))
-
     topic_counts: dict[str, int] = {}
     for p in new_papers:
         for s in p.matched_searches:
             topic_counts[s] = topic_counts.get(s, 0) + 1
+
+    if new_papers:
+        md_path.write_text(render_digest_markdown(new_papers, since=since, mode=mode))
+        json_path.write_text(json.dumps(
+            render_digest_json(new_papers, since=since, mode=mode, digest_date=digest_date),
+            indent=2,
+        ))
+        print(f"\nWrote markdown digest:  {md_path}")
+        print(f"Wrote JSON digest:      {json_path}")
+    else:
+        print(f"\nNo new papers; preserving existing digest for {digest_date} (if any).")
 
     state.mark_seen(p.pmid for p in pmid_to_paper.values())
     state.record_run(
@@ -643,8 +648,6 @@ def main() -> int:
 
     update_index(digests_dir)
 
-    print(f"\nWrote markdown digest:  {md_path}")
-    print(f"Wrote JSON digest:      {json_path}")
     print(f"Updated index:          {digests_dir / 'index.json'}")
     print(f"New papers in this run: {len(new_papers)}")
     print(f"Total PMIDs tracked:    {len(state.seen)}")
