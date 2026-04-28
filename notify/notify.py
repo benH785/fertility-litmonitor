@@ -199,7 +199,7 @@ def main() -> int:
     any_attempted = False
 
     ntfy_topic = os.environ.get("NTFY_TOPIC", "").strip()
-    ntfy_server = os.environ.get("NTFY_SERVER", "https://ntfy.sh").strip()
+    ntfy_server = os.environ.get("NTFY_SERVER", "").strip() or "https://ntfy.sh"
     if ntfy_topic:
         any_attempted = True
         if send_ntfy(topic=ntfy_topic, server=ntfy_server,
