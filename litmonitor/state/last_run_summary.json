@@ -1,23 +1,9 @@
 {
-  "run_at": "2026-04-28T21:05:05Z",
-  "mode": "retrospective 5y",
-  "since": "2021-04-29",
-  "new_papers": 436,
+  "run_at": "2026-04-28T21:19:38Z",
+  "mode": "weekly",
+  "since": "2026-04-26",
+  "new_papers": 0,
   "total_seen": 436,
   "digest_filename": "digest_2026-04-28.md",
-  "topic_counts": {
-    "zymot_microfluidic": 17,
-    "antagonist_protocol_normoresponder": 122,
-    "sperm_dna_fragmentation": 96,
-    "methylation_mthfr_art": 61,
-    "intercycle_interval": 14,
-    "agonist_vs_dual_trigger": 44,
-    "tese_high_dfi": 23,
-    "lead_follicle_oversize": 15,
-    "one_pn_embryos": 24,
-    "pgta_advanced_age": 31,
-    "blastocyst_grading_outcomes": 22,
-    "premature_ovulation": 14,
-    "agonist_trigger_suboptimal": 4
-  }
+  "topic_counts": {}
 }
