@@ -39,5 +39,14 @@
     "total_seen": 436,
     "digest_filename": "digest_2026-04-28.md",
     "topic_counts": {}
+  },
+  {
+    "run_at": "2026-04-28T21:29:44Z",
+    "mode": "weekly",
+    "since": "2026-04-26",
+    "new_papers": 0,
+    "total_seen": 436,
+    "digest_filename": "digest_2026-04-28.md",
+    "topic_counts": {}
   }
 ]
