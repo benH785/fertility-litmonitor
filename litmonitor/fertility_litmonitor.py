@@ -185,6 +185,12 @@ JOURNALS: list[str] = [
     "Hum Fertil (Camb)",
     "Reprod Sci",
     "Andrology",
+    "Mol Hum Reprod",
+    "Reproduction",
+    "Biol Reprod",
+    "Reprod Fertil Dev",
+    "Asian J Androl",
+    "Andrologia",
 ]
 
 
