@@ -3,16 +3,18 @@ import { Routes, Route, Link, useLocation } from "react-router-dom";
 import IndexPage from "./pages/IndexPage.jsx";
 import DigestPage from "./pages/DigestPage.jsx";
 import BookmarksPage from "./pages/BookmarksPage.jsx";
+import SettingsPage from "./pages/SettingsPage.jsx";
 import { repoIsConfigured, repoUrl, getStarredPmids } from "./lib/api.js";
 
 export default function App() {
   const location = useLocation();
   const onIndex = location.pathname === "/";
   const onBookmarks = location.pathname === "/bookmarks";
+  const onSettings = location.pathname === "/settings";
 
   return (
     <div className="min-h-screen flex flex-col">
-      <Header onIndex={onIndex} onBookmarks={onBookmarks} />
+      <Header onIndex={onIndex} onBookmarks={onBookmarks} onSettings={onSettings} />
 
       {!repoIsConfigured() && <ConfigBanner />}
 
@@ -21,6 +23,7 @@ export default function App() {
           <Route path="/" element={<IndexPage />} />
           <Route path="/digest/:filename" element={<DigestPage />} />
           <Route path="/bookmarks" element={<BookmarksPage />} />
+          <Route path="/settings" element={<SettingsPage />} />
         </Routes>
       </main>
 
@@ -29,7 +32,7 @@ export default function App() {
   );
 }
 
-function Header({ onIndex, onBookmarks }) {
+function Header({ onIndex, onBookmarks, onSettings }) {
   const [starCount, setStarCount] = useState(() => getStarredPmids().size);
 
   useEffect(() => {
@@ -40,7 +43,8 @@ function Header({ onIndex, onBookmarks }) {
   }, []);
 
   let title;
-  if (onBookmarks) title = <>Bookmarks.</>;
+  if (onSettings) title = <>Settings.</>;
+  else if (onBookmarks) title = <>Bookmarks.</>;
   else if (onIndex) title = <>The week's reading.</>;
   else title = <>Digest.</>;
 
@@ -64,6 +68,11 @@ function Header({ onIndex, onBookmarks }) {
           {!onBookmarks && (
             <Link to="/bookmarks" className="link-underline">
               ★ Bookmarks{starCount > 0 ? ` (${starCount})` : ""}
+            </Link>
+          )}
+          {!onSettings && (
+            <Link to="/settings" className="link-underline">
+              ⚙ Settings
             </Link>
           )}
         </nav>

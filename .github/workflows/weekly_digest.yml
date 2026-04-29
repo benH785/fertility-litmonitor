@@ -6,6 +6,15 @@ on:
   schedule:
     - cron: "0 9 * * 1"
   workflow_dispatch:  # lets you trigger a run manually from the Actions tab
+    inputs:
+      mode:
+        description: 'weekly (only new since last run) or retrospective (--years 5)'
+        required: false
+        default: 'weekly'
+        type: choice
+        options:
+          - weekly
+          - retrospective
 
 permissions:
   contents: write  # needed to commit the new digest back to the repo
@@ -27,12 +36,19 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
-      - name: Run weekly digest
+      - name: Run digest
         env:
           NCBI_API_KEY: ${{ secrets.NCBI_API_KEY }}
+          MODE: ${{ inputs.mode || 'weekly' }}
         run: |
           cd litmonitor
-          python fertility_litmonitor.py --weekly
+          if [ "$MODE" = "retrospective" ]; then
+            echo "Running retrospective sweep (--years 5)"
+            python fertility_litmonitor.py --years 5
+          else
+            echo "Running weekly digest (--weekly)"
+            python fertility_litmonitor.py --weekly
+          fi
 
       - name: Show what changed
         run: |
@@ -53,6 +69,7 @@ jobs:
           fi
 
       - name: Send notifications
+        if: inputs.mode != 'retrospective'
         env:
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
           NTFY_SERVER: ${{ secrets.NTFY_SERVER }}
