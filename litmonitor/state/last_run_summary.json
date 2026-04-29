@@ -1,9 +1,9 @@
 {
-  "run_at": "2026-04-29T18:56:30Z",
+  "run_at": "2026-04-29T19:36:20Z",
   "mode": "retrospective 5y",
   "since": "2021-04-30",
-  "new_papers": 482,
-  "total_seen": 482,
+  "new_papers": 483,
+  "total_seen": 483,
   "digest_filename": "digest_2026-04-29.md",
   "topic_counts": {
     "zymot_microfluidic": 18,
@@ -18,6 +18,7 @@
     "one_pn_embryos": 27,
     "blastocyst_grading_outcomes": 22,
     "premature_ovulation": 14,
-    "agonist_trigger_suboptimal": 4
+    "agonist_trigger_suboptimal": 4,
+    "ss31_elamipretide": 1
   }
 }

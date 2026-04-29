@@ -57,120 +57,21 @@ import requests
 # CONFIG: clinical questions and journal targets
 # ---------------------------------------------------------------------------
 
-SEARCHES: dict[str, dict] = {
+def _load_searches() -> dict[str, dict]:
+    """Load search topics from searches.json (next to this script).
 
-    "agonist_vs_dual_trigger": {
-        "label": "Dual vs agonist trigger",
-        "priority": "high",
-        "query":
-            '("dual trigger"[tiab] OR "dual triggering"[tiab] '
-            'OR "GnRH agonist trigger"[tiab] OR "agonist trigger"[tiab]) '
-            'AND (IVF[tiab] OR ICSI[tiab] OR "ovarian stimulation"[tiab])',
-    },
+    Editable without touching code: open searches.json on GitHub's web UI
+    (or the dashboard, once UI editing is wired up), commit, and the next
+    weekly run picks up the new topics. To backfill the 5-year history for
+    a freshly added topic, manually trigger the workflow with --years 5.
+    """
+    here = os.path.dirname(os.path.abspath(__file__))
+    path = os.path.join(here, "searches.json")
+    with open(path) as f:
+        return json.load(f)
 
-    "agonist_trigger_suboptimal": {
-        "label": "Suboptimal agonist trigger response",
-        "priority": "high",
-        "query":
-            '("suboptimal response"[tiab] OR "empty follicle"[tiab] '
-            'OR "poor response to trigger"[tiab] OR "LH surge inadequate"[tiab]) '
-            'AND (agonist[tiab] OR triptorelin[tiab] OR buserelin[tiab] OR leuprolide[tiab])',
-    },
 
-    "premature_ovulation": {
-        "label": "Premature ovulation",
-        "priority": "high",
-        "query":
-            '("premature ovulation"[tiab] OR "premature LH surge"[tiab] '
-            'OR "early ovulation"[tiab]) AND (IVF[tiab] OR "oocyte retrieval"[tiab])',
-    },
-
-    "lead_follicle_oversize": {
-        "label": "Lead follicle size & trigger timing",
-        "priority": "high",
-        "query":
-            '("lead follicle"[tiab] OR "follicle size"[tiab] OR "trigger timing"[tiab]) '
-            'AND (oocyte[tiab] OR maturity[tiab] OR "trigger day"[tiab])',
-    },
-
-    "zymot_microfluidic": {
-        "label": "ZyMōt / microfluidic sperm selection",
-        "priority": "medium",
-        "query":
-            '("ZyMot"[tiab] OR "microfluidic sperm"[tiab] OR "Fertile Chip"[tiab] '
-            'OR "microfluidic sorting"[tiab])',
-    },
-
-    "sperm_dna_fragmentation": {
-        "label": "Sperm DNA fragmentation & ART",
-        "priority": "high",
-        "query":
-            '("DNA fragmentation"[tiab] OR "sperm DNA damage"[tiab] '
-            'OR "double strand DNA break"[tiab] OR "sperm chromatin"[tiab]) '
-            'AND (IVF[tiab] OR ICSI[tiab] OR ART[tiab] OR "live birth"[tiab])',
-    },
-
-    "tese_high_dfi": {
-        "label": "TESE for high DFI",
-        "priority": "high",
-        "query":
-            '(TESE[tiab] OR "testicular sperm"[tiab] OR "testicular extraction"[tiab]) '
-            'AND ("high DNA fragmentation"[tiab] OR "DFI"[tiab] OR oligospermia[tiab] '
-            'OR "ejaculated sperm"[tiab])',
-    },
-
-    "pgta_advanced_age": {
-        "label": "PGT-A in advanced maternal age",
-        "priority": "medium",
-        "query":
-            '("PGT-A"[tiab] OR "preimplantation genetic testing"[tiab] '
-            'OR "aneuploidy screening"[tiab]) '
-            'AND ("advanced maternal age"[tiab] OR "AMA"[tiab] OR "older women"[tiab])',
-    },
-
-    "blastocyst_grading_outcomes": {
-        "label": "Blastocyst grading & outcomes",
-        "priority": "medium",
-        "query":
-            '("Gardner grading"[tiab] OR "blastocyst grade"[tiab] '
-            'OR "trophectoderm grade"[tiab] OR "ICM grade"[tiab]) '
-            'AND ("live birth"[tiab] OR "implantation"[tiab] OR euploid[tiab])',
-    },
-
-    "antagonist_protocol_normoresponder": {
-        "label": "Antagonist protocol in normo-responders",
-        "priority": "medium",
-        "query":
-            '("antagonist protocol"[tiab] OR "GnRH antagonist"[tiab]) '
-            'AND ("normal responder"[tiab] OR "normoresponder"[tiab] '
-            'OR "ovarian stimulation"[tiab])',
-    },
-
-    "intercycle_interval": {
-        "label": "Inter-cycle interval",
-        "priority": "low",
-        "query":
-            '("inter-cycle interval"[tiab] OR "consecutive cycles"[tiab] '
-            'OR "back-to-back IVF"[tiab] OR "cycle interval"[tiab])',
-    },
-
-    "methylation_mthfr_art": {
-        "label": "MTHFR / methylation & ART",
-        "priority": "medium",
-        "query":
-            '(MTHFR[tiab] OR methylation[tiab] OR homocysteine[tiab] '
-            'OR folate[tiab] OR methylfolate[tiab]) '
-            'AND (IVF[tiab] OR ICSI[tiab] OR "live birth"[tiab] OR miscarriage[tiab])',
-    },
-
-    "one_pn_embryos": {
-        "label": "1PN / abnormal fertilisation",
-        "priority": "low",
-        "query":
-            '("1PN"[tiab] OR "monopronuclear"[tiab] OR "abnormal fertilization"[tiab]) '
-            'AND (ICSI[tiab] OR IVF[tiab] OR blastocyst[tiab])',
-    },
-}
+SEARCHES: dict[str, dict] = _load_searches()
 
 JOURNALS: list[str] = [
     "Hum Reprod",

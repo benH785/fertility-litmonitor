@@ -1,9 +1,9 @@
 {
   "digest_date": "2026-04-29",
-  "generated_at": "2026-04-29T18:56:30Z",
+  "generated_at": "2026-04-29T19:36:20Z",
   "mode": "retrospective 5y",
   "window_start": "2021-04-30",
-  "paper_count": 482,
+  "paper_count": 483,
   "topic_counts": {
     "zymot_microfluidic": 18,
     "lead_follicle_oversize": 18,
@@ -17,7 +17,8 @@
     "one_pn_embryos": 27,
     "blastocyst_grading_outcomes": 22,
     "premature_ovulation": 14,
-    "agonist_trigger_suboptimal": 4
+    "agonist_trigger_suboptimal": 4,
+    "ss31_elamipretide": 1
   },
   "topics": {
     "agonist_vs_dual_trigger": {
@@ -37,7 +38,7 @@
       "priority": "high"
     },
     "zymot_microfluidic": {
-      "label": "ZyM\u014dt / microfluidic sperm selection",
+      "label": "ZyMot / microfluidic sperm selection",
       "priority": "medium"
     },
     "sperm_dna_fragmentation": {
@@ -71,6 +72,10 @@
     "one_pn_embryos": {
       "label": "1PN / abnormal fertilisation",
       "priority": "low"
+    },
+    "ss31_elamipretide": {
+      "label": "SS-31 / elamipretide & fertility",
+      "priority": "high"
     }
   },
   "journals_monitored": [
@@ -10872,6 +10877,23 @@
       ],
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/33931371/",
       "doi_url": "https://doi.org/10.1016/j.rbmo.2021.03.011"
+    },
+    {
+      "pmid": "33675580",
+      "title": "Antioxidant effect of Elamipretide on bull's sperm cells during freezing/thawing process.",
+      "journal": "Andrology",
+      "pub_date": "2021-03-17",
+      "authors": [
+        "Kowalczyk A",
+        "Czerniawska Pi\u0105tkowska E"
+      ],
+      "abstract": "BACKGROUND: Spermatozoa are subjected to drastic changes in temperature, ice crystal formation, and diverse types of stresses (chemical, physical, osmotic, and oxidative) during the cryopreservation process, which severely compromise sperm quality and fertility. In this study, we aimed to investigate the protective role of Elamipretide in the cryopreservation of bull's spermatozoa.\n\nMATERIALS AND METHODS: The study included 36 healthy Simmental bulls with an average age of 2\u00a0\u00b1\u00a00.5\u00a0years housed individually in pens. Two ejaculates were collected from each bull using an artificial vagina at 7 a.m. Subsequently, the semen was extended with animal protein-free commercial BIOXcell\u00ae extender (IMV Technologies) to a final concentration of 160\u00a0\u00d7\u00a0106 spermatozoa/ml, and rated in terms of motile sperm percentage, progressive motility, viability, and morphological abnormality of spermatozoa. Semen samples that showed more than 60% motility and 60% viability, were selected for the experiment. The fresh semen was then divided into five equal fractions. The first fraction was left for the control group (without Elamipretide), to the next were added in succession 0.1; 1; 5; and 10\u00a0\u03bcM of Elamipretide TFA (Trifluoroacetic) (MedChemExpress). After that semen was subjected to freezing and thawing. Next semen was assessed for motility, viability, mitochondrial membrane potential and acrosome integrity, and antioxidant activity (SOD, CAT, MDA).\n\nRESULTS: It has been shown that a concentration of 5 and 10\u00a0\u03bcM proved to be the most effective in terms of tested parameters of the quality of sperm cells subjected to cryopreservation.\n\nCONCLUSION: In conclusion, addition of the Elamipretide to the cryopreservation extender significantly improved frozen-thawed sperm cells quality and their function. The results of this study indicate that Elamipretide can be used as a cryoprotective agent to protect cells against the devastating effects of oxidative stress and increasing sperm survival after cryopreservation.",
+      "doi": "10.1111/andr.12996",
+      "matched_searches": [
+        "ss31_elamipretide"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/33675580/",
+      "doi_url": "https://doi.org/10.1111/andr.12996"
     },
     {
       "pmid": "33660206",

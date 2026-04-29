@@ -2,9 +2,9 @@
   {
     "filename": "digest_2026-04-29.json",
     "digest_date": "2026-04-29",
-    "generated_at": "2026-04-29T18:56:30Z",
+    "generated_at": "2026-04-29T19:36:20Z",
     "mode": "retrospective 5y",
-    "paper_count": 482,
+    "paper_count": 483,
     "topic_counts": {
       "zymot_microfluidic": 18,
       "lead_follicle_oversize": 18,
@@ -18,7 +18,8 @@
       "one_pn_embryos": 27,
       "blastocyst_grading_outcomes": 22,
       "premature_ovulation": 14,
-      "agonist_trigger_suboptimal": 4
+      "agonist_trigger_suboptimal": 4,
+      "ss31_elamipretide": 1
     }
   },
   {
