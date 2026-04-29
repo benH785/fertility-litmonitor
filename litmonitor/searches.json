@@ -2,76 +2,146 @@
   "agonist_vs_dual_trigger": {
     "label": "Dual vs agonist trigger",
     "priority": "high",
-    "query": "(\"dual trigger\"[tiab] OR \"dual triggering\"[tiab] OR \"GnRH agonist trigger\"[tiab] OR \"agonist trigger\"[tiab]) AND (IVF[tiab] OR ICSI[tiab] OR \"ovarian stimulation\"[tiab])"
+    "query": "(\"dual trigger\"[tiab] OR \"dual triggering\"[tiab] OR \"GnRH agonist trigger*\"[tiab] OR \"agonist trigger*\"[tiab] OR \"kisspeptin trigger*\"[tiab]) AND (IVF[tiab] OR ICSI[tiab] OR \"ovarian stimulation\"[tiab] OR \"controlled ovarian stimulation\"[tiab] OR \"Fertilization in Vitro\"[mh] OR \"Sperm Injections, Intracytoplasmic\"[mh] OR \"Ovulation Induction\"[mh])"
   },
   "agonist_trigger_suboptimal": {
     "label": "Suboptimal agonist trigger response",
     "priority": "high",
-    "query": "(\"suboptimal response\"[tiab] OR \"empty follicle\"[tiab] OR \"poor response to trigger\"[tiab] OR \"LH surge inadequate\"[tiab]) AND (agonist[tiab] OR triptorelin[tiab] OR buserelin[tiab] OR leuprolide[tiab])"
+    "query": "(\"suboptimal*\"[tiab] OR \"empty follicle*\"[tiab] OR \"trigger failure*\"[tiab] OR \"ovulation failure*\"[tiab] OR \"post-trigger LH\"[tiab] OR \"LH surge\"[tiab] OR \"LH rise\"[tiab]) AND (\"GnRH agonist\"[tiab] OR \"agonist trigger*\"[tiab] OR triptorelin[tiab] OR buserelin[tiab] OR leuprolide[tiab] OR leuprorelin[tiab] OR nafarelin[tiab])"
   },
   "premature_ovulation": {
     "label": "Premature ovulation",
     "priority": "high",
-    "query": "(\"premature ovulation\"[tiab] OR \"premature LH surge\"[tiab] OR \"early ovulation\"[tiab]) AND (IVF[tiab] OR \"oocyte retrieval\"[tiab])"
+    "query": "(\"premature ovulation\"[tiab] OR \"premature LH surge*\"[tiab] OR \"early ovulation\"[tiab] OR \"spontaneous ovulation\"[tiab] OR \"premature luteinization\"[tiab] OR \"premature luteinisation\"[tiab] OR \"follicular collapse\"[tiab] OR \"follicle collapse\"[tiab]) AND (IVF[tiab] OR ICSI[tiab] OR \"oocyte retrieval\"[tiab] OR \"egg collection\"[tiab] OR \"Oocyte Retrieval\"[mh] OR \"Ovulation Induction\"[mh])"
   },
   "lead_follicle_oversize": {
     "label": "Lead follicle size & trigger timing",
     "priority": "high",
-    "query": "(\"lead follicle\"[tiab] OR \"follicle size\"[tiab] OR \"trigger timing\"[tiab]) AND (oocyte[tiab] OR maturity[tiab] OR \"trigger day\"[tiab])"
+    "query": "(\"lead follicle*\"[tiab] OR \"follicle size\"[tiab] OR \"follicular size\"[tiab] OR \"follicle diameter\"[tiab] OR \"follicular diameter\"[tiab] OR \"trigger timing\"[tiab] OR \"trigger criteria\"[tiab] OR \"oversized follicle*\"[tiab] OR \"follicular cohort\"[tiab]) AND (oocyte*[tiab] OR matur*[tiab] OR \"trigger day\"[tiab] OR \"Oocytes\"[mh] OR \"Ovulation Induction\"[mh])"
   },
   "zymot_microfluidic": {
     "label": "ZyMot / microfluidic sperm selection",
-    "priority": "medium",
-    "query": "(\"ZyMot\"[tiab] OR \"microfluidic sperm\"[tiab] OR \"Fertile Chip\"[tiab] OR \"microfluidic sorting\"[tiab])"
+    "priority": "high",
+    "query": "(\"ZyMot\"[tiab] OR \"ZyMōt\"[tiab] OR \"microfluidic sperm*\"[tiab] OR \"Fertile Chip*\"[tiab] OR \"microfluidic sorting\"[tiab] OR \"microfluidic selection\"[tiab] OR \"microchip selection\"[tiab] OR (microfluidic*[tiab] AND (sperm*[tiab] OR spermatozoa[tiab])))"
   },
   "sperm_dna_fragmentation": {
-    "label": "Sperm DNA fragmentation & ART",
+    "label": "Sperm DNA fragmentation (single-strand) & ART",
     "priority": "high",
-    "query": "(\"DNA fragmentation\"[tiab] OR \"sperm DNA damage\"[tiab] OR \"double strand DNA break\"[tiab] OR \"sperm chromatin\"[tiab]) AND (IVF[tiab] OR ICSI[tiab] OR ART[tiab] OR \"live birth\"[tiab])"
+    "query": "(\"DNA fragmentation\"[tiab] OR \"sperm DNA damage\"[tiab] OR \"sperm chromatin\"[tiab] OR DFI[tiab] OR SCSA[tiab] OR TUNEL[tiab] OR \"sperm chromatin structure assay\"[tiab] OR \"sperm chromatin dispersion\"[tiab] OR \"DNA Fragmentation\"[mh]) AND (IVF[tiab] OR ICSI[tiab] OR ART[tiab] OR \"live birth*\"[tiab] OR \"Fertilization in Vitro\"[mh] OR \"Sperm Injections, Intracytoplasmic\"[mh])"
+  },
+  "sperm_dna_double_strand": {
+    "label": "Sperm double-strand DNA damage",
+    "priority": "high",
+    "query": "(\"double strand*\"[tiab] OR \"double-strand*\"[tiab] OR \"γH2AX\"[tiab] OR \"gamma H2AX\"[tiab] OR \"gamma-H2AX\"[tiab] OR \"neutral comet*\"[tiab] OR Extensiv[tiab] OR \"DBD-FISH\"[tiab]) AND (sperm*[tiab] OR \"Spermatozoa\"[mh])"
   },
   "tese_high_dfi": {
     "label": "TESE for high DFI",
     "priority": "high",
-    "query": "(TESE[tiab] OR \"testicular sperm\"[tiab] OR \"testicular extraction\"[tiab]) AND (\"high DNA fragmentation\"[tiab] OR \"DFI\"[tiab] OR oligospermia[tiab] OR \"ejaculated sperm\"[tiab])"
+    "query": "(TESE[tiab] OR \"testicular sperm extraction\"[tiab] OR \"testicular sperm aspiration\"[tiab] OR TESA[tiab] OR \"testicular sperm\"[tiab] OR \"Sperm Retrieval\"[mh]) AND (\"DNA fragmentation\"[tiab] OR DFI[tiab] OR \"high DNA\"[tiab] OR oligospermi*[tiab] OR teratozoospermi*[tiab] OR \"ejaculated sperm\"[tiab])"
   },
   "pgta_advanced_age": {
     "label": "PGT-A in advanced maternal age",
-    "priority": "medium",
-    "query": "(\"PGT-A\"[tiab] OR \"preimplantation genetic testing\"[tiab] OR \"aneuploidy screening\"[tiab]) AND (\"advanced maternal age\"[tiab] OR \"AMA\"[tiab] OR \"older women\"[tiab])"
+    "priority": "high",
+    "query": "(\"PGT-A\"[tiab] OR \"PGT A\"[tiab] OR \"preimplantation genetic testing\"[tiab] OR \"preimplantation genetic screening\"[tiab] OR PGS[tiab] OR \"aneuploidy screening\"[tiab] OR \"Preimplantation Diagnosis\"[mh]) AND (\"advanced maternal age\"[tiab] OR AMA[tiab] OR \"older women\"[tiab] OR \"age-related\"[tiab] OR \"age 38\"[tiab] OR \"age 39\"[tiab] OR \"age 40\"[tiab] OR \"Maternal Age\"[mh] OR \"euploidy rate*\"[tiab] OR \"blastocyst aneuploidy\"[tiab])"
   },
   "blastocyst_grading_outcomes": {
     "label": "Blastocyst grading & outcomes",
     "priority": "medium",
-    "query": "(\"Gardner grading\"[tiab] OR \"blastocyst grade\"[tiab] OR \"trophectoderm grade\"[tiab] OR \"ICM grade\"[tiab]) AND (\"live birth\"[tiab] OR \"implantation\"[tiab] OR euploid[tiab])"
+    "query": "(\"Gardner grad*\"[tiab] OR \"blastocyst grad*\"[tiab] OR \"trophectoderm grad*\"[tiab] OR \"ICM grad*\"[tiab] OR \"inner cell mass\"[tiab] OR \"blastocyst morphology\"[tiab]) AND (\"live birth*\"[tiab] OR implantation[tiab] OR euploid*[tiab] OR \"Embryo Implantation\"[mh] OR \"Live Birth\"[mh])"
   },
   "antagonist_protocol_normoresponder": {
     "label": "Antagonist protocol in normo-responders",
     "priority": "medium",
-    "query": "(\"antagonist protocol\"[tiab] OR \"GnRH antagonist\"[tiab]) AND (\"normal responder\"[tiab] OR \"normoresponder\"[tiab] OR \"ovarian stimulation\"[tiab])"
+    "query": "(\"antagonist protocol*\"[tiab] OR \"GnRH antagonist*\"[tiab] OR cetrorelix[tiab] OR ganirelix[tiab]) AND (\"normal responder*\"[tiab] OR \"normoresponder*\"[tiab] OR \"normo-responder*\"[tiab] OR \"ovarian stimulation\"[tiab] OR \"Ovulation Induction\"[mh])"
   },
   "intercycle_interval": {
     "label": "Inter-cycle interval",
     "priority": "low",
-    "query": "(\"inter-cycle interval\"[tiab] OR \"consecutive cycles\"[tiab] OR \"back-to-back IVF\"[tiab] OR \"cycle interval\"[tiab])"
+    "query": "(\"inter-cycle interval\"[tiab] OR \"intercycle interval\"[tiab] OR \"consecutive cycles\"[tiab] OR \"back-to-back\"[tiab] OR \"cycle interval\"[tiab] OR \"rest interval\"[tiab]) AND (IVF[tiab] OR ICSI[tiab] OR \"Fertilization in Vitro\"[mh])"
   },
   "methylation_mthfr_art": {
     "label": "MTHFR / methylation & ART",
-    "priority": "medium",
-    "query": "(MTHFR[tiab] OR methylation[tiab] OR homocysteine[tiab] OR folate[tiab] OR methylfolate[tiab]) AND (IVF[tiab] OR ICSI[tiab] OR \"live birth\"[tiab] OR miscarriage[tiab])"
+    "priority": "high",
+    "query": "(MTHFR[tiab] OR MTRR[tiab] OR MTR[tiab] OR PEMT[tiab] OR methylation[tiab] OR methylat*[tiab] OR folate[tiab] OR folic[tiab] OR methylfolate[tiab] OR \"methylenetetrahydrofolate reductase\"[tiab] OR \"methionine synthase\"[tiab] OR C677T[tiab] OR A1298C[tiab] OR A66G[tiab] OR \"one-carbon metabolism\"[tiab] OR homocystein*[tiab] OR \"Methylenetetrahydrofolate Reductase (NADPH2)\"[mh] OR \"Folic Acid\"[mh]) AND (IVF[tiab] OR ICSI[tiab] OR oocyte*[tiab] OR \"live birth*\"[tiab] OR miscarriage[tiab] OR \"Fertilization in Vitro\"[mh])"
   },
   "one_pn_embryos": {
     "label": "1PN / abnormal fertilisation",
-    "priority": "low",
-    "query": "(\"1PN\"[tiab] OR \"monopronuclear\"[tiab] OR \"abnormal fertilization\"[tiab]) AND (ICSI[tiab] OR IVF[tiab] OR blastocyst[tiab])"
+    "priority": "high",
+    "query": "(\"1PN\"[tiab] OR \"1 PN\"[tiab] OR \"monopronuclear*\"[tiab] OR \"mono-pronuclear*\"[tiab] OR \"single pronucleus\"[tiab] OR \"abnormal fertilization\"[tiab] OR \"abnormal fertilisation\"[tiab]) AND (ICSI[tiab] OR IVF[tiab] OR blastocyst*[tiab] OR \"Sperm Injections, Intracytoplasmic\"[mh])"
   },
   "ss31_elamipretide": {
     "label": "SS-31 / elamipretide & fertility",
     "priority": "high",
-    "query": "(\"SS-31\"[tiab] OR \"elamipretide\"[tiab] OR \"Bendavia\"[tiab] OR \"MTP-131\"[tiab])"
+    "query": "(\"SS-31\"[tiab] OR \"SS 31\"[tiab] OR elamipretide[tiab] OR Bendavia[tiab] OR \"MTP-131\"[tiab]) AND (oocyte*[tiab] OR sperm*[tiab] OR ovar*[tiab] OR fertili*[tiab] OR embryo*[tiab] OR mitochondri*[tiab] OR aging[tiab] OR ageing[tiab])"
   },
   "rapamycin": {
-    "label": "Rapamycin / sirolimus",
+    "label": "Rapamycin / sirolimus & fertility",
+    "priority": "high",
+    "query": "(rapamycin[tiab] OR sirolimus[tiab] OR \"Sirolimus\"[mh] OR \"mTOR inhibitor*\"[tiab]) AND (oocyte*[tiab] OR ovar*[tiab] OR fertili*[tiab] OR embryo*[tiab] OR \"ovarian aging\"[tiab] OR \"ovarian ageing\"[tiab] OR \"primordial follicle*\"[tiab])"
+  },
+  "embryo_arrest_d3_blast": {
+    "label": "Embryo arrest & blastulation",
+    "priority": "high",
+    "query": "(\"embryo arrest\"[tiab] OR \"embryonic arrest\"[tiab] OR \"developmental arrest\"[tiab] OR \"blastocyst formation\"[tiab] OR \"blastocyst development\"[tiab] OR \"blastulation rate*\"[tiab] OR compaction[tiab] OR morula[tiab] OR \"day 3 to day 5\"[tiab]) AND (IVF[tiab] OR ICSI[tiab] OR \"Fertilization in Vitro\"[mh])"
+  },
+  "antioxidant_culture_media": {
+    "label": "Antioxidant culture media",
+    "priority": "high",
+    "query": "(antioxidant*[tiab] OR \"acetyl-L-carnitine\"[tiab] OR \"alpha-lipoic acid\"[tiab] OR \"N-acetyl cystein*\"[tiab] OR NAC[tiab] OR \"coenzyme Q10\"[tiab] OR CoQ10[tiab] OR melatonin[tiab] OR \"Antioxidants\"[mh]) AND (\"culture medi*\"[tiab] OR \"embryo cultur*\"[tiab] OR \"Embryo Culture Techniques\"[mh] OR blastocyst*[tiab] OR \"embryo development\"[tiab])"
+  },
+  "growth_hormone_adjuvant": {
+    "label": "Growth hormone adjuvant in IVF",
     "priority": "medium",
-    "query": "Rapamycin OR sirolimus"
+    "query": "(\"growth hormone\"[tiab] OR somatotropin[tiab] OR \"human growth hormone\"[tiab] OR HGH[tiab] OR \"Human Growth Hormone\"[mh] OR somatropin[tiab]) AND (IVF[tiab] OR ICSI[tiab] OR \"poor responder*\"[tiab] OR \"ovarian stimulation\"[tiab] OR adjuvant[tiab] OR \"PGT-A\"[tiab] OR euploid*[tiab] OR oocyte*[tiab])"
+  },
+  "time_lapse_morphokinetics": {
+    "label": "Time-lapse / morphokinetic embryo selection",
+    "priority": "medium",
+    "query": "(\"time-lapse\"[tiab] OR \"time lapse\"[tiab] OR morphokinetic*[tiab] OR EmbryoScope[tiab] OR Eeva[tiab] OR Geri[tiab] OR Primo[tiab] OR \"Time-Lapse Imaging\"[mh]) AND (embryo*[tiab] OR blastocyst*[tiab] OR \"embryo selection\"[tiab] OR IVF[tiab] OR ICSI[tiab])"
+  },
+  "duostim_luteal_phase": {
+    "label": "DuoStim / luteal-phase stimulation",
+    "priority": "high",
+    "query": "(DuoStim[tiab] OR \"dual stimulation\"[tiab] OR \"double stimulation\"[tiab] OR \"luteal phase stimulation\"[tiab] OR \"luteal-phase stimulation\"[tiab] OR \"random start\"[tiab]) AND (IVF[tiab] OR ICSI[tiab] OR oocyte*[tiab] OR \"ovarian stimulation\"[tiab] OR \"poor responder*\"[tiab])"
+  },
+  "picsi_hyaluronan_binding": {
+    "label": "PICSI / hyaluronan binding sperm selection",
+    "priority": "medium",
+    "query": "(PICSI[tiab] OR \"physiological ICSI\"[tiab] OR \"hyaluronan binding\"[tiab] OR \"hyaluronan-binding\"[tiab] OR \"hyaluronic acid\"[tiab] OR HABSelect[tiab]) AND (sperm*[tiab] OR ICSI[tiab] OR \"Sperm Injections, Intracytoplasmic\"[mh])"
+  },
+  "imsi_high_mag_morphology": {
+    "label": "IMSI / high-magnification sperm morphology",
+    "priority": "medium",
+    "query": "(IMSI[tiab] OR \"intracytoplasmic morphologically selected\"[tiab] OR \"high magnification\"[tiab] OR \"high-magnification\"[tiab] OR MSOME[tiab] OR \"motile sperm organelle morphology\"[tiab]) AND (sperm*[tiab] OR ICSI[tiab] OR \"Sperm Injections, Intracytoplasmic\"[mh])"
+  },
+  "endometrial_receptivity_era": {
+    "label": "Endometrial receptivity testing (ERA / ER-Map)",
+    "priority": "medium",
+    "query": "(ERA[tiab] OR \"endometrial receptivity*\"[tiab] OR \"ER-Map\"[tiab] OR ERMap[tiab] OR \"window of implantation\"[tiab] OR WOI[tiab]) AND (IVF[tiab] OR ICSI[tiab] OR FET[tiab] OR \"frozen embryo transfer\"[tiab] OR implantation[tiab] OR \"Embryo Implantation\"[mh])"
+  },
+  "recurrent_implantation_failure": {
+    "label": "Recurrent implantation failure",
+    "priority": "high",
+    "query": "(\"recurrent implantation failure\"[tiab] OR RIF[tiab] OR \"repeated implantation failure\"[tiab] OR \"implantation failure\"[tiab]) AND (IVF[tiab] OR ICSI[tiab] OR FET[tiab] OR \"frozen embryo transfer\"[tiab] OR \"Embryo Implantation\"[mh] OR \"Reproductive Techniques, Assisted\"[mh])"
+  },
+  "haploid_embryos_decondensation": {
+    "label": "Haploid embryos & sperm decondensation",
+    "priority": "high",
+    "query": "(haploid*[tiab] OR \"sperm aster*\"[tiab] OR \"sperm decondensation\"[tiab] OR \"decondensation failure\"[tiab] OR parthenogenetic*[tiab] OR androgenetic*[tiab] OR uniparental*[tiab]) AND (embryo*[tiab] OR oocyte*[tiab] OR ICSI[tiab] OR fertilization[tiab] OR fertilisation[tiab] OR \"Sperm Injections, Intracytoplasmic\"[mh])"
+  },
+  "varicocele_embolisation_ivf": {
+    "label": "Varicocele embolisation & IVF",
+    "priority": "high",
+    "query": "(varicocele*[tiab] OR \"Varicocele\"[mh]) AND (embolizat*[tiab] OR embolisat*[tiab] OR varicocelectomy[tiab] OR \"varicocele repair\"[tiab] OR microsurg*[tiab] OR \"Embolization, Therapeutic\"[mh]) AND (IVF[tiab] OR ICSI[tiab] OR sperm*[tiab] OR \"DNA fragmentation\"[tiab] OR fertili*[tiab])"
+  },
+  "choline_pemt_pregnancy": {
+    "label": "Choline / PEMT & pregnancy",
+    "priority": "medium",
+    "query": "(choline[tiab] OR \"Choline\"[mh] OR PEMT[tiab] OR \"phosphatidylethanolamine N-methyltransferase\"[tiab] OR betaine[tiab]) AND (pregnan*[tiab] OR oocyte*[tiab] OR embryo*[tiab] OR IVF[tiab] OR ICSI[tiab] OR fertili*[tiab] OR \"neural tube\"[tiab])"
+  },
+  "methylfolate_vs_folic_acid_ivf": {
+    "label": "Methylfolate vs folic acid in IVF",
+    "priority": "medium",
+    "query": "(methylfolate[tiab] OR \"5-MTHF\"[tiab] OR \"L-methylfolate\"[tiab] OR \"5-methyltetrahydrofolate\"[tiab] OR methyltetrahydrofolate[tiab]) AND (MTHFR[tiab] OR IVF[tiab] OR ICSI[tiab] OR \"live birth*\"[tiab] OR pregnan*[tiab] OR miscarriage[tiab])"
   }
 }
