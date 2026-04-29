@@ -70,5 +70,6 @@ export function toggleStarred(pmid) {
   if (set.has(pmid)) set.delete(pmid);
   else set.add(pmid);
   localStorage.setItem(STAR_KEY, JSON.stringify([...set]));
+  window.dispatchEvent(new CustomEvent("litmon:starred-changed"));
   return set.has(pmid);
 }

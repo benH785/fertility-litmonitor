@@ -1,15 +1,18 @@
+import { useEffect, useState } from "react";
 import { Routes, Route, Link, useLocation } from "react-router-dom";
 import IndexPage from "./pages/IndexPage.jsx";
 import DigestPage from "./pages/DigestPage.jsx";
-import { repoIsConfigured, repoUrl } from "./lib/api.js";
+import BookmarksPage from "./pages/BookmarksPage.jsx";
+import { repoIsConfigured, repoUrl, getStarredPmids } from "./lib/api.js";
 
 export default function App() {
   const location = useLocation();
   const onIndex = location.pathname === "/";
+  const onBookmarks = location.pathname === "/bookmarks";
 
   return (
     <div className="min-h-screen flex flex-col">
-      <Header onIndex={onIndex} />
+      <Header onIndex={onIndex} onBookmarks={onBookmarks} />
 
       {!repoIsConfigured() && <ConfigBanner />}
 
@@ -17,6 +20,7 @@ export default function App() {
         <Routes>
           <Route path="/" element={<IndexPage />} />
           <Route path="/digest/:filename" element={<DigestPage />} />
+          <Route path="/bookmarks" element={<BookmarksPage />} />
         </Routes>
       </main>
 
@@ -25,7 +29,21 @@ export default function App() {
   );
 }
 
-function Header({ onIndex }) {
+function Header({ onIndex, onBookmarks }) {
+  const [starCount, setStarCount] = useState(() => getStarredPmids().size);
+
+  useEffect(() => {
+    const update = () => setStarCount(getStarredPmids().size);
+    update();
+    window.addEventListener("litmon:starred-changed", update);
+    return () => window.removeEventListener("litmon:starred-changed", update);
+  }, []);
+
+  let title;
+  if (onBookmarks) title = <>Bookmarks.</>;
+  else if (onIndex) title = <>The week's reading.</>;
+  else title = <>Digest.</>;
+
   return (
     <header className="px-6 md:px-12 lg:px-20 pt-10 pb-6 hairline border-t-0 border-b">
       <div className="flex items-baseline justify-between gap-4 flex-wrap">
@@ -33,19 +51,22 @@ function Header({ onIndex }) {
           <Link to="/" className="block">
             <p className="smallcaps mb-1">Fertility literature monitor</p>
             <h1 className="font-display text-3xl md:text-4xl font-medium tracking-tight">
-              {onIndex ? (
-                <>The week's reading.</>
-              ) : (
-                <>Digest.</>
-              )}
+              {title}
             </h1>
           </Link>
         </div>
-        {!onIndex && (
-          <Link to="/" className="link-underline text-sm">
-            ← All digests
-          </Link>
-        )}
+        <nav className="flex items-baseline gap-5 text-sm">
+          {!onIndex && (
+            <Link to="/" className="link-underline">
+              ← All digests
+            </Link>
+          )}
+          {!onBookmarks && (
+            <Link to="/bookmarks" className="link-underline">
+              ★ Bookmarks{starCount > 0 ? ` (${starCount})` : ""}
+            </Link>
+          )}
+        </nav>
       </div>
     </header>
   );
