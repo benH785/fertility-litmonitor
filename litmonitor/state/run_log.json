@@ -22,5 +22,30 @@
       "agonist_trigger_suboptimal": 4,
       "ss31_elamipretide": 1
     }
+  },
+  {
+    "run_at": "2026-04-29T20:05:51Z",
+    "mode": "retrospective 5y",
+    "since": "2021-04-30",
+    "new_papers": 552,
+    "total_seen": 552,
+    "digest_filename": "digest_2026-04-29.md",
+    "topic_counts": {
+      "zymot_microfluidic": 18,
+      "lead_follicle_oversize": 18,
+      "rapamycin": 70,
+      "sperm_dna_fragmentation": 121,
+      "tese_high_dfi": 29,
+      "antagonist_protocol_normoresponder": 122,
+      "methylation_mthfr_art": 68,
+      "intercycle_interval": 16,
+      "agonist_vs_dual_trigger": 44,
+      "pgta_advanced_age": 33,
+      "one_pn_embryos": 27,
+      "blastocyst_grading_outcomes": 22,
+      "premature_ovulation": 14,
+      "agonist_trigger_suboptimal": 4,
+      "ss31_elamipretide": 1
+    }
   }
 ]

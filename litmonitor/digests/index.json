@@ -2,12 +2,13 @@
   {
     "filename": "digest_2026-04-29.json",
     "digest_date": "2026-04-29",
-    "generated_at": "2026-04-29T19:36:20Z",
+    "generated_at": "2026-04-29T20:05:51Z",
     "mode": "retrospective 5y",
-    "paper_count": 483,
+    "paper_count": 552,
     "topic_counts": {
       "zymot_microfluidic": 18,
       "lead_follicle_oversize": 18,
+      "rapamycin": 70,
       "sperm_dna_fragmentation": 121,
       "tese_high_dfi": 29,
       "antagonist_protocol_normoresponder": 122,

@@ -1,13 +1,14 @@
 {
-  "run_at": "2026-04-29T19:36:20Z",
+  "run_at": "2026-04-29T20:05:51Z",
   "mode": "retrospective 5y",
   "since": "2021-04-30",
-  "new_papers": 483,
-  "total_seen": 483,
+  "new_papers": 552,
+  "total_seen": 552,
   "digest_filename": "digest_2026-04-29.md",
   "topic_counts": {
     "zymot_microfluidic": 18,
     "lead_follicle_oversize": 18,
+    "rapamycin": 70,
     "sperm_dna_fragmentation": 121,
     "tese_high_dfi": 29,
     "antagonist_protocol_normoresponder": 122,
