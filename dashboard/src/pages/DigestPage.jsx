@@ -90,7 +90,7 @@ function DigestView({
   return (
     <div className="grid grid-cols-1 lg:grid-cols-[260px_1fr] gap-x-12 gap-y-8 max-w-7xl">
       {/* Sidebar */}
-      <aside className="lg:sticky lg:top-8 lg:self-start space-y-6">
+      <aside className="lg:sticky lg:top-8 lg:self-start lg:max-h-[calc(100vh-4rem)] lg:overflow-y-auto space-y-6 pr-2">
         <DigestMeta digest={digest} />
 
         <TopicFilter

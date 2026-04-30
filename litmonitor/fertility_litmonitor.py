@@ -175,6 +175,31 @@ def esearch(query: str, since: datetime, retmax: int = 200) -> list[str]:
     return data.get("esearchresult", {}).get("idlist", [])
 
 
+_MONTH_MAP = {
+    "Jan": "01", "Feb": "02", "Mar": "03", "Apr": "04", "May": "05", "Jun": "06",
+    "Jul": "07", "Aug": "08", "Sep": "09", "Oct": "10", "Nov": "11", "Dec": "12",
+}
+
+
+def _format_pub_date(y: str, m: str, d: str) -> str:
+    """Normalize PubMed date parts to ISO YYYY-MM-DD (or YYYY-MM, or YYYY).
+
+    PubMed sometimes returns Month as a number ("01") and sometimes as an
+    abbreviation ("Jan"). Normalizing to numeric zero-padded so string sort
+    matches chronological order.
+    """
+    if not y:
+        return ""
+    if not m:
+        return y
+    m_norm = m.zfill(2) if m.isdigit() else _MONTH_MAP.get(m[:3].title(), "")
+    if not m_norm:
+        return y
+    if not d:
+        return f"{y}-{m_norm}"
+    return f"{y}-{m_norm}-{d.zfill(2)}"
+
+
 def efetch(pmids: Iterable[str]) -> list[Paper]:
     pmids = list(pmids)
     if not pmids:
@@ -220,14 +245,14 @@ def _parse_efetch_xml(xml_bytes: bytes) -> list[Paper]:
             y = adate.findtext("Year", "")
             m = adate.findtext("Month", "")
             d = adate.findtext("Day", "")
-            pub_date = "-".join(x for x in (y, m, d) if x)
+            pub_date = _format_pub_date(y, m, d)
         if not pub_date:
             pdate = art.find(".//Journal/JournalIssue/PubDate")
             if pdate is not None:
                 y = pdate.findtext("Year", "")
                 m = pdate.findtext("Month", "")
                 d = pdate.findtext("Day", "")
-                pub_date = "-".join(x for x in (y, m, d) if x)
+                pub_date = _format_pub_date(y, m, d)
 
         authors: list[str] = []
         for author in art.findall(".//AuthorList/Author"):
