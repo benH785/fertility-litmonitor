@@ -1,5 +1,19 @@
 [
   {
+    "filename": "digest_2026-05-04.json",
+    "digest_date": "2026-05-04",
+    "generated_at": "2026-05-04T09:50:51Z",
+    "mode": "weekly",
+    "paper_count": 5,
+    "topic_counts": {
+      "embryo_arrest_d3_blast": 1,
+      "antagonist_protocol_normoresponder": 1,
+      "endometrial_receptivity_era": 1,
+      "haploid_embryos_decondensation": 1,
+      "varicocele_embolisation_ivf": 1
+    }
+  },
+  {
     "filename": "digest_2026-04-30.json",
     "digest_date": "2026-04-30",
     "generated_at": "2026-04-30T19:47:53Z",

@@ -1,0 +1,280 @@
+{
+  "digest_date": "2026-05-04",
+  "generated_at": "2026-05-04T09:50:51Z",
+  "mode": "weekly",
+  "window_start": "2026-04-27",
+  "paper_count": 5,
+  "topic_counts": {
+    "embryo_arrest_d3_blast": 1,
+    "antagonist_protocol_normoresponder": 1,
+    "endometrial_receptivity_era": 1,
+    "haploid_embryos_decondensation": 1,
+    "varicocele_embolisation_ivf": 1
+  },
+  "topics": {
+    "agonist_vs_dual_trigger": {
+      "label": "Dual vs agonist trigger",
+      "priority": "high"
+    },
+    "agonist_trigger_suboptimal": {
+      "label": "Suboptimal agonist trigger response",
+      "priority": "high"
+    },
+    "premature_ovulation": {
+      "label": "Premature ovulation",
+      "priority": "high"
+    },
+    "lead_follicle_oversize": {
+      "label": "Lead follicle size & trigger timing",
+      "priority": "high"
+    },
+    "zymot_microfluidic": {
+      "label": "ZyMot / microfluidic sperm selection",
+      "priority": "high"
+    },
+    "sperm_dna_fragmentation": {
+      "label": "Sperm DNA fragmentation (single-strand) & ART",
+      "priority": "high"
+    },
+    "sperm_dna_double_strand": {
+      "label": "Sperm double-strand DNA damage",
+      "priority": "high"
+    },
+    "tese_high_dfi": {
+      "label": "TESE for high DFI",
+      "priority": "high"
+    },
+    "pgta_advanced_age": {
+      "label": "PGT-A in advanced maternal age",
+      "priority": "high"
+    },
+    "blastocyst_grading_outcomes": {
+      "label": "Blastocyst grading & outcomes",
+      "priority": "medium"
+    },
+    "antagonist_protocol_normoresponder": {
+      "label": "Antagonist protocol in normo-responders",
+      "priority": "medium"
+    },
+    "intercycle_interval": {
+      "label": "Inter-cycle interval",
+      "priority": "low"
+    },
+    "methylation_mthfr_art": {
+      "label": "MTHFR / methylation & ART",
+      "priority": "high"
+    },
+    "one_pn_embryos": {
+      "label": "1PN / abnormal fertilisation",
+      "priority": "high"
+    },
+    "ss31_elamipretide": {
+      "label": "SS-31 / elamipretide & fertility",
+      "priority": "high"
+    },
+    "rapamycin": {
+      "label": "Rapamycin / sirolimus & fertility",
+      "priority": "high"
+    },
+    "embryo_arrest_d3_blast": {
+      "label": "Embryo arrest & blastulation",
+      "priority": "high"
+    },
+    "antioxidant_culture_media": {
+      "label": "Antioxidant culture media",
+      "priority": "high"
+    },
+    "growth_hormone_adjuvant": {
+      "label": "Growth hormone adjuvant in IVF",
+      "priority": "medium"
+    },
+    "time_lapse_morphokinetics": {
+      "label": "Time-lapse / morphokinetic embryo selection",
+      "priority": "medium"
+    },
+    "duostim_luteal_phase": {
+      "label": "DuoStim / luteal-phase stimulation",
+      "priority": "high"
+    },
+    "picsi_hyaluronan_binding": {
+      "label": "PICSI / hyaluronan binding sperm selection",
+      "priority": "medium"
+    },
+    "imsi_high_mag_morphology": {
+      "label": "IMSI / high-magnification sperm morphology",
+      "priority": "medium"
+    },
+    "endometrial_receptivity_era": {
+      "label": "Endometrial receptivity testing (ERA / ER-Map)",
+      "priority": "medium"
+    },
+    "recurrent_implantation_failure": {
+      "label": "Recurrent implantation failure",
+      "priority": "high"
+    },
+    "haploid_embryos_decondensation": {
+      "label": "Haploid embryos & sperm decondensation",
+      "priority": "high"
+    },
+    "varicocele_embolisation_ivf": {
+      "label": "Varicocele embolisation & IVF",
+      "priority": "high"
+    },
+    "choline_pemt_pregnancy": {
+      "label": "Choline / PEMT & pregnancy",
+      "priority": "medium"
+    },
+    "methylfolate_vs_folic_acid_ivf": {
+      "label": "Methylfolate vs folic acid in IVF",
+      "priority": "medium"
+    }
+  },
+  "journals_monitored": [
+    "Hum Reprod",
+    "Hum Reprod Update",
+    "Hum Reprod Open",
+    "Fertil Steril",
+    "F S Rep",
+    "F S Sci",
+    "Reprod Biomed Online",
+    "J Assist Reprod Genet",
+    "Reprod Biol Endocrinol",
+    "Hum Fertil (Camb)",
+    "Reprod Sci",
+    "Andrology",
+    "Mol Hum Reprod",
+    "Reproduction",
+    "Biol Reprod",
+    "Reprod Fertil Dev",
+    "Asian J Androl",
+    "Andrologia"
+  ],
+  "papers": [
+    {
+      "pmid": "42068487",
+      "title": "Redefining safety standards: a large-scale comparative analysis of bovine versus murine models for medical device embryotoxicity testing.",
+      "journal": "J Assist Reprod Genet",
+      "pub_date": "2026-05-02",
+      "authors": [
+        "Romar R",
+        "Romero-Aguirregomezcorta J",
+        "Maroto M",
+        "Guti\u00e9rrez-Ad\u00e1n A",
+        "Coy P"
+      ],
+      "abstract": "PURPOSE: To overcome the limited sensitivity of the standard mouse embryo assay (MEA) for embryotoxicity screening of assisted reproduction devices and to assess the bovine embryo assay (BEA) as a suitable alternative.\n\nMETHODS: In a large comparative laboratory study, sperm selection, fertilization, and embryo culture media from two suppliers (Vitrolife and Genea Biomedx, respectively) were used to generate bovine blastocysts from cumulus-oocyte complexes obtained from slaughterhouse ovaries and inseminated with frozen semen from the same bull (BEA). Bovine culture media were used for the control group. BEA assessed the following in the three groups: cleavage; blastocyst development and kinetics; post-warming re-expansion/hatching; total cell number; inner cell mass (ICM) and trophectoderm (TE) allocation; and ICM/TE ratio. In parallel, the culture media from both suppliers were tested using mouse cumulus-oocyte complexes that had been inseminated with epididymal sperm (IVF-MEA) and in vivo-derived one-cell embryos (standard MEA).\n\nRESULTS: BEA detected differences consistent with reduced developmental competence and embryo quality across 4118 bovine oocytes (\u2265\u20094 independent cycles;\u2009\u2265\u200950 oocytes/group). Sperm selection media performed similarly. Regarding fertilization media, the bovine control yielded higher day 8 blastocyst rates than Vitrolife (P\u2009<\u20090.005), while Genea Biomedx exhibited superior blastocyst quality indicators than Vitrolife (P\u2009<\u20090.05). For embryo culture media, the bovine control outperformed Genea Biomedx, with Vitrolife performing intermediately (P\u2009<\u20090.05). Multiple kinetic, hatching, first lineage allocation and survival endpoints were reduced for Genea Biomedx (P\u2009<\u20090.05). Standard MEA found no significant differences, whereas IVF-MEA (1028 oocytes) detected a difference in day 4 blastocyst yield only.\n\nCONCLUSION: BEA revealed functional and quality differences between media not detected by mouse assays, supporting BEA to strengthen safety assessment while reducing animal sacrifice.",
+      "doi": "10.1007/s10815-026-03891-5",
+      "matched_searches": [
+        "embryo_arrest_d3_blast"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42068487/",
+      "doi_url": "https://doi.org/10.1007/s10815-026-03891-5"
+    },
+    {
+      "pmid": "42065848",
+      "title": "An injection-lite approach to ovarian stimulation in poor responder patients using corifollitropin alfa and nasal GnRH agonist.",
+      "journal": "J Assist Reprod Genet",
+      "pub_date": "2026-05-01",
+      "authors": [
+        "Arulpragasam K",
+        "Lieberman D",
+        "O'Neil M",
+        "Sweeten P",
+        "Dalati S",
+        "Shin JE",
+        "Tan J",
+        "Choi S",
+        "Briggs N",
+        "Barcelos I",
+        "Ledger W"
+      ],
+      "abstract": "OBJECTIVE: Can the unique pharmacokinetic and pharmacodynamic profiles of corifollitropin alfa (CFA) in combination with an intra-nasal GnRH agonist (CFA flare) provide adequate ovarian stimulation for poor-responder patients while minimising the burden of injections?\n\nMETHODS: Twenty women aged between 31 and 41\u00a0years of age who were identified as potential poor responders to ovarian stimulation according to the POSEIDON criteria and who were attending the Fertility and Research Centre, Royal Hospital for Women and City Fertility, Sydney for IVF treatment were randomised to receive either the flare or the antagonist cycle. Serum FSH, LH, and E2 concentrations were measured daily for 5\u00a0days post-initiation of CFA during the early follicular phase.\n\nRESULTS: The number of injections given to women in the CFA flare arm (4) was significantly less than those in the CFA antagonist arm (11), (p\u2009=\u20090.001). Two days after the initiation of CFA, serum FSH concentrations were 27 versus 11\u00a0IU/L (flare versus antagonist) (p\u2009=\u20090.022), and mean serum E2 concentrations were 349 versus 157\u00a0pmol/L (p\u2009=\u20090.039), and on day 7, were 3000 versus 1850\u00a0pmol/L. The CFA flare stimulation protocol resulted in higher concentrations of FSH in the early period of follicular stimulation. There was an equivalent rise in serum E2 in both groups. The CFA flare protocol was non-inferior to the CFA antagonist protocol and may have been less burdensome to patients as fewer injections were needed.\n\nCONCLUSION: The CFA flare protocol is a novel alternative to conventional ovarian stimulation regimens that are used for 'poor responder' patients. It significantly reduces the patient burden, with less injections of FSH and no injections of GnRH antagonist. The ovarian response is similar to that achieved with a conventional GnRH antagonist cycle, but this requires further evaluation in a larger study.",
+      "doi": "10.1007/s10815-026-03872-8",
+      "matched_searches": [
+        "antagonist_protocol_normoresponder"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42065848/",
+      "doi_url": "https://doi.org/10.1007/s10815-026-03872-8"
+    },
+    {
+      "pmid": "42067948",
+      "title": "Real-time intrauterine dissolved oxygen dynamics across the luteal phase: a potential non-invasive functional biomarker of endometrial status.",
+      "journal": "Reprod Biol Endocrinol",
+      "pub_date": "2026-05-01",
+      "authors": [
+        "Teixid\u00f3 Troyano A",
+        "Carbonell Socias M",
+        "Cabeza Oliver C",
+        "Sanfeliu de Espa\u00f1a E",
+        "Font Zabalia V",
+        "Illan Hernandez L",
+        "Perell\u00f3 Barcel\u00f3 MA",
+        "Pancorbo Lerma ML",
+        "Robert Marchal E",
+        "Mendoza Cobaleda M",
+        "Gallart Agut R",
+        "Artiles Mart\u00ednez LM",
+        "Rodr\u00edguez de la Vega Otazo M",
+        "Suy Franch A",
+        "Garc\u00eda JH"
+      ],
+      "abstract": "BACKGROUND: Accurate, same-cycle assessment of endometrial readiness remains a major unmet need in assisted reproduction. Animal models have shown that spiral artery angiogenesis drives a midluteal rise in uterine oxygen tension, but direct, real-time measurements in humans have never been reported. We hypothesized that intrauterine dissolved O\u2082 profiling during the luteal phase could represent a potential functional, noninvasive biomarker of endometrial status.\n\nMETHODS: In this prospective, observational pilot feasibility study, eight healthy women aged 18-35 years with regular menstrual cycles and BMI\u2009<\u200930 underwent serial intrauterine pO\u2082 measurements across the luteal phase during a single natural cycle. Measurements were scheduled approximately every 48\u00a0h from the day of the LH surge (LH\u2009+\u20090) up to LH\u2009+\u200913/14, with minor variations due to scheduling constraints. Dissolved oxygen was recorded using a 1\u00a0mm fiber optic microsensor positioned 1\u00a0cm from the uterine fundus under ultrasound guidance. The primary outcome was intrauterine pO\u2082 (Torr) across the luteal phase.\n\nRESULTS: Two distinct intrauterine oxygenation profiles were identified. Four participants exhibited a \"peak\" pattern characterized by early luteal low pO\u2082 (<\u200915\u00a0Torr), followed by a sharp mid-luteal rise in pO\u2082 (40-45\u00a0Torr at LH\u2009+\u20094 to LH\u2009+\u20096, p\u2009<\u20090.0001), a short plateau, and a decline by LH\u2009+\u20098. One participant showed an earlier and abbreviated peak. The remaining four participants maintained pO\u2082 values\u2009<\u200935\u00a0Torr throughout the luteal phase (\"no-peak\" pattern). Post-hoc review of baseline screening data and follow-up participant interviews identified plausible physiological, pharmacological, or lifestyle-related factors that may influence endometrial vascular maturation in the no-peak subgroup.\n\nCONCLUSIONS: This study provides the first in vivo characterization of real-time intrauterine oxygen dynamics across the luteal phase in women. Intrauterine pO\u2082 profiling identified distinct temporal oxygenation patterns across the luteal phase and may reflect physiologically relevant changes in endometrial function. These preliminary findings support further evaluation of intrauterine oxygen profiling as a potential non-invasive, same-cycle functional biomarker of embryo-endometrium synchrony. Larger studies are required to validate its predictive value for implantation and live birth outcomes.\n\nTRIAL REGISTRATION: ISRCTN85528745 (retrospectively registered on 30/01/2026).",
+      "doi": "10.1186/s12958-026-01561-w",
+      "matched_searches": [
+        "endometrial_receptivity_era"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42067948/",
+      "doi_url": "https://doi.org/10.1186/s12958-026-01561-w"
+    },
+    {
+      "pmid": "42062216",
+      "title": "Single-cell proteomics reveals cytoplasmic defects in Patl2-deficient oocytes rescued by spindle transfer.",
+      "journal": "Hum Reprod",
+      "pub_date": "2026-05-01",
+      "authors": [
+        "Cardona Barber\u00e1n A",
+        "Araftpoor E",
+        "Christodoulaki A",
+        "Fakhar-I-Adil M",
+        "Goethals J",
+        "Rybouchkin A",
+        "Arnoult C",
+        "Boel A",
+        "B\u00fchler M",
+        "Pavani KC",
+        "Stoop D",
+        "Gevaert K",
+        "Vanden Meerschaut F",
+        "Heindryckx B"
+      ],
+      "abstract": "STUDY QUESTION: Can single-cell, mass spectrometry-based proteomics identify proteins associated with reduced developmental competence of Patl2-/- Metaphase II (MII) mouse oocytes and reveal therapeutic targets for Patl2-related infertility?\n\nSUMMARY ANSWER: Abnormal protein content is detected in Patl2-/- MII oocytes, which can be rescued by spindle transfer (ST).\n\nWHAT IS KNOWN ALREADY: PATL2 is an RNA-binding protein that represses maternal mRNA translation during oocyte maturation. PATL2 mutations in humans often cause germinal vesicle (GV) arrest, although some affected patients produce MII oocytes with reduced fertilization and embryo developmental potential. Consequently, oocyte donation is required. The Patl2-/- knockout mouse model offers a unique opportunity to study Patl2-related infertility and evaluate potential treatments.\n\nSTUDY DESIGN, SIZE, DURATION: Patl2 -/- mice (C57BL/6NTac-Patl2tm1a), with deletion of exon 7, were bred from April 2021 to October 2023, yielding 36 homozygous females from 271 pups. To investigate the role of Patl2 at the MII stage, in vivo MII oocytes from Patl2-/- and Patl2+/+ females were collected for analysis of key quality markers and single-cell proteomics. Based on these results, maternal ST was tested to rescue abnormal embryo development. At least three replicates were conducted per experiment.\n\nPARTICIPANTS/MATERIALS, SETTINGS, METHODS: Four- to 12-week-old mice underwent superovulation and oocyte collection to assess in vitro and in vivo maturation. In vivo-matured MII oocytes were used to evaluate activation (AR) and blastocyst rates (BR) after PIEZO-ICSI, spindle configuration, and calcium oscillatory patterns following SrCl2 exposure. Vitrified-warmed oocytes were used for single-cell proteomics using a timsTOF ultra mass spectrometer operated in diaPASEF mode. ST involved transferring the Patl2-/- spindle to Patl2+/+ enucleated cytoplasm, followed by parthenogenetic activation (PA) via SrCl2 exposure.\n\nMAIN RESULTS AND THE ROLE OF CHANCE: Patl2 -/- females exhibit lower in vivo MII rates (79.63%) than Patl2+/+ females (89.39%, P\u2009=\u20090.0123) but similar in vitro maturation rates (GV-MII\u2009=\u200948.74%) compared to Patl2+/+ females (52.85%, P\u2009=\u20090.5230). After PIEZO-ICSI with wild-type sperm, reduced AR (Patl2-/- = 31.71%, Patl2+/+ = 76.74%, P\u2009<\u20090.0001) and BR (Patl2-/- = 7.69%, Patl2+/+ = 42.42%, P\u2009=\u20090.0237) were observed in knockout oocytes. However, Patl2-/- oocytes exhibited normal spindle rates (78.57%) as seen in Patl2+/+ oocytes (86.00%, P\u2009=\u20090.3491), as well as a similar capacity to sustain long-lasting calcium oscillations (A\u00d7F\u2009=\u20096.15\u2009\u00b1\u20094.80) compared to Patl2+/+ oocytes (A\u00d7F\u2009=\u20094.59\u2009\u00b1\u20092.96, P\u2009=\u20090.1453). Single-cell proteomics identified 4882 proteins and confirmed the absence of Patl2 in knockout oocytes, from analyzing 25 Patl2+/+ and 27 Patl2-/- MII oocytes. After filtering, 3747 proteins were used for statistical analysis, revealing 1508 differentially expressed proteins (q-value < 0.05; 992 downregulated, 516 upregulated in Patl2-/- oocytes). The levels of multiple RNA-binding proteins, some of which are proposed Patl2 interactors (Cpeb1, Eif4e1b), were found to be significantly reduced in Patl2-/- oocytes. Additionally, the protein products of several maternal effect genes (MEGs) implicated in mRNA regulation (Zar1, Igf2bp2) and cell cycle division (Tcl1a, Cdk1, Mos) were downregulated, while MEGs participating in epigenetic modifications (Zfp57, Trim28) were upregulated in the knockout group. Consistent with these observations, ST-PA treatment significantly increased AR (100%) and BR (75%) in the Patl2-/- oocytes in comparison to PA alone (AR\u2009=\u200975.95%, P\u2009=\u20090.0078; BR\u2009=\u200945.00%, P\u2009=\u20090.0128), effectively rescuing development to wild-type levels. Lastly, ST-PA treatment did not alter embryonic development in Patl2+/+ oocytes and produced outcomes comparable to PA alone, supporting the technical safety and applicability of the technique.\n\nLARGE SCALE DATA: The mass spectrometry proteomics data have been deposited to the ProteomeXchange Consortium via the PRIDE massIVE partner repository with the dataset identifier MSV000100606.\n\nLIMITATIONS, REASONS FOR CAUTION: Patl2 -/- mice exhibit a less severe phenotype compared to patients carrying PATL2 variants. Patl2-/- female mice display a high MII rate without significant spindle abnormalities, which contrasts with a previously published report. Additionally, ST treatment was conducted using parthenogenetically activated oocytes, rather than biparental embryos.\n\nWIDER IMPLICATIONS OF THE FINDINGS: ST represents a promising treatment for PATL2-related female infertility in patients with MII oocytes, as it appears to restore cytoplasmic defects linked to abnormal RNA-binding proteins and MEGs identified by single-cell proteomics. In contrast, other proposed treatments for poor embryo development, such as assisted oocyte activation, is unlikely to be effective since Patl2-/- oocytes show a normal calcium response.\n\nSTUDY FUNDING/COMPETING INTEREST(S): This study was supported by the Special Research Fund (BOF) (starting grant BOF.STG.2021.0042.01 awarded to B.H.) and the Research Foundation-Flanders (FWO) (fellowship 1177425\u2009N awarded to E.A.). B.H. has been receiving unrestricted educational funding from Ferring Pharmaceuticals (Aalst, Belgium). A.C.B., E.A., A.C., M.F-I-A., J.G., A.R., M.B., A.B., C.A., K.C.P., D.S., K.G., and F.V.M. have nothing to disclose. B.H. reports being board member of the Belgian Ethical Committee on embryo research.",
+      "doi": "10.1093/humrep/deag073",
+      "matched_searches": [
+        "haploid_embryos_decondensation"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42062216/",
+      "doi_url": "https://doi.org/10.1093/humrep/deag073"
+    },
+    {
+      "pmid": "42066978",
+      "title": "Adolescent Varicocele: A Surgical Conundrum.",
+      "journal": "Fertil Steril",
+      "pub_date": "2026-04-29",
+      "authors": [
+        "Beland LE",
+        "Davis MF",
+        "Aiyar S",
+        "van Batavia J",
+        "Kolon TF",
+        "Mittal S"
+      ],
+      "abstract": "Adolescent varicocele is a common yet clinically complex condition, affecting up to 15% of post-pubertal boys. The natural history and long-term reproductive implications in adolescents are not as well understood as the association of varicocele with infertility in the adult population. As such, the primary challenge in the management of adolescent varicocele lies in identifying the subset of boys at risk for impaired spermatogenesis while avoiding unnecessary intervention in those who may normalize testicular development as puberty progresses. The pathophysiology of varicocele-related testicular dysfunction is thought to be multifactorial, involving increased scrotal temperature, oxidative stress, and associated germ cell apoptosis. There is also an element of genetic factors that may have implications in the development of varicocele and susceptibility to spermatogenic injury. Regardless of history, we have taken an institutional algorithmic approach whereby boys are evaluated at the time of initial presentation using a longitudinal, biologically informed process incorporating physical exam, serial assessment of total and relative testicular volume, scrotal ultrasound, endocrine evaluation, and semen analysis in appropriate Tanner V patients. Indications for surgical intervention in adolescents are guided by surrogate markers of testicular dysfunction such as persistent testicular volume asymmetry, abnormal semen parameters, and hormonal abnormalities. The preferred technique for intervention when indicated is a subinguinal microsurgical varicocele repair as this is associated with low recurrence and few complications. Surgical repair has been shown to improve testicular growth and semen parameters. However, the long-term impact of surgical repair on paternity is particularly challenging to assess in the adolescent population and requires continued long-term study. An algorithmic, longitudinal approach to the evaluation and management of adolescent varicocele that allows for the early identification of at-risk patients and avoidance of overtreatment is presented. Ultimately, management should be individualized, with the goal of preserving testicular function and optimizing future reproductive potential.",
+      "doi": "10.1016/j.fertnstert.2026.04.015",
+      "matched_searches": [
+        "varicocele_embolisation_ivf"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42066978/",
+      "doi_url": "https://doi.org/10.1016/j.fertnstert.2026.04.015"
+    }
+  ]
+}

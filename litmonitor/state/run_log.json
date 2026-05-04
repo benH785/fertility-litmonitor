@@ -76,5 +76,20 @@
       "methylfolate_vs_folic_acid_ivf": 3,
       "ss31_elamipretide": 1
     }
+  },
+  {
+    "run_at": "2026-05-04T09:50:51Z",
+    "mode": "weekly",
+    "since": "2026-04-27",
+    "new_papers": 5,
+    "total_seen": 1669,
+    "digest_filename": "digest_2026-05-04.md",
+    "topic_counts": {
+      "embryo_arrest_d3_blast": 1,
+      "antagonist_protocol_normoresponder": 1,
+      "endometrial_receptivity_era": 1,
+      "haploid_embryos_decondensation": 1,
+      "varicocele_embolisation_ivf": 1
+    }
   }
 ]
