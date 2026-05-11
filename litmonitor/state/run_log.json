@@ -91,5 +91,19 @@
       "haploid_embryos_decondensation": 1,
       "varicocele_embolisation_ivf": 1
     }
+  },
+  {
+    "run_at": "2026-05-11T10:19:13Z",
+    "mode": "weekly",
+    "since": "2026-05-02",
+    "new_papers": 4,
+    "total_seen": 1673,
+    "digest_filename": "digest_2026-05-11.md",
+    "topic_counts": {
+      "embryo_arrest_d3_blast": 1,
+      "pgta_advanced_age": 1,
+      "antioxidant_culture_media": 1,
+      "haploid_embryos_decondensation": 1
+    }
   }
 ]

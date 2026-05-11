@@ -1,15 +1,14 @@
 {
-  "run_at": "2026-05-04T09:50:51Z",
+  "run_at": "2026-05-11T10:19:13Z",
   "mode": "weekly",
-  "since": "2026-04-27",
-  "new_papers": 5,
-  "total_seen": 1669,
-  "digest_filename": "digest_2026-05-04.md",
+  "since": "2026-05-02",
+  "new_papers": 4,
+  "total_seen": 1673,
+  "digest_filename": "digest_2026-05-11.md",
   "topic_counts": {
     "embryo_arrest_d3_blast": 1,
-    "antagonist_protocol_normoresponder": 1,
-    "endometrial_receptivity_era": 1,
-    "haploid_embryos_decondensation": 1,
-    "varicocele_embolisation_ivf": 1
+    "pgta_advanced_age": 1,
+    "antioxidant_culture_media": 1,
+    "haploid_embryos_decondensation": 1
   }
 }

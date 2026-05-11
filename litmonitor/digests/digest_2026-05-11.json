@@ -1,0 +1,247 @@
+{
+  "digest_date": "2026-05-11",
+  "generated_at": "2026-05-11T10:19:13Z",
+  "mode": "weekly",
+  "window_start": "2026-05-02",
+  "paper_count": 4,
+  "topic_counts": {
+    "embryo_arrest_d3_blast": 1,
+    "pgta_advanced_age": 1,
+    "antioxidant_culture_media": 1,
+    "haploid_embryos_decondensation": 1
+  },
+  "topics": {
+    "agonist_vs_dual_trigger": {
+      "label": "Dual vs agonist trigger",
+      "priority": "high"
+    },
+    "agonist_trigger_suboptimal": {
+      "label": "Suboptimal agonist trigger response",
+      "priority": "high"
+    },
+    "premature_ovulation": {
+      "label": "Premature ovulation",
+      "priority": "high"
+    },
+    "lead_follicle_oversize": {
+      "label": "Lead follicle size & trigger timing",
+      "priority": "high"
+    },
+    "zymot_microfluidic": {
+      "label": "ZyMot / microfluidic sperm selection",
+      "priority": "high"
+    },
+    "sperm_dna_fragmentation": {
+      "label": "Sperm DNA fragmentation (single-strand) & ART",
+      "priority": "high"
+    },
+    "sperm_dna_double_strand": {
+      "label": "Sperm double-strand DNA damage",
+      "priority": "high"
+    },
+    "tese_high_dfi": {
+      "label": "TESE for high DFI",
+      "priority": "high"
+    },
+    "pgta_advanced_age": {
+      "label": "PGT-A in advanced maternal age",
+      "priority": "high"
+    },
+    "blastocyst_grading_outcomes": {
+      "label": "Blastocyst grading & outcomes",
+      "priority": "medium"
+    },
+    "antagonist_protocol_normoresponder": {
+      "label": "Antagonist protocol in normo-responders",
+      "priority": "medium"
+    },
+    "intercycle_interval": {
+      "label": "Inter-cycle interval",
+      "priority": "low"
+    },
+    "methylation_mthfr_art": {
+      "label": "MTHFR / methylation & ART",
+      "priority": "high"
+    },
+    "one_pn_embryos": {
+      "label": "1PN / abnormal fertilisation",
+      "priority": "high"
+    },
+    "ss31_elamipretide": {
+      "label": "SS-31 / elamipretide & fertility",
+      "priority": "high"
+    },
+    "rapamycin": {
+      "label": "Rapamycin / sirolimus & fertility",
+      "priority": "high"
+    },
+    "embryo_arrest_d3_blast": {
+      "label": "Embryo arrest & blastulation",
+      "priority": "high"
+    },
+    "antioxidant_culture_media": {
+      "label": "Antioxidant culture media",
+      "priority": "high"
+    },
+    "growth_hormone_adjuvant": {
+      "label": "Growth hormone adjuvant in IVF",
+      "priority": "medium"
+    },
+    "time_lapse_morphokinetics": {
+      "label": "Time-lapse / morphokinetic embryo selection",
+      "priority": "medium"
+    },
+    "duostim_luteal_phase": {
+      "label": "DuoStim / luteal-phase stimulation",
+      "priority": "high"
+    },
+    "picsi_hyaluronan_binding": {
+      "label": "PICSI / hyaluronan binding sperm selection",
+      "priority": "medium"
+    },
+    "imsi_high_mag_morphology": {
+      "label": "IMSI / high-magnification sperm morphology",
+      "priority": "medium"
+    },
+    "endometrial_receptivity_era": {
+      "label": "Endometrial receptivity testing (ERA / ER-Map)",
+      "priority": "medium"
+    },
+    "recurrent_implantation_failure": {
+      "label": "Recurrent implantation failure",
+      "priority": "high"
+    },
+    "haploid_embryos_decondensation": {
+      "label": "Haploid embryos & sperm decondensation",
+      "priority": "high"
+    },
+    "varicocele_embolisation_ivf": {
+      "label": "Varicocele embolisation & IVF",
+      "priority": "high"
+    },
+    "choline_pemt_pregnancy": {
+      "label": "Choline / PEMT & pregnancy",
+      "priority": "medium"
+    },
+    "methylfolate_vs_folic_acid_ivf": {
+      "label": "Methylfolate vs folic acid in IVF",
+      "priority": "medium"
+    }
+  },
+  "journals_monitored": [
+    "Hum Reprod",
+    "Hum Reprod Update",
+    "Hum Reprod Open",
+    "Fertil Steril",
+    "F S Rep",
+    "F S Sci",
+    "Reprod Biomed Online",
+    "J Assist Reprod Genet",
+    "Reprod Biol Endocrinol",
+    "Hum Fertil (Camb)",
+    "Reprod Sci",
+    "Andrology",
+    "Mol Hum Reprod",
+    "Reproduction",
+    "Biol Reprod",
+    "Reprod Fertil Dev",
+    "Asian J Androl",
+    "Andrologia"
+  ],
+  "papers": [
+    {
+      "pmid": "42091240",
+      "title": "FGF2, LIF, and IGF1 supplementation during in vitro maturation or culture improves equine ICSI embryo development in an age-dependent manner.",
+      "journal": "Reprod Fertil Dev",
+      "pub_date": "2026-05-11",
+      "authors": [
+        "Smith JM",
+        "Palacios PD",
+        "Segura Forero PA",
+        "Gurkin RJ",
+        "Doyle T",
+        "Boe-Hansen G",
+        "Gambini A"
+      ],
+      "abstract": "CONTEXT: Ovum pickup (OPU) combined with intracytoplasmic sperm injection (ICSI) has reshaped equine assisted reproduction, enabling embryo production from mares and stallions with constrained breeding opportunities; however, limited efficiency of in vitro maturation (IVM) and in vitro culture (IVC) continues to hinder embryo production. Growth factor supplementation with fibroblast growth factor 2 (FGF2), leukemia inhibitory factor (LIF), and insulin-like growth factor 1 (IGF1) in combination (FLI) has been shown to enhance oocyte and embryo developmental competence in several species.\n\nAIMS: This study evaluated whether FLI supplementation during IVM or IVC improves developmental outcomes of equine ICSI embryos and whether responses are influenced by donor mare age.\n\nMETHODS: Oocytes were assigned to IVM with or without FLI or cultured post-ICSI in IVC media with or without FLI. Developmental outcomes, including maturation, cleavage, blastocyst formation, blastocyst diameter, and pregnancy establishment, were assessed across defined donor-mare age categories.\n\nKEY RESULTS: FLI supplementation did not affect overall maturation or cleavage rates. Blastocyst formation was significantly increased only in oocytes from middle-aged mares when FLI was added during either IVM or IVC. Supplementation during IVC also increased blastocyst diameter. Pregnancy establishment to Day 45 was marginally higher for embryos derived from FLI-treated oocytes, particularly following vitrification.\n\nCONCLUSIONS: These findings showed age-dependent responses to FLI, with the greatest benefit in middle-aged mares, supporting further molecular studies of its developmental effects.\n\nIMPLICATIONS: These results indicated that FLI supplementation can be incorporated into equine OPU-ICSI systems to improve clinical embryo production outcomes, particularly for middle-aged donor mares.",
+      "doi": "10.1071/RD26023",
+      "matched_searches": [
+        "embryo_arrest_d3_blast"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42091240/",
+      "doi_url": "https://doi.org/10.1071/RD26023"
+    },
+    {
+      "pmid": "42098861",
+      "title": "Diverging guidelines and consensus statements on preimplantation genetic testing for aneuploidy: indications and strategies reviewed.",
+      "journal": "Reprod Biol Endocrinol",
+      "pub_date": "2026-05-07",
+      "authors": [
+        "Sichenze L",
+        "Fiore A",
+        "Casalechi M",
+        "Somigliana E",
+        "Vigan\u00f2 P",
+        "Italian Society of Human Reproduction (SIRU)"
+      ],
+      "abstract": "Preimplantation genetic testing for aneuploidy (PGT-A) is widely used to screen for embryo aneuploidy, enabling the selection and transfer of genetically normal embryos. Despite its potential to improve clinical outcomes, the implementation of PGT-A raises challenges, including variability in clinical indications, protocols, interpretation of results, and post-PGT counselling. To better explore the extent of standardization and consistency in PGT-A practice, this study undertook a comparative analysis of recommendations from widely adopted guidelines, opinion papers, and position statements on PGT-A, emphasizing both convergent views and points of divergence. Thus, the impact of variability in PGT-A practice has been assessed by reviewing the technical and clinical approaches established by n\u2009=\u200911 authoritative scientific societies. Recommendations from widely adopted guidelines, opinion and position papers were compared, highlighting areas of both consensus and divergence. Advanced maternal age is the only indication to PGT-A proposed in the committee opinion of the American Society for Reproductive Medicine and in general all the societies concur with this opinion. However, recurrent implantation failure and recurrent miscarriages are also indications for PGT-A according to 4 societies and male factor infertility by 3 societies. Comparative genomic hybridization is one of the recommended testing platforms by 6 societies while the more recent documents tend to support the use of next generation sequencing or single nucleotide polymorphism array. Approaches to managing mosaic embryo transfers differ, with only some societies providing criteria for embryo prioritization or defining thresholds for the degree of mosaicism. Similarly, there is no uniform guidance on prenatal testing of pregnancies following PGT-A. None of the guideline or document herein presented was able to label recommendation with a grade assigned based on the strength of the supporting evidence. As medical knowledge and evidence evolve rapidly in PGT-A and robust data from RCTs is scarce, proposing specific recommendations is very challenging. Older guidelines may not reflect the most recent research findings or technological advancements, which can significantly affect their relevance and accuracy.",
+      "doi": "10.1186/s12958-026-01545-w",
+      "matched_searches": [
+        "pgta_advanced_age"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42098861/",
+      "doi_url": "https://doi.org/10.1186/s12958-026-01545-w"
+    },
+    {
+      "pmid": "42098781",
+      "title": "SPATA22 heterozygous variants drive premature ovarian insufficiency: mechanism of granulosa cells dysfunction and therapeutic potential of N-acetylcysteine (NAC) treatment.",
+      "journal": "Reprod Biol Endocrinol",
+      "pub_date": "2026-05-07",
+      "authors": [
+        "Xia L",
+        "Zhang W",
+        "Liu M",
+        "Shen Y",
+        "Zhang J",
+        "Wang D",
+        "Wang F",
+        "Zhang Z",
+        "Zhong Y",
+        "Huang Y",
+        "Li G",
+        "Wang X",
+        "Wang Z",
+        "Liu S",
+        "Du J"
+      ],
+      "abstract": "BACKGROUND: Premature ovarian insufficiency (POI) is a prevalent reproductive endocrine disorder, with genetic pathogenesis remaining largely elusive. SPATA22 is a known meiotic regulator in germ cells, while its function in ovarian somatic granulosa cells (GCs) and causal link to POI remain entirely uncharacterized.\n\nMETHODS: Whole-exome sequencing (WES) was performed in 608 idiopathic POI patients, with Sanger sequencing validating the identified SPATA22 variants in the affected pedigree. Pathogenicity and therapeutic potential were verified via in vivo phenotypic analysis of Spata22+/- mice, in vitro functional assays of primary mouse GCs, oocyte-GCs co-culture, and in vitro fertilization (IVF) embryo development assays, with N-acetylcysteine (NAC) intervention.\n\nRESULTS: Two heterozygous pathogenic SPATA22 variants were identified in a POI pedigree with four affected infertile individuals. SPATA22 defects caused GCs dysfunction, accumulated DNA damage, oxidative stress, ovarian insufficiency, impaired fertility in mice. The antioxidant NAC effectively rescued GCs defects, and partially restored Spata22+/- mice fertility, ovarian function, co-cultured oocyte competence and embryo development potential.\n\nCONCLUSIONS: The present study identifies SPATA22 as a causative gene for human POI, provides the first definitive demonstration of a non-canonical somatic function of SPATA22 in GCs, and offers a promising therapeutic strategy for SPATA22-related POI.",
+      "doi": "10.1186/s12958-026-01547-8",
+      "matched_searches": [
+        "antioxidant_culture_media"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42098781/",
+      "doi_url": "https://doi.org/10.1186/s12958-026-01547-8"
+    },
+    {
+      "pmid": "42096526",
+      "title": "A human CEP120 gene variant impairs meiotic spindle building causing aneuploidy\u2020.",
+      "journal": "Biol Reprod",
+      "pub_date": "2026-05-07",
+      "authors": [
+        "Duke M",
+        "Blengini CS",
+        "Maddocks S",
+        "Aboelenain M",
+        "Prorock-Rogers C",
+        "Schindler K"
+      ],
+      "abstract": "Infertility is increasing, leading more women to seek assisted reproduction treatments than ever before. One of the main causes of infertility and pregnancy loss is aneuploidy, an incorrect number of chromosomes in the embryo or developing fetus, which hinders normal development. Aneuploidy overwhelmingly arises from the missegregation of chromosomes during the maternal meiotic divisions that produce haploid oocytes (or eggs). Variants of genes involved in spindle building are of primary interest when searching for genetic causes of aneuploidy because the oocyte meiotic spindle is responsible for faithful chromosome segregation. We previously identified a genetic variant in a human centrosome gene, CEP120, as associated with high embryonic aneuploidy. To evaluate the functional significance of this genetic variant, we generated a knock-in mouse model and found that female mice had reduced fertility and increased egg aneuploidy. By assessing microtubule re-establishment after cold temperature exposure and warming after vitrification, we found that oocytes from mice harboring the genetic variant had reduced microtubule nucleation efficiency. Because mouse and human oocytes present differences in spindle building mechanism, we modified mouse oocyte spindle building assembly by pericentrin depletion to better mimic human oocytes and found that aneuploidy levels significantly increase in CEP120 variant eggs. Although PGT-A allows the deselection of aneuploid embryos, the development of biomarkers for predisposition to aneuploidy could be used to identify subfertile patients and model their aneuploid risk. Therefore, our data indicate that patients harboring common genetic variants in CEP120 may require additional counseling when considering egg cryopreservation procedures.",
+      "doi": "10.1093/biolre/ioag094",
+      "matched_searches": [
+        "haploid_embryos_decondensation"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42096526/",
+      "doi_url": "https://doi.org/10.1093/biolre/ioag094"
+    }
+  ]
+}
