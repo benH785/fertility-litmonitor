@@ -105,5 +105,19 @@
       "antioxidant_culture_media": 1,
       "haploid_embryos_decondensation": 1
     }
+  },
+  {
+    "run_at": "2026-05-18T10:33:52Z",
+    "mode": "weekly",
+    "since": "2026-05-09",
+    "new_papers": 3,
+    "total_seen": 1676,
+    "digest_filename": "digest_2026-05-18.md",
+    "topic_counts": {
+      "one_pn_embryos": 1,
+      "time_lapse_morphokinetics": 1,
+      "endometrial_receptivity_era": 1,
+      "haploid_embryos_decondensation": 1
+    }
   }
 ]

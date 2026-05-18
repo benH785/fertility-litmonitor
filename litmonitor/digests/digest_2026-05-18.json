@@ -1,0 +1,227 @@
+{
+  "digest_date": "2026-05-18",
+  "generated_at": "2026-05-18T10:33:52Z",
+  "mode": "weekly",
+  "window_start": "2026-05-09",
+  "paper_count": 3,
+  "topic_counts": {
+    "one_pn_embryos": 1,
+    "time_lapse_morphokinetics": 1,
+    "endometrial_receptivity_era": 1,
+    "haploid_embryos_decondensation": 1
+  },
+  "topics": {
+    "agonist_vs_dual_trigger": {
+      "label": "Dual vs agonist trigger",
+      "priority": "high"
+    },
+    "agonist_trigger_suboptimal": {
+      "label": "Suboptimal agonist trigger response",
+      "priority": "high"
+    },
+    "premature_ovulation": {
+      "label": "Premature ovulation",
+      "priority": "high"
+    },
+    "lead_follicle_oversize": {
+      "label": "Lead follicle size & trigger timing",
+      "priority": "high"
+    },
+    "zymot_microfluidic": {
+      "label": "ZyMot / microfluidic sperm selection",
+      "priority": "high"
+    },
+    "sperm_dna_fragmentation": {
+      "label": "Sperm DNA fragmentation (single-strand) & ART",
+      "priority": "high"
+    },
+    "sperm_dna_double_strand": {
+      "label": "Sperm double-strand DNA damage",
+      "priority": "high"
+    },
+    "tese_high_dfi": {
+      "label": "TESE for high DFI",
+      "priority": "high"
+    },
+    "pgta_advanced_age": {
+      "label": "PGT-A in advanced maternal age",
+      "priority": "high"
+    },
+    "blastocyst_grading_outcomes": {
+      "label": "Blastocyst grading & outcomes",
+      "priority": "medium"
+    },
+    "antagonist_protocol_normoresponder": {
+      "label": "Antagonist protocol in normo-responders",
+      "priority": "medium"
+    },
+    "intercycle_interval": {
+      "label": "Inter-cycle interval",
+      "priority": "low"
+    },
+    "methylation_mthfr_art": {
+      "label": "MTHFR / methylation & ART",
+      "priority": "high"
+    },
+    "one_pn_embryos": {
+      "label": "1PN / abnormal fertilisation",
+      "priority": "high"
+    },
+    "ss31_elamipretide": {
+      "label": "SS-31 / elamipretide & fertility",
+      "priority": "high"
+    },
+    "rapamycin": {
+      "label": "Rapamycin / sirolimus & fertility",
+      "priority": "high"
+    },
+    "embryo_arrest_d3_blast": {
+      "label": "Embryo arrest & blastulation",
+      "priority": "high"
+    },
+    "antioxidant_culture_media": {
+      "label": "Antioxidant culture media",
+      "priority": "high"
+    },
+    "growth_hormone_adjuvant": {
+      "label": "Growth hormone adjuvant in IVF",
+      "priority": "medium"
+    },
+    "time_lapse_morphokinetics": {
+      "label": "Time-lapse / morphokinetic embryo selection",
+      "priority": "medium"
+    },
+    "duostim_luteal_phase": {
+      "label": "DuoStim / luteal-phase stimulation",
+      "priority": "high"
+    },
+    "picsi_hyaluronan_binding": {
+      "label": "PICSI / hyaluronan binding sperm selection",
+      "priority": "medium"
+    },
+    "imsi_high_mag_morphology": {
+      "label": "IMSI / high-magnification sperm morphology",
+      "priority": "medium"
+    },
+    "endometrial_receptivity_era": {
+      "label": "Endometrial receptivity testing (ERA / ER-Map)",
+      "priority": "medium"
+    },
+    "recurrent_implantation_failure": {
+      "label": "Recurrent implantation failure",
+      "priority": "high"
+    },
+    "haploid_embryos_decondensation": {
+      "label": "Haploid embryos & sperm decondensation",
+      "priority": "high"
+    },
+    "varicocele_embolisation_ivf": {
+      "label": "Varicocele embolisation & IVF",
+      "priority": "high"
+    },
+    "choline_pemt_pregnancy": {
+      "label": "Choline / PEMT & pregnancy",
+      "priority": "medium"
+    },
+    "methylfolate_vs_folic_acid_ivf": {
+      "label": "Methylfolate vs folic acid in IVF",
+      "priority": "medium"
+    }
+  },
+  "journals_monitored": [
+    "Hum Reprod",
+    "Hum Reprod Update",
+    "Hum Reprod Open",
+    "Fertil Steril",
+    "F S Rep",
+    "F S Sci",
+    "Reprod Biomed Online",
+    "J Assist Reprod Genet",
+    "Reprod Biol Endocrinol",
+    "Hum Fertil (Camb)",
+    "Reprod Sci",
+    "Andrology",
+    "Mol Hum Reprod",
+    "Reproduction",
+    "Biol Reprod",
+    "Reprod Fertil Dev",
+    "Asian J Androl",
+    "Andrologia"
+  ],
+  "papers": [
+    {
+      "pmid": "42141313",
+      "title": "Live birth following transfer of a euploid blastocyst derived from a 5PN zygote: a case report.",
+      "journal": "J Assist Reprod Genet",
+      "pub_date": "2026-05-16",
+      "authors": [
+        "Gomes C",
+        "Nicolielo M",
+        "Louren\u00e7o B",
+        "Reis DG",
+        "Aiello B",
+        "Reis I",
+        "Tamashiro L",
+        "Belo A",
+        "Park H",
+        "Alegretti JR",
+        "Ch\u00e9les DS",
+        "Lorenzon AR"
+      ],
+      "abstract": "BACKGROUND: Abnormal pronuclear formation, including five pronuclei (5PN), is generally considered indicative of abnormal fertilization (e.g., polyspermy or failure of polar body extrusion) and leads to routine embryo discard in many IVF programs. However, emerging evidence suggests that a minority of embryos with atypical pronuclear patterns may develop into a blastocyst and present diploid constitution after genetic testing, challenging the assumption that abnormal pronuclear morphology invariably predicts non-viability.\n\nCASE REPORT: We report a rare case in which a 5PN zygote developed into a morphologically high-quality blastocyst was confirmed euploid-diploid by PGT-A, transferred in a subsequent frozen embryo transfer cycle, and resulted in the live birth of a healthy child.\n\nCONCLUSION: This case adds to the limited but growing evidence that embryos with atypical pronuclear presentation may retain reproductive potential when development on time-lapse appears coherent and validated genetic testing confirms diploidy and euploidy, supported by appropriate patient counseling and informed consent.",
+      "doi": "10.1007/s10815-026-03899-x",
+      "matched_searches": [
+        "one_pn_embryos",
+        "time_lapse_morphokinetics"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42141313/",
+      "doi_url": "https://doi.org/10.1007/s10815-026-03899-x"
+    },
+    {
+      "pmid": "42118112",
+      "title": "Uterine fluid EV miR-223-3p as endometrial receptivity biomarker and regulator in implantation.",
+      "journal": "Reproduction",
+      "pub_date": "2026-05-12",
+      "authors": [
+        "Huang X",
+        "He A",
+        "Gan R",
+        "Zhang Q",
+        "Zhao J",
+        "Fu J",
+        "Li Y"
+      ],
+      "abstract": "Endometrial receptivity (ER) is a pivotal determinant of successful embryo implantation, yet its regulation by uterine fluid (UF) extracellular vesicles (EVs) remains poorly understood. This study aimed to identify key UF EV miRNAs during the endometrial receptive period and observe the role in implantation. .UF EVs were isolated from the same in vitro fertilization (IVF)/intracytoplasmic sperm injection (ICSI) patients at two time points: the pre-receptive (LH\u2009+\u20093/p\u2009+\u20091) and receptive (LH\u2009+\u20097/p\u2009+\u20095). miRNA sequencing and validation identified miR-223-3p as the key miRNA. Bioinformatic analysis predicted FOXO1 as a primary target, forming a hub genes complex with H3-3B and SIRT1. To investigate the functional role of UF EVs miR_223-3p, EVs with reduced miR-223-3p were isolated from the culture medium of sh-miR-223-3p ishikawa cells. Functional studies demonstrated that after EVs internalization by trophoblast cells, led to a significant reduction in miR-223-3p levels. This knockdown resulted in markedly impaired trophoblast proliferation, migration, invasion, and adhesion. Concurrently, FOXO1 were significantly downregulated. We propose a novel model whereby receptive endometrium selectively packages miR-223-3p into UF EVs, which are then internalized by the embryo to modulate trophoblast function through the FOXO1/H3-3B/SIRT1 complex. UF EV miR-223-3p emerges as a critical regulator of ER and a promising non-invasive biomarker for assessing implantation competence.",
+      "doi": "10.1093/reprod/xaag058",
+      "matched_searches": [
+        "endometrial_receptivity_era"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42118112/",
+      "doi_url": "https://doi.org/10.1093/reprod/xaag058"
+    },
+    {
+      "pmid": "42116739",
+      "title": "DUXA is not essential for parthenogenetic blastocyst formation but regulates cell proliferation in porcine embryos.",
+      "journal": "Reproduction",
+      "pub_date": "2026-05-12",
+      "authors": [
+        "Facioli FL",
+        "Glanzner WG",
+        "Gutierrez K",
+        "de Macedo MP",
+        "da Silva Z",
+        "Guay V",
+        "Currin LG",
+        "Carrillo Herrera ME",
+        "Bordignon V"
+      ],
+      "abstract": "Embryonic genome activation (EGA) marks the onset of transcriptional autonomy in the developing embryo, a process that is still not well characterized in pigs. Emerging evidence suggests that chromatin remodeling events during EGA and DNA damage response (DDR) may share regulatory mechanisms. In mouse and human embryos, the double homeobox (Dux) transcription factor acts as a pioneer regulator of EGA and may also contribute to DDR. However, the role of the porcine orthologue, DUXA, in early embryogenesis is not well understood. In this study, we show that DUXA mRNA is highly expressed in porcine embryos at the EGA stage, with levels declining at post-EGA and blastocyst stages. Attenuation of DUXA mRNA did not impair blastocyst formation or lineage allocation to the inner cell mass and trophectoderm. Unexpectedly, DUXA mRNA attenuation increased total cell number in both blastocysts and embryos arrested prior to blastocoel formation. DUXA mRNA attenuation decreased mRNA levels of EGA-related (EIF1AX), cell cycle checkpoint (CHEK1), and DDR-associated genes (BRCA1), and was accompanied by increased DNA damage at late/post-EGA stages. Induced DNA damage upregulated transcripts of EGA-related (DPPA2, KDM5B, EIF2A) and DDR-associated genes (P53, RAD51) on day 4 of development. Interestingly, DNA damage induction in DUXA mRNA-attenuated embryos abrogated the impact on cell proliferation and enhanced transcript levels of checkpoint (CHEK1 and XIAP) and DDR (P53, KU-70 and KU-80) genes. These findings suggest that while DUXA is not essential for parthenogenetic blastocyst formation in pigs, it may play a regulatory role in embryonic cell proliferation, checkpoint activation, and the DNA damage response.",
+      "doi": "10.1093/reprod/xaag060",
+      "matched_searches": [
+        "haploid_embryos_decondensation"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42116739/",
+      "doi_url": "https://doi.org/10.1093/reprod/xaag060"
+    }
+  ]
+}
