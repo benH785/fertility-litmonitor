@@ -1,0 +1,332 @@
+{
+  "digest_date": "2026-05-25",
+  "generated_at": "2026-05-25T10:36:36Z",
+  "mode": "weekly",
+  "window_start": "2026-05-16",
+  "paper_count": 8,
+  "topic_counts": {
+    "embryo_arrest_d3_blast": 2,
+    "recurrent_implantation_failure": 1,
+    "sperm_dna_fragmentation": 4,
+    "antioxidant_culture_media": 1,
+    "blastocyst_grading_outcomes": 1,
+    "time_lapse_morphokinetics": 1,
+    "rapamycin": 1,
+    "growth_hormone_adjuvant": 1
+  },
+  "topics": {
+    "agonist_vs_dual_trigger": {
+      "label": "Dual vs agonist trigger",
+      "priority": "high"
+    },
+    "agonist_trigger_suboptimal": {
+      "label": "Suboptimal agonist trigger response",
+      "priority": "high"
+    },
+    "premature_ovulation": {
+      "label": "Premature ovulation",
+      "priority": "high"
+    },
+    "lead_follicle_oversize": {
+      "label": "Lead follicle size & trigger timing",
+      "priority": "high"
+    },
+    "zymot_microfluidic": {
+      "label": "ZyMot / microfluidic sperm selection",
+      "priority": "high"
+    },
+    "sperm_dna_fragmentation": {
+      "label": "Sperm DNA fragmentation (single-strand) & ART",
+      "priority": "high"
+    },
+    "sperm_dna_double_strand": {
+      "label": "Sperm double-strand DNA damage",
+      "priority": "high"
+    },
+    "tese_high_dfi": {
+      "label": "TESE for high DFI",
+      "priority": "high"
+    },
+    "pgta_advanced_age": {
+      "label": "PGT-A in advanced maternal age",
+      "priority": "high"
+    },
+    "blastocyst_grading_outcomes": {
+      "label": "Blastocyst grading & outcomes",
+      "priority": "medium"
+    },
+    "antagonist_protocol_normoresponder": {
+      "label": "Antagonist protocol in normo-responders",
+      "priority": "medium"
+    },
+    "intercycle_interval": {
+      "label": "Inter-cycle interval",
+      "priority": "low"
+    },
+    "methylation_mthfr_art": {
+      "label": "MTHFR / methylation & ART",
+      "priority": "high"
+    },
+    "one_pn_embryos": {
+      "label": "1PN / abnormal fertilisation",
+      "priority": "high"
+    },
+    "ss31_elamipretide": {
+      "label": "SS-31 / elamipretide & fertility",
+      "priority": "high"
+    },
+    "rapamycin": {
+      "label": "Rapamycin / sirolimus & fertility",
+      "priority": "high"
+    },
+    "embryo_arrest_d3_blast": {
+      "label": "Embryo arrest & blastulation",
+      "priority": "high"
+    },
+    "antioxidant_culture_media": {
+      "label": "Antioxidant culture media",
+      "priority": "high"
+    },
+    "growth_hormone_adjuvant": {
+      "label": "Growth hormone adjuvant in IVF",
+      "priority": "medium"
+    },
+    "time_lapse_morphokinetics": {
+      "label": "Time-lapse / morphokinetic embryo selection",
+      "priority": "medium"
+    },
+    "duostim_luteal_phase": {
+      "label": "DuoStim / luteal-phase stimulation",
+      "priority": "high"
+    },
+    "picsi_hyaluronan_binding": {
+      "label": "PICSI / hyaluronan binding sperm selection",
+      "priority": "medium"
+    },
+    "imsi_high_mag_morphology": {
+      "label": "IMSI / high-magnification sperm morphology",
+      "priority": "medium"
+    },
+    "endometrial_receptivity_era": {
+      "label": "Endometrial receptivity testing (ERA / ER-Map)",
+      "priority": "medium"
+    },
+    "recurrent_implantation_failure": {
+      "label": "Recurrent implantation failure",
+      "priority": "high"
+    },
+    "haploid_embryos_decondensation": {
+      "label": "Haploid embryos & sperm decondensation",
+      "priority": "high"
+    },
+    "varicocele_embolisation_ivf": {
+      "label": "Varicocele embolisation & IVF",
+      "priority": "high"
+    },
+    "choline_pemt_pregnancy": {
+      "label": "Choline / PEMT & pregnancy",
+      "priority": "medium"
+    },
+    "methylfolate_vs_folic_acid_ivf": {
+      "label": "Methylfolate vs folic acid in IVF",
+      "priority": "medium"
+    }
+  },
+  "journals_monitored": [
+    "Hum Reprod",
+    "Hum Reprod Update",
+    "Hum Reprod Open",
+    "Fertil Steril",
+    "F S Rep",
+    "F S Sci",
+    "Reprod Biomed Online",
+    "J Assist Reprod Genet",
+    "Reprod Biol Endocrinol",
+    "Hum Fertil (Camb)",
+    "Reprod Sci",
+    "Andrology",
+    "Mol Hum Reprod",
+    "Reproduction",
+    "Biol Reprod",
+    "Reprod Fertil Dev",
+    "Asian J Androl",
+    "Andrologia"
+  ],
+  "papers": [
+    {
+      "pmid": "42176103",
+      "title": "TEX29 is a novel acrosome marker dispensable for spermatogenesis and fertilization in mice.",
+      "journal": "J Assist Reprod Genet",
+      "pub_date": "2026-05-23",
+      "authors": [
+        "Chen QQ",
+        "Qiu X",
+        "Liu YJ",
+        "Liu P",
+        "Li R",
+        "Zhi X",
+        "Zhuang XJ"
+      ],
+      "abstract": "PURPOSE: Spermatogenesis is precisely regulated by an intricate genetic network, but the biological roles of numerous testis-enriched genes remain unelucidated. This study aimed to systematically investigate the expression pattern, subcellular localization and functional significance of Testis-Expressed Gene 29 (Tex29) in mice and male fertility.\n\nMETHODS: Integrated molecular, cellular, and animal model approaches were employed. Tex29 mRNA and protein expression were analyzed by molecular and immunofluorescence staining techniques. CRISPR/Cas9-mediated genome editing was used to generate Tex29-knockout (KO) mice. Fertility assessment, histological examination of testes, sperm quality analysis, and transmission/scanning electron microscopy were performed on Tex29-KO mice. Additionally, whole-exome sequencing was conducted in 165 infertile men to identify Tex29 variants.\n\nRESULTS: Tex29 mRNA was specifically expressed in testes, first detectable on postnatal day 18 and gradually upregulated during testicular maturation. TEX29 protein was specifically localized to the acrosome of spermatids and mature sperm throughout spermiogenesis. Tex29-KO males exhibited normal fertility with litter sizes comparable to wild-type (WT) controls, and their seminiferous tubules retained intact structure with all spermatogenic stages. No significant differences in sperm concentration, viability, or motility were observed between Tex29-KO and WT mice. Although Tex29-KO sperm maintained normal overall morphology and canonical \"9\u2009+\u20092\" axonemal structure in the flagellum, a subset showed acrosomal membrane abnormalities in the apical region. In vitro fertilization (IVF) rates and blastocyst development were uncompromised in Tex29-KO mice. Two synonymous TEX29 variants (c.66C\u2009>\u2009T, p.Asp22Asp; c.207C\u2009>\u2009A, p.Ile69Ile) were identified in 7 of 165 infertile men, and four couples carrying these variants achieved live births.\n\nCONCLUSIONS: TEX29 is a novel testis-specific acrosomal marker protein essential for maintaining normal acrosomal membrane integrity during murine spermiogenesis. Notably, Tex29 is dispensable for spermatogenesis and male fertility in mice. The functional role of TEX29 in human spermatogenesis and fertility remains to be fully determined due to limited clinical evidence. These findings provide valuable insights for basic research on acrosome biogenesis and male infertility associated with acrosomal abnormalities.",
+      "doi": "10.1007/s10815-026-03907-0",
+      "matched_searches": [
+        "embryo_arrest_d3_blast"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42176103/",
+      "doi_url": "https://doi.org/10.1007/s10815-026-03907-0"
+    },
+    {
+      "pmid": "42177482",
+      "title": "Quantitative determination of vaginal diamines as a biomarker for vaginal dysbiosis and IVF-ET outcome.",
+      "journal": "Reprod Biol Endocrinol",
+      "pub_date": "2026-05-23",
+      "authors": [
+        "Lazzeri E",
+        "Lucchesi S",
+        "Mendonca K",
+        "De Giorgi S",
+        "Luddi A",
+        "Ponchia R",
+        "Morgante G",
+        "Piomboni P",
+        "Santoro F",
+        "Pozzi G",
+        "Ricci S"
+      ],
+      "abstract": "BACKGROUND: Lactobacillus species generally predominate in a healthy vaginal microbiota, and alterations of this population correlate with increased risk of genital infections and poor reproductive outcomes. Composition and functions of the vaginal microbiota are influenced by a variety of factors, among which hormones represent a major player. As therapy with gonadotropins is a key step in controlled ovarian hyperstimulation (COH) before in vitro fertilization and embryo transfer (IVF-ET), in this work the effect of hormone therapy for COH on the vaginal microbiota and embryo implantation outcome was evaluated in a cohort of women undergoing IVF-ET.\n\nMETHODS: A cohort of 108 infertile females were prospectively enrolled in the study. Hormone therapy consisted of recombinant follicle stimulating hormone and recombinant luteinizing hormone in a gonadotropin-releasing hormone antagonist regimen. Two vaginal swabs, before and after therapy, were collected from patients. Vaginal swabs were analyzed by microbiological standard culture methods for the presence of genital pathogens and lactobacilli. Changes in the vaginal microbiota were also assessed by using a vaginal diamine assay for the quantification of diamines, which are considered as a biomarker of the catabolic activity of bacteria involved in bacterial vaginosis.\n\nRESULTS: COH significantly impacted on both vaginal diamine levels and microbiota composition. Median concentration of diamines in vaginal fluids increased from 0\u00a0\u00b5M (IQR\u2009=\u20090-8.96) to 21.86\u00a0\u00b5M (IQR\u2009=\u20095.11-46.74) before (pre-HT) and after (post-HT) hormone therapy, respectively (p\u2009<\u20090.0001). The diamine value of 9.5\u00a0\u00b5M was found to be the threshold between eubiotic and dysbiotic microbiota. Microbiological analysis of pre-HT and post-HT samples showed a post-HT enrichment of the vaginal population in streptococci, enterococci, enterobacteria, staphylococci and fungi, which are prevalent in aerobic vaginitis. The frequency of vaginal samples positive for genital pathogens and with elevated concentrations of diamines (>\u20099.5\u00a0\u00b5M) was significantly increased in post-HT compared to pre-HT specimens (p\u2009<\u20090.0001). Levels of diamines were significantly lower in patients with successful IVF-ET compared to those with failed implantation (p\u2009=\u20090.015), and 56.25% of patients who achieved embryo implantation had diamine levels below 9.5\u00a0\u00b5M. Finally, multivariate analysis of factors associated with implantation outcomes showed that younger maternal age, absence of genital pathogens and low levels of vaginal diamine post-HT were all associated with positive reproductive outcomes.\n\nCONCLUSIONS: The data from this study demonstrate that, following COH, an increase in diamine levels and genital pathogens occurred, leading to vaginal dysbiosis. Diamine concentrations higher than 9.5\u00a0\u00b5M post-HT significantly correlated with embryo implantation failure and may be used as a predictive biomarker of vaginal dysbiosis and IVF-ET outcome.",
+      "doi": "10.1186/s12958-026-01568-3",
+      "matched_searches": [
+        "recurrent_implantation_failure"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42177482/",
+      "doi_url": "https://doi.org/10.1186/s12958-026-01568-3"
+    },
+    {
+      "pmid": "42172631",
+      "title": "Sperm mitochondrial DNA copy number: a marker of male fertility and reproductive success.",
+      "journal": "Hum Reprod Update",
+      "pub_date": "2026-05-22",
+      "authors": [
+        "Sawant S",
+        "Mann JM",
+        "Pilsner JR"
+      ],
+      "abstract": "BACKGROUND: Sperm mitochondrial DNA copy number (mtDNAcn) has emerged as a promising biomarker of sperm health, providing molecular insight beyond what is captured by standard semen analysis. Elevated sperm mtDNAcn has been consistently associated with lower sperm motility, concentration, and morphology, as well as prolonged time-to-pregnancy in natural conception and reduced fertilization potential in ART.\n\nOBJECTIVE AND RATIONALE: This review summarizes current evidence on the biological underpinnings of sperm mtDNAcn, including its regulation during spermatogenesis, the role of nuclear-encoded mitochondrial proteins such as TFAM (mitochondrial transcription factor A), and its potential epigenetic modulation through sperm DNA methylation. We evaluate general population and clinic-based studies linking sperm mtDNAcn to semen quality, couple fecundity, and early embryo development, while highlighting methodological considerations such as quantification techniques and somatic cell contamination.\n\nSEARCH METHODS: A literature search was conducted to identify human studies evaluating sperm mtDNAcn in relation to male fertility, semen quality, reproductive outcomes, and embryology outcomes, as well as experimental models investigating the underlying biological mechanisms of mtDNA regulation during spermatogenesis via TFAM up to 1 April 2026. Searches were performed in PubMed, Web of Science, and Scopus using combinations of keywords and Medical Subject Headings (MeSH), including sperm mitochondrial DNA copy number, mtDNAcn, male infertility, pregnancy outcomes, ART outcomes, semen quality, sperm epigenetics, TFAM, mitochondrial transcription factor A, and sperm mtDNA regulation. Reference lists of relevant reviews and primary articles were manually screened to identify additional studies. Eligible studies included observational epidemiologic studies, clinical cohort studies, and experimental investigations that quantified sperm mtDNAcn and examined associations with semen parameters, fertility outcomes, or sperm epigenetics. No restrictions were placed on geographic location, while only articles published in English were considered.\n\nOUTCOMES: Across 21 epidemiologic, experimental, and clinical studies, elevated sperm mtDNAcn has been consistently associated with reduced sperm quality and inconsistently associated with diminished couple-level reproductive potential. Higher mtDNAcn is associated with lower sperm concentration, total sperm count, motility, and normal morphology, as well as higher sperm DNA fragmentation and chromatin abnormalities. It has also been linked to reduced likelihood of pregnancy and poorer embryo quality. Emerging evidence indicates associations between sperm mtDNAcn and altered nuclear DNA methylation patterns, supporting a role for mitochondrial-nuclear crosstalk. Collectively, these findings position sperm mtDNAcn as a biologically informative and clinically relevant indicator of male reproductive health that may complement, or potentially enhance, traditional semen analysis in both research and clinical settings.\n\nWIDER IMPLICATIONS: Sperm mtDNAcn holds promise as a biomarker for male fertility assessment, yet its full clinical potential has not been yet to be realized. Establishing standardized measurement protocols across sperm fractions and laboratory platforms will be essential for enabling cross-study comparability and facilitating clinical translation. Large prospective studies are needed to define clinically meaningful thresholds and better characterize the relationship between mtDNAcn alterations and spermatogenic impairment. Intervention strategies targeting mtDNA biogenesis and depletion, including antioxidant strategies and mitochondria-directed pharmacotherapy, warrant further investigation in the context of male fertility and fecundity. Collectively, sperm mtDNAcn may serve as an adjunctive marker in the assessment of male reproductive health and may inform future precision medicine approaches.\n\nREGISTRATION NUMBER: N/A.",
+      "doi": "10.1093/humupd/dmag013",
+      "matched_searches": [
+        "sperm_dna_fragmentation",
+        "antioxidant_culture_media"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42172631/",
+      "doi_url": "https://doi.org/10.1093/humupd/dmag013"
+    },
+    {
+      "pmid": "42169621",
+      "title": "Combined effects of urine exposure and cryopreservation on sperm quality: an in vitro study of retrograde ejaculation.",
+      "journal": "Asian J Androl",
+      "pub_date": "2026-05-22",
+      "authors": [
+        "Liang MJ",
+        "Li QY",
+        "Pang T",
+        "Liu H",
+        "Wang QL",
+        "Zhou YY",
+        "Zhuang JM",
+        "Zhang Y"
+      ],
+      "abstract": "Sperm quality influences fertility and offspring health through both genomic inheritance and epigenetic inheritance. Thus, for use in clinical-assisted reproductive technology (ART), spermatozoa must have optimal genomic and epigenetic structures. In patients with retrograde ejaculation, spermatozoa are usually recovered from urine and then cryopreserved for ART. However, the effects of urine exposure and subsequent freeze-thaw cycles on sperm quality remain unclear. This is particularly true for epigenetic changes and their underlying mechanisms. In this study, we examined how different durations of urine exposure (10 min and 40 min) followed by freeze-thaw cycles affected sperm motility, DNA integrity, and methylation levels of imprinting genes (H19-imprinted maternally expressed transcript [H19], mesoderm-specific transcript [MEST], and the transposable element Alu [Alu]). As the duration of urine exposure increased, sperm motility (median [interquartile range]) decreased from 48.0% (39.0%-52.5%) to 1.0% (1.0%-5.0%), the DNA fragmentation index (DFI; median [interquartile range]) increased from 12.0% (9.3%-19.9%) to 23.5% (13.9%-33.9%), the MEST methylation level (mean \u00b1 standard deviation [s.d.]) increased from 3.8% \u00b1 1.5% to 11.5 \u00b1 1.2%, and the H19 methylation level (mean \u00b1 s.d.) decreased from 86.9% \u00b1 0.9% to 82.1% \u00b1 0.5%. The freeze-thaw process further reduced sperm motility, while the DFI and methylation levels of MEST and H19 did not significantly change. The Alu methylation level remained stable. These findings demonstrate that urine exposure affects sperm motility, DNA integrity, and methylation levels of some imprinting genes. These effects intensify over time. In contrast, the freeze-thaw process impacts only sperm motility. In clinical practice, minimizing exposure to urine might improve sperm quality.",
+      "doi": "10.4103/aja20265",
+      "matched_searches": [
+        "sperm_dna_fragmentation"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42169621/",
+      "doi_url": "https://doi.org/10.4103/aja20265"
+    },
+    {
+      "pmid": "42168713",
+      "title": "A multidimensional follicular profile integrating oxidative stress, apoptosis and PI3K/AKT/mTOR signaling in relation to oocyte developmental competence in in vitro fertilization cycles.",
+      "journal": "J Assist Reprod Genet",
+      "pub_date": "2026-05-22",
+      "authors": [
+        "Korkmaz O",
+        "Karabulut S",
+        "Macit P",
+        "Keskin \u0130"
+      ],
+      "abstract": "PURPOSE: Accurate assessment of oocyte developmental competence remains challenging in IVF, as morphology alone offers limited insight into intrinsic oocyte quality. Emerging evidence indicates that oocyte competence reflects coordinated regulation of the follicular microenvironment rather than a single biomarker. This study aimed to evaluate a multidimensional follicular marker panel integrating oxidative stress parameters, hormonal environment, granulosa cell apoptosis, chromatin integrity and PTEN/PI3K/AKT/mTOR signaling in relation to IVF outcomes.\n\nMETHODS: Thirty women undergoing ICSI were included, yielding a total of 211 oocytes. Individual follicles were analyzed according to oocyte maturity, embryo quality and pregnancy outcome. Follicular fluid oxidative stress parameters (TAC, TOC, OSI and MDA) and hormonal mediators (FSH, AMH, melatonin, TGF-\u03b2 and \u03b2-hCG) were assessed. Granulosa cells were evaluated for DNA fragmentation, chromatin integrity and expression of PTEN/PI3K/AKT/mTOR pathway proteins.\n\nRESULTS: Favorable IVF outcomes were associated with higher total antioxidant capacity and lower oxidative stress index and malondialdehyde levels, alongside reduced granulosa cell DNA fragmentation and improved chromatin integrity (p\u2009<\u20090.05). These outcomes were characterized by increased PI3K and AKT expression with concomitant mTOR suppression, while PTEN, PDK1, TSC1 and TSC2 levels remained unchanged. Follicular FSH and AMH were primarily linked to oocyte maturity, whereas melatonin, TGF-\u03b2 and \u03b2-hCG were elevated in follicles yielding good-quality embryos and positive pregnancy outcomes (p\u2009<\u20090.05).\n\nCONCLUSIONS: Oocyte developmental competence in IVF reflects a coordinated follicular microenvironment integrating oxidative balance, granulosa cell integrity, hormonal regulation, and PI3K/AKT/mTOR signaling, supporting a multidimensional, panel-based framework for integrated follicular assessment.",
+      "doi": "10.1007/s10815-026-03909-y",
+      "matched_searches": [
+        "sperm_dna_fragmentation"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42168713/",
+      "doi_url": "https://doi.org/10.1007/s10815-026-03909-y"
+    },
+    {
+      "pmid": "42165938",
+      "title": "One-step warming procedure improves embryonic development of vitrified mouse oocytes by mitigating mitochondrial damage.",
+      "journal": "J Assist Reprod Genet",
+      "pub_date": "2026-05-21",
+      "authors": [
+        "Wang H",
+        "Li M",
+        "Jiang Q",
+        "Li Q",
+        "Sun X",
+        "Li Y",
+        "Chen X",
+        "Xu J",
+        "Chian RC"
+      ],
+      "abstract": "PURPOSE: To investigate whether the one-step warming (OW) procedure affects oocyte survival and developmental potential after fertilization in vitrified oocytes.\n\nMETHODS: Standard vitrified mouse oocytes were warmed using two different procedures: (1) standard multi-step warming (SW) and (2) one-step warming (OW). The survival rates and early embryonic development potentials of the warmed oocytes were compared following insemination by piezo-ICSI. Spindle integrity of the warmed oocytes was evaluated by \u03b1-tubulin/Hoechst staining, and mitochondrial status was assessed using Mitotracker/JC-1 staining, with mitochondrial damage analyzed by Confocal microscope. Additionally, the apoptosis status of the resulting blastocysts in each group was compared using a TUNEL assay.\n\nRESULTS: The OW procedure maintained oocyte survival and fertilization rates comparable to those of the SW procedure, but significantly (P\u2009<\u20090.05) increased blastocyst development after fertilization. Mechanistic measures revealed that the OW procedure improved embryonic developmental potential by mitigating mitochondrial damage compared with the SW procedure.\n\nCONCLUSIONS: These findings provide a theoretical foundation for optimizing the OW procedure for already vitrified and stored oocytes in ARTs.",
+      "doi": "10.1007/s10815-026-03908-z",
+      "matched_searches": [
+        "sperm_dna_fragmentation",
+        "embryo_arrest_d3_blast"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42165938/",
+      "doi_url": "https://doi.org/10.1007/s10815-026-03908-z"
+    },
+    {
+      "pmid": "42159835",
+      "title": "PGT-A reveals triploid embryos among normally fertilized oocytes: frequency and blastocyst features.",
+      "journal": "J Assist Reprod Genet",
+      "pub_date": "2026-05-20",
+      "authors": [
+        "Nohales M",
+        "Escrib\u00e1 MJ",
+        "Mart\u00edn \u00c1",
+        "Coello A",
+        "Insua F",
+        "Santos MJ"
+      ],
+      "abstract": "INTRODUCTION: With the widespread adoption of blastocyst culture and advances in genetic testing technologies enabling reliable determination of ploidy status, the traditional concept of normal fertilization is being re-evaluated. Although the presence of two pronuclei (2PN) is conventionally considered indicative of normal fertilization, not all 2PN-derived embryos are euploid. A proportion of trophectoderm (TE) biopsies analyzed by next-generation sequencing (NGS) for preimplantation genetic testing for aneuploidy (PGT-A) are identified as triploid.\n\nOBJECTIVES: To determine whether specific morphological and morphokinetic features can differentiate 2PN-derived triploid blastocysts from 2PN-derived euploid blastocysts.\n\nMETHODS: Retrospective study including 3369 cycles from 2666 patients aged 18-45 years who underwent PGT-A with NGS and single-nucleotide polymorphism (SNP) genotyping of TE biopsies at our IVF center from 2019 to 2023. Among 12,395 analyzed blastocysts, 59 were classified as triploid, originated from 57 PGT-A cycles and belonged to 54 patients. Fertilization assessment was reevaluated. Triploid embryos were analyzed according to second polar body extrusion, day of biopsy (day 5 vs. day 6), the quality of the TE and the inner cell mass (ICM), and morphokinetic parameters (cleavage times from 2- to 5-cell stage). Categorical variables were expressed as proportions. Student's t-test was performed for continuous variables, with a P-value\u2009<\u20090.05 considered statistically significant.\n\nRESULTS: Genetic analysis identified 50 triploid blastocysts derived from 2PN zygotes. Two subpopulation of triploid blastocysts were distinguished: 2 PN 2 polar bodies (PB)-derived and 2PN/1 PB-derived blastocysts. Compared to their euploid sibling embryos, triploid embryos demonstrated (a) significant pronuclear dimorphism, characterized by one PN being significantly larger than the other; (b) delayed morphokinetic parameters, exhibiting slower cell division rates starting from the first cleavage division (t2: 28.59\u2009\u00b1\u20093.74 h vs. 25.70\u2009\u00b1\u20092.90 h; t3: 39.76\u2009\u00b1\u20093.48 vs. 36.75\u2009\u00b1\u20093.03 h; t4: 40.75\u2009\u00b1\u20094.07 vs. 37.25\u2009\u00b1\u20093.66 h; t5: 54.85\u2009\u00b1\u20098.07 vs. 46.34\u2009\u00b1\u20095.54 h, respectively; P\u2009<\u20090.05); and (c) reduced embryo quality, with a lower proportion of blastocysts exhibiting high quality TE.\n\nCONCLUSIONS: The findings primarily support increased awareness of triploidy risk among embryos derived from apparently normal (2PN) fertilization. Morphological and morphokinetic parameters, although associated with triploidy, do not provide sufficient discriminatory accuracy to replace direct genetic assessment of ploidy, which remains the only reliable method to exclude triploidy. Most 2PN-derived triploid embryos appear to result from retention of the second polar body, highlighting the importance of accurate fertilization checks with special consideration given to the extrusion of the second PB. This consideration is especially relevant in non-PGT-A cycles or when the testing platform does not permit ploidy determination, as triploidy is the most common form of aneuploidy observed in first-trimester miscarriages. The incidence of triploidy in 2PN zygotes may vary across IVF laboratory settings. Given the limited number of triploid embryos identified, these findings should be interpreted with caution.",
+      "doi": "10.1007/s10815-026-03900-7",
+      "matched_searches": [
+        "blastocyst_grading_outcomes",
+        "time_lapse_morphokinetics"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42159835/",
+      "doi_url": "https://doi.org/10.1007/s10815-026-03900-7"
+    },
+    {
+      "pmid": "42155917",
+      "title": "Can a focus on intracellular signaling assist us with ovarian stimulation in poor-prognosis patients?",
+      "journal": "Fertil Steril",
+      "pub_date": "2026-05-18",
+      "authors": [
+        "Toner JP",
+        "Pirtea P",
+        "de Zieger D"
+      ],
+      "abstract": "Poor ovarian response remains one of the most challenging phenotypes in reproductive medicine. Research suggests that diminished ovarian reserve (DOR), advanced maternal age (AMA), and unexpected poor response (POR) may be due to different pathophysiologies, requiring distinct clinical management. This review focuses on the biological mechanisms that may provide an avenue for improved clinical outcomes by enhancing oocyte quality through more targeted therapy: 1. differing FSH isoforms, 2. FSH dose effects, 3. distinct signaling pathways of LH and hCG, 4. androgen priming, 5. growth hormone, 6. letrozole co-treatment, 7. coenzyme Q10, 8. Platelet-rich plasma and 9. mTOR inhibitors. Basic and clinical evidence is presented, and the therapeutic implications for treatment of the primary defect are explained. Although the clinical evidence is not yet strong for many of these factors, all are biologically plausible. This constitutes a \"call to action\" to correctly evaluate their possible role in improving ART outcomes.",
+      "doi": "10.1016/j.fertnstert.2026.05.149",
+      "matched_searches": [
+        "rapamycin",
+        "growth_hormone_adjuvant"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42155917/",
+      "doi_url": "https://doi.org/10.1016/j.fertnstert.2026.05.149"
+    }
+  ]
+}

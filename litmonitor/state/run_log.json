@@ -119,5 +119,23 @@
       "endometrial_receptivity_era": 1,
       "haploid_embryos_decondensation": 1
     }
+  },
+  {
+    "run_at": "2026-05-25T10:36:36Z",
+    "mode": "weekly",
+    "since": "2026-05-16",
+    "new_papers": 8,
+    "total_seen": 1684,
+    "digest_filename": "digest_2026-05-25.md",
+    "topic_counts": {
+      "embryo_arrest_d3_blast": 2,
+      "recurrent_implantation_failure": 1,
+      "sperm_dna_fragmentation": 4,
+      "antioxidant_culture_media": 1,
+      "blastocyst_grading_outcomes": 1,
+      "time_lapse_morphokinetics": 1,
+      "rapamycin": 1,
+      "growth_hormone_adjuvant": 1
+    }
   }
 ]

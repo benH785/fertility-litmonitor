@@ -1,5 +1,22 @@
 [
   {
+    "filename": "digest_2026-05-25.json",
+    "digest_date": "2026-05-25",
+    "generated_at": "2026-05-25T10:36:36Z",
+    "mode": "weekly",
+    "paper_count": 8,
+    "topic_counts": {
+      "embryo_arrest_d3_blast": 2,
+      "recurrent_implantation_failure": 1,
+      "sperm_dna_fragmentation": 4,
+      "antioxidant_culture_media": 1,
+      "blastocyst_grading_outcomes": 1,
+      "time_lapse_morphokinetics": 1,
+      "rapamycin": 1,
+      "growth_hormone_adjuvant": 1
+    }
+  },
+  {
     "filename": "digest_2026-05-18.json",
     "digest_date": "2026-05-18",
     "generated_at": "2026-05-18T10:33:52Z",
