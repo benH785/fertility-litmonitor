@@ -1,5 +1,19 @@
 [
   {
+    "filename": "digest_2026-06-01.json",
+    "digest_date": "2026-06-01",
+    "generated_at": "2026-06-01T10:48:53Z",
+    "mode": "weekly",
+    "paper_count": 6,
+    "topic_counts": {
+      "one_pn_embryos": 1,
+      "sperm_dna_fragmentation": 2,
+      "sperm_dna_double_strand": 1,
+      "zymot_microfluidic": 1,
+      "haploid_embryos_decondensation": 1
+    }
+  },
+  {
     "filename": "digest_2026-05-25.json",
     "digest_date": "2026-05-25",
     "generated_at": "2026-05-25T10:36:36Z",

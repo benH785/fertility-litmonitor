@@ -1,0 +1,287 @@
+{
+  "digest_date": "2026-06-01",
+  "generated_at": "2026-06-01T10:48:53Z",
+  "mode": "weekly",
+  "window_start": "2026-05-23",
+  "paper_count": 6,
+  "topic_counts": {
+    "one_pn_embryos": 1,
+    "sperm_dna_fragmentation": 2,
+    "sperm_dna_double_strand": 1,
+    "zymot_microfluidic": 1,
+    "haploid_embryos_decondensation": 1
+  },
+  "topics": {
+    "agonist_vs_dual_trigger": {
+      "label": "Dual vs agonist trigger",
+      "priority": "high"
+    },
+    "agonist_trigger_suboptimal": {
+      "label": "Suboptimal agonist trigger response",
+      "priority": "high"
+    },
+    "premature_ovulation": {
+      "label": "Premature ovulation",
+      "priority": "high"
+    },
+    "lead_follicle_oversize": {
+      "label": "Lead follicle size & trigger timing",
+      "priority": "high"
+    },
+    "zymot_microfluidic": {
+      "label": "ZyMot / microfluidic sperm selection",
+      "priority": "high"
+    },
+    "sperm_dna_fragmentation": {
+      "label": "Sperm DNA fragmentation (single-strand) & ART",
+      "priority": "high"
+    },
+    "sperm_dna_double_strand": {
+      "label": "Sperm double-strand DNA damage",
+      "priority": "high"
+    },
+    "tese_high_dfi": {
+      "label": "TESE for high DFI",
+      "priority": "high"
+    },
+    "pgta_advanced_age": {
+      "label": "PGT-A in advanced maternal age",
+      "priority": "high"
+    },
+    "blastocyst_grading_outcomes": {
+      "label": "Blastocyst grading & outcomes",
+      "priority": "medium"
+    },
+    "antagonist_protocol_normoresponder": {
+      "label": "Antagonist protocol in normo-responders",
+      "priority": "medium"
+    },
+    "intercycle_interval": {
+      "label": "Inter-cycle interval",
+      "priority": "low"
+    },
+    "methylation_mthfr_art": {
+      "label": "MTHFR / methylation & ART",
+      "priority": "high"
+    },
+    "one_pn_embryos": {
+      "label": "1PN / abnormal fertilisation",
+      "priority": "high"
+    },
+    "ss31_elamipretide": {
+      "label": "SS-31 / elamipretide & fertility",
+      "priority": "high"
+    },
+    "rapamycin": {
+      "label": "Rapamycin / sirolimus & fertility",
+      "priority": "high"
+    },
+    "embryo_arrest_d3_blast": {
+      "label": "Embryo arrest & blastulation",
+      "priority": "high"
+    },
+    "antioxidant_culture_media": {
+      "label": "Antioxidant culture media",
+      "priority": "high"
+    },
+    "growth_hormone_adjuvant": {
+      "label": "Growth hormone adjuvant in IVF",
+      "priority": "medium"
+    },
+    "time_lapse_morphokinetics": {
+      "label": "Time-lapse / morphokinetic embryo selection",
+      "priority": "medium"
+    },
+    "duostim_luteal_phase": {
+      "label": "DuoStim / luteal-phase stimulation",
+      "priority": "high"
+    },
+    "picsi_hyaluronan_binding": {
+      "label": "PICSI / hyaluronan binding sperm selection",
+      "priority": "medium"
+    },
+    "imsi_high_mag_morphology": {
+      "label": "IMSI / high-magnification sperm morphology",
+      "priority": "medium"
+    },
+    "endometrial_receptivity_era": {
+      "label": "Endometrial receptivity testing (ERA / ER-Map)",
+      "priority": "medium"
+    },
+    "recurrent_implantation_failure": {
+      "label": "Recurrent implantation failure",
+      "priority": "high"
+    },
+    "haploid_embryos_decondensation": {
+      "label": "Haploid embryos & sperm decondensation",
+      "priority": "high"
+    },
+    "varicocele_embolisation_ivf": {
+      "label": "Varicocele embolisation & IVF",
+      "priority": "high"
+    },
+    "choline_pemt_pregnancy": {
+      "label": "Choline / PEMT & pregnancy",
+      "priority": "medium"
+    },
+    "methylfolate_vs_folic_acid_ivf": {
+      "label": "Methylfolate vs folic acid in IVF",
+      "priority": "medium"
+    }
+  },
+  "journals_monitored": [
+    "Hum Reprod",
+    "Hum Reprod Update",
+    "Hum Reprod Open",
+    "Fertil Steril",
+    "F S Rep",
+    "F S Sci",
+    "Reprod Biomed Online",
+    "J Assist Reprod Genet",
+    "Reprod Biol Endocrinol",
+    "Hum Fertil (Camb)",
+    "Reprod Sci",
+    "Andrology",
+    "Mol Hum Reprod",
+    "Reproduction",
+    "Biol Reprod",
+    "Reprod Fertil Dev",
+    "Asian J Androl",
+    "Andrologia"
+  ],
+  "papers": [
+    {
+      "pmid": "42128672",
+      "title": "Impact of repeated ovulation induction and superovulation on ovarian reserve and early embryo development in obese and PCOS-like mouse models.",
+      "journal": "Reprod Fertil Dev",
+      "pub_date": "2026-05-29",
+      "authors": [
+        "Kunhiraman JP",
+        "Dcunha R",
+        "Madhvacharya VV",
+        "R VL",
+        "Venkatraman G",
+        "Shah NR",
+        "Kumar A",
+        "Adiga SK",
+        "Kannan N",
+        "Kalthur G"
+      ],
+      "abstract": "CONTEXT: Women with obesity or polycystic ovary syndrome (PCOS) often require repeated ovulation induction (OI) due to ovulatory dysfunction and infertility. However, the cumulative effects of repeated stimulation on ovarian function and embryo development remain poorly understood.\n\nAIMS: The present study aimed to understand the consequences of repeated OI and/or repeated superovulation (SO) on preimplantation embryonic development in obese (high-fat diet-induced) and PCOS (high-fat diet and dehydroepiandrosterone-induced) mouse models.\n\nMETHODS: Control (without any metabolic disorder), obese, and PCOS mice were divided into three experimental groups. The mice in one round of superovulation (SO1) were injected with 5 IU intraperitoneal (i.p.) injection of pregnant mare serum gonadotropin, followed by 10 IU of human chorionic gonadotropin 48\u00a0h later. In the repeated superovulation (SO3) group, mice were subjected to three rounds of superovulation with a gap of 9\u00a0days between each superovulation. Mice in the OI3\u00a0+\u00a0SO3 group were administered with three doses of CC (50\u00a0mg/kg body weight, i.p., gap of 9\u00a0days between each CC injection), followed by three rounds of superovulation.\n\nKEY RESULTS: Both single and three rounds of superovulation resulted in decrease in primordial follicles and a moderate increase in atretic follicles in obese and PCOS mice. Reduction in the number of ovulated oocytes, increased rate of abnormal fertilization, decrease in blastocyst rate and elevated DNA damage in blastocysts were observed in in vitro fertilization-derived embryos.\n\nCONCLUSIONS: These findings demonstrate compromised embryonic development following repeated ovarian stimulation.\n\nIMPLICATIONS: The study highlights need for mild ovarian stimulation strategies in metabolically compromised patients undergoing infertility treatments.",
+      "doi": "10.1071/RD26037",
+      "matched_searches": [
+        "one_pn_embryos"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42128672/",
+      "doi_url": "https://doi.org/10.1071/RD26037"
+    },
+    {
+      "pmid": "42206761",
+      "title": "Pharmacologic and Nutritional Therapies in Idiopathic Male Infertility: A Systematic Review and Meta-Analysis.",
+      "journal": "Andrology",
+      "pub_date": "2026-05-28",
+      "authors": [
+        "Melhem SJ",
+        "Melhem M",
+        "Haddad R",
+        "Alghurabi O",
+        "Mousa R",
+        "Massad E",
+        "Almomani H",
+        "Alrashdan Y",
+        "Melhem J"
+      ],
+      "abstract": "BACKGROUND: Pharmacologic and nutritional therapies are prescribed for men with idiopathic infertility, but their effectiveness by intervention class remains uncertain.\n\nOBJECTIVES: To evaluate these interventions on semen parameters and clinical pregnancy in men with idiopathic infertility, stratified by mechanism of action.\n\nMATERIALS AND METHODS: We searched PubMed, Embase, Scopus, Cochrane CENTRAL, ClinicalTrials.gov, and Google Scholar (January 2010 to January 2026) for randomized controlled trials comparing pharmacologic or nutritional interventions with placebo or no treatment in men with idiopathic infertility. Semen parameters were the primary outcomes, analyzed by mechanism of action using three-level random-effects models with Knapp-Hartung adjustment. Certainty of evidence was assessed using GRADE.\n\nPROSPERO: CRD420261289976.\n\nRESULTS: Forty-one RCTs (3615 men) were included. Antioxidants were associated with higher sperm concentration (SMD: 1.09, 95% CI: 0.10 to 2.08), progressive motility (SMD: 1.11, 95% CI: 0.32 to 1.90), total motility (SMD: 0.69, 95% CI: 0.26 to 1.13), and normal morphology (SMD: 0.43, 95% CI: 0.05 to 0.82); prediction intervals crossed the null for all. PDE inhibitors showed numerically higher point estimates for concentration (SMD: 1.96, 95% CI: -2.25 to 6.17) and morphology (SMD: 1.28, 95% CI: -0.47 to 3.02); methyl donors reduced DNA fragmentation (SMD: -1.17, 95% CI: -2.82 to 0.47). Confidence intervals for these included the null. Heterogeneity was substantial (I2 > 80%). Hormonal agents and clinical pregnancy were synthesized narratively.\n\nDISCUSSION: Pooled estimates represent averages of diverse effects; individual patient responses remain uncertain given wide prediction intervals.\n\nCONCLUSION: Antioxidants were associated with higher values for several semen parameters, though certainty was very low and prediction intervals were wide. PDE inhibitors and methyl donors showed numerically positive point estimates but with confidence intervals that included the null. Larger trials reporting live births are needed.",
+      "doi": "10.1111/andr.70266",
+      "matched_searches": [
+        "sperm_dna_fragmentation"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42206761/",
+      "doi_url": "https://doi.org/10.1111/andr.70266"
+    },
+    {
+      "pmid": "42200911",
+      "title": "Protective Efficacy of Met-Ser-Arg Against Irradiation-Related Testicular Injury\u2020.",
+      "journal": "Biol Reprod",
+      "pub_date": "2026-05-27",
+      "authors": [
+        "Wang H",
+        "Duan N",
+        "Sun L",
+        "Ran Y",
+        "Luo Y",
+        "Xu Y",
+        "Cui F",
+        "Yan Y",
+        "Xue B",
+        "Chen Q",
+        "Liu X"
+      ],
+      "abstract": "Ionizing radiation poses a significant risk to male fertility by inducing testicular damage, yet effective protective strategies remain limited. The tripeptide Met-Ser-Arg (MSA) has demonstrated potential in alleviating radiation-induced oxidative stress and lipid metabolic disorders, prompting investigation into its protective effects on the male reproductive system. Male BALB/c mice were exposed to X-ray irradiation (0.5 Gy/day for 5 days) to establish a testicular injury model, followed by MSA treatment. Testicular structure and function were evaluated through histology, electron microscopy, computer-assisted sperm analysis (CASA), and quantitative PCR. MSA significantly alleviated radiation-induced testicular damage, restoring the structural integrity and function of spermatogenesis tubules while increasing both the height of the spermatogenic epithelium and germ cell number. Sperm quality and motility were markedly improved, and the expression of several sperm cell molecular markers was favorably adjusted. Mechanistic investigations revealed that MSA regulated lipid metabolism by upregulating fatty acid \u03b2-oxidation enzymes, including ACSL3 and CPT1A, while downregulating the lipid synthase DGAT2, thereby reducing lipid droplet accumulation. MSA also attenuated radiation-induced reactive oxygen species and malondialdehyde levels, enhanced antioxidant capacity through upregulation of NRF2 and HO-1, and preserved mitochondrial structure and function via upregulation of PGC1A. Furthermore, MSA reduced apoptosis by lowering the levels of Cleaved-caspase 3 and \u03b3H2AX. Collectively, these findings demonstrate that MSA ameliorates radiation-induced testicular injury and improves sperm quality through coordinated regulation of lipid metabolism, antioxidant pathway activation, mitochondrial protection, and apoptosis inhibition, providing a theoretical basis for its potential clinical application in the context of radiotherapy.",
+      "doi": "10.1093/biolre/ioag110",
+      "matched_searches": [
+        "sperm_dna_double_strand"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42200911/",
+      "doi_url": "https://doi.org/10.1093/biolre/ioag110"
+    },
+    {
+      "pmid": "42190118",
+      "title": "Thigmotactic navigation and functional enrichment of boar sperm in microfluidic channels.",
+      "journal": "Reproduction",
+      "pub_date": "2026-05-26",
+      "authors": [
+        "Dabiri M",
+        "Bampton TL",
+        "Bathgate R",
+        "de Graaf SP",
+        "Warkiani ME"
+      ],
+      "abstract": "Efficient sperm selection is crucial for reproductive success in pigs, where artificial insemination (AI) is the main method of assisted reproduction. Traditional methods such as density gradient centrifugation (DGC) can enrich motile sperm but may cause mechanical and oxidative stress and do not replicate the natural filters of the sow's reproductive tract. This study assessed a biomimetic microfluidic (MF) device, previously validated in cattle, sheep, and dogs, for enrichment of high-quality spermatozoa from chilled boar ejaculates (n\u2009=\u200918). Unprocessed extended semen (RAW), DGC, and MF samples were evaluated for concentration, CASA kinematics, viability, morphology, acrosome integrity, DNA fragmentation (sperm chromatin structure assay, SCSA), and thigmotactic navigation. MF processing yielded a lower concentration (5.73 \u00b1 2.22 \u00d7 106/mL) than RAW (65.20 \u00b1 23.33 \u00d7 106/mL) and DGC (22.68 \u00b1 10.95 \u00d7 106/mL; both p\u2009<\u20090.0001), an \u223c11-fold reduction consistent with functional enrichment. MF sperm showed higher total motility (91.0% vs 77.4% DGC, 67.1% RAW), progressive motility (74.8% vs 59.6% and 33.1%; 2.2-fold over RAW), intact acrosomes (81.4% vs 71.9% and 62.6%), and lower DNA fragmentation (0.77% vs 1.68% and 4.38%; \u223c5.7-fold reduction versus RAW; all p\u2009<\u20090.0001). Angular microchannels revealed graded thigmotaxis, with navigation success decreasing from 95.8% at 45\u00b0 to 87.9% at 90\u00b0 and 69.4% at 135\u00b0, comparable to bull and dog but lower than ram (89.1% at 135\u00b0). Biomimetic microfluidics isolates functionally superior boar sperm, offering a pump-free alternative to centrifugation with potential to enhance AI and in vitro embryo production.",
+      "doi": "10.1093/reprod/xaag067",
+      "matched_searches": [
+        "zymot_microfluidic"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42190118/",
+      "doi_url": "https://doi.org/10.1093/reprod/xaag067"
+    },
+    {
+      "pmid": "42189963",
+      "title": "Seminal Ubiquitin as an Independent Predictor of Severe Sperm Damage and ICSI Outcomes: Evidence for a Redox-Proteostasis Axis in Male Infertility.",
+      "journal": "Biol Reprod",
+      "pub_date": "2026-05-26",
+      "authors": [
+        "Korkmaz O",
+        "Karabulut S",
+        "Macit P"
+      ],
+      "abstract": "Oxidative stress plays a central role in male infertility by inducing lipid peroxidation, DNA damage, and activation of sperm quality control mechanisms. However, the integrated relationship between oxidative stress, genomic damage, cellular stress response, and ubiquitin-mediated sperm elimination remains unclear. This study evaluated seminal plasma levels of malondialdehyde (MDA), 8-hydroxy-2'-deoxyguanosine (8-OHdG), clusterin, and ubiquitin across distinct infertility phenotypes and assessed their predictive value. A total of 132 men were stratified into four groups based on sperm morphology and DNA fragmentation index (DFI): fertile normozoospermic, isolated teratozoospermia, isolated high DFI, and combined structural-genomic impairment. Biomarker concentrations were determined using enzyme-linked immunosorbent assay (ELISA). All biomarkers increased progressively across infertility phenotypes (p < 0.001). Ubiquitin showed the strongest correlation with DFI (r = 0.71, p < 0.001) and remained the only independent predictor in multivariate linear regression (\u03b2 = 0.41, p = 0.002). It also independently predicted the severe combined phenotype in logistic regression (OR = 1.19, 95% CI: 1.07-1.33, p = 0.001), with high discriminative performance (AUC = 0.88). In ICSI cycles, elevated seminal ubiquitin levels were independently associated with reduced clinical pregnancy rates (adjusted OR = 0.74, p = 0.001) and improved model discrimination beyond female age and DFI (AUC 0.78-0.86). These findings support a redox-genomic damage-proteostasis axis in male infertility and identify ubiquitin as an integrative biomarker of severe sperm damage with clinical relevance beyond conventional semen analysis.",
+      "doi": "10.1093/biolre/ioag112",
+      "matched_searches": [
+        "sperm_dna_fragmentation"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42189963/",
+      "doi_url": "https://doi.org/10.1093/biolre/ioag112"
+    },
+    {
+      "pmid": "42186024",
+      "title": "Endometriosis disrupts oocyte metabolism and cortical granule function, impairing fertilization.",
+      "journal": "Reprod Biol Endocrinol",
+      "pub_date": "2026-05-25",
+      "authors": [
+        "Klinsky OG",
+        "Wetten PA",
+        "Romani JE",
+        "Abraham EC",
+        "Michaut MA"
+      ],
+      "abstract": "BACKGROUND: Endometriosis is a chronic inflammatory disease strongly associated with reduced oocyte quality and subfertility, yet the underlying cytoplasmic defects remain poorly understood.\n\nMETHODS: Using a surgically induced autologous mouse model, we examined whether endometriosis alters oocyte metabolism, cortical granule (CG) biology, actin architecture, SNARE-regulated exocytosis, fertilization, and early embryonic activation.\n\nRESULTS: Endometriosis markedly increased intracellular reactive oxygen species and altered quinacrine-positive acidic vesicular compartments in ovulated oocytes. Although CG localization was preserved, endometriotic oocytes failed to undergo strontium chloride-induced CG exocytosis. These defects correlated with a significantly thickened cortical F-actin cytoskeleton and a substantial reduction in \u03b1-SNAP and NSF levels-two essential regulators of SNARE complex disassembly and membrane fusion. Functionally, endometriotic oocytes exhibited decreased fertilization rates without evidence of polyspermy, while their ability to undergo TPEN-induced parthenogenetic activation and second polar body extrusion remained unchanged.\n\nCONCLUSIONS: These findings demonstrate that endometriosis impairs multiple aspects of cytoplasmic maturation-metabolic homeostasis, actin remodeling, and CG exocytotic machinery-ultimately reducing sperm-oocyte fusion efficiency while preserving early embryonic activation capacity. This mechanistic insight provides a foundation for understanding how endometriosis compromises oocyte competence.",
+      "doi": "10.1186/s12958-026-01571-8",
+      "matched_searches": [
+        "haploid_embryos_decondensation"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42186024/",
+      "doi_url": "https://doi.org/10.1186/s12958-026-01571-8"
+    }
+  ]
+}
