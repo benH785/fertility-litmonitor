@@ -1,0 +1,349 @@
+{
+  "digest_date": "2026-06-08",
+  "generated_at": "2026-06-08T10:39:39Z",
+  "mode": "weekly",
+  "window_start": "2026-05-30",
+  "paper_count": 8,
+  "topic_counts": {
+    "one_pn_embryos": 3,
+    "time_lapse_morphokinetics": 3,
+    "embryo_arrest_d3_blast": 3,
+    "recurrent_implantation_failure": 1,
+    "antagonist_protocol_normoresponder": 1,
+    "pgta_advanced_age": 1,
+    "tese_high_dfi": 1
+  },
+  "topics": {
+    "agonist_vs_dual_trigger": {
+      "label": "Dual vs agonist trigger",
+      "priority": "high"
+    },
+    "agonist_trigger_suboptimal": {
+      "label": "Suboptimal agonist trigger response",
+      "priority": "high"
+    },
+    "premature_ovulation": {
+      "label": "Premature ovulation",
+      "priority": "high"
+    },
+    "lead_follicle_oversize": {
+      "label": "Lead follicle size & trigger timing",
+      "priority": "high"
+    },
+    "zymot_microfluidic": {
+      "label": "ZyMot / microfluidic sperm selection",
+      "priority": "high"
+    },
+    "sperm_dna_fragmentation": {
+      "label": "Sperm DNA fragmentation (single-strand) & ART",
+      "priority": "high"
+    },
+    "sperm_dna_double_strand": {
+      "label": "Sperm double-strand DNA damage",
+      "priority": "high"
+    },
+    "tese_high_dfi": {
+      "label": "TESE for high DFI",
+      "priority": "high"
+    },
+    "pgta_advanced_age": {
+      "label": "PGT-A in advanced maternal age",
+      "priority": "high"
+    },
+    "blastocyst_grading_outcomes": {
+      "label": "Blastocyst grading & outcomes",
+      "priority": "medium"
+    },
+    "antagonist_protocol_normoresponder": {
+      "label": "Antagonist protocol in normo-responders",
+      "priority": "medium"
+    },
+    "intercycle_interval": {
+      "label": "Inter-cycle interval",
+      "priority": "low"
+    },
+    "methylation_mthfr_art": {
+      "label": "MTHFR / methylation & ART",
+      "priority": "high"
+    },
+    "one_pn_embryos": {
+      "label": "1PN / abnormal fertilisation",
+      "priority": "high"
+    },
+    "ss31_elamipretide": {
+      "label": "SS-31 / elamipretide & fertility",
+      "priority": "high"
+    },
+    "rapamycin": {
+      "label": "Rapamycin / sirolimus & fertility",
+      "priority": "high"
+    },
+    "embryo_arrest_d3_blast": {
+      "label": "Embryo arrest & blastulation",
+      "priority": "high"
+    },
+    "antioxidant_culture_media": {
+      "label": "Antioxidant culture media",
+      "priority": "high"
+    },
+    "growth_hormone_adjuvant": {
+      "label": "Growth hormone adjuvant in IVF",
+      "priority": "medium"
+    },
+    "time_lapse_morphokinetics": {
+      "label": "Time-lapse / morphokinetic embryo selection",
+      "priority": "medium"
+    },
+    "duostim_luteal_phase": {
+      "label": "DuoStim / luteal-phase stimulation",
+      "priority": "high"
+    },
+    "picsi_hyaluronan_binding": {
+      "label": "PICSI / hyaluronan binding sperm selection",
+      "priority": "medium"
+    },
+    "imsi_high_mag_morphology": {
+      "label": "IMSI / high-magnification sperm morphology",
+      "priority": "medium"
+    },
+    "endometrial_receptivity_era": {
+      "label": "Endometrial receptivity testing (ERA / ER-Map)",
+      "priority": "medium"
+    },
+    "recurrent_implantation_failure": {
+      "label": "Recurrent implantation failure",
+      "priority": "high"
+    },
+    "haploid_embryos_decondensation": {
+      "label": "Haploid embryos & sperm decondensation",
+      "priority": "high"
+    },
+    "varicocele_embolisation_ivf": {
+      "label": "Varicocele embolisation & IVF",
+      "priority": "high"
+    },
+    "choline_pemt_pregnancy": {
+      "label": "Choline / PEMT & pregnancy",
+      "priority": "medium"
+    },
+    "methylfolate_vs_folic_acid_ivf": {
+      "label": "Methylfolate vs folic acid in IVF",
+      "priority": "medium"
+    }
+  },
+  "journals_monitored": [
+    "Hum Reprod",
+    "Hum Reprod Update",
+    "Hum Reprod Open",
+    "Fertil Steril",
+    "F S Rep",
+    "F S Sci",
+    "Reprod Biomed Online",
+    "J Assist Reprod Genet",
+    "Reprod Biol Endocrinol",
+    "Hum Fertil (Camb)",
+    "Reprod Sci",
+    "Andrology",
+    "Mol Hum Reprod",
+    "Reproduction",
+    "Biol Reprod",
+    "Reprod Fertil Dev",
+    "Asian J Androl",
+    "Andrologia"
+  ],
+  "papers": [
+    {
+      "pmid": "42252050",
+      "title": "Cost effectiveness of routine utilisation of atypically-pronucleated zygotes in IVF cycles with preimplantation genetic testing.",
+      "journal": "Fertil Steril",
+      "pub_date": "2026-06-06",
+      "authors": [
+        "Capalbo A",
+        "Mulas F",
+        "Cavagnola R",
+        "Paraboschi EM",
+        "Caroselli S",
+        "Spath K",
+        "Rienzi L",
+        "Vaiarelli A",
+        "Ubaldi FM",
+        "Guido M",
+        "Morelli M",
+        "Coticchio G",
+        "Cozzolino M",
+        "De Los Santos Molina MJ",
+        "Bravo VV",
+        "Maggiulli R",
+        "Cimadomo D",
+        "Ottolini CS"
+      ],
+      "abstract": "OBJECTIVE: To evaluate the cost-effectiveness of including embryos derived from atypically-pronucleated zygotes (APZs) in IVF cycles with preimplantation genetic testing for aneuploidy (PGT-A), compared with standard use of only typically fertilised (2PN) embryos.\n\nDESIGN: Model-based cost-effectiveness analysis using retrospective clinical data.\n\nSUBJECTS: Data were derived from two clinical embryology datasets from a private IVF centre in Italy, comprising 8,334 intracytoplasmic sperm injection (ICSI) cycles with PGT-A (2015-2022) and 826 ICSI cycles with time-lapse monitoring (2013-2020).\n\nEXPOSURE: A decision-tree model compared two IVF strategies over up to two treatment cycles: (1) standard selection of euploid blastocysts derived exclusively from 2PN zygotes and (2) inclusion of PGT-A-confirmed euploid blastocysts derived from APZs (1PN or \u22653PN) in addition to 2PN embryos.\n\nMAIN OUTCOME MEASURES: The primary effectiveness outcome was the probability of achieving at least one live birth per treatment pathway, and costs reflected patient out-of-pocket expenses. Incremental cost-effectiveness ratios (ICERs) were calculated against a patient-derived willingness-to-pay (WTP) threshold of \u20ac422.25 per 1% absolute increase in live-birth probability. Deterministic (\u00b120% parameter variation) and probabilistic (10,000 Monte Carlo simulations) sensitivity analyses evaluated parameter uncertainty and the robustness and transferability of results across clinical and economic settings, with subgroup analyses by maternal age and embryo availability.\n\nRESULTS: Inclusion of APZ-derived euploid blastocysts increased cumulative live-birth probability from 0.7294 to 0.7436 (absolute increase 1.42%) while marginally reducing mean treatment cost (\u20ac12,737.92 vs \u20ac12,749.49), resulting in a cost saving of \u20ac11.57 per couple. Across all sensitivity analyses and subgroups, the APZ-inclusive strategy consistently demonstrated higher effectiveness with lower costs or favourable ICERs, remaining economically dominant or cost-effective within the predefined WTP threshold. Notably, higher treatment costs further enhanced the relative cost-effectiveness of APZ utilisation by increasing the economic value of incremental gains in live-birth probability.\n\nCONCLUSIONS: Inclusion of PGT-A-confirmed euploid APZ-derived blastocysts improves IVF live-birth outcomes at lower or comparable cost and remains cost-effective across diverse clinical and economic scenarios. This is particularly relevant in healthcare systems with higher IVF and PGT-A costs, supporting routine integration of APZ-derived embryos as a generalisable and economically efficient approach.",
+      "doi": "10.1016/j.fertnstert.2026.06.012",
+      "matched_searches": [
+        "one_pn_embryos",
+        "time_lapse_morphokinetics"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42252050/",
+      "doi_url": "https://doi.org/10.1016/j.fertnstert.2026.06.012"
+    },
+    {
+      "pmid": "42252047",
+      "title": "Preimplantation embryos that arrest in vitro: phenotypes, causes and possible therapies.",
+      "journal": "Fertil Steril",
+      "pub_date": "2026-06-06",
+      "authors": [
+        "Cimadomo D",
+        "Isernia M",
+        "Summers MC",
+        "Currie CE",
+        "Rienzi L",
+        "Ottolini CS"
+      ],
+      "abstract": "This review examines the biological basis of human preimplantation embryo developmental arrest, a major limiting factor in reproductive success both in vivo and in vitro. It integrates morphological, genetic, and environmental evidence to hypothesize the origins and consequences of early embryonic failure. Abnormal cleavage-stage phenotypes, including multinucleation, atypical division patterns, and fragmentation, emerge prior to embryonic genome activation and reflect disruptions in mitotic fidelity, chromosome segregation, and cytoskeletal dynamics. These early defects often propagate leading to developmental arrest. Post-genome activation abnormalities, such as blastomere exclusion and impaired blastocyst expansion, represent downstream manifestations of earlier cellular dysfunction. While meiotic aneuploidy contributes primarily to implantation failure and miscarriage rather than in vitro arrest, maternal-effect gene mutations and defects in oocyte-derived molecular machinery further compromise developmental competence. Extrinsic factors related to culture conditions can modulate embryo viability and must be kept under control via strict adherence to international benchmark values for laboratory key performance indicators. Yet, it appears we have reached a plateau in our capacity to improve outcomes, although upcoming automation can further enhance standardization in IVF performance across operators and clinics. Emerging approaches integrating AI-assisted time-lapse imaging with genomic analysis offer new opportunities for high-resolution phenotyping and causal inference. Finally, the review highlights future putative therapeutic strategies aimed at improving mitotic fidelity, particularly through modulation of microtubule dynamics during the first embryonic division, as a promising avenue to enhance blastocyst formation and ultimately IVF success rates.",
+      "doi": "10.1016/j.fertnstert.2026.06.003",
+      "matched_searches": [
+        "embryo_arrest_d3_blast",
+        "time_lapse_morphokinetics",
+        "recurrent_implantation_failure"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42252047/",
+      "doi_url": "https://doi.org/10.1016/j.fertnstert.2026.06.003"
+    },
+    {
+      "pmid": "42249370",
+      "title": "Optimal selection of ovarian stimulation protocol for infertile women with diminished ovarian reserve based on Bologna and POSEIDON criteria: a network meta-analysis.",
+      "journal": "Reprod Biol Endocrinol",
+      "pub_date": "2026-06-05",
+      "authors": [
+        "Zhu T",
+        "Zhang J",
+        "Zhang X",
+        "Zhou Y",
+        "Wang C",
+        "Qian Y",
+        "Liu J",
+        "Zhou D",
+        "Jiang J",
+        "Meng Y"
+      ],
+      "abstract": "BACKGROUND: Patients with diminished ovarian reserve (DOR) present a significant challenge in assisted reproductive technology due to their poor ovarian response and lower pregnancy rates. Although multiple ovarian stimulation protocols are available, the optimal regimen for DOR patients remains uncertain, largely due to population heterogeneity and inconsistent outcome reporting.\n\nPURPOSE: To compare the efficacy of five commonly used controlled ovarian stimulation protocols, including GnRH agonist, GnRH antagonist, mild stimulation, progestin-primed ovarian stimulation (PPOS), and double ovarian stimulation (DOS), in patients with DOR, using a network meta-analysis stratified by Bologna and POSEIDON criteria.\n\nMETHODS: This was a systematic review and network meta-analysis including randomized controlled trials and retrospective cohort studies identified through searches of PubMed, Cochrane Library, Web of Science, and Embase from inception to November 2024. The analysis involved studies comparing various controlled ovarian hyperstimulation (COH) regimens in DOR patients. The included studies enrolled women diagnosed with DOR based on Bologna or POSEIDON criteria. The primary outcome was live birth rate at the first embryo transfer (ET) cycle, while secondary outcomes included the number of oocytes retrieved, clinical pregnancy rate at first ET, cumulative live birth rate, and cycle cancellation rate. Network meta-analyses were performed using STATA V.14.0 and R V.4.3.2 to compare outcomes across different stimulation protocols within stratified patient groups.\n\nRESULTS: In the Bologna group, the double ovarian stimulation (DOS) protocol demonstrated significantly higher effectiveness in terms of live birth rates. Additionally, it yielded higher oocyte counts and clinical pregnancy rates, while also resulting in lower cycle cancellation rates. However, under the POSEIDON criteria, the results varied. For patients categorized in POSEIDON group 3, the GnRH agonist protocol achieved the highest live birth rate, significantly outperforming mild stimulation (OR 7.69, 95% CI: 3.57-16.67) and GnRH antagonist (OR 1.97, 95% CI: 1.36-2.85). The GnRH agonist protocol also led in oocyte retrieval, cumulative live birth rate, and clinical pregnancy rate, and showed a lower cycle cancellation risk. In contrast, for POSEIDON group 4 patients, no significant differences in live birth rates, clinical pregnancy rates or cycle cancellation risk were observed among protocols. While DOS resulted in higher oocyte retrieval than other protocols, GnRH agonist showed a higher cumulative live birth rate than GnRH antagonist (OR 1.25, 95% CI: 1.04-1.50).\n\nCONCLUSIONS: This analysis highlights the importance of individualized stimulation protocols based on patient stratification. For DOR patients, especially those classified using POSEIDON criteria, tailoring ovarian stimulation strategies could enhance clinical outcomes. Future prospective trials are warranted to refine protocol recommendations for specific DOR subgroups.",
+      "doi": "10.1186/s12958-026-01573-6",
+      "matched_searches": [
+        "antagonist_protocol_normoresponder"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42249370/",
+      "doi_url": "https://doi.org/10.1186/s12958-026-01573-6"
+    },
+    {
+      "pmid": "42242296",
+      "title": "Clinical outcomes and euploidy rates of embryos derived from zygotes with nonpronuclear (0PN) and monopronuclear (1PN) in IVF or ICSI cycles: a systematic review and meta-analysis.",
+      "journal": "Hum Reprod Update",
+      "pub_date": "2026-06-04",
+      "authors": [
+        "Chan HW",
+        "Wang CC",
+        "Chan DYL"
+      ],
+      "abstract": "BACKGROUND: During routine fertilization checks, the presence of two pronuclei (2PN) with two polar bodies is generally regarded as normal fertilization. Nonpronuclear (0PN) zygotes often suggest failed fertilization, but some do cleave and develop into viable embryos due to delayed appearances of pronuclei that were originally missed. Monopronuclear (1PN) zygotes may result from a lack of maternal or paternal pronuclei, fusion of pronuclei, or asynchronous appearance of pronuclei. These embryos may sometimes be transferred when no others are available.\n\nOBJECTIVE AND RATIONALE: Current evidence on the euploidy rates (ER) and clinical outcomes of embryos derived from 0PN and 1PN zygotes is discordant across publications, resulting in conflicting conclusions regarding whether they are suitable for transfer. This review aims to present an updated synthesis of current knowledge regarding the potential adverse outcomes associated with 0PN and 1PN embryo transfers and to identify important gaps that should be addressed in future studies.\n\nSEARCH METHODS: CENTRAL, Embase, Fertility and Sterility, MEDLINE, and PubMed databases were searched on 10 November 2025 using the keywords '0PN embryo' and '1PN embryo'. All types of studies, except case reports and reviews, were included if they compared 0PN/1PN with 2PN zygotes in women of any age undergoing IVF/ICSI cycles, followed by single embryo transfer (SET) and/or preimplantation genetic testing for aneuploidy (PGT-A). Pronuclear status was assessed 16-18\u2009h post insemination. Only data from SET cycles were included for embryo transfer outcomes.\n\nOUTCOMES: Eleven studies reporting on 37\u00a0240 SET cycles and 27\u00a0195 biopsied blastocysts were included. Compared to 2PN embryos, those derived from 0PN zygotes showed no significant differences in live birth rate (LBR) (OR\u2009=\u20090.94, 95% CI\u2009=\u20090.83-1.06, P\u2009=\u20090.33, I2 = 2%), clinical pregnancy rate (CPR) (OR\u2009=\u20090.96, 95% CI\u2009=\u20090.85-1.08, P\u2009=\u20090.48, I2 = 0%), miscarriage rate (MR) (OR\u2009=\u20091.04, 95% CI\u2009=\u20090.84-1.29, P\u2009=\u20090.70, I2 = 0%), malformation rate (OR\u2009=\u20091.05, 95% CI\u2009=\u20090.45-2.45, P\u2009=\u20090.91, I2 = 0%), and ER (OR\u2009=\u20090.86, 95% CI\u2009=\u20090.50-1.48, P\u2009=\u20090.59, I2=63%). However 0PN-derived embryos had a significantly lower blastulation rate (OR\u2009=\u20090.34, 95% CI\u2009=\u20090.17-0.68, P\u2009=\u20090.002; I2 = 99%). Compared to 2PN, 1PN embryos showed a significantly lower LBR (OR\u2009=\u20090.83, 95% CI\u2009=\u20090.70-0.98, P\u2009=\u20090.03, I2\u2009=\u200912%), CPR (OR\u2009=\u20090.81, 95% CI\u2009=\u20090.68-0.96, P\u2009=\u20090.01, I2\u2009=\u200922%), and blastulation rate (OR\u2009=\u20090.26, 95% CI = 0.14-0.48, P\u2009<\u20090.001; I2\u2009=\u200996%), but a similar MR (OR\u2009=\u20091.34, 95% CI\u2009=\u20090.76-2.37, P\u2009=\u20090.31, I2\u2009=\u200967%), malformation rate (OR\u2009=\u20090.46, 95% CI\u2009=\u20090.16-1.32, P\u2009=\u20090.15, I2\u2009=\u20090%), and ER (OR\u2009=\u20091.05, 95% CI\u2009=\u20090.70-1.58, P\u2009=\u20090.80, I2\u2009=\u200966%).\n\nWIDER IMPLICATIONS: In the meta-analysis, both 0PN- and 1PN-derived embryos showed no significant differences in rates of euploidy, miscarriage, and malformations compared to 2PN-derived embryos. However, clinical pregnancy and LBRs were significantly lower for 1PN, but not 0PN, embryos than for 2PN embryos. These findings suggest that 0PN-, and possibly even 1PN-, derived embryos, especially those that have undergone PGT-A, may represent a viable source for embryo transfer in certain clinical settings, particularly in cases where 2PN embryos are limited or unavailable.\n\nREGISTRATION NUMBER: CRD42024546685.",
+      "doi": "10.1093/humupd/dmag015",
+      "matched_searches": [
+        "pgta_advanced_age",
+        "one_pn_embryos",
+        "embryo_arrest_d3_blast"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42242296/",
+      "doi_url": "https://doi.org/10.1093/humupd/dmag015"
+    },
+    {
+      "pmid": "42248233",
+      "title": "Understanding and addressing oocyte maturation failure and failed or abnormal fertilization during oocyte-to-zygote transition.",
+      "journal": "Fertil Steril",
+      "pub_date": "2026-06-04",
+      "authors": [
+        "Coticchio G",
+        "Taggi M",
+        "Innocenti F",
+        "Rienzi L"
+      ],
+      "abstract": "The transition from an immature oocyte to a normally fertilized zygote is a perilous bridge between gamete and embryo life. Failure can occur during oocyte maturation or in the multiple steps required for fertilization. In assisted reproduction cycles, a proportion of retrieved oocytes are found at the prophase I or metaphase I (MI) stages. These oocytes can be cultured in the attempt to assist the progression to metaphase II (MII) stage, and therefore achievement of meiotic maturation, in vitro. However, the absence of robust culture systems considerably limits the rates of oocyte maturation in vitro and the full acquisition of developmental potential of rescued oocytes. Developmental failure can also occur during the sperm-oocyte interactions that lead to the formation of the zygote. Fertilization can fail entirely; in such cases failed fertilized oocytes can be treated by ICSI during the first 24 hours from the initial insemination. Fertilization and developmental rates of re-inseminated oocytes are sub-optimal, but clinically significant outcome rates can be achieved. Fertilization can also occur atypically, generating - not bipronuclear (2PN) - but monopronuclear (1PN) and tripronuclear (3PN) zygotes. Especially 1PN zygotes, if capable to develop to the blastocyst stage, have notable chances to be biparental diploid. Therefore, They can be cultured at the blastocyst stage and, ideally, undergo chromosomal testing to assess their suitability for clinical use. This range of possibilities for oocyte and zygote rescue are attracting increasing interest, especially for the treatment of cases in which one extra embryo can have a significant impact on clinical outcome.",
+      "doi": "10.1016/j.fertnstert.2026.06.001",
+      "matched_searches": [
+        "one_pn_embryos"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42248233/",
+      "doi_url": "https://doi.org/10.1016/j.fertnstert.2026.06.001"
+    },
+    {
+      "pmid": "42244126",
+      "title": "Induction of Male Neogametogenesis in a Three-Dimensional Microenvironment Supporting Successful Fertilization and Proper Embryo Development.",
+      "journal": "Mol Hum Reprod",
+      "pub_date": "2026-06-04",
+      "authors": [
+        "Lari E",
+        "Ng L",
+        "Xie P",
+        "Cheung S",
+        "Bains S",
+        "Rosenwaks Z",
+        "Palermo GD"
+      ],
+      "abstract": "In regenerative medicine, several attempts have been made to produce functional de novo gametes from mouse embryonic stem cells by utilizing 3D culture systems. We attempted to perform neogametogensis in a novel 3D niche to generate neo-gametes ready to be used for insemination. Mouse embryonic stem cells (ESCs) were initially cultured on a gelatin-coated 6-well plate with a monolayer of fibroblasts before being encapsulated in sodium alginate spheres. These spheres were then immersed in specially formulated epiblast like-cell (EpiLC) followed by primordial germ cell-like cell (PGCLC) medium to promote differentiation into germ-like cells. Over the course of differentiation, immunofluorescence analysis revealed consistent expression patterns of spermatogenic markers. Cells were assessed for DAZL (early germ cell marker) VASA (spermatocyte), BOULE (post-meiotic) and acrosin (spermatid). The differentiated cells were then injected into oocytes and activated by calcium ionophore. Embryo development was monitored via time-lapse microscopy. Spherified neogametes on D(day)22, 29, and 36 achieved fertilization rates of 61.1%, 82.7%, and 80.0%, respectively, and blastulation rates of 20.5%, 36.0%, 26.3%, respectively. Controls exhibited fertilization rates of 89.1% and blastulation rates of 76.3%. When embryo morphokinetics were considered, D29 embryos reached compaction at 64\u2009h and blastulation at 77\u2009h, mirroring closely the control's timing of 63\u2009h and 77\u2009h, respectively. D 22 embryos displayed the most delayed embryo development, of which compaction occurred at 68\u2009h and blastulation at 106\u2009h. Despite normal fertilization and successful blastulation, the efficiency rate remained below optimal levels. Nevertheless, our system could produce viable offspring, demonstrating that replicating the three-dimensional seminiferous tubule environment is crucial for generating artificial gametes. This eliminates the need for allo-/xeno-genic transplantation in experimental animals.",
+      "doi": "10.1093/molehr/gaag036",
+      "matched_searches": [
+        "time_lapse_morphokinetics"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42244126/",
+      "doi_url": "https://doi.org/10.1093/molehr/gaag036"
+    },
+    {
+      "pmid": "42242640",
+      "title": "DNA Methylation Abnormalities at Imprinted Loci in Oligospermic and Azoospermic Men.",
+      "journal": "F S Sci",
+      "pub_date": "2026-06-03",
+      "authors": [
+        "Ng R",
+        "Louie K",
+        "Pitigalaarachchige S",
+        "Pradhan A",
+        "Poon K",
+        "Chow V",
+        "Ma S"
+      ],
+      "abstract": "OBJECTIVE: To assess DNA methylation at imprinted and repetitive genomic regions in ejaculated and testicular sperm from men with oligospermia, azoospermia, and those undergoing vasectomy reversal, compared with fertile controls.\n\nDESIGN: Observational case-control study.\n\nSUBJECTS: Samples were obtained from 68 men, including 29 infertile men (18 oligospermic [5-15 million/mL], 11 severely oligospermic [<5 million/mL]) and 20 fertile controls with confirmed natural conceptions. Testicular tissue was collected from 11 azoospermic men (7 obstructive azoospermia [OA], 4 non-obstructive azoospermia [NOA]) and 8 men with prior paternity undergoing vasectomy reversal (VR).\n\nEXPOSURE: Sperm DNA methylation at four imprinted genes (H19, GTL2, MEST, LIT1) and one repetitive element (LINE1).\n\nMAIN OUTCOME MEASURES: Methylation levels at CpG sites determined by bisulfite pyrosequencing.\n\nRESULTS: H19 was significantly hypomethylated only in severe oligospermia compared to fertile controls, while other groups showed non-significant trends with overlapping distributions. In contrast, MEST was significantly hypermethylated in oligospermic, azoospermic, and VR groups compared with fertile controls. No significant differences were observed for GTL2, LIT1, or LINE1.\n\nCONCLUSION: DNA methylation abnormalities in sperm are locus-specific and vary across infertility phenotypes. MEST alterations were consistent across groups, whereas H19 changes were limited to severe oligospermia. Similar methylation patterns in testicular sperm from azoospermic and vasectomy reversal groups suggest that epigenetic alterations may reflect the testicular environment or obstruction, or differences between testicular and ejaculated sperm.",
+      "doi": "10.1016/j.xfss.2026.05.006",
+      "matched_searches": [
+        "tese_high_dfi"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42242640/",
+      "doi_url": "https://doi.org/10.1016/j.xfss.2026.05.006"
+    },
+    {
+      "pmid": "42222905",
+      "title": "A comprehensive review for defining cut-off values of oocyte, zygote, and embryo maturation arrest (OZEMA) due to maternal-effect genes: towards the establishment of clinical criteria.",
+      "journal": "Hum Reprod",
+      "pub_date": "2026-06-01",
+      "authors": [
+        "Van Der Kelen A",
+        "Okutman \u00d6",
+        "Serdarogullari M",
+        "Dequeker BJH",
+        "Javey E",
+        "Capalbo A",
+        "Lang C",
+        "Kakourou G",
+        "Konstantinou E",
+        "Mulas F",
+        "Sermon K",
+        "Verpoest W",
+        "Viville S"
+      ],
+      "abstract": "STUDY QUESTION: Which clinical definition of oocyte, zygote, and embryo maturation arrest (OZEMA) merits genetic investigation?\n\nSUMMARY ANSWER: The diagnosis OZEMA is considered when: only two mature oocytes are obtained from six cumulus-oocyte complexes (COCs), only one zygote is obtained from six metaphase II oocytes (MIIs), or no blastocysts are obtained from six two-pronuclei zygotes (2PNs).\n\nWHAT IS KNOWN ALREADY: OZEMA is a cover term for various defects, including oocyte abnormalities, fertilization failure, cleavage arrest, and abnormal embryo development, often associated with specific genetic variants. While some variants in specific genes are associated with distinct phenotypes, others commonly display variable expressivity across cycles and patients. Currently, there are no standardized cut-off values defining the OZEMA disorder.\n\nSTUDY DESIGN, SIZE, DURATION: This is a pooled secondary analysis of aggregated data extracted from published studies. A PubMed search was conducted to identify peer-reviewed original studies in the human reporting genetically confirmed cases of OZEMA. Studies were included if patients had displayed OZEMA in at least two medically assisted reproduction (MAR) cycles. In total, clinical and genetic data were extracted from 132 publications, including 521 patients and 39 genes.\n\nPARTICIPANTS/MATERIALS, SETTING, METHODS: Clinical phenotypes from 132 publications were classified into oocyte maturation arrest (OMA), zona pellucida abnormality (ZPA), fertilization failure (FF), zygote arrest (ZA), early embryo arrest (EEA), mixed phenotypes, and other abnormalities. Data at both cycle and patient levels were evaluated using ratios corresponding to key developmental milestones (ratio of MII/COC, 2PN/MII, cleaved embryos/2PN, blastocysts/2PN). These ratios were compared with the expected values Vienna Consensus binomial modeling to assess whether the observed proportions were significantly lower than the established competency thresholds (P\u2009<\u20090.05).\n\nMAIN RESULTS AND THE ROLE OF CHANCE: This review identified 39 OZEMA-associated genes. Analysis of 668 cycles from 253 patients carrying variants in 35 genes showed abnormal developmental outcomes in 93%, based on binomial modeling. Reliable diagnosis of OZEMA requires a sufficient number of COCs, MIIs, or 2PNs to distinguish true developmental impairment from normal biological variation. When these minimal thresholds are not reached, statistical power is insufficient to reliably confirm developmental arrest. Based on our findings, OZEMA is diagnosed when only two or fewer mature oocytes form from six COCs, one or no zygote forms from six MIIs, or no blastocysts form from six 2PNs.\n\nLIMITATIONS, REASONS FOR CAUTION: This study is limited by its retrospective design and reliance exclusively on published data from women selected for poor IVF outcomes and the presence of variants in candidate OZEMA genes, which may introduce publication bias and reporting heterogeneity. Therefore, this study does not report on genetic yield from women with normal IVF outcomes. Variability in clinical protocols and genetic testing methods, limited ancestral diversity, and missing data across studies could contribute to confounding factors.\n\nWIDER IMPLICATIONS OF THE FINDINGS: This study is an important step toward understanding the clinical and genetic spectrum of OZEMA, highlighting the variability of and overlap between affected subphenotypes. Establishing cut-off values against consensus oocyte and embryo developmental competency levels provides a benchmark for more accurate classification. Importantly, this represents the most comprehensive analysis of published OZEMA cases with genetic variants to date, strengthening the reliability of the proposed clinical thresholds. These findings may guide personalized treatment strategies and genetic counseling, ultimately improving outcomes in MAR.\n\nSTUDY FUNDING/COMPETING INTEREST(S): No funding was received for this study. The authors declare no competing interests.\n\nREGISTRATION NUMBER: Not applicable.",
+      "doi": "10.1093/humrep/deag072",
+      "matched_searches": [
+        "embryo_arrest_d3_blast"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42222905/",
+      "doi_url": "https://doi.org/10.1093/humrep/deag072"
+    }
+  ]
+}

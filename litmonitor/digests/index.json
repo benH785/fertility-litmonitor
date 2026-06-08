@@ -1,5 +1,21 @@
 [
   {
+    "filename": "digest_2026-06-08.json",
+    "digest_date": "2026-06-08",
+    "generated_at": "2026-06-08T10:39:39Z",
+    "mode": "weekly",
+    "paper_count": 8,
+    "topic_counts": {
+      "one_pn_embryos": 3,
+      "time_lapse_morphokinetics": 3,
+      "embryo_arrest_d3_blast": 3,
+      "recurrent_implantation_failure": 1,
+      "antagonist_protocol_normoresponder": 1,
+      "pgta_advanced_age": 1,
+      "tese_high_dfi": 1
+    }
+  },
+  {
     "filename": "digest_2026-06-01.json",
     "digest_date": "2026-06-01",
     "generated_at": "2026-06-01T10:48:53Z",
