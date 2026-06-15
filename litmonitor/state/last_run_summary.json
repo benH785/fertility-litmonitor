@@ -1,17 +1,12 @@
 {
-  "run_at": "2026-06-08T10:39:39Z",
+  "run_at": "2026-06-15T11:09:04Z",
   "mode": "weekly",
-  "since": "2026-05-30",
-  "new_papers": 8,
-  "total_seen": 1698,
-  "digest_filename": "digest_2026-06-08.md",
+  "since": "2026-06-06",
+  "new_papers": 2,
+  "total_seen": 1700,
+  "digest_filename": "digest_2026-06-15.md",
   "topic_counts": {
-    "one_pn_embryos": 3,
-    "time_lapse_morphokinetics": 3,
-    "embryo_arrest_d3_blast": 3,
-    "recurrent_implantation_failure": 1,
-    "antagonist_protocol_normoresponder": 1,
-    "pgta_advanced_age": 1,
-    "tese_high_dfi": 1
+    "duostim_luteal_phase": 1,
+    "endometrial_receptivity_era": 1
   }
 }

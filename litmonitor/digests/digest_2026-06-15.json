@@ -1,0 +1,191 @@
+{
+  "digest_date": "2026-06-15",
+  "generated_at": "2026-06-15T11:09:04Z",
+  "mode": "weekly",
+  "window_start": "2026-06-06",
+  "paper_count": 2,
+  "topic_counts": {
+    "duostim_luteal_phase": 1,
+    "endometrial_receptivity_era": 1
+  },
+  "topics": {
+    "agonist_vs_dual_trigger": {
+      "label": "Dual vs agonist trigger",
+      "priority": "high"
+    },
+    "agonist_trigger_suboptimal": {
+      "label": "Suboptimal agonist trigger response",
+      "priority": "high"
+    },
+    "premature_ovulation": {
+      "label": "Premature ovulation",
+      "priority": "high"
+    },
+    "lead_follicle_oversize": {
+      "label": "Lead follicle size & trigger timing",
+      "priority": "high"
+    },
+    "zymot_microfluidic": {
+      "label": "ZyMot / microfluidic sperm selection",
+      "priority": "high"
+    },
+    "sperm_dna_fragmentation": {
+      "label": "Sperm DNA fragmentation (single-strand) & ART",
+      "priority": "high"
+    },
+    "sperm_dna_double_strand": {
+      "label": "Sperm double-strand DNA damage",
+      "priority": "high"
+    },
+    "tese_high_dfi": {
+      "label": "TESE for high DFI",
+      "priority": "high"
+    },
+    "pgta_advanced_age": {
+      "label": "PGT-A in advanced maternal age",
+      "priority": "high"
+    },
+    "blastocyst_grading_outcomes": {
+      "label": "Blastocyst grading & outcomes",
+      "priority": "medium"
+    },
+    "antagonist_protocol_normoresponder": {
+      "label": "Antagonist protocol in normo-responders",
+      "priority": "medium"
+    },
+    "intercycle_interval": {
+      "label": "Inter-cycle interval",
+      "priority": "low"
+    },
+    "methylation_mthfr_art": {
+      "label": "MTHFR / methylation & ART",
+      "priority": "high"
+    },
+    "one_pn_embryos": {
+      "label": "1PN / abnormal fertilisation",
+      "priority": "high"
+    },
+    "ss31_elamipretide": {
+      "label": "SS-31 / elamipretide & fertility",
+      "priority": "high"
+    },
+    "rapamycin": {
+      "label": "Rapamycin / sirolimus & fertility",
+      "priority": "high"
+    },
+    "embryo_arrest_d3_blast": {
+      "label": "Embryo arrest & blastulation",
+      "priority": "high"
+    },
+    "antioxidant_culture_media": {
+      "label": "Antioxidant culture media",
+      "priority": "high"
+    },
+    "growth_hormone_adjuvant": {
+      "label": "Growth hormone adjuvant in IVF",
+      "priority": "medium"
+    },
+    "time_lapse_morphokinetics": {
+      "label": "Time-lapse / morphokinetic embryo selection",
+      "priority": "medium"
+    },
+    "duostim_luteal_phase": {
+      "label": "DuoStim / luteal-phase stimulation",
+      "priority": "high"
+    },
+    "picsi_hyaluronan_binding": {
+      "label": "PICSI / hyaluronan binding sperm selection",
+      "priority": "medium"
+    },
+    "imsi_high_mag_morphology": {
+      "label": "IMSI / high-magnification sperm morphology",
+      "priority": "medium"
+    },
+    "endometrial_receptivity_era": {
+      "label": "Endometrial receptivity testing (ERA / ER-Map)",
+      "priority": "medium"
+    },
+    "recurrent_implantation_failure": {
+      "label": "Recurrent implantation failure",
+      "priority": "high"
+    },
+    "haploid_embryos_decondensation": {
+      "label": "Haploid embryos & sperm decondensation",
+      "priority": "high"
+    },
+    "varicocele_embolisation_ivf": {
+      "label": "Varicocele embolisation & IVF",
+      "priority": "high"
+    },
+    "choline_pemt_pregnancy": {
+      "label": "Choline / PEMT & pregnancy",
+      "priority": "medium"
+    },
+    "methylfolate_vs_folic_acid_ivf": {
+      "label": "Methylfolate vs folic acid in IVF",
+      "priority": "medium"
+    }
+  },
+  "journals_monitored": [
+    "Hum Reprod",
+    "Hum Reprod Update",
+    "Hum Reprod Open",
+    "Fertil Steril",
+    "F S Rep",
+    "F S Sci",
+    "Reprod Biomed Online",
+    "J Assist Reprod Genet",
+    "Reprod Biol Endocrinol",
+    "Hum Fertil (Camb)",
+    "Reprod Sci",
+    "Andrology",
+    "Mol Hum Reprod",
+    "Reproduction",
+    "Biol Reprod",
+    "Reprod Fertil Dev",
+    "Asian J Androl",
+    "Andrologia"
+  ],
+  "papers": [
+    {
+      "pmid": "42271108",
+      "title": "\"Extended ovarian stimulation\": a prolonged ovarian exposure to gonadotrophins leads to an increase in the oocyte yield-evidence from the DuoStim experience.",
+      "journal": "J Assist Reprod Genet",
+      "pub_date": "2026-06-10",
+      "authors": [
+        "La Marca A",
+        "Capuzzo M"
+      ],
+      "abstract": "The recent better understanding of folliculogenesis throughout the ovarian cycle (the \"continuous/waves\" theory), as well as the improvement of embryo survival rates after vitrification (which permits untangling the timing of embryo transfer from ovarian stimulation and oocyte yield) has permitted to elevate ovarian stimulation from the old classic single stimulation starting in the early follicular phase to novel strategies of ovarian stimulation, such as random start, luteal phase, and double ovarian stimulation. The role of FSH in follicular recruitment and growth is well known and is the cornerstone of ovarian stimulation. Prolonged exposure to FSH, as it happens in the double stimulation protocol, may lead to a potential increase in the number of oocytes obtainable after the second stimulation. A very high number of studies on DuoStim showed a greater number of oocytes retrieved, expressed as cumulus-oocyte complexes (COCs) or mature oocytes (MIIs), in the second ovarian stimulation rather than the first ovarian stimulation. This was particularly significant when a GnRH agonist was used to trigger the ovulation. Different hypotheses can be formulated to explain this eventuality including increased synchronization of antral follicles at the time of the second stimulation, enhanced granulosa cell sensitivity to FSH, the flare-up effect of the GnRH agonist at the time of the first triggering, and an increased rate of progression of small follicles to the antral recruitable stage as a consequence of the prolonged exposure to gonadotropins. The evidence that repeated back-to-back ovarian stimulations could lead to a progressive increase in the number of oocytes retrieved reported in our review opens the way to the consideration of innovative stimulation protocols based on this new concept of \"Extended ovarian stimulation.\" If future prospective studies designed on purpose will confirm our thesis that the prolonged FSH stimulation would involve a clear gain in the number of oocytes retrieved, this strategy could become the first therapeutic choice when the goal is to maximize the oocyte yield.",
+      "doi": "10.1007/s10815-026-03922-1",
+      "matched_searches": [
+        "duostim_luteal_phase"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42271108/",
+      "doi_url": "https://doi.org/10.1007/s10815-026-03922-1"
+    },
+    {
+      "pmid": "42270032",
+      "title": "Reproductive Outcomes in Programmed Ovulatory versus Modified Natural Cycle FET: A Propensity Score-Matched Analysis of Prospective and Retrospective Cohorts.",
+      "journal": "Fertil Steril",
+      "pub_date": "2026-06-10",
+      "authors": [
+        "Edimiris P",
+        "Tekesin T",
+        "Hamala N",
+        "Eggersmann TK",
+        "Griesinger G",
+        "Kruessel JS",
+        "Baston-Buest DM",
+        "Bielfeld AP"
+      ],
+      "abstract": "OBJECTIVE: To compare reproductive outcomes between a recently introduced programmed ovulatory frozen-thawed embryo transfer protocol (PO-FET), designed to avoid hCG trigger administration while providing additional progestin support, and the widely used modified natural cycle (mNC) FET.\n\nDESIGN: Single-center study with prospective enrollment for PO-FET cycles and retrospective data collection for mNC-FET cycles. Propensity score matching was applied to balance baseline characteristics between groups.\n\nSUBJECTS: A total of 662 normo-ovulatory women undergoing a single frozen-thawed blastocyst transfer between January 2021 and November 2023. After matching, 170 PO-FET cycles and 170 mNC-FET cycles were analyzed.\n\nEXPOSURE: The PO-FET protocol involved administration of oral dydrogesterone (30 mg daily) in the late follicular phase to induce endometrial receptivity, schedule embryo transfer, and provide luteal phase support, while allowing spontaneous ovulation without the use of recombinant human chorionic gonadotropin (hCG). In contrast, the mNC-FET protocol used recombinant hCG to trigger ovulation, followed by luteal phase support with progestin.\n\nMAIN OUTCOME MEASURES: The primary outcome was live birth rate. Secondary outcomes included clinical pregnancy, biochemical pregnancy, and miscarriage rates. Logistic regression models adjusting for maternal age, BMI, and embryo quality assessed the association between treatment protocol and outcomes.\n\nRESULTS: No significant differences were observed between the mNC-FET and PO-FET groups in live birth rates (35.29% vs 28.82%; OR 1.35, 95% CI 0.83-2.19, p=0.245). Clinical pregnancy rates were 41.18% following mNC-FET and 32.94% following PO-FET (OR 1.42, 95% CI 0.89-2.27, p=0.144), while biochemical pregnancy occurred in 18.84% vs 17.65% of cases, respectively (OR 0.92, 95% CI 0.37-2.30, p=1.000). Miscarriage rates were 14.29% in mNC-FET cycles compared to 12.50% in PO-FET cycles (OR 1.17, 95% CI 0.37-3.89, p=0.800). Logistic regression analysis confirmed that the endometrial preparation protocol (PO-FET vs mNC-FET) was not significantly associated with live birth (OR 1.38, 95% CI 0.86-2.23, p=0.179).\n\nCONCLUSIONS: Treatment outcomes did not differ significantly between PO-FET and mNC-FET regimens, suggesting that hCG may be unnecessary and that the protocol choice can align with patient and clinician preferences in a population of normo-ovulatory women.",
+      "doi": "10.1016/j.fertnstert.2026.06.015",
+      "matched_searches": [
+        "endometrial_receptivity_era"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42270032/",
+      "doi_url": "https://doi.org/10.1016/j.fertnstert.2026.06.015"
+    }
+  ]
+}

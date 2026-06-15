@@ -1,5 +1,16 @@
 [
   {
+    "filename": "digest_2026-06-15.json",
+    "digest_date": "2026-06-15",
+    "generated_at": "2026-06-15T11:09:04Z",
+    "mode": "weekly",
+    "paper_count": 2,
+    "topic_counts": {
+      "duostim_luteal_phase": 1,
+      "endometrial_receptivity_era": 1
+    }
+  },
+  {
     "filename": "digest_2026-06-08.json",
     "digest_date": "2026-06-08",
     "generated_at": "2026-06-08T10:39:39Z",
