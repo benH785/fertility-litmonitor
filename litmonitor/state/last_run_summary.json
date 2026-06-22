@@ -1,12 +1,15 @@
 {
-  "run_at": "2026-06-15T11:09:04Z",
+  "run_at": "2026-06-22T10:59:48Z",
   "mode": "weekly",
-  "since": "2026-06-06",
-  "new_papers": 2,
-  "total_seen": 1700,
-  "digest_filename": "digest_2026-06-15.md",
+  "since": "2026-06-13",
+  "new_papers": 4,
+  "total_seen": 1704,
+  "digest_filename": "digest_2026-06-22.md",
   "topic_counts": {
-    "duostim_luteal_phase": 1,
-    "endometrial_receptivity_era": 1
+    "endometrial_receptivity_era": 1,
+    "lead_follicle_oversize": 1,
+    "antioxidant_culture_media": 1,
+    "haploid_embryos_decondensation": 1,
+    "recurrent_implantation_failure": 1
   }
 }

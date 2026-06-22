@@ -1,0 +1,252 @@
+{
+  "digest_date": "2026-06-22",
+  "generated_at": "2026-06-22T10:59:48Z",
+  "mode": "weekly",
+  "window_start": "2026-06-13",
+  "paper_count": 4,
+  "topic_counts": {
+    "endometrial_receptivity_era": 1,
+    "lead_follicle_oversize": 1,
+    "antioxidant_culture_media": 1,
+    "haploid_embryos_decondensation": 1,
+    "recurrent_implantation_failure": 1
+  },
+  "topics": {
+    "agonist_vs_dual_trigger": {
+      "label": "Dual vs agonist trigger",
+      "priority": "high"
+    },
+    "agonist_trigger_suboptimal": {
+      "label": "Suboptimal agonist trigger response",
+      "priority": "high"
+    },
+    "premature_ovulation": {
+      "label": "Premature ovulation",
+      "priority": "high"
+    },
+    "lead_follicle_oversize": {
+      "label": "Lead follicle size & trigger timing",
+      "priority": "high"
+    },
+    "zymot_microfluidic": {
+      "label": "ZyMot / microfluidic sperm selection",
+      "priority": "high"
+    },
+    "sperm_dna_fragmentation": {
+      "label": "Sperm DNA fragmentation (single-strand) & ART",
+      "priority": "high"
+    },
+    "sperm_dna_double_strand": {
+      "label": "Sperm double-strand DNA damage",
+      "priority": "high"
+    },
+    "tese_high_dfi": {
+      "label": "TESE for high DFI",
+      "priority": "high"
+    },
+    "pgta_advanced_age": {
+      "label": "PGT-A in advanced maternal age",
+      "priority": "high"
+    },
+    "blastocyst_grading_outcomes": {
+      "label": "Blastocyst grading & outcomes",
+      "priority": "medium"
+    },
+    "antagonist_protocol_normoresponder": {
+      "label": "Antagonist protocol in normo-responders",
+      "priority": "medium"
+    },
+    "intercycle_interval": {
+      "label": "Inter-cycle interval",
+      "priority": "low"
+    },
+    "methylation_mthfr_art": {
+      "label": "MTHFR / methylation & ART",
+      "priority": "high"
+    },
+    "one_pn_embryos": {
+      "label": "1PN / abnormal fertilisation",
+      "priority": "high"
+    },
+    "ss31_elamipretide": {
+      "label": "SS-31 / elamipretide & fertility",
+      "priority": "high"
+    },
+    "rapamycin": {
+      "label": "Rapamycin / sirolimus & fertility",
+      "priority": "high"
+    },
+    "embryo_arrest_d3_blast": {
+      "label": "Embryo arrest & blastulation",
+      "priority": "high"
+    },
+    "antioxidant_culture_media": {
+      "label": "Antioxidant culture media",
+      "priority": "high"
+    },
+    "growth_hormone_adjuvant": {
+      "label": "Growth hormone adjuvant in IVF",
+      "priority": "medium"
+    },
+    "time_lapse_morphokinetics": {
+      "label": "Time-lapse / morphokinetic embryo selection",
+      "priority": "medium"
+    },
+    "duostim_luteal_phase": {
+      "label": "DuoStim / luteal-phase stimulation",
+      "priority": "high"
+    },
+    "picsi_hyaluronan_binding": {
+      "label": "PICSI / hyaluronan binding sperm selection",
+      "priority": "medium"
+    },
+    "imsi_high_mag_morphology": {
+      "label": "IMSI / high-magnification sperm morphology",
+      "priority": "medium"
+    },
+    "endometrial_receptivity_era": {
+      "label": "Endometrial receptivity testing (ERA / ER-Map)",
+      "priority": "medium"
+    },
+    "recurrent_implantation_failure": {
+      "label": "Recurrent implantation failure",
+      "priority": "high"
+    },
+    "haploid_embryos_decondensation": {
+      "label": "Haploid embryos & sperm decondensation",
+      "priority": "high"
+    },
+    "varicocele_embolisation_ivf": {
+      "label": "Varicocele embolisation & IVF",
+      "priority": "high"
+    },
+    "choline_pemt_pregnancy": {
+      "label": "Choline / PEMT & pregnancy",
+      "priority": "medium"
+    },
+    "methylfolate_vs_folic_acid_ivf": {
+      "label": "Methylfolate vs folic acid in IVF",
+      "priority": "medium"
+    }
+  },
+  "journals_monitored": [
+    "Hum Reprod",
+    "Hum Reprod Update",
+    "Hum Reprod Open",
+    "Fertil Steril",
+    "F S Rep",
+    "F S Sci",
+    "Reprod Biomed Online",
+    "J Assist Reprod Genet",
+    "Reprod Biol Endocrinol",
+    "Hum Fertil (Camb)",
+    "Reprod Sci",
+    "Andrology",
+    "Mol Hum Reprod",
+    "Reproduction",
+    "Biol Reprod",
+    "Reprod Fertil Dev",
+    "Asian J Androl",
+    "Andrologia"
+  ],
+  "papers": [
+    {
+      "pmid": "42315758",
+      "title": "Natural versus artificial cycle for endometrial preparation in ovulatory women undergoing frozen-thawed embryo transfer: a randomised controlled trial.",
+      "journal": "Hum Reprod",
+      "pub_date": "2026-06-19",
+      "authors": [
+        "Geysenbergh B",
+        "Debrock S",
+        "Lie Fong S",
+        "Vanhie A",
+        "Tomassetti C",
+        "Bafort C",
+        "Meeuwis L",
+        "Neyens S",
+        "Pelckmans S",
+        "Laenen A",
+        "Vriens J",
+        "De Loecker P",
+        "Dancet E",
+        "Peeraer K"
+      ],
+      "abstract": "STUDY QUESTION: Does a natural cycle result in higher clinical pregnancy rates (CPR) with foetal heartbeat compared to an artificial cycle for frozen-thawed embryo transfer (FET) preparation in ovulatory women?\n\nSUMMARY ANSWER: The CPR with foetal heartbeat did not differ between natural and artificial cycles in ovulatory women undergoing FET.\n\nWHAT IS KNOWN ALREADY: Several protocols for endometrial preparation have been developed for the increasing number of FET cycles in reproductive medicine. In natural cycle FET (NC-FET), spontaneous ovulation is used to time the embryo thawing and transfer, while in artificial cycle FET (AC-FET), endometrial preparation involves sequential oestrogen and progesterone administration. Current evidence on pregnancy rates does not favour one regimen over the other in women with regular ovulatory cycles.\n\nSTUDY DESIGN, SIZE, DURATION: We conducted a multicentre, open-label, randomised trial comparing NC-FET with AC-FET across five Belgian fertility centres. Between October 2018 and October 2024, 561 women were randomised (1:1) using a computer-generated allocation after written informed consent. The primary outcome was CPR with foetal heartbeat per cycle analysed on an intention-to-treat basis. Secondary outcomes included endometrial thickness, number of clinic visits for FET cycle monitoring and the rates of (biochemical) pregnancy, ongoing pregnancy, live birth, miscarriage, ectopic pregnancy, multiple pregnancy and cycle cancellation. Obstetric outcomes were recorded for all ongoing pregnancies.\n\nPARTICIPANTS/MATERIALS, SETTING, METHODS: Women aged 18-45 with regular ovulatory cycles and normal uterine cavities undergoing FET after vitrification and warming of one or two day-3 embryos or blastocysts were included. In NC-FET, spontaneous ovulation was detected by serial ultrasounds and serum LH and oestradiol measurements. In AC-FET, oestradiol valerate (6\u2009mg/day) was administered from cycle day 2 (increased to 8\u2009mg/day after 1 week if endometrial thickness was <7\u2009mm) and micronized progesterone (600\u2009mg/day) was initiated once endometrial thickness reached \u22657\u2009mm.\n\nMAIN RESULTS AND THE ROLE OF CHANCE: Clinical pregnancy rates with foetal heartbeat were similar between NC-FET and AC-FET in both intention-to-treat (33.1% [94/284] vs 28.9% [80/277]; RR 1.15, 95% CI 0.89, 1.47) and as-treated analyses (34.3% [97/283] vs 31.8% [77/242]; RR 1.08, 95% CI 0.85, 1.38). Cycle cancellations were less frequent in NC-FET (3.9% vs 9.4%; RR 0.41, 95% CI 0.21, 0.82), but NC-FET required more monitoring visits (mean 3.0 vs 2.4; P\u2009=\u20090.0002). Caesarean section was more common after AC-FET (42.7% vs 20.2%; P\u2009=\u20090.003). Other reproductive, obstetric, and perinatal outcomes did not differ significantly between groups.\n\nLIMITATIONS, REASONS FOR CAUTION: The sample size was powered to detect a difference in CPR with foetal heartbeat, not for comparing live birth rates or obstetric outcomes. The study was performed in ovulatory women undergoing FET, and therefore, results may not be applicable to other populations.\n\nWIDER IMPLICATIONS OF THE FINDINGS: This RCT demonstrates no significant difference in CPR with foetal heartbeat in NC-FET and AC-FET in ovulatory women. Given recent data suggesting higher obstetric risks with AC-FET, NC-FET may be preferred in women with normal ovulatory cycles.\n\nSTUDY FUNDING/COMPETING INTEREST(S): The study was an investigator-initiated study supported by internal KU Leuven funding (Project number C14/18/106 and C14/24/152) and funding from the Research Foundation Flanders (G.084515N and G.0B1819N to J.V.). K.P. has received grants from Ferring. C.B. has received speaker fees from Gedeon Richter, paid to her institution; travel support from Gedeon Richter, Ferring Pharmaceuticals, and Intuitive; and holds a leadership role as Senior Deputy of the ESHRE SIG Endometriosis and Endometrial Disorders. C.T. has received grants from Merck SA, paid to her institution; consulting fees and speaker fees from Gedeon Richter; travel support from Ferring and Gedeon Richter; and holds leadership roles as Deputy Editor of JNIG and as a board member. A.V. has received speaker fees from Gedeon Richter, paid to his institution, and holds a leadership role as Senior Deputy of the ESHRE SIG Endometriosis and Endometrial Disorders. The other authors declare that there is no conflict of interest to disclose with respect to the content of this article.\n\nTRIAL REGISTRATION NUMBER: This trial has been registered at ClinicalTrials.gov (NCT03642665).\n\nTRIAL REGISTRATION DATE: 17 July 2018.\n\nDATE OF FIRST PATIENT\u2019S ENROLMENT: 27 October 2018.",
+      "doi": "10.1093/humrep/deag095",
+      "matched_searches": [
+        "endometrial_receptivity_era"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42315758/",
+      "doi_url": "https://doi.org/10.1093/humrep/deag095"
+    },
+    {
+      "pmid": "42297322",
+      "title": "Artificial Intelligence-Driven Trigger Timing in Planned Oocyte Cryopreservation: Learning Versus Non-Learning Models.",
+      "journal": "Fertil Steril",
+      "pub_date": "2026-06-15",
+      "authors": [
+        "Shperling RB",
+        "Englander D",
+        "Kahana A",
+        "Kalma Y",
+        "Feferkorn I",
+        "Cohen Y"
+      ],
+      "abstract": "(no abstract available)",
+      "doi": "10.1016/j.fertnstert.2026.06.021",
+      "matched_searches": [
+        "lead_follicle_oversize"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42297322/",
+      "doi_url": "https://doi.org/10.1016/j.fertnstert.2026.06.021"
+    },
+    {
+      "pmid": "42298232",
+      "title": "Haploid Parthenotes Have Higher Demand for Glucose and Pyruvate Compared to Normally Fertilized Embryos During their In Vitro Development.",
+      "journal": "Reprod Sci",
+      "pub_date": "2026-06-15",
+      "authors": [
+        "Nair R",
+        "Madhvacharya VV",
+        "Adiga SK",
+        "Moumita S",
+        "Jayabalan R",
+        "Kalthur G"
+      ],
+      "abstract": "Haploid parthenogenetic embryos (HPEs) typically exhibit poor in vitro development, which may be attributed to the absence of paternal factors. Since the metabolic pattern determines the developmental potential of early embryos, the present study aimed to ascertain whether the compromised developmental potential of HPEs reflects distinct metabolic requirements compared to normally fertilized embryos (NFEs). The developmental trajectories and utilization of key metabolic substrates of HPEs and NFEs of Swiss albino mice were assessed by culturing them in M16 medium with varying concentrations of glucose (0-5\u00a0g/L) and pyruvate (0-90\u00a0mg/L). mRNA expression of glucose transporter-4 (Glut-4), glycolytic [glucose-6-phosphate dehydrogenase (G6pd) and pyruvate dehydrogenase (Pdha1)] and antioxidant [superoxide dismutase (Sod1), catalase (Cat), glutathione s- transferase (Gstcd) and glutathione reductase (Gsr)] enzymes were assessed at various developmental stages. Higher blastocyst rate was obtained when HPEs were cultured in elevated glucose (5\u00a0g/L) and pyruvate (54\u00a0mg/L) concentrations. Inhibition of glycolysis using 2-deoxy glucose resulted in high percentage of HPEs getting arrested at 2-cell stage, while NFEs were able to progress to 4-cell stage. Spent media analysis revealed that HPEs exhibit high glucose dependency compared to NFEs. Further, G6pd, Pdha1, Sod1 and Cat were upregulated, while Gsr and Gstcd were downregulated in HPEs. Our findings suggest that the HPEs have altered metabolic requirements compared to NFEs and provide an insight into the paternal contribution in regulation of metabolic pathways in early embryos. This study forms a basis for optimizing culture conditions for in vitro development of parthenogenetic embryos.",
+      "doi": "10.1007/s43032-026-02130-7",
+      "matched_searches": [
+        "antioxidant_culture_media",
+        "haploid_embryos_decondensation"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42298232/",
+      "doi_url": "https://doi.org/10.1007/s43032-026-02130-7"
+    },
+    {
+      "pmid": "41568768",
+      "title": "SETD7 methylates the endometrial master regulator HOXA10 to facilitate H3K4me1 peaking for endometrial decidualization\u2020.",
+      "journal": "Biol Reprod",
+      "pub_date": "2026-06-15",
+      "authors": [
+        "Chen Q",
+        "Wang Y",
+        "Zhou J",
+        "Wu M",
+        "Huang C",
+        "Shen X",
+        "Kang N",
+        "Zhen X",
+        "Li R",
+        "Yan G",
+        "Sun H"
+      ],
+      "abstract": "Epigenetic dysregulation in the human endometrium contributes significantly to infertility, and especially to recurrent implantation failure (RIF). Impaired endometrial decidualization is a major cause of RIF, although the underlying epigenetic mechanisms remain unclear. We found that among the H3K4 methyltransferases, only the mRNA of SET Domain Containing 7 (SETD7) was upregulated in the human endometrium during decidualization and that SETD7 was indispensable for the transition of human endometrial stromal cells from proliferation to decidualization. SETD7 deficiency reduced H3K4me1 peaks at the transcription start site (TSS) center of decidual signature genes while increasing H3K4me1 enrichment downstream of the TSS in cell cycle genes. Integrated transcriptomic and epigenomic analyses revealed that Homeobox A10 (HOXA10) cooperated with SETD7 to facilitate H3K4me1 distribution at decidual signature genes. In silico prediction and molecular assays indicated that SETD7 directly interacted with HOXA10 with high confidence and methylated HOXA10, most likely at lysine (K)392 within the homeodomain, thereby enhancing HOXA10 binding transcriptional activity and protein stability. Consistently, HOXA10 knockdown alone markedly suppressed H3K4me1 enrichment at the TSS center of the decidual marker Insulin-like Growth Factor Binding Protein 1, resulting in reduced decidual protein levels within human endometrial stromal cells. In mid-secretory endometrium from a subset of RIF patients, SETD7 and HOXA10 expression was decreased, whereas the cell proliferation marker MKI67 was elevated. Collectively, these findings demonstrate that SETD7 actively directs histone methylation at specific genomic regions through HOXA10 methylation, and highlight the potential of targeted epigenetic therapy for RIF.",
+      "doi": "10.1093/biolre/ioag005",
+      "matched_searches": [
+        "recurrent_implantation_failure"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41568768/",
+      "doi_url": "https://doi.org/10.1093/biolre/ioag005"
+    }
+  ]
+}

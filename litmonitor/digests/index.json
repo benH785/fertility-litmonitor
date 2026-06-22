@@ -1,5 +1,19 @@
 [
   {
+    "filename": "digest_2026-06-22.json",
+    "digest_date": "2026-06-22",
+    "generated_at": "2026-06-22T10:59:48Z",
+    "mode": "weekly",
+    "paper_count": 4,
+    "topic_counts": {
+      "endometrial_receptivity_era": 1,
+      "lead_follicle_oversize": 1,
+      "antioxidant_culture_media": 1,
+      "haploid_embryos_decondensation": 1,
+      "recurrent_implantation_failure": 1
+    }
+  },
+  {
     "filename": "digest_2026-06-15.json",
     "digest_date": "2026-06-15",
     "generated_at": "2026-06-15T11:09:04Z",
