@@ -196,5 +196,21 @@
       "haploid_embryos_decondensation": 1,
       "recurrent_implantation_failure": 1
     }
+  },
+  {
+    "run_at": "2026-06-29T10:38:57Z",
+    "mode": "weekly",
+    "since": "2026-06-20",
+    "new_papers": 7,
+    "total_seen": 1711,
+    "digest_filename": "digest_2026-06-29.md",
+    "topic_counts": {
+      "methylation_mthfr_art": 1,
+      "embryo_arrest_d3_blast": 3,
+      "time_lapse_morphokinetics": 3,
+      "haploid_embryos_decondensation": 2,
+      "one_pn_embryos": 1,
+      "duostim_luteal_phase": 1
+    }
   }
 ]

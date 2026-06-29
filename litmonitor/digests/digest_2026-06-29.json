@@ -1,0 +1,320 @@
+{
+  "digest_date": "2026-06-29",
+  "generated_at": "2026-06-29T10:38:57Z",
+  "mode": "weekly",
+  "window_start": "2026-06-20",
+  "paper_count": 7,
+  "topic_counts": {
+    "methylation_mthfr_art": 1,
+    "embryo_arrest_d3_blast": 3,
+    "time_lapse_morphokinetics": 3,
+    "haploid_embryos_decondensation": 2,
+    "one_pn_embryos": 1,
+    "duostim_luteal_phase": 1
+  },
+  "topics": {
+    "agonist_vs_dual_trigger": {
+      "label": "Dual vs agonist trigger",
+      "priority": "high"
+    },
+    "agonist_trigger_suboptimal": {
+      "label": "Suboptimal agonist trigger response",
+      "priority": "high"
+    },
+    "premature_ovulation": {
+      "label": "Premature ovulation",
+      "priority": "high"
+    },
+    "lead_follicle_oversize": {
+      "label": "Lead follicle size & trigger timing",
+      "priority": "high"
+    },
+    "zymot_microfluidic": {
+      "label": "ZyMot / microfluidic sperm selection",
+      "priority": "high"
+    },
+    "sperm_dna_fragmentation": {
+      "label": "Sperm DNA fragmentation (single-strand) & ART",
+      "priority": "high"
+    },
+    "sperm_dna_double_strand": {
+      "label": "Sperm double-strand DNA damage",
+      "priority": "high"
+    },
+    "tese_high_dfi": {
+      "label": "TESE for high DFI",
+      "priority": "high"
+    },
+    "pgta_advanced_age": {
+      "label": "PGT-A in advanced maternal age",
+      "priority": "high"
+    },
+    "blastocyst_grading_outcomes": {
+      "label": "Blastocyst grading & outcomes",
+      "priority": "medium"
+    },
+    "antagonist_protocol_normoresponder": {
+      "label": "Antagonist protocol in normo-responders",
+      "priority": "medium"
+    },
+    "intercycle_interval": {
+      "label": "Inter-cycle interval",
+      "priority": "low"
+    },
+    "methylation_mthfr_art": {
+      "label": "MTHFR / methylation & ART",
+      "priority": "high"
+    },
+    "one_pn_embryos": {
+      "label": "1PN / abnormal fertilisation",
+      "priority": "high"
+    },
+    "ss31_elamipretide": {
+      "label": "SS-31 / elamipretide & fertility",
+      "priority": "high"
+    },
+    "rapamycin": {
+      "label": "Rapamycin / sirolimus & fertility",
+      "priority": "high"
+    },
+    "embryo_arrest_d3_blast": {
+      "label": "Embryo arrest & blastulation",
+      "priority": "high"
+    },
+    "antioxidant_culture_media": {
+      "label": "Antioxidant culture media",
+      "priority": "high"
+    },
+    "growth_hormone_adjuvant": {
+      "label": "Growth hormone adjuvant in IVF",
+      "priority": "medium"
+    },
+    "time_lapse_morphokinetics": {
+      "label": "Time-lapse / morphokinetic embryo selection",
+      "priority": "medium"
+    },
+    "duostim_luteal_phase": {
+      "label": "DuoStim / luteal-phase stimulation",
+      "priority": "high"
+    },
+    "picsi_hyaluronan_binding": {
+      "label": "PICSI / hyaluronan binding sperm selection",
+      "priority": "medium"
+    },
+    "imsi_high_mag_morphology": {
+      "label": "IMSI / high-magnification sperm morphology",
+      "priority": "medium"
+    },
+    "endometrial_receptivity_era": {
+      "label": "Endometrial receptivity testing (ERA / ER-Map)",
+      "priority": "medium"
+    },
+    "recurrent_implantation_failure": {
+      "label": "Recurrent implantation failure",
+      "priority": "high"
+    },
+    "haploid_embryos_decondensation": {
+      "label": "Haploid embryos & sperm decondensation",
+      "priority": "high"
+    },
+    "varicocele_embolisation_ivf": {
+      "label": "Varicocele embolisation & IVF",
+      "priority": "high"
+    },
+    "choline_pemt_pregnancy": {
+      "label": "Choline / PEMT & pregnancy",
+      "priority": "medium"
+    },
+    "methylfolate_vs_folic_acid_ivf": {
+      "label": "Methylfolate vs folic acid in IVF",
+      "priority": "medium"
+    }
+  },
+  "journals_monitored": [
+    "Hum Reprod",
+    "Hum Reprod Update",
+    "Hum Reprod Open",
+    "Fertil Steril",
+    "F S Rep",
+    "F S Sci",
+    "Reprod Biomed Online",
+    "J Assist Reprod Genet",
+    "Reprod Biol Endocrinol",
+    "Hum Fertil (Camb)",
+    "Reprod Sci",
+    "Andrology",
+    "Mol Hum Reprod",
+    "Reproduction",
+    "Biol Reprod",
+    "Reprod Fertil Dev",
+    "Asian J Androl",
+    "Andrologia"
+  ],
+  "papers": [
+    {
+      "pmid": "42360800",
+      "title": "Evidence That Heat Shock Protein A5 (HSPA5) Plays a Role During Bovine In Vitro Embryo Production.",
+      "journal": "Reproduction",
+      "pub_date": "2026-06-26",
+      "authors": [
+        "Dos Santos PH",
+        "Franchi FF",
+        "Nunes SG",
+        "Fontes PK",
+        "Manssur TSB",
+        "Valencise Quaglio AE",
+        "Gouveia Nogueira MF",
+        "de Souza Castilho AC"
+      ],
+      "abstract": "Oviductal fluid (OF) proteins, such as HSPA5, play essential roles in reproductive physiology, including zona pellucida (ZP)-sperm interactions. Hypothesizing that HSPA5 interacts with oocytes, we evaluated its effects during the last 4\u2009h of bovine in vitro cumulus-oocyte complex (COC) maturation and subsequent embryo development. COCs were aspirated from slaughterhouse-derived cow ovaries and matured for 20\u2009h in base medium (BM). The medium was then partially replaced with BM (control) or BM supplemented with recombinant HSPA5 (100\u2009ng/ml) for the final 4\u2009h of maturation. After maturation, COCs were either denuded for analysis or used for in vitro fertilization (IVF) and culture (IVC) to assess embryo development to the blastocyst stage. To investigate HSPA5's role, we assessed the mitochondrial membrane potential (MMP), reactive oxygen species (ROS), glutathione (GSH) content in COCs and maturation medium, zona pellucida (ZP) solubility, oocyte penetration, blastocyst rates, and gene expression. Recombinant HSPA5 (rHSPA5) enhanced oocyte mitochondrial activity (p\u2009=\u20090.0006) and significantly increased the blastocyst yield (p\u2009=\u20090.04). Blastocysts from rHSPA5-treated oocytes showed upregulation of 19 genes associated with embryo quality, DNA methylation, cell growth, development and oxidative stress. Although rHSPA5 did not alter the monospermic fertilization rate or oxidative stress in oocytes, it improved mitochondrial function, supported blastocyst development, and modulated embryonic transcriptional profiles. These findings suggest that rHSPA5 plays a beneficial role during the final phase of oocyte maturation, contributing to improved embryo quality and developmental competence in vitro.",
+      "doi": "10.1093/reprod/xaag070",
+      "matched_searches": [
+        "methylation_mthfr_art",
+        "embryo_arrest_d3_blast"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42360800/",
+      "doi_url": "https://doi.org/10.1093/reprod/xaag070"
+    },
+    {
+      "pmid": "42337202",
+      "title": "Automation in the IVF laboratory in 2026: four technology domains, an asymmetric evidence base, and the case for parallel development with clinician-side automation.",
+      "journal": "J Assist Reprod Genet",
+      "pub_date": "2026-06-24",
+      "authors": [
+        "Dirican EK"
+      ],
+      "abstract": "BACKGROUND: Operator-dependent laboratory tasks-embryo selection, vitrification and warming, and intracytoplasmic sperm injection (ICSI)-have been the principal targets of IVF laboratory automation, and a fourth strand of work, integrated end-to-end laboratory automation, has produced its first peer-reviewed clinical evidence in 2026. Clinician-side automation in the same ART cycle has an older, broader literature that provides a useful comparator for what laboratory-side automation has and has not yet achieved.\n\nOBJECTIVES: To synthesize the published evidence on automation of these laboratory-side task domains; to distinguish what has been demonstrated in randomized or large multicenter studies from what remains in the proof-of-concept phase; to compare the maturity of laboratory-side automation with the older, broader literature on clinician-side automation; to articulate the structural condition-parallel development of clinician-side and laboratory-side automation-that the available evidence suggests would have to be met before any of these technologies could deliver the system-level outcome gains they promise; and to identify a complementary observation that the laboratory tasks for which automation has been most actively developed are not those in which operator competence translates most directly into clinical outcome, with preimplantation genetic testing (PGT) biopsy and tubing as the conspicuous omission.\n\nMETHODS: A narrative review of PubMed-indexed primary studies, ESHRE/Alpha consensus documents, and Cochrane reviews was conducted, with emphasis on randomized comparisons (Hajek 2021 for vitrification, Illingworth 2024 for AI selection) and large registry or multicenter datasets where available. The 2026 Human Reproduction proof-of-concept report on integrated end-to-end laboratory automation (Chavez-Badiola and colleagues) is treated as the current state of evidence for that domain.\n\nKEY FINDINGS: (i) Deep-learning embryo grading reproducibly outperforms individual embryologists in retrospective benchmarks across multiple algorithms and centers, but the only published randomized trial failed to demonstrate non-inferiority of deep-learning selection over standard morphology in clinical pregnancy, and the Cochrane review of time-lapse imaging found no evidence of differences in live birth or clinical pregnancy. The realistic value proposition is workflow standardization rather than improved clinical outcome. (ii) Closed semi-automated vitrification (Gavi) achieves clinical and survival outcomes equivalent to manual Cryotop in a multicenter RCT; one-step warming protocols offer substantial workflow gains without compromising survival. (iii) Automated and remotely-operated ICSI have produced healthy live births in proof-of-concept clinical work but remain very early in their clinical adoption curve. (iv) Integrated end-to-end laboratory automation has produced its first proof-of-concept clinical evidence in a single sponsor-conducted pilot in 11 selected patients, in which automated arms were numerically outperformed by manual sibling-oocyte controls; randomized comparison and independent replication are not yet available. (v) Across all four domains, the clinical endpoint of an ART cycle is jointly determined by laboratory-side and clinician-side performance; this co-dependence, examined in detail in the \"The clinician's perspective: where automation has earned trust and where it has not yet\" section, places a structural constraint on the system-level benefit any single laboratory-side technology can be expected to deliver. A within-laboratory parallel of this asymmetry is also observed: automation effort has converged on the technically tractable laboratory tasks (ICSI, vitrification, and embryo selection) rather than on the tasks with the highest operator-competence elasticity (PGT biopsy and tubing).\n\nCONCLUSION: Across the four laboratory-side task domains, the level of clinical evidence available in 2026 is uneven and the maturity gradient is asymmetric with respect to clinician-side automation, which has a longer accumulated evidence base in the same ART cycle. Rather than disappearing, the embryologist's role is shifting toward verification, exception-handling, and quality oversight. The substantive observation a focused review can make in 2026 is that the system-level benefits projected for laboratory-side automation appear bounded by the slower pace of clinician-side automation development and that the asymmetry between the two halves of the cycle, together with a parallel asymmetry inside the laboratory itself, conditions what any laboratory-side technology can be expected to deliver at the level of patient outcome.",
+      "doi": "10.1007/s10815-026-03946-7",
+      "matched_searches": [
+        "time_lapse_morphokinetics"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42337202/",
+      "doi_url": "https://doi.org/10.1007/s10815-026-03946-7"
+    },
+    {
+      "pmid": "42337204",
+      "title": "Identification of 46,XX/46,XY chimerism in a normal fertile male by low-pass copy number variation sequencing and NGS-based STR tests.",
+      "journal": "J Assist Reprod Genet",
+      "pub_date": "2026-06-24",
+      "authors": [
+        "Sun Y",
+        "Xiang L",
+        "Lei C",
+        "Li T",
+        "Li Z",
+        "Sun Y",
+        "Sun X"
+      ],
+      "abstract": "PURPOSE: To describe a rare case of a normal fertile male with the specific tissue distribution of 46,XX in the peripheral blood and gonadal chimerism confirmed by the novel next-generation sequencing (NGS) methodology.\n\nMETHODS: Cytogenetic analyses, low-pass copy number variation sequencing (CNV-seq) and NGS-based short tandem repeat (STR) tests.\n\nRESULTS: Routine peripheral blood karyotyping showed 46,XX. Fluorescence in situ hybridization (FISH) analysis of lymphocyte metaphase nuclei confirmed 46,XX and sex-determine region Y (SRY)-negative. Further CNV-seq revealed the presence of Y chromosome in the semen. NGS-based STR tests discovered low-level Y chromosome in the buccal mucosa and three alleles in the semen, suggesting that this chimerism is likely the outcome of a parthenogenetically activated oocyte fertilized by a Y and X sperm. The patient underwent intracytoplasmic sperm injection (ICSI) and resulted in a normal singleton pregnancy.\n\nCONCLUSION: Individuals with 46,XX/46,XY chimerism in the gonad can display normal phenotype and fertility. NGS has proved to be a promising alternative to conventional chimerism assays.",
+      "doi": "10.1007/s10815-026-03938-7",
+      "matched_searches": [
+        "haploid_embryos_decondensation"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42337204/",
+      "doi_url": "https://doi.org/10.1007/s10815-026-03938-7"
+    },
+    {
+      "pmid": "42330074",
+      "title": "A large retrospective study on 1PN embryo transfer supports the need for updated harmonized best practice guidelines.",
+      "journal": "Hum Reprod",
+      "pub_date": "2026-06-22",
+      "authors": [
+        "McPherson NO",
+        "Ussher C",
+        "Holden S",
+        "Hesketh N",
+        "Murray A",
+        "Lee A",
+        "Bui D",
+        "Traversa MV",
+        "Grkovic S",
+        "Dickson R",
+        "Bowman M",
+        "Marren A",
+        "Morbeck DE"
+      ],
+      "abstract": "STUDY QUESTION: Do the genetic and clinical outcomes of monopronuclear blastocysts (MPBs) differ between standard insemination and intracytoplasmic sperm injection cycles, and what do these differences imply for risk stratification and individualized clinical decision-making?\n\nSUMMARY ANSWER: IVF-derived MPBs demonstrate significantly lower rates of uniparental inheritance than ICSI-derived MPBs (96.9% vs 65.9%) biparental inheritance (P\u2009<\u20090.001), with comparable clinical and neonatal outcomes to 2PN blastocysts following transfer of euploid biparental embryos.\n\nWHAT IS KNOWN ALREADY: A proportion of monopronuclear (1PN) zygotes can develop into euploid blastocysts and, following transfer, result in healthy live births, yet these embryos are widely discarded following fertilization check due to atypical pronucleation. The mechanisms underlying 1PN formation are varied and include asynchronous pronuclear formation, early pronuclear fusion, and premature pronuclear breakdown, meaning a subset may represent normally fertilized diploid zygotes missed at static assessment.\n\nSTUDY DESIGN, SIZE, DURATION: Retrospective cohort study of 1PN embryos (N\u2009=\u200913\u00a0203) derived from IVF (n\u2009=\u20095266) or ICSI (n\u2009=\u20095464) inseminations across 10\u00a0730 cycles performed at multiple Australian clinics between January 2010 and December 2023.\n\nPARTICIPANTS/MATERIALS, SETTING, METHODS: Embryos were defined as 1PN by the appearance of a single pronucleus at fertilization check 16-18\u2009h post-insemination. Time-lapse footage was reviewed on Day 3 to identify late appearing 1PNs and exclude late second pronucleus appearance. Suitable blastocysts underwent trophectoderm biopsy for pre-implantation genetic testing for aneuploidy (PGT-A) and short tandem repeat (STR)-based biparental inheritance testing; only euploid embryos with confirmed biparental inheritance were available for frozen embryo transfer. Outcomes assessed included ploidy, biparental inheritance, blastocyst development, utilization, morphokinetics, pregnancy, live birth, and maternal and neonatal outcomes.\n\nMAIN RESULTS AND THE ROLE OF CHANCE: IVF-derived MPBs had similar aneuploidy rates to two pronuclei (2PN) embryos (37.3% vs 33.9%) and 440/454 (96.9%) demonstrated biparental inheritance. ICSI-derived MPBs had higher aneuploidy rates (45.5% vs 31.5%, P\u2009<\u20090.05) and only 108/164 (65.9%) had biparental inheritance. Uniparental inheritance was predominantly maternal (IVF 92.8%; ICSI 94.6%). Both IVF and ICSI MPBs were less likely to reach blastocyst stage by Day 5 than 2PN embryos (IVF 19.3% vs 63.3%; ICSI 9.7% vs 60.6%, P\u2009<\u20090.05), and biparental IVF-1PN zygotes were more likely to have more nucleoli compared with uniparental IVF-1PN zygotes (P\u2009=\u20090.008). For embryos with confirmed biparental inheritance, there was no significant difference in clinical pregnancy, ongoing pregnancy, live birth rates, or neonatal outcomes compared with 2PN blastocysts. In approximately one in six cycles containing a 1PN embryo, no utilizable 2PN embryo were available (IVF 15.6%; ICSI 16.7%), with the 1PN embryo representing the sole option for embryo utilization.\n\nLIMITATIONS, REASONS FOR CAUTION: Retrospective single-entity design introduces potential selection bias and limits generalizability. Uniform protocols across sites preclude the level of evidence required for formal guideline revision. Differential use of time-lapse imaging for ICSI versus static assessment for IVF embryos may contribute to differences in 1PN identification rates between fertilization methods. The STR-based biparental classification platform has not been validated against an orthogonal technology for parental origin calling in 1PN embryos, and the possibility of triploid misclassification or absorption into unreported inconclusive outcomes cannot be excluded.\n\nWIDER IMPLICATIONS OF THE FINDINGS: These findings support a risk-stratified approach to MPB management based on fertilization method. IVF-derived MPBs meeting specific morphological and developmental criteria demonstrate a low-risk profile that warrants reconsideration of genetic testing requirements and may inform individualized consent discussions, particularly where 2PN embryos are unavailable. ICSI-derived MPBs carry a substantially higher risk of uniparental inheritance and comprehensive genetic testing remains indicated.\n\nSTUDY FUNDING/COMPETING INTEREST(S): No funding was attached to this study. The authors declare no conflict of interest.\n\nTRIAL REGISTRATION NUMBER: N/A.",
+      "doi": "10.1093/humrep/deag098",
+      "matched_searches": [
+        "one_pn_embryos",
+        "embryo_arrest_d3_blast",
+        "time_lapse_morphokinetics",
+        "haploid_embryos_decondensation"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42330074/",
+      "doi_url": "https://doi.org/10.1093/humrep/deag098"
+    },
+    {
+      "pmid": "42330090",
+      "title": "Pathogenic variants in ACTRT3 lead to male infertility characterized by fertilization defects.",
+      "journal": "Hum Reprod",
+      "pub_date": "2026-06-22",
+      "authors": [
+        "Zhu H",
+        "Shi R",
+        "Zou G",
+        "Diao F",
+        "Yu R",
+        "Qu R",
+        "Liu R",
+        "Shi J",
+        "Zhang Z",
+        "Wu T",
+        "Wang W",
+        "Chen B",
+        "He L",
+        "Wang L",
+        "Mu J",
+        "Sang Q"
+      ],
+      "abstract": "STUDY QUESTION: Are there new genetic factors responsible for male infertility characterized by fertilization defects despite normal sperm motility?\n\nSUMMARY ANSWER: We identified the novel pathogenetic gene actin-related protein T3 (ACTRT3) as one of primary causes for male infertility characterized by fertilization defects.\n\nWHAT IS KNOWN ALREADY: To date, only a few genes have been reported to be responsible for fertilization defects in male infertility despite normal sperm motility. ACTRT3, as one of the actin-related proteins, is specifically expressed highly in murine testes and interacts with the protein Profilin3 to form a testis-specific complex during spermatogenesis.\n\nSTUDY DESIGN, SIZE, DURATION: The ACTRT3 variants were identified by whole-exome sequencing in a cohort of 248 infertile couples characterized by fertilization defects (fertilization rate\u2009\u2264\u200930% in their IVF/ICSI attempts) despite normal sperm concentration (\u226515 \u00d7 106/ml) and normal motility (progressive motility \u226532%; motility of PR (progressive)+NP (non-progressive) \u226540%). Thirty-six hours after cell transfection, immunoprecipitation was performed to detect the interaction between ACTRT3 and actin-like 7A (ACTL7A)/phospholipase C zeta 1 (PLCZ1) (n\u2009=\u20093 biological replicates). A knock-in (KI) mouse model was generated by CRISPR-Cas9. Sexually mature males (10\u2009weeks old) were used for fertility testing (n\u2009=\u20093 mice per group, lasts 6-8\u2009months), semen parameter analysis (n\u2009=\u20093 mice per group), western blot (n\u2009=\u20093 biological replicates), immunofluorescence (n\u2009=\u20093 biological replicates), IVF (n\u2009\u2265\u20093 biological replicates), ICSI (n\u2009=\u20093 biological replicates), scanning electron microscopy (SEM, n\u2009=\u20093 mice per group), transmission electron microscopy (TEM, n\u2009=\u20093 mice per group), Ca2+ oscillations (n\u2009\u2265\u20093 biological replicates), and other functional assays between 2022 and 2025.\n\nPARTICIPANTS/MATERIALS, SETTING, METHODS: The ACTRT3 variants were identified by whole-exome sequencing and confirmed by Sanger sequencing. ACTRT3 KI mouse was constructed to discover the pathogenic mechanism. We first checked ultrastructure of the sperm through periodic acid-schiff staining, SEM, and TEM. Western blotting, immunofluorescence, and immunoprecipitation were further performed to clarify the molecular mechanism of the ACTRT3 variants.\n\nMAIN RESULTS AND THE ROLE OF CHANCE: We identified compound-heterozygous (NM_032487.5: c. C41G (p. Ser14Trp) and c. C687delA (p. Lys229fs)) and homozygous variants (NM_032487.5: c.712C>T (p. Gln238Ter)) in ACTRT3 in two infertile males, and functional studies in transgenic KI mouse models confirmed the pathogenicity of the Actrt3 variants. Defects in ACTRT3 caused decreased protein levels of ACTL7A and disrupted localization of PLCZ1 in sperm, which resulted in acrosome detachment, further impacted the binding between sperm and the zona pellucida of oocytes and caused fertilization failure. In addition, sperm with defective ACTRT3 cannot initiate calcium oscillations, which leads to embryo arrest.\n\nLARGE SCALE DATA: N/A.\n\nLIMITATIONS, REASONS FOR CAUTION: More cases are needed to confirm the genetic contribution of ACTRT3 variants to male infertility. In addition, it will be more persuasive and informative by adding the rescue experiments of artificial oocyte activation through SrCl2 which is used to active calcium ion oscillation.\n\nWIDER IMPLICATIONS OF THE FINDINGS: Our findings suggest the causal relationship between ACTRT3 variants and male infertility caused by fertilization defects, and partially revealing the pathological mechanisms of ACTRT3 variants. This provides new insights into the understanding of male infertility due to fertilization problems and provides references for future clinical treatment.\n\nSTUDY FUNDING/COMPETING INTEREST(S): This work was supported by the National Natural Science Foundation of China (82325021, 32130029, and 82201767) and the Fundamental and Interdisciplinary Disciplines Breakthrough Plan of the Ministry of Education of China (No. JYB2025XDXM508).\n\nTRIAL REGISTRATION NUMBER: N/A.",
+      "doi": "10.1093/humrep/deag097",
+      "matched_searches": [
+        "embryo_arrest_d3_blast"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42330090/",
+      "doi_url": "https://doi.org/10.1093/humrep/deag097"
+    },
+    {
+      "pmid": "42324377",
+      "title": "Impact of semen quality on the risk of direct cleavage in human embryos.",
+      "journal": "J Assist Reprod Genet",
+      "pub_date": "2026-06-22",
+      "authors": [
+        "Xu P",
+        "Ma S",
+        "Li Y",
+        "Gu Y",
+        "Gong F",
+        "Lin G",
+        "Zhou J",
+        "Zhang S"
+      ],
+      "abstract": "PURPOSE: Direct cleavage (DC) is a prevalent abnormal cleavage pattern that adversely affects embryonic development. Though sperm dysfunction is thought to be involved in its pathogenesis, large-scale data confirming the link between routine semen parameters and DC risk are still lacking. This study aimed to investigate the relationship between semen parameters and DC occurrence in human embryos.\n\nMETHODS: This retrospective study enrolled 4529 patients and analyzed morphokinetic data of 28,517 embryos retrieved at the Reproductive & Genetic Hospital of CITIC-XIANGYA, with the study period spanning from November 2022 and June 2025. All participants received semen parameter detection, covering sperm concentration, progressive motility, normal morphology, and acrosin activity within 1 year prior to oocyte retrieval. Embryos were categorized into DC and non-DC groups based on cleavage patterns observed at the first and second cleavage stages. Restriction cubic spline regression (RCS) was employed to analyze dose-response associations, and generalized linear mixed models (GLMMs) were used to account for hierarchical data from multiple embryos per patient. Sensitivity and subgroup analyses were conducted to verify the robustness of the findings.\n\nRESULTS: RCS analysis revealed a significant association between progressive motility and DC risk at the second cleavage stage (overall P\u2009=\u20090.006). GLMMs confirmed that elevated progressive motility was significantly associated with a decreased DC risk at this stage (OR\u2009=\u20090.922, 95% CI 0.870-0.977, P\u2009=\u20090.006). Higher acrosin activity was significantly associated with a lower DC risk at the second cleavage stage (OR\u2009=\u20090.910, 95% CI 0.830-0.999, P\u2009=\u20090.046). Sensitivity analyses, including limiting semen samples to those collected within 3 months before oocyte retrieval, excluding embryos from patients with severe oligo-, astheno-, or teratozoospermia, and restricting analyses to fresh semen specimens only, confirmed the consistency and robustness of the primary findings. Subgroup analyses additionally consolidated the reliable associations between progressive motility, acrosin activity, and DC.\n\nCONCLUSIONS: Higher sperm progressive motility and acrosin activity are independently associated with a lower DC risk in human embryos. This study highlights the impact of semen quality on early embryonic development.",
+      "doi": "10.1007/s10815-026-03942-x",
+      "matched_searches": [
+        "time_lapse_morphokinetics"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42324377/",
+      "doi_url": "https://doi.org/10.1007/s10815-026-03942-x"
+    },
+    {
+      "pmid": "42331050",
+      "title": "Possible therapeutic options for enhancing the number of oocytes in poor ovarian responders.",
+      "journal": "Fertil Steril",
+      "pub_date": "2026-06-22",
+      "authors": [
+        "Horton M",
+        "Varela JB",
+        "Kopcow L"
+      ],
+      "abstract": "Poor ovarian response (POR) is associated with low ovarian reserve, which is commonly seen as a result of ovarian aging although it can be associated with genetic conditions, diseases, previous ovarian surgery, chemotherapy or toxic-related injury to the ovary. Despite pharmacologic advances, innovation in laboratory equipment and advances in embryo culture and selection, success rates in ART are hampered by age-related infertility, due to sociocultural trends favouring delayed childbearing attitudes. POR represents a challenging subgroup of patients, characterized by a low ovarian reserve and/or a suboptimal response to ovarian stimulation (OS). Different classification systems have been proposed to define POR, but none have proven useful to improve the clinical management of these patients. ART in these patients is associated with poor outcomes, significant psychological burden, and high drop-out rates after the first IVF attempt. No specific protocol has been proven better than the other in POR, and no drug to date has proven to increase the antral follicle pool. Advances in ovarian physiology have identified multiple follicular waves within a cycle, with continuous follicular recruitment. This opens the possibility of a multicycle approach, in which two or more consecutive stimulation cycles can be performed irrespective of the menstrual dates, with the aim of obtaining the desired number of oocytes necessary to obtain at least one euploid blastocyst. The multicycle approach increases the number of eggs and embryos available for transfer or vitrification, reduces time to pregnancy, and decreases drop-out rates. Non-pharmacological interventions to increase ovarian response like intraovarian PRP are still controversial and have not been proven effective in recent prospective randomized trials. Future directions and research on POR is discussed.",
+      "doi": "10.1016/j.fertnstert.2026.06.025",
+      "matched_searches": [
+        "duostim_luteal_phase"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42331050/",
+      "doi_url": "https://doi.org/10.1016/j.fertnstert.2026.06.025"
+    }
+  ]
+}
