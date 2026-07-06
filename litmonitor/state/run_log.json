@@ -212,5 +212,19 @@
       "one_pn_embryos": 1,
       "duostim_luteal_phase": 1
     }
+  },
+  {
+    "run_at": "2026-07-06T10:36:35Z",
+    "mode": "weekly",
+    "since": "2026-06-27",
+    "new_papers": 3,
+    "total_seen": 1714,
+    "digest_filename": "digest_2026-07-06.md",
+    "topic_counts": {
+      "intercycle_interval": 1,
+      "embryo_arrest_d3_blast": 2,
+      "time_lapse_morphokinetics": 1,
+      "varicocele_embolisation_ivf": 1
+    }
   }
 ]

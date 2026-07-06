@@ -1,0 +1,222 @@
+{
+  "digest_date": "2026-07-06",
+  "generated_at": "2026-07-06T10:36:35Z",
+  "mode": "weekly",
+  "window_start": "2026-06-27",
+  "paper_count": 3,
+  "topic_counts": {
+    "intercycle_interval": 1,
+    "embryo_arrest_d3_blast": 2,
+    "time_lapse_morphokinetics": 1,
+    "varicocele_embolisation_ivf": 1
+  },
+  "topics": {
+    "agonist_vs_dual_trigger": {
+      "label": "Dual vs agonist trigger",
+      "priority": "high"
+    },
+    "agonist_trigger_suboptimal": {
+      "label": "Suboptimal agonist trigger response",
+      "priority": "high"
+    },
+    "premature_ovulation": {
+      "label": "Premature ovulation",
+      "priority": "high"
+    },
+    "lead_follicle_oversize": {
+      "label": "Lead follicle size & trigger timing",
+      "priority": "high"
+    },
+    "zymot_microfluidic": {
+      "label": "ZyMot / microfluidic sperm selection",
+      "priority": "high"
+    },
+    "sperm_dna_fragmentation": {
+      "label": "Sperm DNA fragmentation (single-strand) & ART",
+      "priority": "high"
+    },
+    "sperm_dna_double_strand": {
+      "label": "Sperm double-strand DNA damage",
+      "priority": "high"
+    },
+    "tese_high_dfi": {
+      "label": "TESE for high DFI",
+      "priority": "high"
+    },
+    "pgta_advanced_age": {
+      "label": "PGT-A in advanced maternal age",
+      "priority": "high"
+    },
+    "blastocyst_grading_outcomes": {
+      "label": "Blastocyst grading & outcomes",
+      "priority": "medium"
+    },
+    "antagonist_protocol_normoresponder": {
+      "label": "Antagonist protocol in normo-responders",
+      "priority": "medium"
+    },
+    "intercycle_interval": {
+      "label": "Inter-cycle interval",
+      "priority": "low"
+    },
+    "methylation_mthfr_art": {
+      "label": "MTHFR / methylation & ART",
+      "priority": "high"
+    },
+    "one_pn_embryos": {
+      "label": "1PN / abnormal fertilisation",
+      "priority": "high"
+    },
+    "ss31_elamipretide": {
+      "label": "SS-31 / elamipretide & fertility",
+      "priority": "high"
+    },
+    "rapamycin": {
+      "label": "Rapamycin / sirolimus & fertility",
+      "priority": "high"
+    },
+    "embryo_arrest_d3_blast": {
+      "label": "Embryo arrest & blastulation",
+      "priority": "high"
+    },
+    "antioxidant_culture_media": {
+      "label": "Antioxidant culture media",
+      "priority": "high"
+    },
+    "growth_hormone_adjuvant": {
+      "label": "Growth hormone adjuvant in IVF",
+      "priority": "medium"
+    },
+    "time_lapse_morphokinetics": {
+      "label": "Time-lapse / morphokinetic embryo selection",
+      "priority": "medium"
+    },
+    "duostim_luteal_phase": {
+      "label": "DuoStim / luteal-phase stimulation",
+      "priority": "high"
+    },
+    "picsi_hyaluronan_binding": {
+      "label": "PICSI / hyaluronan binding sperm selection",
+      "priority": "medium"
+    },
+    "imsi_high_mag_morphology": {
+      "label": "IMSI / high-magnification sperm morphology",
+      "priority": "medium"
+    },
+    "endometrial_receptivity_era": {
+      "label": "Endometrial receptivity testing (ERA / ER-Map)",
+      "priority": "medium"
+    },
+    "recurrent_implantation_failure": {
+      "label": "Recurrent implantation failure",
+      "priority": "high"
+    },
+    "haploid_embryos_decondensation": {
+      "label": "Haploid embryos & sperm decondensation",
+      "priority": "high"
+    },
+    "varicocele_embolisation_ivf": {
+      "label": "Varicocele embolisation & IVF",
+      "priority": "high"
+    },
+    "choline_pemt_pregnancy": {
+      "label": "Choline / PEMT & pregnancy",
+      "priority": "medium"
+    },
+    "methylfolate_vs_folic_acid_ivf": {
+      "label": "Methylfolate vs folic acid in IVF",
+      "priority": "medium"
+    }
+  },
+  "journals_monitored": [
+    "Hum Reprod",
+    "Hum Reprod Update",
+    "Hum Reprod Open",
+    "Fertil Steril",
+    "F S Rep",
+    "F S Sci",
+    "Reprod Biomed Online",
+    "J Assist Reprod Genet",
+    "Reprod Biol Endocrinol",
+    "Hum Fertil (Camb)",
+    "Reprod Sci",
+    "Andrology",
+    "Mol Hum Reprod",
+    "Reproduction",
+    "Biol Reprod",
+    "Reprod Fertil Dev",
+    "Asian J Androl",
+    "Andrologia"
+  ],
+  "papers": [
+    {
+      "pmid": "42393381",
+      "title": "Another round, another chance: oocyte developmental competence and outcomes in second IVF attempts-the earlier, the better.",
+      "journal": "J Assist Reprod Genet",
+      "pub_date": "2026-07-03",
+      "authors": [
+        "Ruffa A",
+        "Cimadomo D",
+        "Taggi M",
+        "Innocenti F",
+        "Pittana E",
+        "Battista F",
+        "Fabozzi G",
+        "Morelli M",
+        "Guido M",
+        "Albricci L",
+        "Fiorentino G",
+        "Rienzi L",
+        "Ubaldi FM",
+        "Vaiarelli A"
+      ],
+      "abstract": "PURPOSE: To evaluate whether the outcomes and characteristics of a first IVF/ICSI cycle are associated with embryological and clinical outcomes in a subsequent cycle performed within 2\u00a0years.\n\nMETHODS: This retrospective single-center observational study included 1190 couples undergoing two stimulated ICSI cycles with planned blastocyst culture between 2015 and 2020. Associations between first- and second-cycle outcomes were analyzed, including oocyte yield, blastocyst development, and live birth. The effect of the inter-cycle interval was assessed using multivariate models.\n\nRESULTS: The mean maternal age was 38.7\u00a0years, and the mean AMH level was 1.7\u00a0ng/ml. Second cycles showed improved embryological outcomes, including higher numbers of retrieved cumulus-oocyte complexes (COCs), increased blastocyst yield, and higher blastocyst rate per COC. Overall, 50% of patients retrieved more COCs in the second cycle, and 87% of those with no COCs in the first cycle obtained\u2009\u2265\u20091 in the second. A longer inter-cycle interval was negatively associated with outcomes, reducing the likelihood of retrieving more COCs (OR 0.96 per month, 95% CI 0.93-0.98), obtaining more blastocysts (OR 0.95, 95% CI 0.93-0.98), and improving blastocyst rate (OR 0.96, 95% CI 0.94-0.99). First-cycle outcomes were not associated with live birth probability in the second cycle, which was instead associated with maternal age and the number of COCs previously retrieved.\n\nCONCLUSIONS: First-cycle outcomes should not discourage further attempts, as subsequent cycles may yield improved embryological results. A shorter interval between cycles represents a modifiable factor associated with better outcomes. These findings support early re-treatment and a multicycle counseling approach to optimize cumulative live birth rates, especially as maternal age and ovarian reserve remain the most important predictors of success even in second attempts.",
+      "doi": "10.1007/s10815-026-03961-8",
+      "matched_searches": [
+        "intercycle_interval",
+        "embryo_arrest_d3_blast"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42393381/",
+      "doi_url": "https://doi.org/10.1007/s10815-026-03961-8"
+    },
+    {
+      "pmid": "42399463",
+      "title": "Recombinant LH supplementation during ovarian stimulation modulates early embryo morphokinetics without affecting IVF outcomes in normal responders: a retrospective time-lapse study.",
+      "journal": "J Assist Reprod Genet",
+      "pub_date": "2026-07-03",
+      "authors": [
+        "Stefano C",
+        "Carlotta P",
+        "Cinzia R",
+        "Loredana B",
+        "Luca M",
+        "Alberto R",
+        "Gianluca G"
+      ],
+      "abstract": "BACKGROUND: Whereas luteinizing hormone (LH) contributes to steroidogenesis and oocyte maturation, its influence on embryo developmental kinetics has not been previously investigated using time-lapse technology. The aim of this retrospective analysis was to assess embryo morphokinetics following rLH supplementation in expected normal responders undergoing ovarian stimulation and evaluate associated embryological and reproductive outcomes.\n\nMETHODS: A total of 120 patients were stimulated with either rFSH\u2009+\u2009rLH (n\u2009=\u200960) or rFSH alone (n\u2009=\u200960). Overall, 927 embryos were cultured in the Geri plus\u00ae time-lapse system and annotated for key morphokinetic parameters, including pronuclear dynamics, cleavage stages, morula formation, and blastocyst development. Clinical outcomes following fresh and frozen embryo transfer were also compared between groups.\n\nRESULTS: No differences were observed in baseline characteristics or ovarian stimulation outcomes, including oocyte yield, fertilization rate, cleavage rate, or usable blastocyst rate. Clinical pregnancy, miscarriage, live birth, and cumulative live birth rates were comparable between the two treatment groups. Embryo morphological quality was similar in both groups. Time-lapse analysis revealed that embryos derived from rFSH\u2009+\u2009rLH cycles exhibited accelerated early developmental kinetics, characterized by earlier pronuclear appearance, pronuclear fading, and first cleavage. In contrast, subsequent cleavage timings and later-stage morphokinetic parameters were comparable between groups. No differences in morphological or morphokinetic features were observed among implanted blastocysts.\n\nCONCLUSION: rLH supplementation during ovarian stimulation modulates specific early zygotic events without affecting later embryo development, implantation, or live birth, indicating that routine rLH addition does not alter embryo competence in expected normal responders.",
+      "doi": "10.1007/s10815-026-03958-3",
+      "matched_searches": [
+        "embryo_arrest_d3_blast",
+        "time_lapse_morphokinetics"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42399463/",
+      "doi_url": "https://doi.org/10.1007/s10815-026-03958-3"
+    },
+    {
+      "pmid": "42128196",
+      "title": "Varicocele: new perspectives on an old problem.",
+      "journal": "Fertil Steril",
+      "pub_date": "2026-05-12",
+      "authors": [
+        "Schlegel PN"
+      ],
+      "abstract": "Varicocele has a substantial adverse effect on sperm production and male fertility, so varicocelectomy has an important role in treating infertility. Beyond its effects on fertility, varicocele may also be associated with pain, affect testosterone production and have some relevance for men with the most severe forms of male infertility, non-obstructive azoospermia. The adolescent with varicocele may also benefit from repair, especially if testicular growth has been affected. This issue of Fertility & Sterility has important insights into these clinical scenarios where varicoceles and their repair may be important.",
+      "doi": "10.1016/j.fertnstert.2026.05.147",
+      "matched_searches": [
+        "varicocele_embolisation_ivf"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42128196/",
+      "doi_url": "https://doi.org/10.1016/j.fertnstert.2026.05.147"
+    }
+  ]
+}

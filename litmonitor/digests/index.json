@@ -1,5 +1,18 @@
 [
   {
+    "filename": "digest_2026-07-06.json",
+    "digest_date": "2026-07-06",
+    "generated_at": "2026-07-06T10:36:35Z",
+    "mode": "weekly",
+    "paper_count": 3,
+    "topic_counts": {
+      "intercycle_interval": 1,
+      "embryo_arrest_d3_blast": 2,
+      "time_lapse_morphokinetics": 1,
+      "varicocele_embolisation_ivf": 1
+    }
+  },
+  {
     "filename": "digest_2026-06-29.json",
     "digest_date": "2026-06-29",
     "generated_at": "2026-06-29T10:38:57Z",
