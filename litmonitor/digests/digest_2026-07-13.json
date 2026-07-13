@@ -1,0 +1,431 @@
+{
+  "digest_date": "2026-07-13",
+  "generated_at": "2026-07-13T10:09:22Z",
+  "mode": "weekly",
+  "window_start": "2026-07-04",
+  "paper_count": 12,
+  "topic_counts": {
+    "endometrial_receptivity_era": 2,
+    "sperm_dna_fragmentation": 1,
+    "one_pn_embryos": 1,
+    "choline_pemt_pregnancy": 1,
+    "tese_high_dfi": 1,
+    "embryo_arrest_d3_blast": 5,
+    "methylation_mthfr_art": 1,
+    "recurrent_implantation_failure": 1
+  },
+  "topics": {
+    "agonist_vs_dual_trigger": {
+      "label": "Dual vs agonist trigger",
+      "priority": "high"
+    },
+    "agonist_trigger_suboptimal": {
+      "label": "Suboptimal agonist trigger response",
+      "priority": "high"
+    },
+    "premature_ovulation": {
+      "label": "Premature ovulation",
+      "priority": "high"
+    },
+    "lead_follicle_oversize": {
+      "label": "Lead follicle size & trigger timing",
+      "priority": "high"
+    },
+    "zymot_microfluidic": {
+      "label": "ZyMot / microfluidic sperm selection",
+      "priority": "high"
+    },
+    "sperm_dna_fragmentation": {
+      "label": "Sperm DNA fragmentation (single-strand) & ART",
+      "priority": "high"
+    },
+    "sperm_dna_double_strand": {
+      "label": "Sperm double-strand DNA damage",
+      "priority": "high"
+    },
+    "tese_high_dfi": {
+      "label": "TESE for high DFI",
+      "priority": "high"
+    },
+    "pgta_advanced_age": {
+      "label": "PGT-A in advanced maternal age",
+      "priority": "high"
+    },
+    "blastocyst_grading_outcomes": {
+      "label": "Blastocyst grading & outcomes",
+      "priority": "medium"
+    },
+    "antagonist_protocol_normoresponder": {
+      "label": "Antagonist protocol in normo-responders",
+      "priority": "medium"
+    },
+    "intercycle_interval": {
+      "label": "Inter-cycle interval",
+      "priority": "low"
+    },
+    "methylation_mthfr_art": {
+      "label": "MTHFR / methylation & ART",
+      "priority": "high"
+    },
+    "one_pn_embryos": {
+      "label": "1PN / abnormal fertilisation",
+      "priority": "high"
+    },
+    "ss31_elamipretide": {
+      "label": "SS-31 / elamipretide & fertility",
+      "priority": "high"
+    },
+    "rapamycin": {
+      "label": "Rapamycin / sirolimus & fertility",
+      "priority": "high"
+    },
+    "embryo_arrest_d3_blast": {
+      "label": "Embryo arrest & blastulation",
+      "priority": "high"
+    },
+    "antioxidant_culture_media": {
+      "label": "Antioxidant culture media",
+      "priority": "high"
+    },
+    "growth_hormone_adjuvant": {
+      "label": "Growth hormone adjuvant in IVF",
+      "priority": "medium"
+    },
+    "time_lapse_morphokinetics": {
+      "label": "Time-lapse / morphokinetic embryo selection",
+      "priority": "medium"
+    },
+    "duostim_luteal_phase": {
+      "label": "DuoStim / luteal-phase stimulation",
+      "priority": "high"
+    },
+    "picsi_hyaluronan_binding": {
+      "label": "PICSI / hyaluronan binding sperm selection",
+      "priority": "medium"
+    },
+    "imsi_high_mag_morphology": {
+      "label": "IMSI / high-magnification sperm morphology",
+      "priority": "medium"
+    },
+    "endometrial_receptivity_era": {
+      "label": "Endometrial receptivity testing (ERA / ER-Map)",
+      "priority": "medium"
+    },
+    "recurrent_implantation_failure": {
+      "label": "Recurrent implantation failure",
+      "priority": "high"
+    },
+    "haploid_embryos_decondensation": {
+      "label": "Haploid embryos & sperm decondensation",
+      "priority": "high"
+    },
+    "varicocele_embolisation_ivf": {
+      "label": "Varicocele embolisation & IVF",
+      "priority": "high"
+    },
+    "choline_pemt_pregnancy": {
+      "label": "Choline / PEMT & pregnancy",
+      "priority": "medium"
+    },
+    "methylfolate_vs_folic_acid_ivf": {
+      "label": "Methylfolate vs folic acid in IVF",
+      "priority": "medium"
+    }
+  },
+  "journals_monitored": [
+    "Hum Reprod",
+    "Hum Reprod Update",
+    "Hum Reprod Open",
+    "Fertil Steril",
+    "F S Rep",
+    "F S Sci",
+    "Reprod Biomed Online",
+    "J Assist Reprod Genet",
+    "Reprod Biol Endocrinol",
+    "Hum Fertil (Camb)",
+    "Reprod Sci",
+    "Andrology",
+    "Mol Hum Reprod",
+    "Reproduction",
+    "Biol Reprod",
+    "Reprod Fertil Dev",
+    "Asian J Androl",
+    "Andrologia"
+  ],
+  "papers": [
+    {
+      "pmid": "42434909",
+      "title": "Compartment-Specific Aberrant YAP Activation Impairs Endometrial Receptivity and Decidualization in Recurrent Implantation Failure and Recurrent Pregnancy Loss\u2020.",
+      "journal": "Biol Reprod",
+      "pub_date": "2026-07-11",
+      "authors": [
+        "Yang Z",
+        "Feng L",
+        "Fu W",
+        "Han X",
+        "Yu F",
+        "Bi B",
+        "Dai W",
+        "Sun J",
+        "Zhang R",
+        "Xu N",
+        "Chen T",
+        "Tang T",
+        "Hu L"
+      ],
+      "abstract": "The Hippo-YAP signaling pathway is crucial for tissue homeostasis, yet its specific contribution to recurrent implantation failure (RIF) and recurrent pregnancy loss (RPL) remains poorly understood. This study investigated Hippo-YAP signaling in physiological and pathological human endometrium, and its functional impact on endometrial receptivity and decidualization. We analyzed endometrial tissues from fertile controls, RIF patients, and RPL patients, complemented by mechanistic studies in Ishikawa cells and telomerase-immortalized human endometrial stromal cells (T-hESCs). In fertile controls, YAP was progressively downregulated and phosphorylated from the proliferative to the secretory and decidual phases. Conversely, RIF and RPL endometria exhibited sustained YAP activation with distinct compartment-specific patterns: YAP was upregulated in the RIF epithelium, but in the RPL stroma. Mechanistically, estradiol promoted YAP nuclear translocation and activation via estrogen receptor, whereas progesterone antagonized this effect predominantly via progesterone receptor. Public ChIP-seq data analysis supported ER\u03b1/PR occupancy at the YAP promoter-proximal regulatory region. In functional assays, YAP overexpression significantly impaired JAR spheroid attachment to endometrial epithelial cells and suppressed key genes involved in receptivity. For stromal cells, YAP overexpression disrupted in vitro decidualization, as evidenced by morphological abnormalities and the suppression of PRL and IGFBP1. Conversely, inhibition of YAP using siRNA or verteporfin promoted epithelial receptivity and stromal decidualization. Our findings reveal that progesterone-mediated downregulation of YAP is a fundamental prerequisite for endometrial receptivity and decidualization. The spatiotemporal persistence of YAP activity, dictated by impaired progesterone signaling, orchestrates compartment-specific dysfunctions that underpin the clinical divergence between RIF and RPL.",
+      "doi": "10.1093/biolre/ioag145",
+      "matched_searches": [
+        "endometrial_receptivity_era"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42434909/",
+      "doi_url": "https://doi.org/10.1093/biolre/ioag145"
+    },
+    {
+      "pmid": "42430032",
+      "title": "Sperm 28S ribosomal RNA fragments as a potential biomarker for embryo quality in in vitro fertilization.",
+      "journal": "J Assist Reprod Genet",
+      "pub_date": "2026-07-10",
+      "authors": [
+        "Li L",
+        "Li H",
+        "Wang Q",
+        "Hu M",
+        "Le F",
+        "Liu X",
+        "Wang L"
+      ],
+      "abstract": "PURPOSE: Male factors account for approximately 50% of infertility cases worldwide. However, the ability of current diagnostic tools-such as conventional semen analysis and sperm DNA fragmentation testing-to predict outcomes of assisted reproductive technology (ART) is limited.. Although sperm RNA content has emerged as a potential molecular marker of fertility, the role of microRNAs (miRNAs) and ribosomal RNA (rRNA) fragments in embryo development remains poorly understood.\n\nMETHODS: We retrospectively analyzed 135 infertile couples who underwent IVF. Using quantitative RT\u2012PCR, we analyzed sperm samples and detected the expression of miR-150, miR-199a, miR-200a, miR-451, miR-181a, and ribosomal RNA (rRNA) fragments. These miRNAs were previously reported to be abundant in fertilized embryos and sperm but are expressed at low levels in oocytes.\n\nRESULTS: We demonstrated the predominant presence of fragmented 28S rRNA, with significantly higher expression levels observed in patients who produced higher-quality embryos (7-9 blastomeres with\u2009<\u200910% fragmentation on day 3). Notably, 28S rRNA expression showed a strong positive correlation with embryo quality rates (P\u2009<\u20090.05), whereas no such association was detected for the 45S precursor, 18S, 5.8S rRNA forms and miRNAs. Importantly, conventional semen parameters (concentration and motility) were not significantly correlated with embryo quality, highlighting the unique predictive value of sperm rRNA profiling.\n\nCONCLUSION: Our findings reveal that sperm 28S rRNA fragments may serve as novel biomarkers for predicting embryo developmental potential in IVF. These findings highlight the potential clinical utility of sperm RNA profiling in improving embryo selection and reproductive outcomes.",
+      "doi": "10.1007/s10815-026-03940-z",
+      "matched_searches": [
+        "sperm_dna_fragmentation"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42430032/",
+      "doi_url": "https://doi.org/10.1007/s10815-026-03940-z"
+    },
+    {
+      "pmid": "42426440",
+      "title": "To discard or to not discard 2.1PN? A systematic review and evidence table analysis.",
+      "journal": "J Assist Reprod Genet",
+      "pub_date": "2026-07-10",
+      "authors": [
+        "Cecchele A",
+        "Barbagallo BM",
+        "de Girolamo S",
+        "Pagliardini L",
+        "Papaleo E",
+        "Fusi FM",
+        "Ottolini CS",
+        "Capalbo A",
+        "Bartolacci A"
+      ],
+      "abstract": "PURPOSE: To assess if 2.1PN-derived embryos are diploid, euploid and suitable for embryo-transfer.\n\nMETHODS: This systematic review was performed in accordance with the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines. PubMed, Embase, and SCOPUS were systematically searched for peer-reviewed original papers using relevant keywords and Medical Subject Heading (MeSH) terms. Diploidy, confirmed by genotyping analysis, is defined as the primary outcome measure. Secondary outcomes included blastulation rates, good quality blastocysts, euploidy, clinical pregnancy, miscarriage and live birth (LB).\n\nRESULTS: A total of 7 studies were included in the systematic review. Six out of seven studies indicated that 2.1PN embryos have lower developmental competence than 2PN embryos, yet can still be euploid/diploid. Only one study advised against their use for embryo transfer. In our analysis of the evidence tables, 2.1PN-derived embryos showed a descriptive trend toward lower blastulation rates (-\u200922.50%), good-quality blastocyst formation (-\u200912.93%), diploidy (-\u200916.70%), and euploidy rates (-\u200928.37%) when compared with their 2PN counterparts. Four studies also analyzed LB in 2.1PN, reporting an overall LB of 30.4% (7/23). Finally, based on the crude aggregated blastulation (32.30%), euploidy (35.0%), and diploidy (82.0%) rates, the estimated probability for a single 2.1PN zygote to develop into a euploid and diploid blastocyst was 9.3%.\n\nCONCLUSIONS: Although 2.1PN-derived embryos exhibited lower developmental competence, they showed potential for healthy LB. Our findings support the clinical use of 2.1PN-derived embryos when diploidy is confirmed by a validated genotyping analysis, providing further empirical evidence to support more inclusive and flexible clinical recommendations, potentially improving cumulative success rates.\n\nCLINICAL TRIAL REGISTRATION: CRD420251070366.",
+      "doi": "10.1007/s10815-026-03966-3",
+      "matched_searches": [
+        "one_pn_embryos"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42426440/",
+      "doi_url": "https://doi.org/10.1007/s10815-026-03966-3"
+    },
+    {
+      "pmid": "42402985",
+      "title": "Bifidobacterium longum BB536 supplementation is associated with increased circulating choline plasmalogen concentrations in non-pregnant, non-lactating dairy cows.",
+      "journal": "Reprod Fertil Dev",
+      "pub_date": "2026-07-10",
+      "authors": [
+        "Asato Y",
+        "Kubo T",
+        "Hashimoto M",
+        "Wakatsuki T",
+        "Sakamoto H",
+        "Tanigawa T",
+        "Kitamura S",
+        "Kadokawa H"
+      ],
+      "abstract": "CONTEXT: Plasmalogens are ether phospholipids implicated in neuroendocrine regulation, including reproductive function. Recent studies have suggested that circulating plasmalogen concentrations are associated with reproductive performance in dairy cows; however, practical strategies to increase these concentrations remain limited.\n\nAIMS: We hypothesised that supplementation with Bifidobacterium longum increases circulating choline plasmalogen concentrations and that this response depends on physiological state.\n\nMETHODS: Commercial probiotic products were screened using liquid chromatography-mass spectrometry and metagenomics to identify candidates containing plasmalogen-producing bacteria. A product containing the characterised strain B. longum BB536 and products containing other B. longum strains were selected for in vivo evaluation. Selected products were administered to Holstein cattle, and circulating choline plasmalogen concentrations were measured using an enzyme-based fluorometric assay.\n\nKEY RESULTS: In long-term non-pregnant, non-lactating dairy cows, supplementation with B. longum BB536 significantly increased circulating choline plasmalogen concentrations, with a detectable rise approximately 1 week after the start of treatment and peak concentrations during Days 8-14 (P\u00a0<\u00a00.05). In contrast, no consistent increase was observed in pregnant, lactating dairy cows. Cross-sectional analysis across pregnancy stages showed significant variation in circulating choline plasmalogen concentrations, with lower concentrations during mid- to late gestation. No adverse effects were observed in ruminal pH, blood lactate concentrations, or bodyweight.\n\nCONCLUSION: These findings suggest that supplementation with B. longum BB536 increases circulating choline plasmalogen concentrations in a state-dependent manner.\n\nIMPLICATIONS: This study has provided new insight into the regulation of plasmalogens in cattle and suggests a potential nutritional approach for modulating reproductive function.",
+      "doi": "10.1071/RD26107",
+      "matched_searches": [
+        "choline_pemt_pregnancy"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42402985/",
+      "doi_url": "https://doi.org/10.1071/RD26107"
+    },
+    {
+      "pmid": "42426439",
+      "title": "Embryonic mosaicism in severe male factor infertility is unrelated to sperm retrieval technique.",
+      "journal": "J Assist Reprod Genet",
+      "pub_date": "2026-07-09",
+      "authors": [
+        "Alkon T",
+        "Hernandez-Nieto C",
+        "Lee J",
+        "Baird M",
+        "Bar-Chama N",
+        "Luna M",
+        "Copperman A",
+        "Buyuk E"
+      ],
+      "abstract": "PURPOSE: To evaluate the association between the method of sperm retrieval (ejaculated versus testicular sperm) and embryonic mosaicism in infertile couples with severe male factor infertility undergoing in vitro fertilization (IVF) with preimplantation genetic testing for aneuploidy (PGT-A).\n\nMETHODS: This retrospective study analyzed 298 patients with severe male factor infertility undergoing IVF with PGT-A from 2019 to 2025. Patients were divided into two groups based on sperm source: ejaculated sperm (n\u2009=\u2009229) and testicular sperm obtained via testicular sperm extraction (TESE) (n\u2009=\u200969). All cycles used fresh sperm collected on the day of oocyte retrieval. The primary outcome was the rate of embryonic mosaicism among biopsied blastocysts. Secondary outcomes included euploidy, aneuploidy, mosaicism level, inconclusive embryo count, clinical pregnancy and live birth rates.\n\nRESULTS: A total of 1124 embryos were biopsied (250 from testicular sperm extraction; 874 from ejaculate). Mosaicism rates were similar between testicular and ejaculated sperm groups (9.6% vs. 9.4%, p\u2009=\u20090.62). Sperm retrieval method was not associated with mosaicism (OR 0.98, CI 0.61-1.58), euploidy (OR 0.90, CI 0.70-1.08), or aneuploidy (OR 0.89, CI 0.60-1.06). High- and low-level mosaicism were also comparable between groups (OR 0.96, CI 0.75-1.18 and OR 0.99, CI 0.81-1.22). No differences were observed in clinical pregnancy and live birth rates among cohorts.\n\nCONCLUSIONS: Sperm retrieval technique does not influence embryonic mosaicism rates in patients with severe male factor infertility. These findings support patient counseling by indicating that invasive procedures should not be pursued solely for the purpose of reducing mosaicism rates.",
+      "doi": "10.1007/s10815-026-03968-1",
+      "matched_searches": [
+        "tese_high_dfi"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42426439/",
+      "doi_url": "https://doi.org/10.1007/s10815-026-03968-1"
+    },
+    {
+      "pmid": "42426427",
+      "title": "Integrated Metabolomic and Transcriptomic Profiling Reveals a Distinct Pathological Aging State in Diminished Ovarian Reserve of Advanced Reproductive-Age Women.",
+      "journal": "Reprod Sci",
+      "pub_date": "2026-07-09",
+      "authors": [
+        "Li Z",
+        "Wang S",
+        "Mao X",
+        "Zhang X",
+        "Wei P",
+        "Chen L",
+        "Xue L",
+        "Ruan Z"
+      ],
+      "abstract": "Women of advanced age exhibit significant heterogeneity in ovarian reserve, categorized as normal (NOR) or diminished (DOR). This study aims to distinguish physiological age-related decline from pathological accelerated aging in DOR, and to explore underlying molecular mechanisms for optimizing assisted reproductive strategies. In vitro fertilization-embryo transfer (IVF-ET) outcomes were retrospectively compared in advanced-age women (\u2265\u200940 years) with NOR or DOR treated at our center (January 2022 - December 2024). Simultaneously, follicular fluid (FF) was collected from both groups (n\u2009=\u200920). After centrifugation, metabolomic analysis was performed on metabolites, and transcriptomic sequencing on isolated granulosa cells (GCs). Despite comparable fertilization and cleavage-stage embryo quality, the DOR group showed significantly lower rates of oocyte maturation, blastocyst formation, clinical pregnancy, and live birth (P\u2009<\u20090.05). Metabolomic analysis revealed 28 differential metabolites (DMs) in FF, primarily enriched in galactose metabolism. Transcriptomics of GCs identified 246 differentially expressed mRNAs (DEmRNAs), prominently enriched in immune-related pathways. Protein-protein interaction analysis highlighted five hub genes (CX3CR1, CD69, FCER1A, EOMES, SPRR2A). Integrated analysis of the top 50 DEmRNAs with the top 400 DEmRNA-DM correlation pairs identified five key genes-IGLC3, RNVU1-29, FAM110C, NPY2R, and KCNN4-bridging GC transcriptome and FF metabolome, with key pairs including RNVU1-29 with lysylhydroxyproline and a sterane derivative, and FAM110C with 16-hydroxyhexadecanoic acid. In conclusion, DOR in advanced age may represent a distinct pathological aging state characterized by a dysregulated follicular microenvironment potentially shaped by immune activation and metabolic reprogramming. The identified key gene-metabolite pairs offer candidate molecular links to compromised oocyte developmental competence.",
+      "doi": "10.1007/s43032-026-02145-0",
+      "matched_searches": [
+        "embryo_arrest_d3_blast"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42426427/",
+      "doi_url": "https://doi.org/10.1007/s43032-026-02145-0"
+    },
+    {
+      "pmid": "42425284",
+      "title": "Complete Embryo Developmental Arrest and Its Prognostic Significance in IVF.",
+      "journal": "Fertil Steril",
+      "pub_date": "2026-07-09",
+      "authors": [
+        "George L",
+        "Kalafat E",
+        "Sachdev D",
+        "Whitehead C",
+        "Sahin GN",
+        "Werner M",
+        "Seli E"
+      ],
+      "abstract": "UNLABELLED: Structured Abstract OBJECTIVE: To identify the rate of repeated embryo arrest in the subsequent IVF cycle for those with prior complete embryo developmental arrest (EDA) in their index cycle.\n\nDESIGN: Retrospective cohort study with exposure groups matched via propensity scoring (1:2 ratio).\n\nSUBJECTS: All patients who underwent two consecutive ovarian stimulation cycles for IVF within a year, resulting in at least two or more 2-pronuclei embryos between January 2017 and April 2025.\n\nEXPOSURE: Patients were categorized by the embryology outcomes of the index cycle: (1) complete EDA group (0% blastocyst formation rate) and (2) comparison group (one or more blastocysts cryopreserved).\n\nMAIN OUTCOME MEASURES: Primary outcome measure was blastulation rate in the subsequent IVF cycle. Secondary outcomes included total number of oocytes retrieved, total mature oocytes, total fertilized oocytes, total blastocysts, and euploidy rate. Doubly robust estimation was employed with multivariable log-binomial regression models to test the association of complete EDA with blastulation outcomes in the matched sample.\n\nRESULTS: Prior to matching, 501 and 3,412 patients were identified in the EDA and comparison groups, respectively. The EDA group was significantly older (p<0.001) with fewer mature oocytes (p<0.001). Matching balanced these factors. Post-matching multivariable analysis (444 with EDA and 815 without) found that a history of complete EDA remained significantly and independently associated with lower fertilization rates (76.6%\u00b124.6 vs. 81.5%\u00b121.1, aRR: 0.94, 95% CI: 0.92-0.97, p<0.001), lower blastulation rates (33.1%\u00b130.1 vs. 47.0%\u00b131.3, aRR 0.75, 95% CI 0.70-0.80, p<0.001), and a higher risk of no blastulation (33.6% vs 17.9%, aRR 1.82, 95% CI 1.44-2.3, p<0.001). Euploidy rates per blastocyst cryopreserved was not affected by EDA history (45.5%\u00b140.8 vs. 46.7%\u00b139.1, aRR: 0.97, 95% CI: 0.81-1.15, p=0.209). In those with prior complete EDA, altering the stimulation protocol or trigger type from the arrest cycle to the subsequent cycle did not significantly improve blastulation rates or reduce the risk of no blastulation compared to keeping the same protocol or trigger for both cycles.\n\nCONCLUSION: A history of complete EDA was a significant predictor of poorer results in the subsequent cycle and alterations to the treatment protocol were not associated with improved outcomes.",
+      "doi": "10.1016/j.fertnstert.2026.07.005",
+      "matched_searches": [
+        "embryo_arrest_d3_blast"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42425284/",
+      "doi_url": "https://doi.org/10.1016/j.fertnstert.2026.07.005"
+    },
+    {
+      "pmid": "42426794",
+      "title": "Effect of uterine peristalsis at the time of embryo transfer on the outcomes of IVF cycles: a prospective cohort study.",
+      "journal": "Reprod Biol Endocrinol",
+      "pub_date": "2026-07-09",
+      "authors": [
+        "Abdallah KS",
+        "Zahran KM",
+        "Othman MA",
+        "Nasr A"
+      ],
+      "abstract": "BACKGROUND: It has recently been discovered that one of the key elements influencing endometrial receptivity is uterine peristalsis. This was a prospective cohort study aiming to assess uterine peristalsis at the time of embryo transfer in women undergoing IVF.\n\nMETHODS: Uterine peristaltic waves were assessed using transvaginal ultrasound by recording a 3-minute video to determine the frequency and the direction of peristalsis. Primary outcome was clinical pregnancy while secondary outcomes were biochemical pregnancy, miscarriage, ectopic pregnancy and live birth. Outcomes were compared in women who had no peristalsis (Absent group), had one or two waves per minute (<\u20093 Group), or those who had 3 or more waves per minute (\u2265\u20093 Group).\n\nRESULTS: Between August 2023 and January 2025, 127 women were included in this study, of whom 76 (59.8%) were fresh cycles and 51 (40.2%) were frozen cycles. The median number of peristaltic waves was one per minute. Peristalsis was absent in 34 women, <\u20093 in 72 women and \u2265\u20093 in 21 women. There was no statistically significant difference in pregnancy rate between the three groups (26.1% in absent group, 36.1% in <\u20093 group, and 33.3% in \u2265\u20093 group). The direction was cervico-fundal in 62 women, fundo-cervical in 5 women, and random in 26 women, with pregnancy rates 22%, 0% and 11%, respectively, with no statistically significant difference.\n\nCONCLUSION: We did not find a significant effect of the number or the direction of uterine peristalsis on any of the clinical outcomes of IVF. Therefore, we do not recommend its routine assessment before embryo transfer until further evidence is available.\n\nTRIAL REGISTRATION: The study protocol was registered on 14 September 2023 at ClinicalTrials.gov (Registration number NCT06036459).",
+      "doi": "10.1186/s12958-026-01587-0",
+      "matched_searches": [
+        "endometrial_receptivity_era"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42426794/",
+      "doi_url": "https://doi.org/10.1186/s12958-026-01587-0"
+    },
+    {
+      "pmid": "42412016",
+      "title": "Associations between serum total testosterone concentration and clinical pregnancy following IVF-ET in patients with azoospermia: a retrospective study.",
+      "journal": "Asian J Androl",
+      "pub_date": "2026-07-07",
+      "authors": [
+        "Hu Z",
+        "Zhao BY",
+        "Shi SL",
+        "Shi QY"
+      ],
+      "abstract": "Serum total testosterone (TT) concentration is critical for male reproductive function, but its role in predicting in vitro fertilization-embryo transfer (IVF-ET) outcomes in patients with azoospermia remains unclear. In this retrospective study, the association between TT concentrations and clinical pregnancy outcomes was investigated in 2101 patients with azoospermia (1846 with obstructive azoospermia [OA] and 255 with nonobstructive azoospermia [NOA]) at The First Affiliated Hospital of Zhengzhou University (Zhengzhou, China), from January 2010 to January 2023. General characteristics of the patients in the pregnancy and nonpregnancy groups were compared. Logistic regression analysis was used to identify factors that affect pregnancy outcomes. A receiver operating characteristic curve (ROC) was plotted to determine the cut-off value of the TT concentration. Embryonic and clinical outcomes were compared using the TT cut-off value. The results revealed a significant negative correlation between the TT concentration and body mass index (BMI) in both cohorts. In patients with OA, female age (odds ratio [OR] = 0.96, 95% confidence interval [CI]: 0.92-0.99; P = 0.024) and the male TT concentration (OR = 1.14, 95% CI: 1.04-1.24; P = 0.005) were independent pregnancy predictors. We identified the TT concentration of 268 ng dl-1 as the favorable cut-off value. OA patients with TT levels of <268 ng dl-1 exhibited poorer sperm quality, reduced blastocyst formation, and diminished reproductive outcomes (all P < 0.05). We conclude that the TT concentration is correlated with BMI in patients with azoospermia and serves as an independent predictor of clinical pregnancy outcomes in patients with OA, but not in those with NOA. This provides a valuable clinical reference for subtype-specific management. However, its modest predictive performance limits its standalone clinical use.",
+      "doi": "10.4103/aja202617",
+      "matched_searches": [
+        "embryo_arrest_d3_blast"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42412016/",
+      "doi_url": "https://doi.org/10.4103/aja202617"
+    },
+    {
+      "pmid": "42411761",
+      "title": "PRRC2A deficiency disrupts m6A-dependent RNA processing and meiosis in human spermatogenesis.",
+      "journal": "Mol Hum Reprod",
+      "pub_date": "2026-07-07",
+      "authors": [
+        "Yu H",
+        "Zhang N",
+        "Liu X",
+        "Geng H",
+        "Li K",
+        "Tang D",
+        "Lv M",
+        "Cao Y"
+      ],
+      "abstract": "The formation of N6-methyladenosine (m6A) is the most prevalent internal RNA modification in eukaryotic transcripts and plays an essential role in spermatogenesis. PRRC2A is a m6A reader that is indispensable for meiotic progression and is essential for maintaining spermatocyte identity during mouse spermatogenesis. However, its contribution to human spermatogenesis remains unknown. In this study, we investigated a man diagnosed with non-obstructive azoospermia (NOA) and two with severe oligozoospermia, all carrying biallelic PRRC2A variants. All patients exhibited impaired spermatogenesis. the patient with NOA showed marked arrest at meiotic metaphase I or delayed entry into metaphase. RNA-seq and m6A-seq data demonstrated that his PRRC2A deficiency was accompanied by altered chromatoid body-associated RNA regulatory architecture and affected histone-to-transition protein exchange during spermiogenesis. Despite the presence of PRM2-positive spermatids, testicular spermatozoa retrieved from the NOA patient failed to achieve fertilization via TESE-ICSI, possibly due to impaired DNA integrity, arising from a perturbed histone-to-protamine transition. In the remaining cases, repeated ART attempts resulted in fertilization failure or early embryonic arrest. The successful pregnancy was ultimately achieved only through donor sperm IVF-ET. The concordance between molecular defects and consistently poor fertilization outcomes across independent individuals supports the pathogenic role for PRRC2A deficiency. We suggest that the disruption of an m6A reader compromises meiotic progression, as well as sperm functional competence and fertilization capacity, although the limited sample size precludes formal statistical inference. By linking epitranscriptomic dysregulation to adverse ART outcomes, this study expands the molecular basis of severe male factor infertility and has direct implications for genetic diagnosis, prognosis of fertilization potential, and reproductive counselling.",
+      "doi": "10.1093/molehr/gaag042",
+      "matched_searches": [
+        "embryo_arrest_d3_blast"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42411761/",
+      "doi_url": "https://doi.org/10.1093/molehr/gaag042"
+    },
+    {
+      "pmid": "42406783",
+      "title": "Multi-omics and developmental comparison of direct and conventional warming methods in vitrified human and mouse cleavage-stage embryos.",
+      "journal": "Hum Reprod",
+      "pub_date": "2026-07-06",
+      "authors": [
+        "Wu W",
+        "Shen Y",
+        "Shen S",
+        "Xu M",
+        "Zhang L",
+        "Fung KK",
+        "Chung JPW",
+        "Ju CW",
+        "Fok EKL",
+        "Zhang LS",
+        "Chan DYL"
+      ],
+      "abstract": "STUDY QUESTION: Does direct warming preserve embryonic developmental competence and molecular integrity as well as conventional multi-step warming in vitrified human and mouse cleavage-stage embryos?\n\nSUMMARY ANSWER: Direct warming yielded comparable developmental and molecular outcomes to conventional warming in both mouse and human cleavage-stage embryos.\n\nWHAT IS KNOWN ALREADY: Conventional embryo warming uses stepwise cryoprotectant dilution to minimize toxicity and osmotic shock. Direct warming methods have been proposed, but their impact on post-warming development and the molecular comparison remains unclear.\n\nSTUDY DESIGN, SIZE, DURATION: This is a controlled experimental study conducted over 18\u2009months. A total of 490 vitrified mouse embryos and 15 donated human embryos were tested either in direct or conventional warming group. A subset underwent embryo transfer and follow-up. Parallel transcriptomic and DNA methylation profiling was performed on mouse and donated human embryos.\n\nPARTICIPANTS/MATERIALS, SETTING, METHODS: Mouse cleavage-stage embryos (C57BL/6J) were vitrified and randomly assigned to direct (n\u2009=\u2009265) or conventional (n\u2009=\u2009225) warming. Post-warming survival and blastocyst formation were assessed in vitro. A subset (n\u2009=\u2009211) underwent embryo transfer to evaluate implantation, live birth, and postnatal development to Day 21. For molecular analysis, pooled mouse embryos from fresh, conventional, and direct groups were analyzed by bulk RNA-seq and bisulfite sequencing. Ten vitrified human embryos (n\u2009=\u20095 per group) were analyzed individually by scRNA-seq and scBS-seq. All procedures were conducted under standard IVF lab conditions with ethical approval.\n\nMAIN RESULTS AND THE ROLE OF CHANCE: Direct warming in mouse achieved comparable survival (95.8% vs 93.8%), blastocyst formation (88.6% vs 88.2%), implantation (82.5% vs 83.0%), and live birth rates (69.6% vs 71.1%) to conventional warming (all P\u2009>\u20090.05). Offspring showed similar growth, developmental milestones, and organ histology. Mouse transcriptome and methylome profiles revealed minimal differences and no significant pathway enrichment. In human embryos, ion channel-related gene variability was observed but without coordinated pathway disruption. Global methylation levels remained within expected developmental ranges.\n\nLARGE SCALE DATA: N/A.\n\nLIMITATIONS, REASONS FOR CAUTION: While the mouse model enables in vivo validation, species-specific differences in embryo size, membrane properties, and development may limit generalizability. As all embryos were cultured under optimized conditions, caution is advised when extrapolating to diverse clinical settings.\n\nWIDER IMPLICATIONS OF THE FINDINGS: To our knowledge, this is the first study to provide multi-level evidence supporting the safety and efficacy of direct warming as an alternative to conventional multi-step embryo warming protocols. By incorporating in vivo reproductive outcomes, postnatal development, and molecular profiling, it strengthens current evidence on the feasibility of this approach. The absence of pathway-level disruptions in transcriptome and methylome datasets suggests that direct warming does not impair essential developmental programs. These findings may support the clinical use of simplified warming procedures, especially for cleavage-stage embryo transfer or in resource-limited settings. However, further clinical studies are warranted to confirm long-term safety in humans.\n\nSTUDY FUNDING/COMPETING INTEREST(S): This work was supported by Collaborative Research Fund (CRF-C4007-24E), and Early Career Scheme (ECS-26103623) from the University Grants Committee (UGC), and Health and Medical Research Fund (HMRF 12230736) from the Hong Kong Government. The authors report no competing interests.\n\nTRIAL REGISTRATION NUMBER: N/A.",
+      "doi": "10.1093/humrep/deag105",
+      "matched_searches": [
+        "methylation_mthfr_art",
+        "embryo_arrest_d3_blast"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42406783/",
+      "doi_url": "https://doi.org/10.1093/humrep/deag105"
+    },
+    {
+      "pmid": "42405634",
+      "title": "Do they work, and are they worth it? Proposing a framework of evidence synthesis for guiding the evidence-based use of add-ons in in\u00a0vitro fertilisation.",
+      "journal": "Hum Fertil (Camb)",
+      "pub_date": "2026-07-06",
+      "authors": [
+        "Hou L",
+        "Feng Q",
+        "Mazi M",
+        "Lensen S",
+        "Maheshwari A",
+        "Mol BW"
+      ],
+      "abstract": "Add-ons are non-essential interventions offered in addition to standard infertility treatments, mainly in\u00a0vitro fertilisation (IVF) and associated procedures, aimed at improving chances of pregnancy and live birth. While existing guidelines provide recommendations on the use of add-ons, they often overlook the trustworthiness of the underlying randomised controlled trials (RCTs), which may lead to misleading conclusions. Furthermore, some add-ons that may offer genuine benefits have been dismissed due to misinterpretation of trial results, or they are reserved for repeated implantation failure based on strategic rather than evidence-based arguments. Here, we propose a framework for an evidence synthesis process to guide the rational use of add-ons. The evaluation should begin with establishing effectiveness through systematic reviews of trustworthy RCTs, ignoring RCTs that do not meet trustworthiness criteria. When assessing effectiveness, the evaluation should consider evidence relating to the biological mechanisms targeted by the add-on, in addition to clinical outcomes such as live birth. For diagnostic add-ons, evaluations should focus on the group of patients whose test result leads to a change in clinical management, rather than analysing all test-exposed patients. Once effectiveness is confirmed, evaluating cost-effectiveness becomes crucial. Its cost per additional live birth should be compared to a benchmark (e.g., $27,000 or \u00a320,000 for a live birth via standard IVF). Finally, once proven cost-effective, add-ons should be offered early, rather than delayed until after repeated treatment failures. It might be that effectiveness and cost-effectiveness increase with progression along the continuum of diagnosis or IVF failure such as recurrent implantation failure. In that case, add-ons may be offered as soon as they are considered cost-effective.",
+      "doi": "10.1080/14647273.2026.2696818",
+      "matched_searches": [
+        "recurrent_implantation_failure"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42405634/",
+      "doi_url": "https://doi.org/10.1080/14647273.2026.2696818"
+    }
+  ]
+}

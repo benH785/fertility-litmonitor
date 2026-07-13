@@ -226,5 +226,23 @@
       "time_lapse_morphokinetics": 1,
       "varicocele_embolisation_ivf": 1
     }
+  },
+  {
+    "run_at": "2026-07-13T10:09:22Z",
+    "mode": "weekly",
+    "since": "2026-07-04",
+    "new_papers": 12,
+    "total_seen": 1726,
+    "digest_filename": "digest_2026-07-13.md",
+    "topic_counts": {
+      "endometrial_receptivity_era": 2,
+      "sperm_dna_fragmentation": 1,
+      "one_pn_embryos": 1,
+      "choline_pemt_pregnancy": 1,
+      "tese_high_dfi": 1,
+      "embryo_arrest_d3_blast": 5,
+      "methylation_mthfr_art": 1,
+      "recurrent_implantation_failure": 1
+    }
   }
 ]
