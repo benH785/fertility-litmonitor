@@ -1,5 +1,21 @@
 [
   {
+    "filename": "digest_2026-07-20.json",
+    "digest_date": "2026-07-20",
+    "generated_at": "2026-07-20T10:05:04Z",
+    "mode": "weekly",
+    "paper_count": 8,
+    "topic_counts": {
+      "picsi_hyaluronan_binding": 1,
+      "sperm_dna_fragmentation": 2,
+      "embryo_arrest_d3_blast": 4,
+      "tese_high_dfi": 1,
+      "time_lapse_morphokinetics": 2,
+      "blastocyst_grading_outcomes": 1,
+      "pgta_advanced_age": 1
+    }
+  },
+  {
     "filename": "digest_2026-07-13.json",
     "digest_date": "2026-07-13",
     "generated_at": "2026-07-13T10:09:22Z",

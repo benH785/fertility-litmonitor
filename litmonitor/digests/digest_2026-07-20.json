@@ -1,0 +1,337 @@
+{
+  "digest_date": "2026-07-20",
+  "generated_at": "2026-07-20T10:05:04Z",
+  "mode": "weekly",
+  "window_start": "2026-07-11",
+  "paper_count": 8,
+  "topic_counts": {
+    "picsi_hyaluronan_binding": 1,
+    "sperm_dna_fragmentation": 2,
+    "embryo_arrest_d3_blast": 4,
+    "tese_high_dfi": 1,
+    "time_lapse_morphokinetics": 2,
+    "blastocyst_grading_outcomes": 1,
+    "pgta_advanced_age": 1
+  },
+  "topics": {
+    "agonist_vs_dual_trigger": {
+      "label": "Dual vs agonist trigger",
+      "priority": "high"
+    },
+    "agonist_trigger_suboptimal": {
+      "label": "Suboptimal agonist trigger response",
+      "priority": "high"
+    },
+    "premature_ovulation": {
+      "label": "Premature ovulation",
+      "priority": "high"
+    },
+    "lead_follicle_oversize": {
+      "label": "Lead follicle size & trigger timing",
+      "priority": "high"
+    },
+    "zymot_microfluidic": {
+      "label": "ZyMot / microfluidic sperm selection",
+      "priority": "high"
+    },
+    "sperm_dna_fragmentation": {
+      "label": "Sperm DNA fragmentation (single-strand) & ART",
+      "priority": "high"
+    },
+    "sperm_dna_double_strand": {
+      "label": "Sperm double-strand DNA damage",
+      "priority": "high"
+    },
+    "tese_high_dfi": {
+      "label": "TESE for high DFI",
+      "priority": "high"
+    },
+    "pgta_advanced_age": {
+      "label": "PGT-A in advanced maternal age",
+      "priority": "high"
+    },
+    "blastocyst_grading_outcomes": {
+      "label": "Blastocyst grading & outcomes",
+      "priority": "medium"
+    },
+    "antagonist_protocol_normoresponder": {
+      "label": "Antagonist protocol in normo-responders",
+      "priority": "medium"
+    },
+    "intercycle_interval": {
+      "label": "Inter-cycle interval",
+      "priority": "low"
+    },
+    "methylation_mthfr_art": {
+      "label": "MTHFR / methylation & ART",
+      "priority": "high"
+    },
+    "one_pn_embryos": {
+      "label": "1PN / abnormal fertilisation",
+      "priority": "high"
+    },
+    "ss31_elamipretide": {
+      "label": "SS-31 / elamipretide & fertility",
+      "priority": "high"
+    },
+    "rapamycin": {
+      "label": "Rapamycin / sirolimus & fertility",
+      "priority": "high"
+    },
+    "embryo_arrest_d3_blast": {
+      "label": "Embryo arrest & blastulation",
+      "priority": "high"
+    },
+    "antioxidant_culture_media": {
+      "label": "Antioxidant culture media",
+      "priority": "high"
+    },
+    "growth_hormone_adjuvant": {
+      "label": "Growth hormone adjuvant in IVF",
+      "priority": "medium"
+    },
+    "time_lapse_morphokinetics": {
+      "label": "Time-lapse / morphokinetic embryo selection",
+      "priority": "medium"
+    },
+    "duostim_luteal_phase": {
+      "label": "DuoStim / luteal-phase stimulation",
+      "priority": "high"
+    },
+    "picsi_hyaluronan_binding": {
+      "label": "PICSI / hyaluronan binding sperm selection",
+      "priority": "medium"
+    },
+    "imsi_high_mag_morphology": {
+      "label": "IMSI / high-magnification sperm morphology",
+      "priority": "medium"
+    },
+    "endometrial_receptivity_era": {
+      "label": "Endometrial receptivity testing (ERA / ER-Map)",
+      "priority": "medium"
+    },
+    "recurrent_implantation_failure": {
+      "label": "Recurrent implantation failure",
+      "priority": "high"
+    },
+    "haploid_embryos_decondensation": {
+      "label": "Haploid embryos & sperm decondensation",
+      "priority": "high"
+    },
+    "varicocele_embolisation_ivf": {
+      "label": "Varicocele embolisation & IVF",
+      "priority": "high"
+    },
+    "choline_pemt_pregnancy": {
+      "label": "Choline / PEMT & pregnancy",
+      "priority": "medium"
+    },
+    "methylfolate_vs_folic_acid_ivf": {
+      "label": "Methylfolate vs folic acid in IVF",
+      "priority": "medium"
+    }
+  },
+  "journals_monitored": [
+    "Hum Reprod",
+    "Hum Reprod Update",
+    "Hum Reprod Open",
+    "Fertil Steril",
+    "F S Rep",
+    "F S Sci",
+    "Reprod Biomed Online",
+    "J Assist Reprod Genet",
+    "Reprod Biol Endocrinol",
+    "Hum Fertil (Camb)",
+    "Reprod Sci",
+    "Andrology",
+    "Mol Hum Reprod",
+    "Reproduction",
+    "Biol Reprod",
+    "Reprod Fertil Dev",
+    "Asian J Androl",
+    "Andrologia"
+  ],
+  "papers": [
+    {
+      "pmid": "42469519",
+      "title": "Does physiological sperm selection improve live birth rates in isolated teratozoospermia? A single-center retrospective cohort study.",
+      "journal": "J Assist Reprod Genet",
+      "pub_date": "2026-07-18",
+      "authors": [
+        "Pala \u0130",
+        "Gunel NS",
+        "Gode F"
+      ],
+      "abstract": "RESEARCH QUESTION: Does physiological intracytoplasmic sperm injection (PICSI) improve live birth outcomes compared with conventional ICSI (CICSI) in couples with isolated teratozoospermia?\n\nDESIGN: This single-center retrospective cohort study included couples with isolated teratozoospermia, defined according to WHO (World Health Organization) 2021 criteria in the presence of normal sperm concentration and motility but abnormal sperm morphology (<\u20094% morphologically normal forms assessed by Kruger strict criteria), who underwent ICSI using fresh ejaculated sperm at a tertiary IVF center between 2023 and 2024. Sperm selection was performed using hyaluronan-based PICSI (n\u2009=\u200998) or CICSI (n\u2009=\u2009192). Women with normal/good ovarian reserve were included in the study, whereas women with low ovarian reserve or expected poor ovarian response, as defined by the POSEIDON (Patient-Oriented Strategies Encompassing Individualized Oocyte Number) criteria, were excluded. Cycles using all forms of surgical sperm retrieval and those involving partial or complete globozoospermia sperm morphology were excluded. Preimplantation genetic testing for aneuploidy (PGT-A) was not performed in the study cohort. All embryo transfers were performed as frozen Day-5 blastocyst transfers. The primary outcome was live birth. Multivariable logistic regression was used to identify independent predictors of live birth.\n\nRESULTS: Baseline female and male characteristics, stimulation parameters, and semen variables were comparable between groups. The CICSI group had significantly more retrieved oocytes, MII oocytes, and total blastocysts; however, the number of\u2009\u2265\u20093BB blastocysts did not differ. Univariate analysis showed no significant differences in biochemical pregnancy, clinical pregnancy, miscarriage, or live birth rates between groups. Live birth rates per embryo transfer were comparable between the PICSI and the CICSI groups (56.6% vs 56.5%, respectively; p\u2009=\u20090.987). Despite these comparable unadjusted live birth rates, multivariable logistic regression demonstrated that PICSI was independently associated with a higher likelihood of live birth (adjusted OR 2.736; 95% CI 1.147-6.531; p\u2009=\u20090.023), whereas no other variable was independently predictive. Singleton birth weight was significantly higher in the PICSI group (3321\u2009\u00b1\u2009475\u00a0g versus 3132\u2009\u00b1\u2009572\u00a0g; p\u2009=\u20090.036).\n\nCONCLUSIONS: PICSI was independently associated with improved live birth outcomes in couples with isolated teratozoospermia, suggesting that sperm functional quality plays a clinically relevant role beyond conventional morphological assessment. These findings support the potential value of PICSI as a targeted sperm selection strategy in this population, although prospective validation is warranted.",
+      "doi": "10.1007/s10815-026-03976-1",
+      "matched_searches": [
+        "picsi_hyaluronan_binding"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42469519/",
+      "doi_url": "https://doi.org/10.1007/s10815-026-03976-1"
+    },
+    {
+      "pmid": "42466650",
+      "title": "Effect of Ejaculatory Abstinence Duration on Laboratory and Clinical Outcomes in IVF: A Retrospective Analysis.",
+      "journal": "Andrology",
+      "pub_date": "2026-07-17",
+      "authors": [
+        "Tighe J",
+        "Kasaven LS",
+        "Exeter H",
+        "Jones BP",
+        "Chronopoulou E",
+        "Nagi JB",
+        "Theodorou E"
+      ],
+      "abstract": "BACKGROUND: The recommended ejaculatory abstinence (EA) period prior to semen collection varies between regulatory bodies. The World Health Organization recommends 2-7 days, whereas the European Society of Human Reproduction and Embryology and the Nordic Association for Andrology recommend 3-4 days. Prolonged epididymal storage of spermatozoa may increase sperm DNA fragmentation, and impair subsequent embryo development and implantation outcomes. Consequently, further evidence is needed to clarify the optimal abstinence duration.\n\nOBJECTIVES: To evaluate the impact of EA on laboratory and clinical outcomes in subfertile couples undergoing in-vitro fertilization (IVF).\n\nMATERIALS AND METHODS: This single-center retrospective cohort study included 2899 couples undergoing 3873 IVF cycles from 2013 to 2022. Laboratory outcomes included semen parameters, blastulation rate, and top-quality blastulation rate. Clinical outcomes included pregnancy rate, miscarriage rate, and live birth rate. Associations between EA duration and both blastulation outcomes and clinical outcomes were evaluated using multivariable analysis, adjusting for all available confounders.\n\nRESULTS: Several semen parameters differed significantly between EA periods (p < 0.05), with higher total sperm count, sperm concentration, total motile count, and semen volume observed at longer durations of EA. However, neither blastulation rate nor top-quality blastulation rate were significantly impacted by EA duration (p > 0.05). Increasing EA duration was associated with reduced pregnancy rates, reporting an adjusted odds ratio (aOR) of 0.786 (95% CI 0.685-0.903) (p < 0.001). Miscarriage rate was not significantly associated with EA duration (p > 0.001). Although live birth rate fell with increasing EA duration, this association did not reach statistical significance, aOR 0.886 (95% CI 0.769-1.020) (p = 0.0921).\n\nDISCUSSION AND CONCLUSION: While blastulation rates appear unaffected by EA duration, shorter EA periods may be associated with higher pregnancy rates in couples undergoing IVF. However, no significant associations were observed for miscarriage or live birth rates. Large multicenter studies are needed to better define the impact of EA duration on IVF outcomes.",
+      "doi": "10.1111/andr.70322",
+      "matched_searches": [
+        "sperm_dna_fragmentation",
+        "embryo_arrest_d3_blast"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42466650/",
+      "doi_url": "https://doi.org/10.1111/andr.70322"
+    },
+    {
+      "pmid": "42464323",
+      "title": "The impact of fresh versus cryopreserved testicular sperm on in-vitro fertilization outcomes in couples with elevated sperm DNA fragmentation: a retrospective cohort study.",
+      "journal": "Reprod Biol Endocrinol",
+      "pub_date": "2026-07-17",
+      "authors": [
+        "Siegel DR",
+        "Kaizer LK",
+        "Sammel MD",
+        "Roeca C"
+      ],
+      "abstract": "BACKGROUND: Elevated sperm DNA fragmentation (SDF) is associated with male factor infertility, recurrent pregnancy loss, and poor reproductive outcomes. An option for management includes the utilization of testicular sperm; however, the comparative reproductive efficacy of fresh versus cryopreserved testicular sperm men with elevated SDF remains unclear. Therefore, the objective of this study was to identify differences in reproductive outcomes between fresh and cryopreserved testicular sperm in patients with elevated SDF who are undergoing intracytoplasmic sperm injection (ICSI) after testicular sperm extraction (TESE).\n\nMETHODS: This was a retrospective cohort study of a multi-site fertility network of patients with elevated SDF who underwent TESE and subsequent ICSI using either fresh or cryopreserved testicular sperm.\n\nRESULTS: A total of 60 men with elevated SDF underwent TESE and subsequent IVF with ICSI. 66.7% (n\u2009=\u200940) used fresh testicular sperm while the remaining 33.3% (n\u2009=\u200920) used cryopreserved testicular sperm following TESE. There were no significant differences in patient demographics or SDF (median 46.5 (IQR: 34.0, 59.0) vs. 48.0 (IQR: 38.0, 64.0), p\u2009=\u20090.525) between those that used fresh or cryopreserved testicular sperm. Among all initiated treatment cycles, there was no statistically significant difference in cumulative live birth (42.5% vs. 25.0%, p\u2009=\u20090.656), clinical pregnancy (55.0% vs. 35.0% p\u2009=\u20090.144) or miscarriage rates (10% vs. 5.0%, p\u2009=\u20090.185) between fresh and cryopreserved testicular sperm. Similarly, there were no significant differences in fertilization (median 48.8 (IQR 33.5, 61.3) vs. 43.7 (IQR:32.8, 63.1), p\u2009=\u20090.937) or blastocyst conversion (median 16.7 (IQR: 0.0, 40.0) vs. 26.1 (IQR: 16.7, 52.8), p\u2009=\u20090.106).\n\nCONCLUSION: Live birth, clinical pregnancy, miscarriage, fertilization and blastocyst yield were not significantly different when using fresh or cryopreserved testicular sperm in couples undergoing TESE for elevated SDF. Although this is the largest study examining these clinical outcomes to date, our study may have low statistical power and additional prospective studies with larger sample sizes are needed.",
+      "doi": "10.1186/s12958-026-01594-1",
+      "matched_searches": [
+        "sperm_dna_fragmentation",
+        "tese_high_dfi"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42464323/",
+      "doi_url": "https://doi.org/10.1186/s12958-026-01594-1"
+    },
+    {
+      "pmid": "42463968",
+      "title": "Novel mutations in NLRP2 and NLRP7 cause early embryonic arrest and female infertility.",
+      "journal": "J Assist Reprod Genet",
+      "pub_date": "2026-07-17",
+      "authors": [
+        "Liu R",
+        "Qiu S",
+        "Li M",
+        "Mu J",
+        "Sang Q",
+        "Fan Y",
+        "Yin M",
+        "Wang T",
+        "Ma M",
+        "Zhang J",
+        "Wu L"
+      ],
+      "abstract": "PURPOSE: Early embryonic arrest is one of the reasons for the recurrent IVF/ICSI failures. We aimed to identify pathogenic mutations in female infertility patients with early embryonic arrest.\n\nMETHODS: Whole-exome sequencing was performed in the affected patients. Sanger sequencing was used on patients and their families to confirm the identified mutations. Wild-type and mutant plasmids were constructed and transfected into HeLa cells to investigate the functional effect of the identified mutations.\n\nRESULTS: We identified three novel homozygous mutations of NLRP2 (p.Arg81*, p.Lys312del, and p.Val316Ala) and compound heterozygous mutations with a novel frameshift mutation and a novel missense mutation of NLRP7 (p.Gln315Arg fs*5 and p.Ile830Thr) in the affected individuals with early embryonic arrest. Western blot in HeLa cells showed the mutations caused a significant decrease in NLRP2 and NLRP7 to a varying degree, which impaired the stability of the proteins. Immunofluorescent staining showed some mutations altered the localization of NLRP2 and NLRP7.\n\nCONCLUSION: This study identified novel mutations in NLRP2 and NLRP7, expanding the mutational and phenotypic spectrum of NLRP2 and NLRP7. Our findings also establish the foundation for genetic diagnosis in recurrent IVF/ICSI failure patients with early embryonic arrest.",
+      "doi": "10.1007/s10815-026-03959-2",
+      "matched_searches": [
+        "embryo_arrest_d3_blast"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42463968/",
+      "doi_url": "https://doi.org/10.1007/s10815-026-03959-2"
+    },
+    {
+      "pmid": "42463019",
+      "title": "A preliminary time-lapse morphokinetic framework to stratify developmental competence in 3PN zygotes based on pronuclear volume ratios and second polar body extrusion.",
+      "journal": "F S Sci",
+      "pub_date": "2026-07-16",
+      "authors": [
+        "Asama H",
+        "Otsuki J",
+        "Takahashi K",
+        "Wei X",
+        "Enatsu N",
+        "Kamibayashi D",
+        "Michikura Y",
+        "Shiotani M"
+      ],
+      "abstract": "OBJECTIVE: To develop a noninvasive, time-lapse imaging-based approach to stratify three-pronuclear zygotes by developmental competence and to identify embryos with higher potential for good-quality blastocyst development and live birth.\n\nDESIGN: Retrospective observational study Subjects Zygotes exhibiting three pronuclei after intracytoplasmic sperm injection, collected from three fertility clinics.\n\nEXPOSURE: Time-lapse imaging assessment of second polar body (PB2) extrusion and quantitative measurement of pronuclear volumes.\n\nMAIN OUTCOME MEASURES: Discriminative performance of the ratio of combined female pronuclear volume to male pronuclear volume for classifying three-pronuclear zygotes based on PB2 extrusion status (operational definition); blastocyst formation and good-quality blastocyst formation (\u22653BB); and supportive post-transfer clinical outcomes (where available).\n\nRESULTS: A total of 222 three-pronuclear zygotes were analyzed, including 173 operationally classified as putative diploid and 49 as putative triploid according to PB2 extrusion status. The ratio of combined female to male pronuclear volume demonstrated strong discrimination between the PB2-extruded and PB2 extrusion-failed categories (area under the curve, 0.863), with a candidate cut-off of 1.189 yielding high sensitivity and specificity. The overall blastocyst formation rate was 40.1% (69/172) in the PB2-extruded and 32.7% (16/49) in the extrusion-failed group. The good-quality blastocyst formation rate was 23.3% (40/172) in the PB2-extruded and 10.2% (5/49) in the extrusion-failed group. After adjustment for maternal age, PB2 extrusion-based classification was not significantly associated with overall blastocyst formation (adjusted odds ratio, 1.44; 95% confidence interval, 0.73-2.86) but remained associated with higher odds of good-quality blastocyst formation (adjusted odds ratio, 2.82; 95% confidence interval, 1.03-7.71). Post-transfer live birth outcomes were available for a subset of transferred embryos under site-specific transfer policies; seven live births were observed, and all live birth cases had volume ratios within 0.61-0.83.\n\nCONCLUSION: A time-lapse imaging-based framework integrating PB2 extrusion and pronuclear volumetrics feasibly provides a clinically actionable, noninvasive method to stratify three-pronuclear zygotes by developmental competence and may aid selection of embryos with developmental potential when genetic testing is unavailable or undesirable.",
+      "doi": "10.1016/j.xfss.2026.07.003",
+      "matched_searches": [
+        "time_lapse_morphokinetics"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42463019/",
+      "doi_url": "https://doi.org/10.1016/j.xfss.2026.07.003"
+    },
+    {
+      "pmid": "42448210",
+      "title": "Influencing factors for early miscarriage after frozen-thawed euploid blastocyst transfer in patients with intramural uterine fibroids.",
+      "journal": "Fertil Steril",
+      "pub_date": "2026-07-14",
+      "authors": [
+        "Wang C",
+        "Zhang X",
+        "Chen L",
+        "Wang Y",
+        "Li R"
+      ],
+      "abstract": "OBJECTIVE: To identify prognostic factors associated with early miscarriage within a cohort of infertile women with intramural fibroids (FIGO type 4-5) undergoing frozen-thawed single euploid blastocyst transfer.\n\nDESIGN: A retrospective cohort study.\n\nSUBJECTS: A total of patients with intramural fibroids who achieved intrauterine pregnancy after PGT cycles with euploid blastocyst transfer at a single center between January 2018 and April 2025 were retrospectively enrolled. Patients were divided into an early miscarriage group (pregnancy loss before 12 weeks) and an ongoing pregnancy group (pregnancy beyond 12 weeks).\n\nEXPOSURE: Presence and characteristics of uterine fibroids, with a focus on the maximum diameter of the largest fibroid.\n\nMAIN OUTCOMES MEASURE: Early miscarriage. Modified Poisson regression was performed to identify prognostic factors, adjusting for potential confounders including embryo quality and maternal factors.\n\nRESULTS: A total of 557 patients were included. The early miscarriage group had a significantly larger maximum fibroid diameter compared to the ongoing pregnancy group (P = 0.046). No significant differences were found between groups regarding fibroid number or location. The early miscarriage group had a lower proportion of day 5 (D5) blastocysts (P < 0.001) and poorer inner cell mass (ICM) grades (P = 0.003). Modified Poisson regression analysis revealed that larger fibroid diameter (RR = 1.216, 95% CI 1.043-1.401, P = 0.002) and poor ICM grade (RR = 5.199, 95% CI 1.841-13.946, P < 0.001) were prognostic factors associated with early miscarriage.\n\nCONCLUSION: In patients with intramural fibroids undergoing euploid single blastocyst transfer, early miscarriage is associated with larger diameter of the uterine fibroid and poorer ICM quality.",
+      "doi": "10.1016/j.fertnstert.2026.07.008",
+      "matched_searches": [
+        "blastocyst_grading_outcomes"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42448210/",
+      "doi_url": "https://doi.org/10.1016/j.fertnstert.2026.07.008"
+    },
+    {
+      "pmid": "42442002",
+      "title": "Germinal vesicle oocytes' rescue: a worthless treatment or a patient-centred approach? Eight years of clinical experience in poor prognosis patients.",
+      "journal": "Hum Reprod",
+      "pub_date": "2026-07-13",
+      "authors": [
+        "Cimadomo D",
+        "Escrich L",
+        "Alegre L",
+        "Grau N",
+        "Gal\u00e1n A",
+        "Rodr\u00edguez Varela C",
+        "Taggi M",
+        "Pasku S",
+        "Rienzi L",
+        "Bosch E",
+        "Escrib\u00e0 MJ"
+      ],
+      "abstract": "STUDY QUESTION: Does germinal vesicle (GV) rescue by IVM provide a meaningful clinical benefit in patients with unexpectedly low mature oocyte yield, and which patient profiles are most likely to benefit?\n\nSUMMARY ANSWER: Especially in patients with more GV oocytes obtained, GV rescue increased the number of mature oocytes, zygotes, blastocysts, and euploid embryos per cycle, reduced transfer cancellation, and contributed to a 20% relative increase in cumulative live birth rate.\n\nWHAT IS KNOWN ALREADY: Immature oocytes retrieved during controlled ovarian stimulation are traditionally discarded due to their reduced developmental competence. Previous studies suggest that GV rescue may increase usable oocytes, but its clinical value, especially within a Pre-implantation Genetic Testing for Aneuploidies (PGT-A) framework, remains unclear.\n\nSTUDY DESIGN, SIZE, DURATION: This retrospective clinical study analysed 8\u00a0years of GV rescue experience in a single centre (January 2017-December 2024), including 47 women (<39\u2009years) undergoing ICSI with PGT-A who displayed suboptimal mature oocyte recovery (Metaphase II oocytes (MII) \u22646, maturity rate <80% relative to \u226514\u2009mm follicles at ovulation trigger, and \u22654 GV oocytes). A sub-analysis of available time-lapse videos of rescued GV oocytes and sibling control MII oocytes was conducted to outline morphometric and morphodynamic determinants of rescue and blastulation.\n\nPARTICIPANTS/MATERIALS, SETTING, METHODS: All retrieved MII oocytes underwent ICSI, whereas GV oocytes were cultured in time-lapse systems for additional 24\u2009h; those rescued (rMII) were inseminated. Outcomes included fertilization, blastulation, morphological quality, euploidy rates, and clinical outcomes after vitrified-warmed euploid blastocyst transfer. Patients' benefit was defined as obtaining \u22651 euploid blastocyst from rMII. Morphometric features (relevant areas, diameters, perimeters) and morphodynamic parameters (timing of GV breakdown [GVBD], metaphase-I duration and first polar body (PB1) extrusion, second polar body (PB2) extrusion, pronuclei appearance, juxtaposition and fading, and cleavage) were annotated.\n\nMAIN RESULTS AND THE ROLE OF CHANCE: Among 266 GV oocytes, 53.7% matured to MII, increasing the available MII yield per patient by 75%. Fertilization rates were comparable between MII and rMII, while blastulation was significantly lower for rMII. Nevertheless, rMII-derived blastocysts showed similar morphology and euploidy to controls and contributed \u22651 additional euploid embryo in 11 patients. These patients exhibited higher total cumulus-oocyte complexes, GV count, and superior rMII fertilization and blastulation, although the demographics and basal parameters as well as the sibling control MII competence were comparable. GV rescue contributed to an 8% relative increase in the number of patients with euploid blastocysts and to a 20% relative increase in the number of patients with a live birth. Successfully rescued GV oocytes were substantially larger and underwent faster GVBD. rMII oocytes were significantly smaller than sibling control MII oocytes. Among the former, earlier pronuclear juxtaposition and shorter cleavage timings were associated with successful blastocyst development.\n\nLIMITATIONS, REASONS FOR CAUTION: The design is retrospective at a private IVF centre. The sample size is small, although this is the consequence of purposely strict inclusion criteria. Findings apply to patients with unexpectedly low MII yield undergoing PGT-A cycles in experienced laboratories.\n\nWIDER IMPLICATIONS OF THE FINDINGS: GV rescue represents a patient-centred strategy that can increase cumulative IVF success in cycles with limited mature oocyte yield. Further refining of patient selection criteria and standardizing this approach may enhance its clinical utility in future appraisals. The definition of artificial intelligence-powered pipelines to extract relevant morphometric/morphodynamic features to inform future predictive tools along with improvements in rescue protocols represent important upcoming innovations in this area of research.\n\nSTUDY FUNDING: The study was partially supported by the ESHRE Research Grant 2024.\n\nDISCLOSURES: The authors declare no conflict of interest related with the content of this manuscript.\n\nTRIAL REGISTRATION NUMBER: Not applicable.",
+      "doi": "10.1093/humrep/deag115",
+      "matched_searches": [
+        "pgta_advanced_age",
+        "embryo_arrest_d3_blast",
+        "time_lapse_morphokinetics"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42442002/",
+      "doi_url": "https://doi.org/10.1093/humrep/deag115"
+    },
+    {
+      "pmid": "42444146",
+      "title": "Transcriptomic profiling of exRNA from spent human embryonic-cleavage culture medium reveals potential in embryo quality assessment\uff1aa retrospective study.",
+      "journal": "Reproduction",
+      "pub_date": "2026-07-13",
+      "authors": [
+        "Feng Y",
+        "Pan M",
+        "Deng K",
+        "Cheng X",
+        "Ma Z",
+        "Lin C",
+        "Cai L",
+        "Tu J"
+      ],
+      "abstract": "The exRNA transcriptome of the preimplantation embryo culture medium constitutes a comprehensive profile of embryonic RNAs, offering a non-invasive resource for elucidating developmental status. To delineate its relationship with the maternal-to-zygotic (MZT) transition and evaluate its predictive potential for developmental outcomes, we performed systematic exRNA transcriptome profiling of individually cultured cleavage-stage embryos. This study included 34 spent culture medium (SECM) samples for day 3 in vitro preimplantation cleavage embryos from 30 patients undergoing IVF/ICSI. 24 morphologically high-grade samples (Grade I, n\u2009=\u200912; Grade II, n\u2009=\u200912) and 10 low grade samples (Grade III, n\u2009=\u20096; abnormal PNs, n\u2009=\u20092; arrested embryos, n\u2009=\u20092) were included. Embryo transfer after the SECM collection was traced for subsequent clinical pregnancy outcome. ExRNA transcriptome from cleavage SECM showed 81.78% concordance with embryonic gene expression profiles. 1,058 differentially expressed exRNA markers were identified across embryo morphological grading groups, revealing MZT-related molecular dynamics prior to blastocyst formation. A 300-gene signature significantly correlated with embryonic developmental potential was established. The accuracy and robustness of the models were validated using clinical samples. The LogitBoost model built on exRNA profile yielded an AUC value above 0.95, indicating encouraging performance for embryo assessment. This study establishes SECM exRNA profiling as a non-invasive method for capturing key molecular events during early embryo development, particularly MZT activation. The identified exRNA biomarkers and machine learning models provide a promising framework for the objective assessment of embryo developmental potential, warranting further validation to overcome the limitations of conventional morphology-based selection in IVF.",
+      "doi": "10.1093/reprod/xaag086",
+      "matched_searches": [
+        "embryo_arrest_d3_blast"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42444146/",
+      "doi_url": "https://doi.org/10.1093/reprod/xaag086"
+    }
+  ]
+}
