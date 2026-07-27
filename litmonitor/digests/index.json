@@ -1,5 +1,21 @@
 [
   {
+    "filename": "digest_2026-07-27.json",
+    "digest_date": "2026-07-27",
+    "generated_at": "2026-07-27T10:21:14Z",
+    "mode": "weekly",
+    "paper_count": 8,
+    "topic_counts": {
+      "pgta_advanced_age": 2,
+      "endometrial_receptivity_era": 2,
+      "sperm_dna_fragmentation": 1,
+      "embryo_arrest_d3_blast": 1,
+      "sperm_dna_double_strand": 1,
+      "recurrent_implantation_failure": 1,
+      "methylation_mthfr_art": 1
+    }
+  },
+  {
     "filename": "digest_2026-07-20.json",
     "digest_date": "2026-07-20",
     "generated_at": "2026-07-20T10:05:04Z",

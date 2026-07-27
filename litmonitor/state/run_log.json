@@ -261,5 +261,22 @@
       "blastocyst_grading_outcomes": 1,
       "pgta_advanced_age": 1
     }
+  },
+  {
+    "run_at": "2026-07-27T10:21:14Z",
+    "mode": "weekly",
+    "since": "2026-07-18",
+    "new_papers": 8,
+    "total_seen": 1742,
+    "digest_filename": "digest_2026-07-27.md",
+    "topic_counts": {
+      "pgta_advanced_age": 2,
+      "endometrial_receptivity_era": 2,
+      "sperm_dna_fragmentation": 1,
+      "embryo_arrest_d3_blast": 1,
+      "sperm_dna_double_strand": 1,
+      "recurrent_implantation_failure": 1,
+      "methylation_mthfr_art": 1
+    }
   }
 ]

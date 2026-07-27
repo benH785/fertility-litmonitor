@@ -1,0 +1,357 @@
+{
+  "digest_date": "2026-07-27",
+  "generated_at": "2026-07-27T10:21:14Z",
+  "mode": "weekly",
+  "window_start": "2026-07-18",
+  "paper_count": 8,
+  "topic_counts": {
+    "pgta_advanced_age": 2,
+    "endometrial_receptivity_era": 2,
+    "sperm_dna_fragmentation": 1,
+    "embryo_arrest_d3_blast": 1,
+    "sperm_dna_double_strand": 1,
+    "recurrent_implantation_failure": 1,
+    "methylation_mthfr_art": 1
+  },
+  "topics": {
+    "agonist_vs_dual_trigger": {
+      "label": "Dual vs agonist trigger",
+      "priority": "high"
+    },
+    "agonist_trigger_suboptimal": {
+      "label": "Suboptimal agonist trigger response",
+      "priority": "high"
+    },
+    "premature_ovulation": {
+      "label": "Premature ovulation",
+      "priority": "high"
+    },
+    "lead_follicle_oversize": {
+      "label": "Lead follicle size & trigger timing",
+      "priority": "high"
+    },
+    "zymot_microfluidic": {
+      "label": "ZyMot / microfluidic sperm selection",
+      "priority": "high"
+    },
+    "sperm_dna_fragmentation": {
+      "label": "Sperm DNA fragmentation (single-strand) & ART",
+      "priority": "high"
+    },
+    "sperm_dna_double_strand": {
+      "label": "Sperm double-strand DNA damage",
+      "priority": "high"
+    },
+    "tese_high_dfi": {
+      "label": "TESE for high DFI",
+      "priority": "high"
+    },
+    "pgta_advanced_age": {
+      "label": "PGT-A in advanced maternal age",
+      "priority": "high"
+    },
+    "blastocyst_grading_outcomes": {
+      "label": "Blastocyst grading & outcomes",
+      "priority": "medium"
+    },
+    "antagonist_protocol_normoresponder": {
+      "label": "Antagonist protocol in normo-responders",
+      "priority": "medium"
+    },
+    "intercycle_interval": {
+      "label": "Inter-cycle interval",
+      "priority": "low"
+    },
+    "methylation_mthfr_art": {
+      "label": "MTHFR / methylation & ART",
+      "priority": "high"
+    },
+    "one_pn_embryos": {
+      "label": "1PN / abnormal fertilisation",
+      "priority": "high"
+    },
+    "ss31_elamipretide": {
+      "label": "SS-31 / elamipretide & fertility",
+      "priority": "high"
+    },
+    "rapamycin": {
+      "label": "Rapamycin / sirolimus & fertility",
+      "priority": "high"
+    },
+    "embryo_arrest_d3_blast": {
+      "label": "Embryo arrest & blastulation",
+      "priority": "high"
+    },
+    "antioxidant_culture_media": {
+      "label": "Antioxidant culture media",
+      "priority": "high"
+    },
+    "growth_hormone_adjuvant": {
+      "label": "Growth hormone adjuvant in IVF",
+      "priority": "medium"
+    },
+    "time_lapse_morphokinetics": {
+      "label": "Time-lapse / morphokinetic embryo selection",
+      "priority": "medium"
+    },
+    "duostim_luteal_phase": {
+      "label": "DuoStim / luteal-phase stimulation",
+      "priority": "high"
+    },
+    "picsi_hyaluronan_binding": {
+      "label": "PICSI / hyaluronan binding sperm selection",
+      "priority": "medium"
+    },
+    "imsi_high_mag_morphology": {
+      "label": "IMSI / high-magnification sperm morphology",
+      "priority": "medium"
+    },
+    "endometrial_receptivity_era": {
+      "label": "Endometrial receptivity testing (ERA / ER-Map)",
+      "priority": "medium"
+    },
+    "recurrent_implantation_failure": {
+      "label": "Recurrent implantation failure",
+      "priority": "high"
+    },
+    "haploid_embryos_decondensation": {
+      "label": "Haploid embryos & sperm decondensation",
+      "priority": "high"
+    },
+    "varicocele_embolisation_ivf": {
+      "label": "Varicocele embolisation & IVF",
+      "priority": "high"
+    },
+    "choline_pemt_pregnancy": {
+      "label": "Choline / PEMT & pregnancy",
+      "priority": "medium"
+    },
+    "methylfolate_vs_folic_acid_ivf": {
+      "label": "Methylfolate vs folic acid in IVF",
+      "priority": "medium"
+    }
+  },
+  "journals_monitored": [
+    "Hum Reprod",
+    "Hum Reprod Update",
+    "Hum Reprod Open",
+    "Fertil Steril",
+    "F S Rep",
+    "F S Sci",
+    "Reprod Biomed Online",
+    "J Assist Reprod Genet",
+    "Reprod Biol Endocrinol",
+    "Hum Fertil (Camb)",
+    "Reprod Sci",
+    "Andrology",
+    "Mol Hum Reprod",
+    "Reproduction",
+    "Biol Reprod",
+    "Reprod Fertil Dev",
+    "Asian J Androl",
+    "Andrologia"
+  ],
+  "papers": [
+    {
+      "pmid": "42496955",
+      "title": "Recipient age and reproductive outcomes in donor oocyte cycles: exploring the potential contribution of uterine aging.",
+      "journal": "J Assist Reprod Genet",
+      "pub_date": "2026-07-24",
+      "authors": [
+        "Crestani B",
+        "Massaro MG",
+        "Parisi A",
+        "Molinaro P",
+        "Pellicer A",
+        "Cozzolino M"
+      ],
+      "abstract": "PURPOSE: To investigate whether uterine aging independently affects reproductive outcomes in oocyte donation cycles and to evaluate reproductive outcomes across increasing recipient age groups.\n\nMETHODS: A retrospective cohort study includes 1774 women undergoing 2760 single blastocyst transfers with donor oocytes (March 2021-December 2024). Transfers were stratified by age: 35-40, 41-45, 46-49, and\u2009>\u200949\u00a0years. Multivariable logistic regression was adjusted for BMI, embryo quality, endometrial parameters, sperm characteristics, paternal age, number of inseminated oocytes, and PGT-A use. Uncensored and exploratory censored Kaplan-Meier analyses estimated cumulative live birth rates (CLBR).\n\nRESULTS: Live birth rates declined progressively with advancing recipient age. Women aged\u2009>\u200949\u00a0years had significantly lower live birth rates (OR 0.62, 95% CI 0.41-0.93, p\u2009=\u20090.02) and higher miscarriage risk (OR 2.07, 95% CI 1.16-3.69, p\u2009=\u20090.01). CLBR decreased from 80% (35-40\u00a0years) to 62.5% (>\u200949\u00a0years) in uncensored analysis (p\u2009<\u20090.0001). The prevalence of trilaminar endometrium significantly declined in women\u2009\u2265\u200946 (p\u2009<\u20090.0001), while endometrial thickness remained comparable. Although advanced paternal age was associated with reduced fertilization and poorer embryo quality (p\u2009<\u20090.0001), it was not associated with implantation, live birth, or miscarriage rates in the subgroup of recipients aged\u2009>\u200949\u00a0years.\n\nCONCLUSION: A clinically significant decline in live birth occurs in recipients aged\u2009>\u200949\u00a0years, suggesting a late-onset uterine aging effect. These findings may help guide counseling and risk assessment in women of advanced maternal age.",
+      "doi": "10.1007/s10815-026-03971-6",
+      "matched_searches": [
+        "pgta_advanced_age"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42496955/",
+      "doi_url": "https://doi.org/10.1007/s10815-026-03971-6"
+    },
+    {
+      "pmid": "42490398",
+      "title": "The NPM1/p53 nucleolar stress signaling pathway promotes endometrial receptivity establishment in goats via the Wnt/\u03b2-catenin pathway.",
+      "journal": "Biol Reprod",
+      "pub_date": "2026-07-23",
+      "authors": [
+        "Liu Y",
+        "Yang J",
+        "Xu D",
+        "Liu L",
+        "Yu X",
+        "Liu B",
+        "Guo C",
+        "Yang X",
+        "Fan Q",
+        "Zheng L",
+        "Li L",
+        "Wang X",
+        "Hu W"
+      ],
+      "abstract": "In goats, embryo implantation is superficial, making endometrial receptivity a key determinant of pregnancy success. Although the NPM1/p53 nucleolar stress pathway is involved in endometrial receptivity in mice and humans, its role in ruminants remains unknown. Using early-pregnancy goat models, in vitro-induced goat endometrial epithelial cells (gEECs), and low-dose Actinomycin D (ActD) to trigger nucleolar stress, we investigated this signaling axis in goat endometrial receptivity. Compared with pre-receptive Day 10 endometrium, receptive Day 16 endometrium showed increased NPM1 expression in epithelial cells, accompanied by its translocation from the nucleolus to the nucleoplasm. Markers of nucleolar stress (p53, p21, MDM2) were upregulated, while pre-rRNA levels were reduced. In gEECs, low-dose ActD effectively activated the NPM1/p53 pathway, which was also activated during in vitro receptivity induction using estrogen, progesterone, and interferon-tau. Activation of this pathway by ActD increased receptivity markers (HOXA10, HOXA11, MSX1), recapitulating changes seen during receptivity induction, whereas Npm1 knockdown attenuated this effect. ActD treatment also activated Wnt/\u03b2-catenin signaling. Pretreatment with the Wnt/\u03b2-catenin inhibitor Adavivint markedly reduced ActD-induced upregulation of HOXA10 and HOXA11 proteins but did not affect p53 expression. Together, these results indicate that the NPM1/p53 nucleolar stress pathway promotes endometrial receptivity in goats, at least in part, through the Wnt/\u03b2-catenin pathway. This work expands understanding of endometrial receptivity in ruminants and provides a basis for further investigation of nucleolar stress in reproductive regulation.",
+      "doi": "10.1093/biolre/ioag158",
+      "matched_searches": [
+        "endometrial_receptivity_era"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42490398/",
+      "doi_url": "https://doi.org/10.1093/biolre/ioag158"
+    },
+    {
+      "pmid": "42487003",
+      "title": "Reduced and Mislocalized ACTL7A in Globozoospermia: Implications for Sperm Chromatin Integrity and Infertility.",
+      "journal": "Reprod Sci",
+      "pub_date": "2026-07-22",
+      "authors": [
+        "Tavalaee M",
+        "Naderi N",
+        "Arbabian M",
+        "Nikoozar B",
+        "Ghorban Z",
+        "Nasr-Esfahani MH"
+      ],
+      "abstract": "Actin-like protein 7A (ACTL7A) has been suggested to participate in sperm head formation and oocyte activation. This study investigates the expression and localization of ACTL7A in men with globozoospermia and explores its association with sperm chromatin integrity. Semen samples were collected from 10 infertile men diagnosed with 100% globozoospermia and carrying a DPY19L2 deletion, alongside samples from 10 fertile controls. Sperm analysis was conducted according to WHO-2021 guidelines. Sperm DNA fragmentation was assessed using flow cytometry (SCSA), histone retention via aniline blue staining, and chromatin structure through toluidine blue staining. Compared to fertile controls, globozoospermic men showed significantly reduced sperm motility and increased morphological abnormalities. Chromatin analysis revealed elevated DNA fragmentation and impaired chromatin packaging. Additionally, ACTL7A protein expression was markedly reduced in globozoospermic individuals. Localization studies indicated decreased ACTL7A presence in the equatorial segment and aberrant overexpression in the neck region. These findings suggest that altered ACTL7A expression and localization may be associated with abnormalities in sperm structure and function. Its reduced expression and mislocalization may be associated with globozoospermia and male infertility. Given the success of intracytoplasmic sperm injection (ICSI) combined with artificial oocyte activation (ICSI-AOA) in treating PLCZ1-deficient infertility, this approach may also be considered in similar clinical contexts, although further studies are required.",
+      "doi": "10.1007/s43032-026-02159-8",
+      "matched_searches": [
+        "sperm_dna_fragmentation"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42487003/",
+      "doi_url": "https://doi.org/10.1007/s43032-026-02159-8"
+    },
+    {
+      "pmid": "42484399",
+      "title": "Clinical outcomes of Day-7 blastocysts: a systematic review and meta-analysis.",
+      "journal": "Hum Reprod Update",
+      "pub_date": "2026-07-22",
+      "authors": [
+        "Firmin J",
+        "Ducreux B",
+        "Saidessalam H",
+        "Ferreux L",
+        "Pocate-Cheriet K",
+        "Chargui A",
+        "Maignien C",
+        "Bourdon M",
+        "Santulli P",
+        "Patrat C",
+        "Fauque P"
+      ],
+      "abstract": "BACKGROUND: Extended embryo culture beyond Day-6 remains controversial. While a small subset of embryos reaches the blastocyst stage on Day-7, their developmental competence and reproductive potential remain uncertain. Data from previous studies have been limited and heterogeneous, particularly for meta-analytical evaluation of euploid embryo transfers.\n\nOBJECTIVE AND RATIONALE: This systematic review and meta-analysis compared clinical pregnancy (CPR) and live birth rates (LBR), as well as implantation (IR), miscarriage (MR), and ongoing pregnancy rates (OPR), between Day-7 frozen blastocysts and those obtained on Day-5 and/or Day-6. Euploidy rates by day of blastocyst development and available perinatal outcomes were also assessed.\n\nSEARCH METHODS: Conducted according to PRISMA guidelines, this review included full-length English-language human studies, published up to 1 April 2026, comparing frozen transfers of Day-7 versus Day-5/6 blastocysts and reporting at least clinical pregnancy and/or live birth outcomes. Random-effects models were used to estimate pooled odds ratios (ORs) with 95% confidence intervals (95% CI). Obstetric and perinatal outcomes were analysed when available.\n\nOUTCOMES: A total of 17 retrospective studies were included. Across 2908 Day-7 transfers, CPR and LBR were significantly lower than for Day-5 (CPR: OR 0.26, 95% CI 0.19-0.35, I2: 76.2%, 16 studies, 2799 and 34\u00a0442 transfers at Day-7 and Day-5, respectively; LBR: OR 0.23, 95% CI 0.16-0.33, I2: 76.3%, 12 studies, 2687 and 31\u00a0630 transfers at Day-7 and Day-5, respectively) and Day-6 blastocysts (CPR: OR 0.38, 95% CI 0.31-0.48, I2: 54.4%, 16 studies, 2799 and 28\u00a0563 transfers at Day-7 and Day-6, respectively; LBR: OR 0.37, 95% CI 0.28-0.49, I2: 60.2%, 12 studies, 2687 and 26\u00a0687 transfers at Day-7 and Day-6, respectively). Similarly, IR and OPR were significantly lower in the Day-7 group than in the Day-5 or Day-6 groups, while MR was higher compared with Day-5 blastocysts (OR 1.54, 95% CI 1.04-2.30, I2: 51.1%, 14 studies, 685 and 18\u00a0609 pregnancies at Day-7 and Day-5, respectively). When considering only PGT-A euploid blastocysts, CPR and LBR remained significantly lower in the Day-7 group compared with Day-5 (CPR: OR 0.21, 95% CI 0.14-0.33, I2: 58.0%, 7 studies, 365 and 7064 transfers at Day-7 and Day-5, respectively; LBR: OR 0.21, 95% CI 0.17-0.28, I2: 0%, 6 studies, 364 and 5924 transfers at Day-7 and Day-5, respectively) and Day-6 (CPR: OR 0.36, 95% CI 0.28-0.46, I2: 40.8%, 7 studies, 365 and 4617 transfers at Day-7 and Day-6, respectively; LBR: OR 0.36, 95% CI 0.28-0.46, I2: 0%, 6 studies, 364 and 3782 transfers at Day-7 and Day-6, respectively), and MR was higher than Day-5 (OR 2.78, 95% CI 1.57-4.89, I2: 32.4%, 6 studies, 95 and 4018 pregnancies at Day-7 and Day-5, respectively). Euploid rates were also significantly reduced for Day-7 blastocysts compared with Day-5 and Day-6. Data on perinatal outcomes were limited but overall reassuring. The pooled analyses revealed low to high heterogeneity across studies.\n\nWIDER IMPLICATIONS: Despite lower success rates, including for euploid embryos, Day-7 blastocysts may still contribute to cumulative live birth rates, notably in poor-prognosis patients. Prospective studies are needed to better assess perinatal and long-term outcomes.\n\nREGISTRATION NUMBER: PROSPERO (CRD420251114251).",
+      "doi": "10.1093/humupd/dmag017",
+      "matched_searches": [
+        "pgta_advanced_age",
+        "embryo_arrest_d3_blast"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42484399/",
+      "doi_url": "https://doi.org/10.1093/humupd/dmag017"
+    },
+    {
+      "pmid": "42486999",
+      "title": "A Miswired Ovarian Ecosystem: LIF/JAK/STAT3 Distortion in PCOS.",
+      "journal": "Reprod Sci",
+      "pub_date": "2026-07-22",
+      "authors": [
+        "Sharma A",
+        "Singh S",
+        "Rajan RK",
+        "Bhatacharjee A",
+        "Chakraborty M"
+      ],
+      "abstract": "Polycystic ovary syndrome (PCOS) is a complex reproductive and metabolic disorder characterized by hyperandrogenism, anovulation, insulin resistance, and chronic low-grade inflammation. The LIF/JAK/STAT3 pathway is very important for coordinating folliculogenesis, endometrial receptivity, and metabolic homeostasis. The LIF-LIFR-gp130-JAK1-STAT3 signaling pathway supports the survival of granulosa cells, follicle recruitment, ovulation, implantation, and mitochondrial function under physiological conditions. In polycystic ovary syndrome (PCOS), hyperandrogenism, hyperinsulinemia, and pro-inflammatory cytokines destabilize the LIFR/gp130 heterodimer, impede LIF and JAK1 signaling, and redirect STAT3 activation towards JAK2-mediated IL-6/leptin-dominated inflammatory pathways. This pathological rewiring promotes hyperandrogenic steroidogenesis by increasing the levels of LHCGR and CYP17A1 and decreasing the levels of FSHR and CYP19A1. It also causes follicular arrest and decreases the ability of the endometrium to accept an embryo by deregulating the LIF/STAT3-MUC1-IGF1 axis. Epigenetic alterations, such as hypomethylation of the first intron of JAK2 and hypermethylation of the SOCS3 promoter, in conjunction with the participation of regulatory non-coding RNAs (miR-181a/b, miR-199a-5p, lncRNA H19, circRNAs), facilitate the amplification of JAK2/STAT3 signaling and the suppression of inhibitory feedback mechanisms. Dysregulated mitochondrial STAT3 leads to impaired oxidative phosphorylation, modified glycolytic pathways, heightened oxidative stress, and worsened insulin resistance. The connections between the MAPK/ERK, PI3K/AKT, TLR4/NF-\u03baB, Wnt/\u03b2-catenin, and Hippo/Notch/YAP pathways make this pathological signaling network even stronger. The LIF/JAK/STAT3 axis is a key regulator and a promising target for precision therapies tailored to specific phenotypes in PCOS. Therapeutic strategies, encompassing preclinical JAK inhibitors, metabolic modulators, and clinically validated pathway-directed agents, underscore its potential as a pivotal therapeutic nexus.",
+      "doi": "10.1007/s43032-026-02155-y",
+      "matched_searches": [
+        "endometrial_receptivity_era"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42486999/",
+      "doi_url": "https://doi.org/10.1007/s43032-026-02155-y"
+    },
+    {
+      "pmid": "42478660",
+      "title": "Multifunctional automated semen analysis system of global SDF and DSBs provides new insights into varicocele diagnosis.",
+      "journal": "Asian J Androl",
+      "pub_date": "2026-07-21",
+      "authors": [
+        "Busetto GM",
+        "Barbieri G",
+        "Fischetti P",
+        "Catalano V",
+        "De Luca F",
+        "Camporeale V",
+        "Finati M",
+        "Ricapito A",
+        "Cormio A",
+        "d'Altilia N",
+        "Falagario UG",
+        "Cormio L",
+        "Bettocchi C",
+        "Carrieri G",
+        "Ranieri E"
+      ],
+      "abstract": "Varicocele is the most common cause of reversible male infertility. Although abnormalities in basic semen parameters are frequently observed, they offer limited value for assessing fertility potential. Elevated sperm DNA fragmentation (SDF) has been consistently reported in varicocele patients, but conventional SDF methods are hindered by technical complexity and poor standardization, limiting clinical usability. This study evaluated an automated platform integrating basic semen analysis, global SDF assessment (SCD-X12), and double-strand break (DSB) detection (SDFR-X12) for varicocele fertility assessment. Seventy varicocele patients and thirty normozoospermic controls were enrolled at the Department of Urology, University of Foggia (Foggia, Italy), from July 2023 to January 2025. All semen samples were analyzed using the LensHooke\u00ae X12 system, with additional aliquots assessed by terminal deoxynucleotidyl transferase dUTP nick end labeling (TUNEL) test. Inter-test agreement between SCD-X12 and TUNEL was good in healthy men (accuracy: 77.0%) but poor in varicocele patients (accuracy: 61.0%), indicating that global SDF assays perform reliably under normal conditions but lose interpretability when DNA damage becomes heterogeneous, as seen in varicocele patients. Although DSBs theoretically contribute to global DNA fragmentation, agreement between DSB levels (SDFR-X12) and global SDF was modest in healthy subjects (prevalence-adjusted bias-adjusted kappa [PABAK]: 0.4) and negligible in varicocele patients (PABAK: 0.06), indicating that DSB-related damage is distinct and varicocele-specific. In conclusion, global SDF assays (TUNEL and SCD-X12) are informative in non-varicocele men. In contrast, the SDFR-X12 module identifies elevated DSBs as a varicocele-specific signature, offering clearer characterization of varicocele-associated DNA damage. By integrating semen parameters, global SDF, and DSB assessment, the automated X12 system enhances scenario-specific testing and supports improved management of varicocele-related male infertility.",
+      "doi": "10.4103/aja202633",
+      "matched_searches": [
+        "sperm_dna_double_strand"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42478660/",
+      "doi_url": "https://doi.org/10.4103/aja202633"
+    },
+    {
+      "pmid": "42482090",
+      "title": "Assessing the female urogenital-rectal axis microbiome: focus on endometriosis and recurrent implantation failure.",
+      "journal": "Reprod Biol Endocrinol",
+      "pub_date": "2026-07-21",
+      "authors": [
+        "Folch BA",
+        "P\u00e9rez-Prieto I",
+        "Salas-Espejo E",
+        "Sola-Leyva A",
+        "Canha-Gouveia A",
+        "Molina NM",
+        "Vargas E",
+        "Leon\u00e9s-Ba\u00f1os I",
+        "G\u00e1miz-Aguilera M",
+        "Tenorio CM",
+        "S\u00e1ez-Lara MJ",
+        "Ru\u00edz-Dur\u00e1n S",
+        "S\u00e1nchez-Ru\u00edz R",
+        "Romero B",
+        "Castilla JA",
+        "Altm\u00e4e S"
+      ],
+      "abstract": "BACKGROUND: Emerging evidence suggests microbial dysbiosis may contribute to gynaecological pathologies, including endometriosis and recurrent implantation failure (RIF). The vaginal microbiome is well-characterised, with Lactobacillus-dominance as a hallmark of health, yet interactions between vaginal, cervical, and endometrial microbiomes remain inconclusive. The adjacent sites to the vagina, rectal and urinary environments in infertile women are scarcely studied.\n\nMETHODS: This cross-sectional study included 136 reproductive-aged women, enrolled at the Reproductive Unit of the University Hospital Virgen de las Nieves (Granada, Spain) between March 2019 and March 2024. Each participant provided five samples during the mid-secretory phase: vaginal and cervical swabs, endometrial brushing, urine, and rectal swabs. The microbiome was analysed using 16S rRNA gene sequencing (V4 region) with functional profiles inferred using PICRUSt2. Diversity and bacterial abundance were compared between endometriosis, RIF, and controls, adjusting for age, body mass index, and antimicrobial use.\n\nRESULTS: In total, 520 samples from 104 women were analysed and revealed shared microbial profiles across the vagina, cervix, endometrium, and urine. The rectal microbiome differed significantly from urogenital sites (Global PERMANOVA, adj p-value\u2009=\u20090.001, R2\u2009=\u20090.259). A Lactobacillus gradient in the reproductive tract was observed, with dominance\u2009>\u200998% in the lower tract, 69.72% in urine, and 46.25% in the endometrium. Moreover, Lactobacillus negatively correlated with all other genera within the reproductive tract. Significant differential abundance was detected between body sites: 15 bacteria between vagina-cervix, 166 vagina-uterus and 172 cervix-uterus (all adj p-values\u2009<\u20090.05). Diversity comparisons between the condition groups (endometriosis and RIF) and controls at each anatomical sites revealed no significant differences in microbial communities and functional pathways. However, four bacterial genera showed a significantly different abundance between the endometriosis and controls in the vagina.\n\nCONCLUSIONS: Our study results provide knowledge about the microbial composition throughout the female urogenital tract and rectum, highlighting the interindividual variability rather than the site-specificity. The vaginal bacteria that associated with endometriosis should be investigated further for clarifying their potential as non-invasive biomarkers of the disease. Microbiomes of other urogenital sites do not seem to associate with endometriosis, and microbiomes of the urogenital-rectal axis do not seem to correlate with RIF.\n\nTRIAL REGISTRATION: N/A.",
+      "doi": "10.1186/s12958-026-01595-0",
+      "matched_searches": [
+        "recurrent_implantation_failure"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42482090/",
+      "doi_url": "https://doi.org/10.1186/s12958-026-01595-0"
+    },
+    {
+      "pmid": "42473434",
+      "title": "Sperm Mitochondrial DNA Copy Number and Nuclear DNA Methylation Across Clinical and Non-Clinical Preconception Cohorts.",
+      "journal": "Andrology",
+      "pub_date": "2026-07-20",
+      "authors": [
+        "Sawant S",
+        "Nowak K",
+        "Paskavitz AL",
+        "Houle E",
+        "Bertolla RP",
+        "Minguez-Alarcon L",
+        "Hauser R",
+        "Pilsner JR"
+      ],
+      "abstract": "BACKGROUND: Sperm mitochondrial DNA copy number is an emerging marker of male fertility, with elevated mtDNAcn associated with poor semen quality across various populations. Sperm DNA methylation has also been previously demonstrated to be negatively correlated with semen parameters in IVF cohorts.\n\nOBJECTIVE: To determine whether mtDNAcn is associated with nuclear DNA methylation across three population-based and clinical fertility cohorts.\n\nDESIGN: The association between sperm mtDNAcn and genome-wide DNA methylation was investigated in 748 men from a general population cohort (LIFE; n = 379) and two infertility cohorts (SEEDS; n = 170 and EARTH; n = 199). Sperm DNA methylation and mtDNAcn were quantified by the Illumina EPIC (v1) array and triplex probe-based digital PCR, respectively. Covariate-adjusted linear regressions were conducted within each cohort and then meta-analyzed using METAL. Gene ontology analyses explored the biological relevance of differentially methylated CpGs (DMCs) and regions (DMRs).\n\nRESULTS: Using a Holm-Bonferroni significance threshold, our analyses identified 1351, 224, and 258 DMCs and 2582, 1536, and 1284 DMRs in LIFE, SEEDS, and EARTH, respectively, indicating that higher sperm mtDNAcn was associated with DNA hypermethylation. In meta-analysis, 576 DMCs were associated with mtDNAcn. Notably, the genes corresponding with DMCs and DMRs are known critical regulators of male fertility and were enriched in the regulation of male meiosis, germline protection, spermatogenesis pathways, and early embryonic development.\n\nDISCUSSION AND CONCLUSION: Our results, observed across three independent cohorts and supported by meta-analysis, indicate a consistent association between the sperm mitochondrial genome and nuclear DNA methylation, suggesting that mtDNAcn and methylation patterns may be linked during spermatogenesis. Further research is warranted to elucidate the mechanisms underlying these associations and to evaluate their relevance for reproductive outcomes.",
+      "doi": "10.1111/andr.70320",
+      "matched_searches": [
+        "methylation_mthfr_art"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42473434/",
+      "doi_url": "https://doi.org/10.1111/andr.70320"
+    }
+  ]
+}

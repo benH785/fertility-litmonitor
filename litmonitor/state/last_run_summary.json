@@ -1,17 +1,17 @@
 {
-  "run_at": "2026-07-20T10:05:04Z",
+  "run_at": "2026-07-27T10:21:14Z",
   "mode": "weekly",
-  "since": "2026-07-11",
+  "since": "2026-07-18",
   "new_papers": 8,
-  "total_seen": 1734,
-  "digest_filename": "digest_2026-07-20.md",
+  "total_seen": 1742,
+  "digest_filename": "digest_2026-07-27.md",
   "topic_counts": {
-    "picsi_hyaluronan_binding": 1,
-    "sperm_dna_fragmentation": 2,
-    "embryo_arrest_d3_blast": 4,
-    "tese_high_dfi": 1,
-    "time_lapse_morphokinetics": 2,
-    "blastocyst_grading_outcomes": 1,
-    "pgta_advanced_age": 1
+    "pgta_advanced_age": 2,
+    "endometrial_receptivity_era": 2,
+    "sperm_dna_fragmentation": 1,
+    "embryo_arrest_d3_blast": 1,
+    "sperm_dna_double_strand": 1,
+    "recurrent_implantation_failure": 1,
+    "methylation_mthfr_art": 1
   }
 }
