@@ -1,5 +1,23 @@
 [
   {
+    "filename": "digest_2026-08-03.json",
+    "digest_date": "2026-08-03",
+    "generated_at": "2026-08-03T10:20:08Z",
+    "mode": "weekly",
+    "paper_count": 13,
+    "topic_counts": {
+      "embryo_arrest_d3_blast": 3,
+      "recurrent_implantation_failure": 2,
+      "zymot_microfluidic": 1,
+      "sperm_dna_fragmentation": 3,
+      "time_lapse_morphokinetics": 2,
+      "pgta_advanced_age": 1,
+      "antagonist_protocol_normoresponder": 2,
+      "premature_ovulation": 1,
+      "blastocyst_grading_outcomes": 2
+    }
+  },
+  {
     "filename": "digest_2026-07-27.json",
     "digest_date": "2026-07-27",
     "generated_at": "2026-07-27T10:21:14Z",

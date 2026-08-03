@@ -1,0 +1,449 @@
+{
+  "digest_date": "2026-08-03",
+  "generated_at": "2026-08-03T10:20:08Z",
+  "mode": "weekly",
+  "window_start": "2026-07-25",
+  "paper_count": 13,
+  "topic_counts": {
+    "embryo_arrest_d3_blast": 3,
+    "recurrent_implantation_failure": 2,
+    "zymot_microfluidic": 1,
+    "sperm_dna_fragmentation": 3,
+    "time_lapse_morphokinetics": 2,
+    "pgta_advanced_age": 1,
+    "antagonist_protocol_normoresponder": 2,
+    "premature_ovulation": 1,
+    "blastocyst_grading_outcomes": 2
+  },
+  "topics": {
+    "agonist_vs_dual_trigger": {
+      "label": "Dual vs agonist trigger",
+      "priority": "high"
+    },
+    "agonist_trigger_suboptimal": {
+      "label": "Suboptimal agonist trigger response",
+      "priority": "high"
+    },
+    "premature_ovulation": {
+      "label": "Premature ovulation",
+      "priority": "high"
+    },
+    "lead_follicle_oversize": {
+      "label": "Lead follicle size & trigger timing",
+      "priority": "high"
+    },
+    "zymot_microfluidic": {
+      "label": "ZyMot / microfluidic sperm selection",
+      "priority": "high"
+    },
+    "sperm_dna_fragmentation": {
+      "label": "Sperm DNA fragmentation (single-strand) & ART",
+      "priority": "high"
+    },
+    "sperm_dna_double_strand": {
+      "label": "Sperm double-strand DNA damage",
+      "priority": "high"
+    },
+    "tese_high_dfi": {
+      "label": "TESE for high DFI",
+      "priority": "high"
+    },
+    "pgta_advanced_age": {
+      "label": "PGT-A in advanced maternal age",
+      "priority": "high"
+    },
+    "blastocyst_grading_outcomes": {
+      "label": "Blastocyst grading & outcomes",
+      "priority": "medium"
+    },
+    "antagonist_protocol_normoresponder": {
+      "label": "Antagonist protocol in normo-responders",
+      "priority": "medium"
+    },
+    "intercycle_interval": {
+      "label": "Inter-cycle interval",
+      "priority": "low"
+    },
+    "methylation_mthfr_art": {
+      "label": "MTHFR / methylation & ART",
+      "priority": "high"
+    },
+    "one_pn_embryos": {
+      "label": "1PN / abnormal fertilisation",
+      "priority": "high"
+    },
+    "ss31_elamipretide": {
+      "label": "SS-31 / elamipretide & fertility",
+      "priority": "high"
+    },
+    "rapamycin": {
+      "label": "Rapamycin / sirolimus & fertility",
+      "priority": "high"
+    },
+    "embryo_arrest_d3_blast": {
+      "label": "Embryo arrest & blastulation",
+      "priority": "high"
+    },
+    "antioxidant_culture_media": {
+      "label": "Antioxidant culture media",
+      "priority": "high"
+    },
+    "growth_hormone_adjuvant": {
+      "label": "Growth hormone adjuvant in IVF",
+      "priority": "medium"
+    },
+    "time_lapse_morphokinetics": {
+      "label": "Time-lapse / morphokinetic embryo selection",
+      "priority": "medium"
+    },
+    "duostim_luteal_phase": {
+      "label": "DuoStim / luteal-phase stimulation",
+      "priority": "high"
+    },
+    "picsi_hyaluronan_binding": {
+      "label": "PICSI / hyaluronan binding sperm selection",
+      "priority": "medium"
+    },
+    "imsi_high_mag_morphology": {
+      "label": "IMSI / high-magnification sperm morphology",
+      "priority": "medium"
+    },
+    "endometrial_receptivity_era": {
+      "label": "Endometrial receptivity testing (ERA / ER-Map)",
+      "priority": "medium"
+    },
+    "recurrent_implantation_failure": {
+      "label": "Recurrent implantation failure",
+      "priority": "high"
+    },
+    "haploid_embryos_decondensation": {
+      "label": "Haploid embryos & sperm decondensation",
+      "priority": "high"
+    },
+    "varicocele_embolisation_ivf": {
+      "label": "Varicocele embolisation & IVF",
+      "priority": "high"
+    },
+    "choline_pemt_pregnancy": {
+      "label": "Choline / PEMT & pregnancy",
+      "priority": "medium"
+    },
+    "methylfolate_vs_folic_acid_ivf": {
+      "label": "Methylfolate vs folic acid in IVF",
+      "priority": "medium"
+    }
+  },
+  "journals_monitored": [
+    "Hum Reprod",
+    "Hum Reprod Update",
+    "Hum Reprod Open",
+    "Fertil Steril",
+    "F S Rep",
+    "F S Sci",
+    "Reprod Biomed Online",
+    "J Assist Reprod Genet",
+    "Reprod Biol Endocrinol",
+    "Hum Fertil (Camb)",
+    "Reprod Sci",
+    "Andrology",
+    "Mol Hum Reprod",
+    "Reproduction",
+    "Biol Reprod",
+    "Reprod Fertil Dev",
+    "Asian J Androl",
+    "Andrologia"
+  ],
+  "papers": [
+    {
+      "pmid": "42542932",
+      "title": "Ambient temperature reduces oocyte yield in assisted reproductive technology via a partially sex hormone-mediated pathway.",
+      "journal": "Hum Reprod",
+      "pub_date": "2026-08-02",
+      "authors": [
+        "Zeng YY",
+        "Hu YL",
+        "Liu RL",
+        "Geng LH",
+        "Zhong ZH",
+        "Fu LJ",
+        "Chen GL",
+        "Ding YB"
+      ],
+      "abstract": "STUDY QUESTION: Are higher ambient temperatures before oocyte retrieval associated with adverse oocyte-related outcomes in women undergoing their first IVF or ICSI cycle?\n\nSUMMARY ANSWER: Higher pre-retrieval temperatures are associated with reduced oocyte yield, an effect partially mediated through LH and partially counteracted by compensatory increases in FSH and estradiol (E2).\n\nWHAT IS KNOWN ALREADY: Evidence on the impact of ambient temperature on IVF/ICSI outcomes is emerging but limited. A recent study reported weak negative associations between higher ambient temperatures during folliculogenesis and oocyte yield, though the effect was modest and findings across populations remain inconsistent. However, these findings are further limited by small sample sizes, specific clinical subpopulations or geographic regions, which prevents the establishment of a generalizable dose-response relationship and leaves the underlying biological mechanisms largely unexplored.\n\nSTUDY DESIGN, SIZE, DURATION: A retrospective cohort study of 58\u00a0468 women undergoing their first IVF/ICSI cycle with oocyte retrieval between 1 January 2018 and 31 May 2024.\n\nPARTICIPANTS/MATERIALS, SETTING, METHODS: Women undergoing their first IVF/ICSI cycle were included. The primary outcomes were total oocytes retrieved, mature oocytes retrieved, and 2PN (two pronuclei) fertilized oocytes. Secondary outcomes included rates of oocyte maturation, normal fertilization, and blastocyst formation. Basal sex hormone levels were measured during the early follicular phase (cycle days 2-4). Environmental exposure data, including both ambient temperature and apparent temperature (integrating air temperature and humidity), were assessed over biologically relevant exposure windows. Generalized linear mixed-effects models were used to estimate associations between temperature exposures and oocyte-related outcomes. Restricted cubic spline models assessed nonlinearity. A counterfactual causal mediation analysis examined the roles of basal sex hormones. Stratified analyses by age, BMI, antral follicle count, anti-M\u00fcllerian hormone, season, COVID-19 period, and the distance to ART center, along with sensitivity analyses, were performed to evaluate robustness.\n\nMAIN RESULTS AND THE ROLE OF CHANCE: Each 1\u00b0C increase in apparent temperature was associated with significant decreases in total oocytes retrieved (-0.20%; 95% CI: -0.28%, -0.12%), mature oocytes retrieved (-0.17%; 95% CI: -0.26%, -0.09%), and 2PN fertilized oocytes (-0.19%; 95% CI: -0.28%, -0.09%); consistent associations were observed for ambient temperature (-0.25%, -0.22%, and -0.22% per 1\u00b0C, respectively). For rate-based outcomes, no significant associations were observed for the normal fertilization rate or blastocyst formation rate; the mature oocyte rate showed small positive associations in longer-term exposure windows (3-week and 90-day). Mediation analyses indicated that LH partially mediated these associations, accounting for up to 5.23% of the total effect, while both FSH and E2 exhibited suppression effects.\n\nLIMITATIONS, REASONS FOR CAUTION: The observational design cannot definitively establish causality. Unmeasured confounding (e.g. individual indoor climate control, occupational heat exposure) and residential address-based exposure assessment are potential sources of bias. Restricting the primary analysis to completed cycles may introduce selection bias, although sensitivity analyses incorporating canceled cycles yielded consistent estimates.\n\nWIDER IMPLICATIONS OF THE FINDINGS: Higher ambient temperatures represent a modifiable environmental risk factor for oocyte yield in ART treatment, with basal sex hormone pathways, including LH as a partial mediator and compensatory shifts in FSH and E2, providing a plausible biological basis for this effect. In the context of rising global temperatures, these findings suggest that ambient thermal exposure during the peri-folliculogenesis period warrants clinical attention, and that monitoring basal sex hormone levels may help identify patients at risk of a suboptimal ovarian response in high-temperature settings.\n\nFUNDING: This study was supported in part by the Technology Innovation and Research & Development Project of the Chengdu Science and Technology Bureau (No. 2024-YF05-02159-SN), the Open Fund of Chongqing Maternal and Child Disease Control and Public Health Research Center (No. CQFYSJ01001), the Program of Inheritance and Innovation of Traditional Chinese Medicine in Chongqing (Chongqing Traditional Chinese Medicine [2022] No. 33), and Chongqing Yuzhong District Natural Science Foundation Project (No. 20240118).\n\nDISCLOSURES: All authors declare that they have no conflicts of interest related to this study.\n\nTRIAL REGISTRATION NUMBER: N/A.",
+      "doi": "10.1093/humrep/deag128",
+      "matched_searches": [
+        "embryo_arrest_d3_blast"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42542932/",
+      "doi_url": "https://doi.org/10.1093/humrep/deag128"
+    },
+    {
+      "pmid": "42538063",
+      "title": "Recurrent implantation failure: a committee opinion.",
+      "journal": "Fertil Steril",
+      "pub_date": "2026-08",
+      "authors": [
+        "Practice Committee of the American Society for Reproductive Medicine"
+      ],
+      "abstract": "Patients who have several unsuccessful embryo transfers may be at risk for possible conditions that affect implantation. This document reviews diagnostic criteria for recurrent implantation failure and provides an evidence-based evaluation for these patients.",
+      "doi": "10.1016/j.fertnstert.2026.03.026",
+      "matched_searches": [
+        "recurrent_implantation_failure"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42538063/",
+      "doi_url": "https://doi.org/10.1016/j.fertnstert.2026.03.026"
+    },
+    {
+      "pmid": "42448601",
+      "title": "Isolation of high-quality stallion spermatozoa: a comparison of methods and their effects on sperm quality and yield, DNA damage, and functional competence by ICSI.",
+      "journal": "Reprod Fertil Dev",
+      "pub_date": "2026-07-31",
+      "authors": [
+        "Bahrami M",
+        "Medica AJ",
+        "Clutton-Brock A",
+        "Herzog F",
+        "Gibb Z",
+        "Bakos HW",
+        "Aitken RJ",
+        "Swegen A"
+      ],
+      "abstract": "CONTEXT: Intracytoplasmic sperm injection (ICSI) is the primary method for equine in vitro embryo production, yet outcomes may be influenced by sperm selection techniques.\n\nAIMS: This study compared four isolation methods: EquiPure\u2122, Vetmotl\u2122, Felix\u2122, and Samson\u2122, to assess effects on sperm quality and embryo development.\n\nMETHODS: Semen was collected from four fertile stallions, processed and evaluated for sperm motility, viability, DNA integrity, and yield of high-quality cells relative to input. Isolated samples were compared to non-isolated (centrifuged) samples. Spermatozoa were used for ICSI with in vitro-matured oocytes, and cleavage and blastocyst rates were recorded.\n\nKEY RESULTS: Compared with unfractionated samples, sperm quality (motility and viability) was improved in samples recovered with VetMotl, Felix and Samson while DNA integrity was improved in Vetmotl-isolated samples. When concentration of recovered cells was considered, Samson, EquiPure, and Felix yielded significantly more motile, viable, and DNA-intact spermatozoa than Vetmotl, showing the lowest recovery. Samson achieved the greatest recovery of progressively motile cells. Isolation with all methods supported in vitro embryo production; cleavage (51.2-69.4%) and blastocyst rates (20.5-24.5%) did not differ significantly between methods.\n\nCONCLUSIONS: Several established and emerging methods for sperm isolation are effective in isolating high-quality spermatozoa suitable for use in embryo production by ICSI. VetMotl, Felix, and Samson performed comparably to conventional methods, supporting their clinical utility.\n\nIMPLICATIONS: Isolation methods vary in efficiency, labour intensiveness and sperm selection stringency, with potential implications for sperm storage, low dose insemination and IVF. Further studies incorporating multiple stallions and embryo transfer outcomes are needed to confirm reproductive relevance.",
+      "doi": "10.1071/RD25242",
+      "matched_searches": [
+        "zymot_microfluidic"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42448601/",
+      "doi_url": "https://doi.org/10.1071/RD25242"
+    },
+    {
+      "pmid": "42522365",
+      "title": "Sperm Selection Using Micro Swim-Up: Improvement of Chromatin Integrity Compared to Density Gradient Centrifugation.",
+      "journal": "Andrology",
+      "pub_date": "2026-07-29",
+      "authors": [
+        "Palini S",
+        "Benedetti S",
+        "De Stefani S",
+        "Galluzzi L",
+        "Primiterra M",
+        "D'Errico SR",
+        "Tanturli M",
+        "Muratori M"
+      ],
+      "abstract": "BACKGROUND: Selecting high-quality spermatozoa with optimal nuclear integrity is a crucial step in assisted reproductive technologies (ART). While density gradient centrifugation (DGC) is widely used, the associated centrifugation steps may induce cell stress, potentially damaging sperm DNA. Conversely, micro swim-up (MSU) is an innovative, centrifugation-free procedure using autonomous gamete migration in a polyvinylpyrrolidone medium.\n\nOBJECTIVES: This study aimed to compare the sperm selection technique MSU with the conventional method DGC in terms of sperm chromatin integrity in 90 semen samples.\n\nMATERIALS AND METHODS: Rapid progressive motility, sperm DNA fragmentation (sDF; SCD test), nuclear immaturity (aniline blue [AB] staining), and chromatin decondensation (chromomycin A3 [CMA3] staining) were evaluated before and after selection.\n\nRESULTS: Both procedures significantly improved motility and nuclear parameters compared to unselected samples. However, MSU outperformed DGC across all nuclear integrity markers. Specifically, sDF decreased from 18.50% (14.63-26.25) to 9.25% (6.00-16.00) with DGC and 1.00% (0.00-2.00) with MSU (p < 0.0001 MSU vs. DGC). Regarding nuclear immaturity, values improved from 21.00% (15.00-27.50) to 15.00% (8.00-18.00) with DGC and 5.00% (4.00-10.00) with MSU (p = 0.012 MSU vs. DGC). Similarly, chromatin decondensation decreased from 18.25% (10.88-23.63) to 13.50% (7.00-15.63) with DGC and 5.50% (2.75-10.00) with MSU (p = 0.0001 MSU vs DGC).\n\nDISCUSSION AND CONCLUSION: MSU selects spermatozoa with significantly superior nuclear integrity compared to DGC, markedly reducing DNA fragmentation and improving chromatin maturation. Given the direct impact of these parameters on ART outcomes, MSU might represent a valuable alternative to traditional centrifugation-based methods in clinical settings.",
+      "doi": "10.1111/andr.70327",
+      "matched_searches": [
+        "sperm_dna_fragmentation"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42522365/",
+      "doi_url": "https://doi.org/10.1111/andr.70327"
+    },
+    {
+      "pmid": "42522249",
+      "title": "Differential Effects of Sperm Deoxyribonucleic Acid Fragmentation Index on Cumulative Live Birth Rate per Complete Cycle Following IVF and ICSI Treatment in Patients Without Severe Male Infertility.",
+      "journal": "Andrology",
+      "pub_date": "2026-07-28",
+      "authors": [
+        "Chen K",
+        "Pan L",
+        "Cai J",
+        "Liu Q",
+        "Xue L",
+        "Liu L",
+        "Liu Z",
+        "Ren J",
+        "Jiang X"
+      ],
+      "abstract": "BACKGROUND: Infertility impacts 10%-15% of the population, with prominent male contributions. Routine semen analysis fails to fully evaluate male fertility. Sperm DNA fragmentation (SDF) links to poor reproductive outcomes. Although intracytoplasmic sperm injection (ICSI) is recommended for high SDF, its overuse in nonsevere male infertility is controversial. The divergent impacts of SDF on in vitro fertilization (IVF) and ICSI cumulative live birth rate (CLBR) remain unclear.\n\nOBJECTIVE: To evaluate the effect of SDF on the CLBR in couples undergoing IVF and ICSI, and to explore the optimal choice of assisted reproductive fertilization methods under different levels of SDF in nonsevere male infertility.\n\nMATERIALS AND METHODS: Sperm chromatin structure assay, propensity score matching (PS-matching), generalized additive model (GAM), and causal forest (CF) model analysis.\n\nRESULT(S): After PS-matching: 398 cases in both IVF and ICSI groups (standardized difference <0.1). GAM: IVF group's CLBR decreased with DFI; ICSI group had no correlation. IVF's CLBR was higher when DFI < 14.3%, lower when DFI > 47.9%. CF model: DFI was a top predictor; SHAP analysis: DFI < 14.2% favored IVF, DFI > 14.2% favored ICSI.\n\nCONCLUSION(S): For nonsevere male infertility, IVF yields superior baseline CLBR at DFI < 14.3%. Rising DFI impairs IVF outcomes, whereas ICSI remains unaffected. Pretreatment DFI enables individualized IVF/ICSI selection.",
+      "doi": "10.1111/andr.70338",
+      "matched_searches": [
+        "sperm_dna_fragmentation"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42522249/",
+      "doi_url": "https://doi.org/10.1111/andr.70338"
+    },
+    {
+      "pmid": "42522245",
+      "title": "The impact of sperm DNA fragmentation index levels on embryo development potential and clinical outcomes in infertile couples undergoing IVF/ICSI treatment.",
+      "journal": "Asian J Androl",
+      "pub_date": "2026-07-28",
+      "authors": [
+        "Zhang YC",
+        "Wang JY",
+        "Shen CY",
+        "Liu YQ",
+        "Liu YL",
+        "Yang XF",
+        "Guan YC",
+        "Zhang WJ"
+      ],
+      "abstract": "The sperm DNA fragmentation (SDF) impact on embryo development, particularly regarding the fertilization methods and female age, remains incompletely defined. This study evaluated the effect of the sperm DNA fragmentation index (DFI) on embryo quality and development and examined whether this effect was modified by insemination method or maternal age. This retrospective cohort study included 3567 infertility treatment cycles at The Third Affiliated Hospital of Zhengzhou University (Zhengzhou, China) between January 2019 and April 2025. The DFI was measured using the Sperm Chromatin Structure Assay (SCSA), and patients were stratified into low, moderate, and high DFI groups. The embryo quality was assessed morphokinetically on day 3 and days 5-7. Generalized estimating equations (GEEs) were employed to account for multiple embryos per patient, with adjustments for female age, body mass index (BMI), infertility cause, and insemination method. A high DFI was significantly associated with reduced good-quality blastocysts rate ( P < 0.001). Stratified analyses revealed that the adverse effects of a high DFI were most pronounced in ICSI cycles and among women aged \u226535 years, where it correlated with markedly lower usable and good blastocyst rates (adjusted Exp[\u03b2] = 0.99 and 0.98, respectively; P = 0.002 and 0.008, respectively). In conclusion, an elevated DFI is negatively associated with embryo developmental potential in a dose-dependent manner, particularly in cycles involving ICSI and among couples with advanced maternal age. However, when the analysis was restricted to fresh embryo transfer, high DFI levels did not result in worse reproductive outcomes.",
+      "doi": "10.4103/aja202619",
+      "matched_searches": [
+        "sperm_dna_fragmentation",
+        "time_lapse_morphokinetics"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42522245/",
+      "doi_url": "https://doi.org/10.4103/aja202619"
+    },
+    {
+      "pmid": "42508682",
+      "title": "Cumulative probability of a live birth after up to six sequential single euploid embryo transfers.",
+      "journal": "Fertil Steril",
+      "pub_date": "2026-07-27",
+      "authors": [
+        "Durbin C",
+        "Parra CM",
+        "Blakemore JK",
+        "DeVore S",
+        "Wertz B",
+        "Fino ME",
+        "Licciardi F",
+        "Berkeley A",
+        "McCaffrey C",
+        "Grifo JA"
+      ],
+      "abstract": "OBJECTIVE: To estimate the cumulative probability of achieving at least one live birth (LB) after up to six sequential single euploid embryo transfers (euploid SET) and characterize per-transfer outcomes to inform evidence-based counseling for patients undergoing in vitro fertilization (IVF) with preimplantation genetic testing for aneuploidy (PGT-A).\n\nDESIGN: Retrospective cohort study.\n\nSETTING: University-affiliated fertility center.\n\nSUBJECTS: Patients who underwent IVF with PGT-A followed by euploid SET between January 2014 and December 2024.\n\nEXPOSURE: Up to six sequential euploid SETs until a live birth was achieved, or the patient discontinued additional transfers.\n\nMAIN OUTCOME MEASURES: Estimated cumulative probability of achieving \u22651 LB and per-transfer rates of live birth, spontaneous abortion, biochemical pregnancy, and non-pregnant.\n\nRESULTS: Among 5811 patients undergoing 7763 euploid SETs attempts, the estimated cumulative probability of a LB increased from 63.1% after one SET to 92.0% after three, 98.3% after five, and 98.8% after six SETs. Per-transfer live birth rate declined from 63.1% at the first euploid SET to 54.0% at the second, then remained stable across subsequent attempts. Rates of spontaneous abortion, biochemical pregnancy, and non-pregnant followed a similar trend. Fewer than 5% of patients met criteria for recurrent implantation failure after three euploid SETs, and fewer than 2% remained without live birth after five SETs.\n\nCONCLUSION: Continued sequential transfer of euploid embryos is supported as the primary management strategy after early transfer failure. For patients able to generate an adequate euploid embryo inventory aligned with their individual risk tolerance, persistence with treatment is associated with a high likelihood of achieving a live birth.",
+      "doi": "10.1016/j.fertnstert.2026.07.016",
+      "matched_searches": [
+        "recurrent_implantation_failure"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42508682/",
+      "doi_url": "https://doi.org/10.1016/j.fertnstert.2026.07.016"
+    },
+    {
+      "pmid": "42288049",
+      "title": "Delayed childbearing and its impact.",
+      "journal": "Reprod Biomed Online",
+      "pub_date": "2026-05-28",
+      "authors": [
+        "Vergara V",
+        "Garc\u00eda-Velasco JA"
+      ],
+      "abstract": "Delayed childbearing is a global social and demographic trend with significant social, familial and individual consequences. Among the individual impacts, reproductive ageing plays a central biological role, leading to a decline in ovarian reserve and deterioration of oocyte quality. Key mechanisms underlying oocyte ageing include mitochondrial dysfunction and increased oxidative stress. These metabolic changes are associated with alterations in cell division mechanisms that lead to embryonic aneuploidy, the most important cause of reduced fecundity in natural cycles, lower implantation rates in IVF treatments and higher miscarriage rates. In addition to oocyte-related changes, endometrial function may also be affected, although this becomes clinically relevant later and is less evident compared with oocyte ageing, as observed in assisted reproductive techniques such as oocyte donation. Strategies from assisted reproductive technology include preimplantation genetic testing for aneuploidies for embryo selection, embryo and oocyte accumulation, and social oocyte preservation at younger ages. Furthermore, advanced maternal age is associated with altered pregnancy outcomes, including increased risks of maternal, fetal and neonatal complications, particularly in the presence of pre-existing comorbidities.",
+      "doi": "10.1016/j.rbmo.2026.105786",
+      "matched_searches": [
+        "pgta_advanced_age"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42288049/",
+      "doi_url": "https://doi.org/10.1016/j.rbmo.2026.105786"
+    },
+    {
+      "pmid": "42107484",
+      "title": "Transabdominal retrieval of oocytes when transvaginal access is not an option: mastering an egg-cellent technique.",
+      "journal": "Fertil Steril",
+      "pub_date": "2026-05-09",
+      "authors": [
+        "Hasan A",
+        "Zhao K",
+        "Lu B",
+        "Russo M",
+        "Lindheim SR",
+        "Petrozza JC",
+        "Pereira N"
+      ],
+      "abstract": "OBJECTIVE: To demonstrate the step-by-step technique for performing a transabdominal oocyte retrieval with a vaginal transducer in patients where transvaginal access is not an option.\n\nDESIGN: Video article.\n\nSUBJECTS: The first patient is a 38-year-old gravida 0 woman with prior midline laparotomy for myomectomy and endometriosis resection. In vitro fertilization was recommended after unsuccessful natural conception attempts. Her baseline antim\u00fcllerian hormone was 17 pmol/L (2.38 ng/mL). The second patient is a 26-year-old gravida 0 woman with history of multiple abdominal and pelvic surgeries because of congenital vaginal and anal atresia. She presented with locally advanced cancer of the neovagina. Her baseline antim\u00fcllerian hormone was 24 pmol/L (3.36 ng/mL). The patients included gave consent for publication and posting of the video online including social media, the journal website, scientific literature websites (such as PubMed, ScienceDirect, and Scopus, etc.) and other applicable sites.\n\nEXPOSURE: Both patients underwent controlled ovarian stimulation using a gonadotropin-releasing hormone antagonist protocol. Oocyte retrievals were performed transabdominally using a 7 MHz vaginal transducer fitted with a disposable needle guide and a 17 gauge, 25-cm single lumen aspiration needle. Follicular aspiration was performed with a pedal-activated vacuum pump with suction pressures ranging between 105-140 mmHg.\n\nMAIN OUTCOME MEASURES: Oocyte yield after transabdominal oocyte retrieval.\n\nRESULTS: The first patient's in vitro fertilization cycle yielded 12 oocytes, of which 8 fertilized with conventional insemination; four blastocysts were cryopreserved. A frozen embryo transfer is planned imminently. Twenty-one oocytes were retrieved in the second patient, of which 12 mature oocytes were cryopreserved for future use. She is currently undergoing radiation therapy.\n\nCONCLUSION: Transabdominal oocyte retrieval using a vaginal transducer is a safe, effective, and feasible method of oocyte retrieval in select patients where ovaries are not accessible transvaginally. This technique may be more easily adopted where abdominal transducer needle guides and adapters are not readily accessible, offering a practical alternative for oocyte retrieval in patients with complex pelvic anatomy or pathology.",
+      "doi": "10.1016/j.fertnstert.2026.04.026",
+      "matched_searches": [
+        "antagonist_protocol_normoresponder"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42107484/",
+      "doi_url": "https://doi.org/10.1016/j.fertnstert.2026.04.026"
+    },
+    {
+      "pmid": "42143849",
+      "title": "Back to the future! Is there still a role for the GnRH agonist protocol in ovarian stimulation?",
+      "journal": "Reprod Biomed Online",
+      "pub_date": "2026-04-22",
+      "authors": [
+        "Kalaitzopoulos DR",
+        "Voros C",
+        "Blockeel C"
+      ],
+      "abstract": "For more than two decades, gonadotrophin-releasing hormone (GnRH) agonist protocols were used as the standard stimulation regimen in IVF, due to the effective prevention of premature LH surges and reduced cycle cancellation rates. Over the past two decades, however, their use has markedly declined with the widespread adoption of GnRH antagonist and progestin-primed ovarian stimulation protocols, which offer shorter treatment durations and greater patient convenience. This article examines the contemporary evidence on GnRH agonist protocols and identifies patient subgroups in whom their use may remain clinically relevant.",
+      "doi": "10.1016/j.rbmo.2026.105733",
+      "matched_searches": [
+        "premature_ovulation",
+        "antagonist_protocol_normoresponder"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42143849/",
+      "doi_url": "https://doi.org/10.1016/j.rbmo.2026.105733"
+    },
+    {
+      "pmid": "42150318",
+      "title": "Association between blastocyst morphometrics and live birth, obstetric complications and perinatal outcomes.",
+      "journal": "Reprod Biomed Online",
+      "pub_date": "2026-02-16",
+      "authors": [
+        "Utsuno H",
+        "Ishimaru T",
+        "Matsumoto M",
+        "Takahashi H",
+        "Kamijo S",
+        "Yamada M",
+        "Tanaka M"
+      ],
+      "abstract": "RESEARCH QUESTION: Are blastocyst morphometrics, specifically diameter, inner cell mass (ICM) area and trophectoderm (TE) cell count, associated with live birth, obstetric complications and perinatal outcomes?\n\nDESIGN: This retrospective single-centre cohort study involved 1132 vitrified-warmed single-blastocyst transfers performed between May 2018 and July 2024. Blastocyst diameter, ICM area and TE cell count were quantitatively measured before vitrification. The effects of blastocyst morphometric parameters on live birth, obstetric complications and perinatal outcomes were evaluated using statistical models that accounted for potential confounding factors.\n\nRESULTS: Each 100 \u03bcm2 increase in ICM area and each 10-cell increase in TE cell count was associated with increased live birth rates (ICM area: marginal odds ratio [mOR] 1.023, 95% CI 1.009-1.037, P = 0.001; TE cell count: mOR 1.101, 95% CI 1.038-1.168, P = 0.001). Each 10-cell increase in TE cell count was significantly associated with increased birthweight (\u03b2 = 19.47 g, 95% CI 4.91-34.02 g, P = 0.010) and placental weight (\u03b2 = 8.64 g, 95% CI 3.00-14.27 g, P = 0.003), as well as with a reduced risk of low birthweight (LBW; mOR 0.860, 95% CI 0.743-0.995, P = 0.044), small for gestational age (SGA; mOR 0.693, 95% CI 0.541-0.888, P = 0.004) and hypertensive disorders of pregnancy (HDP; mOR 0.740, 95% CI 0.600-0.912, P = 0.005).\n\nCONCLUSIONS: Both ICM area and TE cell count were independently associated with live births following embryo transfer. Once pregnancy is established, TE morphology, specifically TE cell count, further influences birthweight, placental weight and incidence of LBW, SGA and HDP.",
+      "doi": "10.1016/j.rbmo.2026.105636",
+      "matched_searches": [
+        "blastocyst_grading_outcomes"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42150318/",
+      "doi_url": "https://doi.org/10.1016/j.rbmo.2026.105636"
+    },
+    {
+      "pmid": "42150319",
+      "title": "Polarized light microscopy reveals distinct spindle phenotypes and outcomes in non-pronuclear zygotes.",
+      "journal": "Reprod Biomed Online",
+      "pub_date": "2025-11-29",
+      "authors": [
+        "Ma M",
+        "Liao X",
+        "Chen C",
+        "Yu L",
+        "Yang J",
+        "Li M",
+        "Zhao X",
+        "Zhao L",
+        "Jin W",
+        "Lyu Q"
+      ],
+      "abstract": "RESEARCH QUESTION: Can polarized light microscopy (PLM) spindle phenotypes predict the developmental potential of non-pronuclear (0PN) zygotes?\n\nDESIGN: Retrospective observational study including 1266 0PN zygotes and 69,383 two-pronuclei (2PN) zygotes from patients undergoing IVF and embryo transfer treatments in a reproductive centre affiliated to a university hospital from June 2021 to November 2024. Phenotypic observations were obtained through PLM; all 0PN zygotes were categorized into four distinct groups: adjacent dual spindles (AD-SP); separate dual spindles (SD-SP); mono-spindle (M-SP) and no spindle (N-SP). Logistic regression assessed the effect of these PLM phenotypes on embryological outcomes, considering parental and treatment factors, and evaluated the effects of rescue artificial oocyte activation or rescue ICSI on these outcomes.\n\nRESULTS: Cleavage rates were significantly lower in AD-SP (adjusted odds ratio [aOR] 0.22; P < 0.001), SD-SP (aOR 0.03; P < 0.001), M-SP (aOR 0.02; P < 0.001), and N-SP (aOR 0.02; P < 0.001) categories compared with 2PN zygotes. The rates of four or more cells at day 3 (aOR 1.97; P = 0.041), six or more cells on day 3 (aOR 1.60; P = 0.012) and good-quality embryos at day 3 (aOR 1.58; P = 0.008) were significantly higher in AD-SP categories compared with 2PN zygotes. Blastocyst formation rates of day-3 poor-quality embryos (aOR 1.31; P = 0.351) was comparable between 2PN zygotes and 0PN zygotes with AD-SP.\n\nCONCLUSIONS: Four prominent phenotypes of 0PN zygotes were identified based on PLM, along with their corresponding embryonic outcomes. Notably, 0PN zygotes with AD-SP had embryonic outcomes similar to those of 2PN zygotes, except for cleavage rate, and demonstrated superior developmental potential compared with other phenotypes.",
+      "doi": "10.1016/j.rbmo.2025.105422",
+      "matched_searches": [
+        "embryo_arrest_d3_blast"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42150319/",
+      "doi_url": "https://doi.org/10.1016/j.rbmo.2025.105422"
+    },
+    {
+      "pmid": "42176529",
+      "title": "Artificial intelligence-driven oocyte scores are associated with early morphokinetics and embryo outcomes after intracytoplasmic sperm injection.",
+      "journal": "Reprod Biomed Online",
+      "pub_date": "2025-10-24",
+      "authors": [
+        "Fujiwara N",
+        "Ezoe K",
+        "Miki T",
+        "Takahashi T",
+        "Vanzella L",
+        "Mercuri N",
+        "Fjeldstad J",
+        "Mojiri P",
+        "Nayot D",
+        "Kuroda T",
+        "Kato K"
+      ],
+      "abstract": "RESEARCH QUESTION: How are the scores obtained using the deep learning-based oocyte assessment system, MAGENTA, associated with outcomes of intracytoplasmic sperm injection (ICSI) and biological events during the preimplantation period?\n\nDESIGN: Retrospective study of 2785 images of mature oocytes from 1340 retrieval cycles. Images were obtained immediately after ICSI from time-lapse systems and scored by MAGENTA. Key phenomena, including pronuclear and cytoplasmic dynamics, cleavage patterns, blastomere compaction and embryo quality were manually annotated. The relationships between the MAGENTA score and embryonic and pregnancy outcomes, and morphokinetics were analysed using generalized linear models with generalized estimating equations to account for clustering.\n\nRESULTS: Oocytes in the lower MAGENTA scores showed higher degeneration rates (P < 0.001) and lower normal fertilization rates (P < 0.001) per ICSI. Higher MAGENTA scores were associated with increased likelihood of development to the two- and eight-cell stages, compaction, blastulation and blastocyst expansion (all P < 0.001). Lower MAGENTA scores were associated with the following: delayed fertilization events, including second polar body extrusion, cytoplasmic wave initiation, halo redistribution and disappearance, and pronuclear appearance and breakdown (all P < 0.001); delayed first cleavage and higher incidences of abnormal cleavage, aberrant blastomere movement, and multinucleation (all P \u2264 0.001); and early compaction (P = 0.040), blastomere exclusion (P < 0.001) and poor inner cell mass and trophectoderm morphology (all P < 0.001). The sum of MAGENTA scores for all oocytes per retrieval cycle was positively associated with the cumulative live birth rate (P < 0.001).\n\nCONCLUSIONS: The MAGENTA score is associated with key fertilization dynamics, cleavage abnormalities, compaction behaviour and blastocyst development, providing a quantitative indicator of oocyte developmental competence.",
+      "doi": "10.1016/j.rbmo.2025.105360",
+      "matched_searches": [
+        "blastocyst_grading_outcomes",
+        "embryo_arrest_d3_blast",
+        "time_lapse_morphokinetics"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42176529/",
+      "doi_url": "https://doi.org/10.1016/j.rbmo.2025.105360"
+    }
+  ]
+}

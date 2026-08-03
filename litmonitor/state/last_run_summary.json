@@ -1,17 +1,19 @@
 {
-  "run_at": "2026-07-27T10:21:14Z",
+  "run_at": "2026-08-03T10:20:08Z",
   "mode": "weekly",
-  "since": "2026-07-18",
-  "new_papers": 8,
-  "total_seen": 1742,
-  "digest_filename": "digest_2026-07-27.md",
+  "since": "2026-07-25",
+  "new_papers": 13,
+  "total_seen": 1755,
+  "digest_filename": "digest_2026-08-03.md",
   "topic_counts": {
-    "pgta_advanced_age": 2,
-    "endometrial_receptivity_era": 2,
-    "sperm_dna_fragmentation": 1,
-    "embryo_arrest_d3_blast": 1,
-    "sperm_dna_double_strand": 1,
-    "recurrent_implantation_failure": 1,
-    "methylation_mthfr_art": 1
+    "embryo_arrest_d3_blast": 3,
+    "recurrent_implantation_failure": 2,
+    "zymot_microfluidic": 1,
+    "sperm_dna_fragmentation": 3,
+    "time_lapse_morphokinetics": 2,
+    "pgta_advanced_age": 1,
+    "antagonist_protocol_normoresponder": 2,
+    "premature_ovulation": 1,
+    "blastocyst_grading_outcomes": 2
   }
 }
