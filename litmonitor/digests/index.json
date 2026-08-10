@@ -1,5 +1,19 @@
 [
   {
+    "filename": "digest_2026-08-10.json",
+    "digest_date": "2026-08-10",
+    "generated_at": "2026-08-10T09:33:55Z",
+    "mode": "weekly",
+    "paper_count": 4,
+    "topic_counts": {
+      "zymot_microfluidic": 1,
+      "embryo_arrest_d3_blast": 1,
+      "rapamycin": 1,
+      "antioxidant_culture_media": 1,
+      "time_lapse_morphokinetics": 1
+    }
+  },
+  {
     "filename": "digest_2026-08-03.json",
     "digest_date": "2026-08-03",
     "generated_at": "2026-08-03T10:20:08Z",

@@ -1,0 +1,251 @@
+{
+  "digest_date": "2026-08-10",
+  "generated_at": "2026-08-10T09:33:55Z",
+  "mode": "weekly",
+  "window_start": "2026-08-01",
+  "paper_count": 4,
+  "topic_counts": {
+    "zymot_microfluidic": 1,
+    "embryo_arrest_d3_blast": 1,
+    "rapamycin": 1,
+    "antioxidant_culture_media": 1,
+    "time_lapse_morphokinetics": 1
+  },
+  "topics": {
+    "agonist_vs_dual_trigger": {
+      "label": "Dual vs agonist trigger",
+      "priority": "high"
+    },
+    "agonist_trigger_suboptimal": {
+      "label": "Suboptimal agonist trigger response",
+      "priority": "high"
+    },
+    "premature_ovulation": {
+      "label": "Premature ovulation",
+      "priority": "high"
+    },
+    "lead_follicle_oversize": {
+      "label": "Lead follicle size & trigger timing",
+      "priority": "high"
+    },
+    "zymot_microfluidic": {
+      "label": "ZyMot / microfluidic sperm selection",
+      "priority": "high"
+    },
+    "sperm_dna_fragmentation": {
+      "label": "Sperm DNA fragmentation (single-strand) & ART",
+      "priority": "high"
+    },
+    "sperm_dna_double_strand": {
+      "label": "Sperm double-strand DNA damage",
+      "priority": "high"
+    },
+    "tese_high_dfi": {
+      "label": "TESE for high DFI",
+      "priority": "high"
+    },
+    "pgta_advanced_age": {
+      "label": "PGT-A in advanced maternal age",
+      "priority": "high"
+    },
+    "blastocyst_grading_outcomes": {
+      "label": "Blastocyst grading & outcomes",
+      "priority": "medium"
+    },
+    "antagonist_protocol_normoresponder": {
+      "label": "Antagonist protocol in normo-responders",
+      "priority": "medium"
+    },
+    "intercycle_interval": {
+      "label": "Inter-cycle interval",
+      "priority": "low"
+    },
+    "methylation_mthfr_art": {
+      "label": "MTHFR / methylation & ART",
+      "priority": "high"
+    },
+    "one_pn_embryos": {
+      "label": "1PN / abnormal fertilisation",
+      "priority": "high"
+    },
+    "ss31_elamipretide": {
+      "label": "SS-31 / elamipretide & fertility",
+      "priority": "high"
+    },
+    "rapamycin": {
+      "label": "Rapamycin / sirolimus & fertility",
+      "priority": "high"
+    },
+    "embryo_arrest_d3_blast": {
+      "label": "Embryo arrest & blastulation",
+      "priority": "high"
+    },
+    "antioxidant_culture_media": {
+      "label": "Antioxidant culture media",
+      "priority": "high"
+    },
+    "growth_hormone_adjuvant": {
+      "label": "Growth hormone adjuvant in IVF",
+      "priority": "medium"
+    },
+    "time_lapse_morphokinetics": {
+      "label": "Time-lapse / morphokinetic embryo selection",
+      "priority": "medium"
+    },
+    "duostim_luteal_phase": {
+      "label": "DuoStim / luteal-phase stimulation",
+      "priority": "high"
+    },
+    "picsi_hyaluronan_binding": {
+      "label": "PICSI / hyaluronan binding sperm selection",
+      "priority": "medium"
+    },
+    "imsi_high_mag_morphology": {
+      "label": "IMSI / high-magnification sperm morphology",
+      "priority": "medium"
+    },
+    "endometrial_receptivity_era": {
+      "label": "Endometrial receptivity testing (ERA / ER-Map)",
+      "priority": "medium"
+    },
+    "recurrent_implantation_failure": {
+      "label": "Recurrent implantation failure",
+      "priority": "high"
+    },
+    "haploid_embryos_decondensation": {
+      "label": "Haploid embryos & sperm decondensation",
+      "priority": "high"
+    },
+    "varicocele_embolisation_ivf": {
+      "label": "Varicocele embolisation & IVF",
+      "priority": "high"
+    },
+    "choline_pemt_pregnancy": {
+      "label": "Choline / PEMT & pregnancy",
+      "priority": "medium"
+    },
+    "methylfolate_vs_folic_acid_ivf": {
+      "label": "Methylfolate vs folic acid in IVF",
+      "priority": "medium"
+    }
+  },
+  "journals_monitored": [
+    "Hum Reprod",
+    "Hum Reprod Update",
+    "Hum Reprod Open",
+    "Fertil Steril",
+    "F S Rep",
+    "F S Sci",
+    "Reprod Biomed Online",
+    "J Assist Reprod Genet",
+    "Reprod Biol Endocrinol",
+    "Hum Fertil (Camb)",
+    "Reprod Sci",
+    "Andrology",
+    "Mol Hum Reprod",
+    "Reproduction",
+    "Biol Reprod",
+    "Reprod Fertil Dev",
+    "Asian J Androl",
+    "Andrologia"
+  ],
+  "papers": [
+    {
+      "pmid": "42565980",
+      "title": "Improving ARTs: Microfluidics as a Tool for Sperm Selection.",
+      "journal": "Andrology",
+      "pub_date": "2026-08-07",
+      "authors": [
+        "P\u00e9rez-G\u00f3mez A",
+        "Urri\u00e9s A",
+        "de Pablo JL",
+        "Serrano-Ram\u00f3n L",
+        "Sanchez S",
+        "Herrer R",
+        "Morrell JM",
+        "Malo C"
+      ],
+      "abstract": "Sperm selection is a critical step in assisted reproductive technology (ART), as sperm quality directly influences embryo quality. In vivo, the female reproductive tract imposes several physical and physiological barriers that favors only the most optimal spermatozoa reaching the fertilization site. Such barriers are absent in in vitro fertilization (IVF) and intracytoplasmic sperm injection (ICSI) treatments, which has driven the continuous development of strategies for sperm selection. This review provides a comprehensive overview of physiological sperm selection within the female reproductive tract and examines the sperm selection methods currently available for ARTs. The review outlines the limitations of conventional sperm selection methods, swim-up (SU) and density gradient centrifugation (DGC), presents advanced approaches developed specifically for ICSI, and underscores cutting-edge microfluidic technologies for sperm selection. Microfluidic devices provide a controlled environment and are designed to mimic the physiological conditions encountered by spermatozoa within the female reproductive tract, enabling sperm selection based on specific biological properties such as motility, thermotaxis, chemotaxis, and rheotaxis. This review summarizes numerous studies on different microfluidic devices capable of selecting higher-quality sperm, and highlights the need of rigorous multicenter studies to evaluate their efficacy in clinical terms. Future perspectives for microfluidic platforms are also reviewed, evidencing the potential of these technologies to help address the increasing prevalence of male infertility.",
+      "doi": "10.1111/andr.70314",
+      "matched_searches": [
+        "zymot_microfluidic"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42565980/",
+      "doi_url": "https://doi.org/10.1111/andr.70314"
+    },
+    {
+      "pmid": "42548189",
+      "title": "A Homozygous NUP210L Variant Is Associated With Severe Defects in Human Spermiogenesis.",
+      "journal": "Andrology",
+      "pub_date": "2026-08-04",
+      "authors": [
+        "Sun Y",
+        "Chen G",
+        "Zhang Y",
+        "Chen J",
+        "Song Y",
+        "Shi H",
+        "Lei C",
+        "Xin A"
+      ],
+      "abstract": "BACKGROUND: Spermiogenesis is a highly specialized differentiation process involving by extensive nuclear remodeling and cytoplasmic reorganization. Disruption of these events is a major cause of male infertility, however the genetic determinants underlying human spermiogenic failure remain incompletely understood. NUP210L, which encodes a testis-enriched nucleoporin, has recently been implicated in male infertility, although direct evidence in humans is limited and murine models do not fully recapitulate the human phenotype.\n\nOBJECTIVE: To investigate the genetic basis and spermiogenic consequences of a homozygous NUP210L variant in a patient with severe oligoasthenoteratozoospermia (OAT), and to evaluate its impact on fertilization.\n\nMATERIALS AND METHODS: A consanguineous family with an affected male proband was studied. Whole-exome sequencing followed by Sanger validation was performed to identify the causative variant. Comprehensive sperm analyses, including light and transmission electron microscopy, immunofluorescence, Western blotting, and chromomycin A3 staining, were conducted to assess ultrastructure, protein localization, and chromatin remodeling. Fertilization outcomes of intracytoplasmic sperm injection (ICSI) with or without artificial oocyte activation (AOA) were evaluated.\n\nRESULTS: A homozygous in-frame deletion in NUP210L (c.1501_1503del, p.Ser501del) was identified. Patient sperm exhibited marked spermiogenic defects, including impaired chromatin condensation, acrosomal abnormalities, mitochondrial sheath disorganization, and fibrous sheath dysplasia. Although NUP210L protein levels were preserved, immunofluorescence revealed abnormal accumulation and mislocalization, suggesting functional impairment rather than loss of expression. Chromomycin A3 staining indicated significant histone retention, consistent with defective nuclear remodeling. Notably, the sperm-specific oocyte activation factor PLC\u03b6 was undetectable, consistent with total fertilization failure (TFF) following conventional ICSI. In contrast, ICSI combined with AOA successfully restored fertilization and enabled blastocyst development.\n\nCONCLUSION: This study identifies a homozygous NUP210L variant associated with severe spermiogenic defects and impaired sperm function. The findings support a role for NUP210L in human spermiogenesis that is not fully recapitulated in murine models. The successful rescue of fertilization by AOA further suggests that NUP210L-related defects are associated with impaired oocyte activation, providing human-based evidence that nucleoporin dysfunction contributes to male infertility.",
+      "doi": "10.1111/andr.70330",
+      "matched_searches": [
+        "embryo_arrest_d3_blast"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42548189/",
+      "doi_url": "https://doi.org/10.1111/andr.70330"
+    },
+    {
+      "pmid": "42546117",
+      "title": "Mitochondria-targeted therapeutic strategies in assisted reproduction: challenges and potential solutions.",
+      "journal": "Hum Reprod",
+      "pub_date": "2026-08-03",
+      "authors": [
+        "Yildirim RM",
+        "Sahin GN",
+        "Scott RT",
+        "Seli E"
+      ],
+      "abstract": "Mitochondria are central to oocyte competence and early embryonic development, with roles that extend beyond energy production to include regulation of redox homeostasis, apoptosis and cellular aging. Mitochondrial dysfunction is increasingly recognized as a key contributor to diminished ovarian reserve, impaired embryo development, and accelerated reproductive aging. Mitochondria-targeted therapeutic strategies, including pharmacological approaches such as Coenzyme Q10, mitoquinone, resveratrol, rapamycin, and NAD+ precursors, as well as mitochondrial replacement techniques such as maternal spindle and pronuclear transfer, have shown promise in preclinical models; however, clinical outcomes remain heterogeneous and often inconclusive. This translational gap likely reflects critical limitations, including variability in therapeutic targets, suboptimal timing of intervention relative to oocyte development, and insufficiently powered or standardized clinical studies. Greater emphasis on well-defined, physiologically justified therapeutic targets, along with the use of physiologically relevant experimental systems, may improve therapeutic precision and efficacy. Rigorous evaluation of safety, particularly for interventions with pleiotropic effects or heritable consequences, remains essential. A more targeted, developmentally informed and systematically validated approach is needed to advance mitochondria-based therapies toward meaningful improvements in reproductive outcomes.",
+      "doi": "10.1093/humrep/deag118",
+      "matched_searches": [
+        "rapamycin",
+        "antioxidant_culture_media"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42546117/",
+      "doi_url": "https://doi.org/10.1093/humrep/deag118"
+    },
+    {
+      "pmid": "42546812",
+      "title": "AI-based embryo ranking can match or improve traditional assessments but cannot predict an aneuploid chromosomal constitution.",
+      "journal": "Fertil Steril",
+      "pub_date": "2026-08-03",
+      "authors": [
+        "Cimadomo D",
+        "Taggi M",
+        "Innocenti F",
+        "Cimadomo V",
+        "Coticchio G",
+        "De Falco F",
+        "Nastri G",
+        "Fiorentino G",
+        "Stati A",
+        "Morelli M",
+        "Guido M",
+        "Vaiarelli A",
+        "Berntsen J",
+        "Capalbo A",
+        "Ubaldi FM",
+        "Rienzi L"
+      ],
+      "abstract": "OBJECTIVE: To evaluate whether AI-based blastocyst ranking tools can outperform traditional non-invasive assessments in prioritizing euploid embryos for transfer.\n\nDESIGN: Retrospective single-center cohort study.\n\nSUBJECTS: The study included 786 PGT-A cycles performed between 2013 and 2020 following embryo culture in a time-lapse incubator (TLI). The analysis focused on 279 cycles producing \u22653 blastocysts of which \u22651 euploid and \u22651 aneuploid embryo.\n\nEXPOSURE: Blastocyst ranking was conducted through: (i) static morphology based on Gardner's score (control; embryologists-assigned scores from 1 [AA] to 9 [CC]), (ii) random guessing, (iii) Gardner's score plus morphodynamic parameters (time of expanding blastocyst [tEB] and embryo area at tEB in \u03bcm2), and (iv) two versions of a commercially-available AI model. The coefficient of variation (CV=SD/mean) within each cohort of blastocysts was then calculated to estimate the morphological variability perceived by each method among sibling embryos, and its association with ranking accuracy was investigated.\n\nMAIN OUTCOME MEASURES: Accuracy in prioritizing euploid blastocysts within cohorts of sibling embryos, assessed by the proportion of cycles in which a euploid embryo was ranked first, and association between intra-cohort CV and ranking performance.\n\nRESULTS: AI model version-2 showed the highest rate of correctly prioritized euploid blastocysts (68%), followed by morphodynamic assessment (64%), AI model version-1 (62%), Gardner's score (58%) and random guessing (44%). Larger intra-cohort CVs for Gardner's scores were positively associated with prioritization of euploid embryos. No such associations were observed with AI-based CVs.\n\nCONCLUSION: AI-powered tools can match or slightly improve traditional non-invasive assessments. However, no blastocyst ranking strategy based on morphology/morphodynamics may prevent aneuploid embryos from being prioritized, even in presence of euploid siblings.",
+      "doi": "10.1016/j.fertnstert.2026.07.025",
+      "matched_searches": [
+        "time_lapse_morphokinetics"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42546812/",
+      "doi_url": "https://doi.org/10.1016/j.fertnstert.2026.07.025"
+    }
+  ]
+}

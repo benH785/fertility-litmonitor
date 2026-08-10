@@ -1,19 +1,15 @@
 {
-  "run_at": "2026-08-03T10:20:08Z",
+  "run_at": "2026-08-10T09:33:55Z",
   "mode": "weekly",
-  "since": "2026-07-25",
-  "new_papers": 13,
-  "total_seen": 1755,
-  "digest_filename": "digest_2026-08-03.md",
+  "since": "2026-08-01",
+  "new_papers": 4,
+  "total_seen": 1759,
+  "digest_filename": "digest_2026-08-10.md",
   "topic_counts": {
-    "embryo_arrest_d3_blast": 3,
-    "recurrent_implantation_failure": 2,
     "zymot_microfluidic": 1,
-    "sperm_dna_fragmentation": 3,
-    "time_lapse_morphokinetics": 2,
-    "pgta_advanced_age": 1,
-    "antagonist_protocol_normoresponder": 2,
-    "premature_ovulation": 1,
-    "blastocyst_grading_outcomes": 2
+    "embryo_arrest_d3_blast": 1,
+    "rapamycin": 1,
+    "antioxidant_culture_media": 1,
+    "time_lapse_morphokinetics": 1
   }
 }
