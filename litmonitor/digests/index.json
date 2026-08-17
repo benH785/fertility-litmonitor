@@ -1,5 +1,21 @@
 [
   {
+    "filename": "digest_2026-08-17.json",
+    "digest_date": "2026-08-17",
+    "generated_at": "2026-08-17T09:16:36Z",
+    "mode": "weekly",
+    "paper_count": 8,
+    "topic_counts": {
+      "embryo_arrest_d3_blast": 2,
+      "time_lapse_morphokinetics": 2,
+      "endometrial_receptivity_era": 1,
+      "varicocele_embolisation_ivf": 1,
+      "tese_high_dfi": 1,
+      "picsi_hyaluronan_binding": 1,
+      "lead_follicle_oversize": 1
+    }
+  },
+  {
     "filename": "digest_2026-08-10.json",
     "digest_date": "2026-08-10",
     "generated_at": "2026-08-10T09:33:55Z",

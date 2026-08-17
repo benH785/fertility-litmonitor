@@ -312,5 +312,22 @@
       "antioxidant_culture_media": 1,
       "time_lapse_morphokinetics": 1
     }
+  },
+  {
+    "run_at": "2026-08-17T09:16:36Z",
+    "mode": "weekly",
+    "since": "2026-08-08",
+    "new_papers": 8,
+    "total_seen": 1767,
+    "digest_filename": "digest_2026-08-17.md",
+    "topic_counts": {
+      "embryo_arrest_d3_blast": 2,
+      "time_lapse_morphokinetics": 2,
+      "endometrial_receptivity_era": 1,
+      "varicocele_embolisation_ivf": 1,
+      "tese_high_dfi": 1,
+      "picsi_hyaluronan_binding": 1,
+      "lead_follicle_oversize": 1
+    }
   }
 ]

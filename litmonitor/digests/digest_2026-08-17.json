@@ -1,0 +1,312 @@
+{
+  "digest_date": "2026-08-17",
+  "generated_at": "2026-08-17T09:16:36Z",
+  "mode": "weekly",
+  "window_start": "2026-08-08",
+  "paper_count": 8,
+  "topic_counts": {
+    "embryo_arrest_d3_blast": 2,
+    "time_lapse_morphokinetics": 2,
+    "endometrial_receptivity_era": 1,
+    "varicocele_embolisation_ivf": 1,
+    "tese_high_dfi": 1,
+    "picsi_hyaluronan_binding": 1,
+    "lead_follicle_oversize": 1
+  },
+  "topics": {
+    "agonist_vs_dual_trigger": {
+      "label": "Dual vs agonist trigger",
+      "priority": "high"
+    },
+    "agonist_trigger_suboptimal": {
+      "label": "Suboptimal agonist trigger response",
+      "priority": "high"
+    },
+    "premature_ovulation": {
+      "label": "Premature ovulation",
+      "priority": "high"
+    },
+    "lead_follicle_oversize": {
+      "label": "Lead follicle size & trigger timing",
+      "priority": "high"
+    },
+    "zymot_microfluidic": {
+      "label": "ZyMot / microfluidic sperm selection",
+      "priority": "high"
+    },
+    "sperm_dna_fragmentation": {
+      "label": "Sperm DNA fragmentation (single-strand) & ART",
+      "priority": "high"
+    },
+    "sperm_dna_double_strand": {
+      "label": "Sperm double-strand DNA damage",
+      "priority": "high"
+    },
+    "tese_high_dfi": {
+      "label": "TESE for high DFI",
+      "priority": "high"
+    },
+    "pgta_advanced_age": {
+      "label": "PGT-A in advanced maternal age",
+      "priority": "high"
+    },
+    "blastocyst_grading_outcomes": {
+      "label": "Blastocyst grading & outcomes",
+      "priority": "medium"
+    },
+    "antagonist_protocol_normoresponder": {
+      "label": "Antagonist protocol in normo-responders",
+      "priority": "medium"
+    },
+    "intercycle_interval": {
+      "label": "Inter-cycle interval",
+      "priority": "low"
+    },
+    "methylation_mthfr_art": {
+      "label": "MTHFR / methylation & ART",
+      "priority": "high"
+    },
+    "one_pn_embryos": {
+      "label": "1PN / abnormal fertilisation",
+      "priority": "high"
+    },
+    "ss31_elamipretide": {
+      "label": "SS-31 / elamipretide & fertility",
+      "priority": "high"
+    },
+    "rapamycin": {
+      "label": "Rapamycin / sirolimus & fertility",
+      "priority": "high"
+    },
+    "embryo_arrest_d3_blast": {
+      "label": "Embryo arrest & blastulation",
+      "priority": "high"
+    },
+    "antioxidant_culture_media": {
+      "label": "Antioxidant culture media",
+      "priority": "high"
+    },
+    "growth_hormone_adjuvant": {
+      "label": "Growth hormone adjuvant in IVF",
+      "priority": "medium"
+    },
+    "time_lapse_morphokinetics": {
+      "label": "Time-lapse / morphokinetic embryo selection",
+      "priority": "medium"
+    },
+    "duostim_luteal_phase": {
+      "label": "DuoStim / luteal-phase stimulation",
+      "priority": "high"
+    },
+    "picsi_hyaluronan_binding": {
+      "label": "PICSI / hyaluronan binding sperm selection",
+      "priority": "medium"
+    },
+    "imsi_high_mag_morphology": {
+      "label": "IMSI / high-magnification sperm morphology",
+      "priority": "medium"
+    },
+    "endometrial_receptivity_era": {
+      "label": "Endometrial receptivity testing (ERA / ER-Map)",
+      "priority": "medium"
+    },
+    "recurrent_implantation_failure": {
+      "label": "Recurrent implantation failure",
+      "priority": "high"
+    },
+    "haploid_embryos_decondensation": {
+      "label": "Haploid embryos & sperm decondensation",
+      "priority": "high"
+    },
+    "varicocele_embolisation_ivf": {
+      "label": "Varicocele embolisation & IVF",
+      "priority": "high"
+    },
+    "choline_pemt_pregnancy": {
+      "label": "Choline / PEMT & pregnancy",
+      "priority": "medium"
+    },
+    "methylfolate_vs_folic_acid_ivf": {
+      "label": "Methylfolate vs folic acid in IVF",
+      "priority": "medium"
+    }
+  },
+  "journals_monitored": [
+    "Hum Reprod",
+    "Hum Reprod Update",
+    "Hum Reprod Open",
+    "Fertil Steril",
+    "F S Rep",
+    "F S Sci",
+    "Reprod Biomed Online",
+    "J Assist Reprod Genet",
+    "Reprod Biol Endocrinol",
+    "Hum Fertil (Camb)",
+    "Reprod Sci",
+    "Andrology",
+    "Mol Hum Reprod",
+    "Reproduction",
+    "Biol Reprod",
+    "Reprod Fertil Dev",
+    "Asian J Androl",
+    "Andrologia"
+  ],
+  "papers": [
+    {
+      "pmid": "42593624",
+      "title": "From time-lapse to morphokinetics: neural ODE dynamics for reliable embryo stage transition timing.",
+      "journal": "J Assist Reprod Genet",
+      "pub_date": "2026-08-13",
+      "authors": [
+        "Bechar MEA",
+        "Guyader JM",
+        "Elbouz M",
+        "Morel F",
+        "Perrin A",
+        "Settouti N"
+      ],
+      "abstract": "PROBLEM: Time-lapse imaging (TLI) enables longitudinal and non-invasive embryo monitoring in IVF, yet morphokinetic annotation remains labor-intensive and subject to inter-operator variability. Automated detection of developmental phase transitions is challenging due to subtle morphological changes, heterogeneous acquisition conditions, discrete and potentially irregular image sampling, focal-plane variability, and the need for temporally consistent predictions.\n\nAIM: We aim to detect morphokinetic phase transitions in embryo TLI videos using a robust, clinically oriented framework designed to support human-in-the-loop annotation rather than replace clinical decision-making or commercial embryo selection systems.\n\nMETHODS: We propose a spatio-temporal Neural Ordinary Differential Equation (Neural ODE) model for continuous-time latent representation learning between discretely acquired observations, coupled with a reference-based transition scoring mechanism and an online, one-class detection strategy. The method, named Reference-Based Neural ODE Change Detector (RB-NODE), is transition-agnostic and detects when the evolving latent state deviates from a prototype representation of the current developmental phase. Experiments are conducted on the public dataset of Gomez et al., a single-center TLI benchmark comprising 704 embryo videos acquired across seven focal planes. All reported results are computed over the union of test samples generated from the seven focal-plane views, with strict embryo-level data splitting to prevent leakage across focal planes.\n\nRESULTS: RB-NODE achieves an AUC of 0.988, an F1@frame of 0.975, a Det@5f of 0.873, a Det@10f of 0.956, and a mean absolute localization error of 2.64 frames. Although a ResNet18+LSTM baseline obtains a marginally higher Det@5f, RB-NODE provides the best AUC, F1@frame, Det@10f, and mean temporal error among the evaluated methods. Event-group analysis shows particularly strong performance on morula/blastocyst-related transitions, with Det@5f\u00a0=\u00a00.910, Det@10f\u00a0=\u00a00.978, and a mean temporal error of 1.90 frames. RB-NODE also remains compatible with online use, processing frames at approximately 171 FPS on an NVIDIA RTX 6000 Ada Generation GPU.\n\nCONCLUSION: Continuous-time spatio-temporal modeling with Neural ODEs provides a promising and reproducible approach for robust morphokinetic transition detection in embryo TLI, offering practical support for standardized annotation workflows. The proposed framework is intended as an annotation-support tool, not as an autonomous embryo selection system. External validation across multiple IVF centers, TLI platforms, acquisition intervals, annotation protocols, and focal-plane configurations remains necessary before clinical deployment.",
+      "doi": "10.1007/s10815-026-03960-9",
+      "matched_searches": [
+        "embryo_arrest_d3_blast",
+        "time_lapse_morphokinetics"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42593624/",
+      "doi_url": "https://doi.org/10.1007/s10815-026-03960-9"
+    },
+    {
+      "pmid": "42593727",
+      "title": "Chronic stress regulates endometrial autophagy through IL-6/JAK2/BECN1 signaling pathway.",
+      "journal": "Biol Reprod",
+      "pub_date": "2026-08-13",
+      "authors": [
+        "Cao X",
+        "Wang Y",
+        "Gao D",
+        "Chen J",
+        "Wang X",
+        "Liu X",
+        "Lei M"
+      ],
+      "abstract": "Stress adversely affects various aspects of the female reproductive process, including follicle development, maturation, ovulation, luteal activity, and embryo implantation. Restraint stress reduces the number of implantated embryos. The precise mechanisms by which stress affects embryo implantation are not fully understood. In this study, a mouse model of restraint stress was used to investigate the effects of stress on uterine receptivity and the underlying mechanisms. Mice were randomly divided into three groups. The groups were the Control group, Stress group, and Ab-IL-6 treatment group. Mice in the Stress and Ab-IL-6 treatment groups underwent restraint stress in perforated 50 ml centrifuge tubes for 4 hours daily over 7 consecutive days. Results indicated that the number of implanted blastocysts and total litter size in the stress group were significantly lower than those in the control group. These findings indicate that restraint stress leads to high IL-6 expression in the endometrium. This increased expression may affect the endometrium's receptivity, resulting in a decreased number of implanted blastocysts. Furthermore, we demonstrated that IL-6 regulated autophagy through the IL-6/JAK2/BECN1 pathway in Ishikawa cells and mouse endometrial epithelial cells, and treatment with an IL-6 antibody significantly mitigated the adverse effects of stress-induced blastocyst implantation. Our findings demonstrated that restraint stress had a negative influence on endometrial receptivity via the IL-6/JAK2/BECN1 pathway. This effect led to a reduction in the number of implanted embryos. Consequently, inhibiting IL-6 expression may represent a potential therapeutic strategy for preventing stress-induced implantation failure.",
+      "doi": "10.1093/biolre/ioag173",
+      "matched_searches": [
+        "endometrial_receptivity_era"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42593727/",
+      "doi_url": "https://doi.org/10.1093/biolre/ioag173"
+    },
+    {
+      "pmid": "42593434",
+      "title": "Live Birth Rates After Varicocele Embolization in Patients After Failed In Vitro Fertilization With Intracytoplasmic Sperm Injection.",
+      "journal": "Andrology",
+      "pub_date": "2026-08-13",
+      "authors": [
+        "Verstandig A",
+        "Farkas A"
+      ],
+      "abstract": "BACKGROUND AND OBJECTIVES: While in vitro fertilization with intracytoplasmic sperm injection (IVF-ICSI) bypasses abnormalities in sperm concentration, motility, and morphology, it still has a significant failure rate. We report our experience on the effect of varicocele embolization (VE) on couples with varicocele related primary male factor infertility in whom IVF/ICSI failed to result in a live birth (LB).\n\nMATERIAL AND METHODS: This single center retrospective cohort study documents 42 couples who had failed to have a LB after single or multiple IVF/ICSI cycles and in whom the male partner subsequently had left or bilateral varicoceles treated by transcatheter embolization. Other inclusion criteria were maternal age of 35 or less at the time of VE and at least 24 months follow up after embolization. The end point was LB by natural conception or by IVF-ICSI. Pre-procedure data was documented at the time of referral for varicocele embolization. Images of the procedures were reviewed, and post VE data was collected by telephone questionnaire from one of the partners.\n\nRESULTS: Prior to varicocele embolization, the 42 couples had undergone 151 oocyte retrievals (median 2, range 1-21) and 200 embryo transfers (median 3, range 1-26) with no LB. During a median follow up period of 54 months (range 25-111) following VE, there were 60 LB (65 children) amongst 36 of the 42 couples (86%). Thirty-four couples underwent a total of 119 oocyte retrievals and 149 embryo transfer procedures with 28 achieving 36 LB (41 children). Fifteen couples had 23 LB (23 children) from natural conceptions. One couple had an LB after intrauterine insemination.\n\nCONCLUSION: VE in this challenging patient population may treat varicocele associated sperm function problems not addressed by ICSI and could be beneficial before assisted reproductive techniques in varicocele related male factor infertility.",
+      "doi": "10.1111/andr.70328",
+      "matched_searches": [
+        "varicocele_embolisation_ivf"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42593434/",
+      "doi_url": "https://doi.org/10.1111/andr.70328"
+    },
+    {
+      "pmid": "42586169",
+      "title": "Nanomolar vanillin, an e-cigarette flavorant, appears to disrupt pluripotency and promote endodermal differentiation in human embryonic stem cells via TRPV4 activation.",
+      "journal": "Hum Reprod",
+      "pub_date": "2026-08-12",
+      "authors": [
+        "Etemadi S",
+        "Talbot P"
+      ],
+      "abstract": "STUDY QUESTION: Does vanillin, at concentrations relevant to maternal exposures during vaping, disrupt gastrulation-related processes in human embryonic stem cells (hESCs) by activating TRPV4 channels?\n\nSUMMARY ANSWER: Activation of TRPV4 channels by nanomolar concentrations of vanillin promoted an exit from pluripotency and a shift toward endodermal gene expression, while micromolar concentrations induced developmental toxicity, identifying a concentration-dependent mechanism by which vanillin, a flavoring agent in electronic cigarette (EC) aerosols, may pose risks to embryonic development during pregnancy.\n\nWHAT IS KNOWN ALREADY: The use of ECs during pregnancy is increasing, potentially driven by perceptions of reduced harm and the appeal of flavoring agents, such as vanillin. However, vanillin activates transient receptor potential (TRP) channels, raising concerns about its impact on early embryonic development.\n\nSTUDY DESIGN, SIZE, DURATION: hESCs, which model the epiblast stage of development, were treated in vitro for various times with vanillin, a TRPV4 antagonist, a TRPV4 function-blocking antibody, or vanillin combined with either the antagonist or antibody. All experiments were done three times with different passages of stem cells.\n\nPARTICIPANTS/MATERIALS, SETTING, METHODS: After variable periods of exposure, the hESC colonies were evaluated for activation of TRPV4 channels and calcium influx, colony growth, colony detachment, increased cell death, mitochondrial dysfunction, colony morphology, gap formation, downregulation of EpCAM, loss of pluripotency, and initiation of differentiation.\n\nMAIN RESULTS AND THE ROLE OF CHANCE: We demonstrate that vanillin, at concentrations relevant to maternal EC exposure, significantly (P\u2009<\u20090.05) disrupted gastrulation-related processes in hESCs. hESCs, which model the epiblast during Weeks 2-3 of human development, exhibited TRPV4 channel expression and showed a significant increase in intracellular calcium upon nanomolar-to-micromolar vanillin exposure, as detected by the Fluo-8 calcium dye. Time-lapse imaging and quantitative analysis indicated that micromolar vanillin impaired colony expansion, induced colony detachment, and increased cell death over 72\u2009h, while concurrently reducing mitochondrial reductase activity in the MTT assay. At nanomolar concentrations, vanillin promoted TRPV4 activation, an exit from pluripotency, downregulation of EpCAM cell adhesion protein, intercellular gap formation, and a shift toward endodermal gene expression. All effects were blocked by a TRPV4 antagonist (HC067047), identifying activation of this channel as a critical mediator of vanillin-induced toxicity.\n\nLARGE SCALE DATA: N/A.\n\nLIMITATIONS, REASONS FOR CAUTION: Our data are derived from in vitro experiments, as direct investigation of early human development is ethically and practically limited. Although our findings do not establish embryo lethality or malformation in vivo, the observed loss of pluripotency and SOX17 upregulation, consistent with endodermal induction, at nanomolar concentrations of vanillin are signs of early cellular perturbations that could compromise human development.\n\nWIDER IMPLICATIONS OF THE FINDINGS: Nanomolar vanillin concentrations, which our exposure model estimates reach the embryo during early pregnancy in EC users, were sufficient to activate TRPV4 channels in hESCs and alter germ layer specification. Micromolar concentrations produced cytotoxic effects and increased cell death. These findings indicate that vanillin exposure at levels attainable during EC use disrupts intracellular Ca2+ homeostasis and compromises core processes of early human development. Maternal EC use during pregnancy therefore represents a significant and previously under-appreciated risk to early embryogenesis. Clinicians should counsel patients who are pregnant or planning pregnancy about this potential harm, and regulatory agencies should consider mandatory ingredient disclosure on EC packaging.\n\nFUNDING: This research was supported by grant number T32IR4848 from the Tobacco-Related Disease Research Program (TRDRP), by grant number EDUC4-12752 from the California Institute of Regenerative Medicine (CIRM), and by UCR Yvonne Danielson Endowed Graduate and Dissertation Completion Fellowship Awards. The content is solely the responsibility of the authors and does not necessarily represent the official view of the TRDRP, CIRM, or UCR.\n\nDISCLOSURES: The authors have no conflicts of interest to declare.",
+      "doi": "10.1093/humrep/deag126",
+      "matched_searches": [
+        "time_lapse_morphokinetics"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42586169/",
+      "doi_url": "https://doi.org/10.1093/humrep/deag126"
+    },
+    {
+      "pmid": "42578629",
+      "title": "Children Born Using Ejaculated Sperm From Men With Klinefelter Syndrome. Is Sperm Production Associated With Testicular Volume?",
+      "journal": "Andrology",
+      "pub_date": "2026-08-11",
+      "authors": [
+        "Fedder J",
+        "S\u00f8rensen F"
+      ],
+      "abstract": "BACKGROUND: A large number of children have been born using testicular sperm from men with Klinefelter syndrome (KS), whereas reports of children conceived using ejaculated sperm are rare.\n\nOBJECTIVE: To review all published cases of children conceived using ejaculated sperm from men with KS, assess their health and karyotype, and evaluate whether men with KS and ejaculated sperm differ from other men with KS.\n\nMATERIALS AND METHODS: This narrative review, based on a systematic literature search summarizes children born after conception using ejaculated sperm from men with KS. Additionally, we included three not previously published cases from Denmark. When available, data on paternal age, height, testicular volume and sperm count in addition to health, sex, karyotype, and birthweight of the children were extracted.\n\nRESULTS: Based on 15 studies and three additional cases from our center, this review includes 36 children fathered by 30 KS men (26 men with 47, XXY; 3 with 47, XXY/46, XY; 1 with unknown karyotype). Six healthy children were born following natural conception. Four had a normal 46, XY karyotype, and one had a normal 46, XX karyotype. Among the 30 children conceived via intracytoplasmic sperm injection (ICSI) using ejaculated sperm from men with KS, 19 were healthy girls, and 11 were healthy boys. Karyotypes were reported in 16 cases, and no sex chromosomal abnormalities were identified. The majority of men with KS had a non-mosaic 47, XXY karyotype and a low sperm count. Testicular volume in men with KS and ejaculated sperm seems to be larger than in men with KS but without ejaculated sperm.\n\nCONCLUSIONS: Children conceived using ejaculated sperm from men with KS appear to be healthy and with normal karyotypes. From the present data sperm production in men with KS might be associated with testicular volume, although the evidence remains limited.",
+      "doi": "10.1111/andr.70340",
+      "matched_searches": [
+        "tese_high_dfi"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42578629/",
+      "doi_url": "https://doi.org/10.1111/andr.70340"
+    },
+    {
+      "pmid": "42579082",
+      "title": "Stage-structured, distributional prediction of IVF outcomes with conditional updating.",
+      "journal": "J Assist Reprod Genet",
+      "pub_date": "2026-08-11",
+      "authors": [
+        "Craig A",
+        "Wartschinski L",
+        "Eyre M",
+        "Davidson I",
+        "Christensen M",
+        "Wolfram T"
+      ],
+      "abstract": "PURPOSE: To develop a stage-structured, distribution-based prediction framework for in vitro fertilization (IVF) that generates full probability distributions at each treatment stage and enables conditional updating of downstream predictions when observed outcomes become known.\n\nMETHODS: We conducted an observational modeling study using de-identified UK Human Fertilisation and Embryology Authority (HFEA) registry data (2017-2018; up to 101,217 model-ready cycles after stage-specific filtering) to model egg retrieval, maturation, and fertilization. Egg retrieval was modeled using a zero-inflated negative binomial specification. Downstream transitions such as blastocyst formation, euploidy, vitrification survival, and live birth after euploid transfer were modeled using stage-specific logistic regressions calibrated to published cohorts and national registry summaries (429,507 additional observations). Predictive performance of HFEA-derived models was evaluated on held-out HFEA test sets using point-prediction accuracy, train-test gaps, prediction-interval coverage, and calibration across predicted outcome strata.\n\nRESULTS: The framework propagates full probability distributions across sequential IVF stages rather than point estimates. Held-out HFEA validation showed minimal train-test degradation ( R 2  gaps under 0.007), with modest expected-count accuracy for egg retrieval and stronger expected-count accuracy for maturity and fertilization. Egg-retrieval prediction intervals showed near-nominal coverage (50%: 50.2%; 80%: 79.2%; 95%: 94.9%), and observed mean outcomes were close to predicted means across predicted-yield/rate strata. When observed stage outcomes were entered, downstream distributions updated appropriately, reducing uncertainty and preserving cycle-specific biological parameters in both single- and multi-cycle scenarios.\n\nCONCLUSION(S): A sequential, distribution-based IVF prediction model with conditional updating provides uncertainty-quantified, stage-aware predictions that dynamically adapt to patient-specific outcomes, supporting more individualized counseling and treatment planning.",
+      "doi": "10.1007/s10815-026-03933-y",
+      "matched_searches": [
+        "embryo_arrest_d3_blast"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42579082/",
+      "doi_url": "https://doi.org/10.1007/s10815-026-03933-y"
+    },
+    {
+      "pmid": "42579083",
+      "title": "ICSI media buffers: is there room for improvement?",
+      "journal": "J Assist Reprod Genet",
+      "pub_date": "2026-08-11",
+      "authors": [
+        "Campos G",
+        "Nel-Themaat L"
+      ],
+      "abstract": "Maintaining physiological extracellular pH (pHe) is essential for oocyte viability and embryonic development, particularly during ICSI, when metaphase II oocytes have their intracellular pH (pHi) regulation mechanisms temporarily inactivated. HEPES- and MOPS-buffered handling media are routinely used in IVF laboratories, with decades of clinical use supporting their effectiveness and safety. Although concerns regarding their biological effects beyond pH buffering have occasionally emerged, most are derived from experimental settings and are not representative of clinical IVF procedures, more likely influenced by experimental conditions and media composition rather than by the zwitterions themselves. Nevertheless, while evidence from human oocytes remains extremely limited and preliminary, the improved embryological outcomes and transcriptomic profiles recently reported from bicarbonate-buffered handling media have renewed interest in exploring more physiological ICSI media formulations. While current evidence remains far from conclusive and insufficient to support immediate changes in clinical practice, emerging findings suggest that routine systems may not yet be fully optimized and could represent an opportunity for further improvement. Future evaluation of bicarbonate-buffered media for ICSI should include robust standardization of pH measurement methodologies together with optimization of handling conditions, including oil and dish characteristics, that influence pHe stability.",
+      "doi": "10.1007/s10815-026-03994-z",
+      "matched_searches": [
+        "picsi_hyaluronan_binding"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42579083/",
+      "doi_url": "https://doi.org/10.1007/s10815-026-03994-z"
+    },
+    {
+      "pmid": "42572163",
+      "title": "In vitro development of ovine follicles from the preantral to antral stages depends on initial follicle diameter and promotes oocyte growth and transzonal projections formation.",
+      "journal": "Reproduction",
+      "pub_date": "2026-08-08",
+      "authors": [
+        "Mahiddine FY",
+        "Lefort G",
+        "Fleurot R",
+        "Jarrier-Gaillard P",
+        "Blache MC",
+        "Gu\u00e9rif F",
+        "Cadoret V",
+        "Dalbies-Tran R"
+      ],
+      "abstract": "Ovine follicle culture recapitulates several features of the preantral-to-antral transition, including morphological changes and granulosa cells proliferation and differentiation. Although the influence of initial follicle diameter on in vitro development has long been suspected, it had not been investigated systematically. To date, only a few studies in other species have compared the in vitro progression of preantral follicles from distinct size classes. In the present study, we finely characterized the effect of initial follicle diameter (ranging from 199 to 340\u2009\u00b5m) on subsequent in vitro development, by incorporating this factor as a continuous variable in statistical analysis. Regardless of the presence of ovine FSH, increasing initial follicle diameter was associated with enhanced survival and antrum formation, and larger final follicle and oocyte diameters. Initial follicle diameter also impacted growth dynamics, with a positive effect during early culture (days 0-6) but a negative effect during late culture (days 13-20). The presence of leukemia inhibitory factor modulated some of these effects. Follicle culture sustained oocyte growth, albeit to a lesser extent than in vivo development. Among oocytes retrieved from in vitro grown follicles measuring 500-900\u2009\u00b5m, 33% had reached 110\u2009\u00b5m (excluding the zona pellucida), a threshold commonly associated with meiotic competence. Furthermore, using high-resolution confocal microscopy, we demonstrate for the first time that follicle culture supports the formation of actin-rich transzonal projections.",
+      "doi": "10.1093/reprod/xaag095",
+      "matched_searches": [
+        "lead_follicle_oversize"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42572163/",
+      "doi_url": "https://doi.org/10.1093/reprod/xaag095"
+    }
+  ]
+}
