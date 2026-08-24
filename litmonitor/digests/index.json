@@ -1,5 +1,18 @@
 [
   {
+    "filename": "digest_2026-08-24.json",
+    "digest_date": "2026-08-24",
+    "generated_at": "2026-08-24T09:18:48Z",
+    "mode": "weekly",
+    "paper_count": 2,
+    "topic_counts": {
+      "one_pn_embryos": 1,
+      "embryo_arrest_d3_blast": 1,
+      "time_lapse_morphokinetics": 1,
+      "endometrial_receptivity_era": 1
+    }
+  },
+  {
     "filename": "digest_2026-08-17.json",
     "digest_date": "2026-08-17",
     "generated_at": "2026-08-17T09:16:36Z",

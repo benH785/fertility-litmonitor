@@ -329,5 +329,19 @@
       "picsi_hyaluronan_binding": 1,
       "lead_follicle_oversize": 1
     }
+  },
+  {
+    "run_at": "2026-08-24T09:18:48Z",
+    "mode": "weekly",
+    "since": "2026-08-15",
+    "new_papers": 2,
+    "total_seen": 1769,
+    "digest_filename": "digest_2026-08-24.md",
+    "topic_counts": {
+      "one_pn_embryos": 1,
+      "embryo_arrest_d3_blast": 1,
+      "time_lapse_morphokinetics": 1,
+      "endometrial_receptivity_era": 1
+    }
   }
 ]

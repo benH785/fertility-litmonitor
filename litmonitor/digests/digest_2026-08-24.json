@@ -1,0 +1,207 @@
+{
+  "digest_date": "2026-08-24",
+  "generated_at": "2026-08-24T09:18:48Z",
+  "mode": "weekly",
+  "window_start": "2026-08-15",
+  "paper_count": 2,
+  "topic_counts": {
+    "one_pn_embryos": 1,
+    "embryo_arrest_d3_blast": 1,
+    "time_lapse_morphokinetics": 1,
+    "endometrial_receptivity_era": 1
+  },
+  "topics": {
+    "agonist_vs_dual_trigger": {
+      "label": "Dual vs agonist trigger",
+      "priority": "high"
+    },
+    "agonist_trigger_suboptimal": {
+      "label": "Suboptimal agonist trigger response",
+      "priority": "high"
+    },
+    "premature_ovulation": {
+      "label": "Premature ovulation",
+      "priority": "high"
+    },
+    "lead_follicle_oversize": {
+      "label": "Lead follicle size & trigger timing",
+      "priority": "high"
+    },
+    "zymot_microfluidic": {
+      "label": "ZyMot / microfluidic sperm selection",
+      "priority": "high"
+    },
+    "sperm_dna_fragmentation": {
+      "label": "Sperm DNA fragmentation (single-strand) & ART",
+      "priority": "high"
+    },
+    "sperm_dna_double_strand": {
+      "label": "Sperm double-strand DNA damage",
+      "priority": "high"
+    },
+    "tese_high_dfi": {
+      "label": "TESE for high DFI",
+      "priority": "high"
+    },
+    "pgta_advanced_age": {
+      "label": "PGT-A in advanced maternal age",
+      "priority": "high"
+    },
+    "blastocyst_grading_outcomes": {
+      "label": "Blastocyst grading & outcomes",
+      "priority": "medium"
+    },
+    "antagonist_protocol_normoresponder": {
+      "label": "Antagonist protocol in normo-responders",
+      "priority": "medium"
+    },
+    "intercycle_interval": {
+      "label": "Inter-cycle interval",
+      "priority": "low"
+    },
+    "methylation_mthfr_art": {
+      "label": "MTHFR / methylation & ART",
+      "priority": "high"
+    },
+    "one_pn_embryos": {
+      "label": "1PN / abnormal fertilisation",
+      "priority": "high"
+    },
+    "ss31_elamipretide": {
+      "label": "SS-31 / elamipretide & fertility",
+      "priority": "high"
+    },
+    "rapamycin": {
+      "label": "Rapamycin / sirolimus & fertility",
+      "priority": "high"
+    },
+    "embryo_arrest_d3_blast": {
+      "label": "Embryo arrest & blastulation",
+      "priority": "high"
+    },
+    "antioxidant_culture_media": {
+      "label": "Antioxidant culture media",
+      "priority": "high"
+    },
+    "growth_hormone_adjuvant": {
+      "label": "Growth hormone adjuvant in IVF",
+      "priority": "medium"
+    },
+    "time_lapse_morphokinetics": {
+      "label": "Time-lapse / morphokinetic embryo selection",
+      "priority": "medium"
+    },
+    "duostim_luteal_phase": {
+      "label": "DuoStim / luteal-phase stimulation",
+      "priority": "high"
+    },
+    "picsi_hyaluronan_binding": {
+      "label": "PICSI / hyaluronan binding sperm selection",
+      "priority": "medium"
+    },
+    "imsi_high_mag_morphology": {
+      "label": "IMSI / high-magnification sperm morphology",
+      "priority": "medium"
+    },
+    "endometrial_receptivity_era": {
+      "label": "Endometrial receptivity testing (ERA / ER-Map)",
+      "priority": "medium"
+    },
+    "recurrent_implantation_failure": {
+      "label": "Recurrent implantation failure",
+      "priority": "high"
+    },
+    "haploid_embryos_decondensation": {
+      "label": "Haploid embryos & sperm decondensation",
+      "priority": "high"
+    },
+    "varicocele_embolisation_ivf": {
+      "label": "Varicocele embolisation & IVF",
+      "priority": "high"
+    },
+    "choline_pemt_pregnancy": {
+      "label": "Choline / PEMT & pregnancy",
+      "priority": "medium"
+    },
+    "methylfolate_vs_folic_acid_ivf": {
+      "label": "Methylfolate vs folic acid in IVF",
+      "priority": "medium"
+    }
+  },
+  "journals_monitored": [
+    "Hum Reprod",
+    "Hum Reprod Update",
+    "Hum Reprod Open",
+    "Fertil Steril",
+    "F S Rep",
+    "F S Sci",
+    "Reprod Biomed Online",
+    "J Assist Reprod Genet",
+    "Reprod Biol Endocrinol",
+    "Hum Fertil (Camb)",
+    "Reprod Sci",
+    "Andrology",
+    "Mol Hum Reprod",
+    "Reproduction",
+    "Biol Reprod",
+    "Reprod Fertil Dev",
+    "Asian J Androl",
+    "Andrologia"
+  ],
+  "papers": [
+    {
+      "pmid": "42608624",
+      "title": "Not all abnormal fertilization is equal: occurrence, developmental competence, and ploidy outcomes of 1PN, 3PN, and 2.1PN zygotes in ICSI/PGT-A cycles.",
+      "journal": "J Assist Reprod Genet",
+      "pub_date": "2026-08-17",
+      "authors": [
+        "Barberi M",
+        "Pirastu G",
+        "Listorti I",
+        "Ruberti A",
+        "Colasante A",
+        "Paccagnini D",
+        "Nucera C",
+        "Biricik A",
+        "Varricchio MT",
+        "Greco E",
+        "Greco P"
+      ],
+      "abstract": "PURPOSE: To characterize the\u00a0occurrence, developmental competence, and ploidy outcomes of abnormally fertilized oocyte (AFO) subtypes in ICSI/PGT-A cycles, and to assess whether maternal age independently predicts abnormal fertilization.\n\nMETHODS: Prospective observational study including 1033 ICSI/PGT-A cycles (6373 inseminated oocytes). AFO occurrence was analyzed by binomial logistic regression and multivariable analysis. In 664 time-lapse cycles, pronuclear status was reassessed at 22-24 hpi (Check II) after routine evaluation at 16-18 hpi (Check I). Ploidy analysis was performed on 78 AFO-derived blastocysts by SNP genotyping using NGS technology.\n\nRESULTS: AFOs accounted for 6.8% of inseminated oocytes (1PN 3.1%, 3PN 2.1%, 2.1PN 1.2%,\u2009>\u20093PN 0.4%). Maternal age was the only independent predictor (OR 1.04/year; p\u2009<\u20090.05), mainly for 3PN and 2.1PN. Blastocyst development differed across categories (1PN 11.1%, 3PN 25.7%, 2.1PN 40.5% vs. 2PN 54.4% p\u2009<\u20090.05), and 1PN and 2.1PN were mainly diploid (71.4% and 88.9% respectively), though both were lower than 2PN (99.9%; p\u2009<\u20090.001), while 3PN were mostly triploid (73.3%). The rate of blastocysts suitable for transfer calculated per zygote was 1PN 2.0%, 3PN 0.8%, and 2.1PN 8.1%, markedly lower than 2PN (22.5%; p\u2009<\u20090.001). Pronuclear status could change after the standard assessment window: 26% of 2.1PN-derived blastocysts were initially classified as 2PN, suggesting that single-timepoint assessment may misclassify fertilization.\n\nCONCLUSIONS: AFO subtypes differed in clinical potential according to their developmental competence and ploidy status. Time-lapse monitoring further indicated that some AFOs may be misclassified in a single static pronuclear assessment. Therefore, both ploidy assessment and PGT-A should be considered before the clinical use of AFO-derived embryos.",
+      "doi": "10.1007/s10815-026-04000-2",
+      "matched_searches": [
+        "one_pn_embryos",
+        "embryo_arrest_d3_blast",
+        "time_lapse_morphokinetics"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42608624/",
+      "doi_url": "https://doi.org/10.1007/s10815-026-04000-2"
+    },
+    {
+      "pmid": "42606559",
+      "title": "Anandamide Modulates NOTCH1 Signalling and Inflammatory Responses During Human Endometrial Stromal Cell Decidualization.",
+      "journal": "Reproduction",
+      "pub_date": "2026-08-17",
+      "authors": [
+        "Carriero I",
+        "Lacconi V",
+        "Bianco C",
+        "Bertani N",
+        "Stamme C",
+        "Gasperi V",
+        "Massimiani M",
+        "Ticconi C",
+        "Maccarrone M",
+        "La Sala G",
+        "Campagnolo L"
+      ],
+      "abstract": "IN BRIEF: Successful implantation requires coordinated decidual differentiation of endometrial stromal cells. This study shows that anandamide treatment of decidualising cells is associated with reduced NOTCH1 activation and selective alterations in decidual, inflammatory and structural programs.\n\nABSTRACT: Decidualization of endometrial stromal cells is essential for human embryo implantation and pregnancy maintenance. The endocannabinoid system (ECS), particularly anandamide (AEA), has been implicated in endometrial receptivity, but the mechanisms through which AEA influences decidualization have been only partially elucidated. This study investigates the effects of AEA during decidualization of immortalised human endometrial stromal cells (HESCs), focusing on neurogenic locus notch homolog protein 1 (NOTCH1) pathway, inflammatory mediators, cell-cycle arrest/senescence-associated markers and cytoskeletal remodelling. Expression was analysed by qRT-PCR, Western blot, and immunofluorescence. AEA treatment during decidualization selectively reduced forkhead box O1 (FOXO1) and insulin-like growth factor binding protein 1 (IGFBP1) without affecting prolactin (PRL); homeobox A10 (HOXA10) was reduced during decidualization but was not further modified by AEA. AEA also attenuated NOTCH1 activation and reduced HES-related family bHLH transcription factor with YRPW motif 1 (HEY1) expression. Given the role of NOTCH signalling in cellular plasticity and cytoskeletal organization, NOTCH1/HEY1 attenuation after AEA exposure was accompanied by changes in snail family transcriptional repressor 1 (SNAI1), vimentin organization and N-cadherin distribution. Consistent with the inflammatory component of stromal decidualization, decidualized HESCs showed increased interleukin-1 beta (IL1B), interleukin-8/C-X-C motif chemokine ligand 8 (CXCL8/IL-8) and prostaglandin-endoperoxide synthase 2/cyclooxygenase-2 (PTGS2/COX-2), whereas AEA reduced selected inflammatory mediators. Analysis of cyclin-dependent kinase inhibitor 1A (CDKN1A/p21) and cyclin-dependent kinase inhibitor 2A (CDKN2A/p16) suggested a short-term senescence-associated response, with AEA attenuating p21 expression. These findings suggest that AEA interferes with transcriptional and structural pathways critical for decidualization, highlighting a potential role of ECS-NOTCH1 crosstalk in implantation failure and endometrial dysfunction.",
+      "doi": "10.1093/reprod/xaag096",
+      "matched_searches": [
+        "endometrial_receptivity_era"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42606559/",
+      "doi_url": "https://doi.org/10.1093/reprod/xaag096"
+    }
+  ]
+}
