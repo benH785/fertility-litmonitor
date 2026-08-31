@@ -1,0 +1,309 @@
+{
+  "digest_date": "2026-08-31",
+  "generated_at": "2026-08-31T09:17:49Z",
+  "mode": "weekly",
+  "window_start": "2026-08-22",
+  "paper_count": 7,
+  "topic_counts": {
+    "sperm_dna_fragmentation": 1,
+    "blastocyst_grading_outcomes": 4,
+    "embryo_arrest_d3_blast": 1,
+    "time_lapse_morphokinetics": 2,
+    "antioxidant_culture_media": 1
+  },
+  "topics": {
+    "agonist_vs_dual_trigger": {
+      "label": "Dual vs agonist trigger",
+      "priority": "high"
+    },
+    "agonist_trigger_suboptimal": {
+      "label": "Suboptimal agonist trigger response",
+      "priority": "high"
+    },
+    "premature_ovulation": {
+      "label": "Premature ovulation",
+      "priority": "high"
+    },
+    "lead_follicle_oversize": {
+      "label": "Lead follicle size & trigger timing",
+      "priority": "high"
+    },
+    "zymot_microfluidic": {
+      "label": "ZyMot / microfluidic sperm selection",
+      "priority": "high"
+    },
+    "sperm_dna_fragmentation": {
+      "label": "Sperm DNA fragmentation (single-strand) & ART",
+      "priority": "high"
+    },
+    "sperm_dna_double_strand": {
+      "label": "Sperm double-strand DNA damage",
+      "priority": "high"
+    },
+    "tese_high_dfi": {
+      "label": "TESE for high DFI",
+      "priority": "high"
+    },
+    "pgta_advanced_age": {
+      "label": "PGT-A in advanced maternal age",
+      "priority": "high"
+    },
+    "blastocyst_grading_outcomes": {
+      "label": "Blastocyst grading & outcomes",
+      "priority": "medium"
+    },
+    "antagonist_protocol_normoresponder": {
+      "label": "Antagonist protocol in normo-responders",
+      "priority": "medium"
+    },
+    "intercycle_interval": {
+      "label": "Inter-cycle interval",
+      "priority": "low"
+    },
+    "methylation_mthfr_art": {
+      "label": "MTHFR / methylation & ART",
+      "priority": "high"
+    },
+    "one_pn_embryos": {
+      "label": "1PN / abnormal fertilisation",
+      "priority": "high"
+    },
+    "ss31_elamipretide": {
+      "label": "SS-31 / elamipretide & fertility",
+      "priority": "high"
+    },
+    "rapamycin": {
+      "label": "Rapamycin / sirolimus & fertility",
+      "priority": "high"
+    },
+    "embryo_arrest_d3_blast": {
+      "label": "Embryo arrest & blastulation",
+      "priority": "high"
+    },
+    "antioxidant_culture_media": {
+      "label": "Antioxidant culture media",
+      "priority": "high"
+    },
+    "growth_hormone_adjuvant": {
+      "label": "Growth hormone adjuvant in IVF",
+      "priority": "medium"
+    },
+    "time_lapse_morphokinetics": {
+      "label": "Time-lapse / morphokinetic embryo selection",
+      "priority": "medium"
+    },
+    "duostim_luteal_phase": {
+      "label": "DuoStim / luteal-phase stimulation",
+      "priority": "high"
+    },
+    "picsi_hyaluronan_binding": {
+      "label": "PICSI / hyaluronan binding sperm selection",
+      "priority": "medium"
+    },
+    "imsi_high_mag_morphology": {
+      "label": "IMSI / high-magnification sperm morphology",
+      "priority": "medium"
+    },
+    "endometrial_receptivity_era": {
+      "label": "Endometrial receptivity testing (ERA / ER-Map)",
+      "priority": "medium"
+    },
+    "recurrent_implantation_failure": {
+      "label": "Recurrent implantation failure",
+      "priority": "high"
+    },
+    "haploid_embryos_decondensation": {
+      "label": "Haploid embryos & sperm decondensation",
+      "priority": "high"
+    },
+    "varicocele_embolisation_ivf": {
+      "label": "Varicocele embolisation & IVF",
+      "priority": "high"
+    },
+    "choline_pemt_pregnancy": {
+      "label": "Choline / PEMT & pregnancy",
+      "priority": "medium"
+    },
+    "methylfolate_vs_folic_acid_ivf": {
+      "label": "Methylfolate vs folic acid in IVF",
+      "priority": "medium"
+    }
+  },
+  "journals_monitored": [
+    "Hum Reprod",
+    "Hum Reprod Update",
+    "Hum Reprod Open",
+    "Fertil Steril",
+    "F S Rep",
+    "F S Sci",
+    "Reprod Biomed Online",
+    "J Assist Reprod Genet",
+    "Reprod Biol Endocrinol",
+    "Hum Fertil (Camb)",
+    "Reprod Sci",
+    "Andrology",
+    "Mol Hum Reprod",
+    "Reproduction",
+    "Biol Reprod",
+    "Reprod Fertil Dev",
+    "Asian J Androl",
+    "Andrologia"
+  ],
+  "papers": [
+    {
+      "pmid": "42658106",
+      "title": "Associations Between Sperm DNA Fragmentation and Lifestyle Factors.",
+      "journal": "Andrology",
+      "pub_date": "2026-08-27",
+      "authors": [
+        "Adams LHM",
+        "Priskorn L",
+        "Arce JC",
+        "Aasted H",
+        "Carlsen E",
+        "Al-Najaar RB",
+        "Juul A",
+        "J\u00f8rgensen N"
+      ],
+      "abstract": "BACKGROUND: Sperm DNA fragmentation index (DFI) has been proposed as a supplementary biomarker to traditional semen parameters in the evaluation of male infertility. However, its determinants and clinical relevance remain unclear, particularly regarding modifiable lifestyle factors. This study investigated associations between DFI, clinical characteristics, and lifestyle factors in comparison with conventional semen parameters.\n\nMETHODS: This study included 172 men divided into three subgroups: (1) 68 men from couples undergoing intracytoplasmic sperm injection (ICSI) due to male infertility, (2) 49 men from couples undergoing in vitro fertilization/intrauterine insemination (IVF/IUI) attributable to female infertility, and (3) 55 fertile controls. DFI was assessed using sperm chromatin structure assay. Information on lifestyle, anthropometrics, and clinical history was collected through questionnaires and clinical examination. Associations with DFI were analyzed using multivariable linear regression with and without adjustment for treatment subgroup, and associations between DFI and semen parameters using Spearman's rank correlation.\n\nRESULTS: Median DFI differed between groups (p\u00a0<\u00a00.001): 17.4% (ICSI), 10.8% (IVF/IUI), and 9.2% (fertile controls). DFI was inversely correlated with semen parameters, strongest for progressive motility (\u03c1\u00a0=\u00a0-0.61, p\u00a0<\u00a00.01). Varicocele, higher central adiposity (waist-to-height ratio [WtHR]\u00a0\u2265\u00a00.6), and smaller testis size were associated with higher DFI, although these associations disappeared after subgroup adjustment. In adjusted analysis, higher age was associated with higher DFI (3% increase per year), while lower central adiposity (WtHR\u00a0<\u00a00.4) was associated with 26% lower DFI. Smoking, alcohol intake, and BMI showed no consistent associations.\n\nDISCUSSION AND CONCLUSIONS: DFI was negatively associated with fertility potential and age; however, it was driven primarily by results from the IVF/IUI subgroup and WtHR, whereas BMI, smoking, and alcohol intake were not. Central adiposity and related metabolic or inflammatory burden may thus be more relevant for DFI than overall body mass. DFI largely paralleled conventional semen parameters and should not be interpreted as a stand-alone marker, although it may provide complementary information in male infertility evaluation.",
+      "doi": "10.1111/andr.70354",
+      "matched_searches": [
+        "sperm_dna_fragmentation"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42658106/",
+      "doi_url": "https://doi.org/10.1111/andr.70354"
+    },
+    {
+      "pmid": "42660380",
+      "title": "The VILOCITY Trial: Validating Incubators in the Lab, Optimizing Culture and Investigating BlasTulation Yield, a Randomized Control Trial (RCT).",
+      "journal": "Fertil Steril",
+      "pub_date": "2026-08-27",
+      "authors": [
+        "Vessa B",
+        "Barrett F",
+        "Pangasnan R",
+        "Guzman Noriega P",
+        "Garrido N",
+        "Whitehead C",
+        "Seli E",
+        "Werner M",
+        "Molinaro T"
+      ],
+      "abstract": "OBJECTIVE: To determine whether the use of a benchtop incubator for embryo culture improves blastulation rates compared with a conventional box incubator.\n\nDESIGN: Prospective split cohort double-blind RCT at a single academic-affiliated center.\n\nSUBJECTS: Patients undergoing IVF with PGT-A and planning a subsequent frozen single euploid embryo transfer were recruited between December 2023 and January 2025.\n\nINTERVENTION: The primary exposure was culture in a benchtop incubator. Patients with \u22654 metaphase II (MII) oocytes at the time of vaginal oocyte retrieval were randomized. Retrieved MII oocytes were allocated by block randomization in a 1:1 ratio, with half cultured in the benchtop incubator and half in a conventional box incubator. All other embryology procedures, media and developmental checkpoints were standardized between groups.\n\nMAIN OUTCOME MEASURES: The primary outcome was blastulation rate per MII oocyte. Secondary outcomes included fertilization rate, blastulation rate per 2-pronuclear (2PN) embryo, embryo grade and morphology, and ploidy rates. Clinical outcomes following subsequent frozen euploid embryo transfer were also assessed, including ongoing pregnancy rate (OPR), pregnancy loss, and live birth rate (LBR).\n\nRESULTS: A total of 2,152 MII oocytes from 145 patients were randomized and included in the primary analysis. Blastulation rate per MII was identical between box and benchtop incubators (51% vs 51%, p=0.73). Fertilization rate (84% vs 86%, p=0.31), blastulation rate per 2PN (61% vs 59%, p=0.68), and euploid rate (69% vs 66%, p=0.43) were also comparable between groups. Embryo grading did not differ by incubator, including day of blastulation (p=0.46), expansion grade (p=0.16), inner cell mass grade (p=0.33), or trophectoderm grade (p=0.97). Among 133 frozen embryo transfers (69 box, 64 benchtop), pregnancy outcomes were comparable between groups. Ongoing pregnancy rate was 67% in the box group versus 64% in the benchtop group (p=0.90). Pregnancy loss (biochemical and clinical) occurred in 9% versus 20% (p=0.10), and live birth rate was 67% versus 61% (p=0.74), respectively.\n\nCONCLUSION: In this RCT, culture in a benchtop incubator did not improve blastulation rate per MII compared with a conventional box incubator. Other embryologic and pregnancy outcomes were also comparable between incubator types, indicating that when other variables are controlled, the incubator alone does not meaningfully influence outcomes.",
+      "doi": "10.1016/j.fertnstert.2026.08.687",
+      "matched_searches": [
+        "blastocyst_grading_outcomes",
+        "embryo_arrest_d3_blast"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42660380/",
+      "doi_url": "https://doi.org/10.1016/j.fertnstert.2026.08.687"
+    },
+    {
+      "pmid": "42649365",
+      "title": "Concordant mtDNA heteroplasmy between trophectoderm and inner cell mass supports blastocyst-stage PGT-mt for m.14487T>C.",
+      "journal": "J Assist Reprod Genet",
+      "pub_date": "2026-08-27",
+      "authors": [
+        "Tofilo M",
+        "Volodyaev I",
+        "Tretiakov E",
+        "Kokorina O",
+        "Avdeichik S",
+        "Smirnova A",
+        "Grechenko E",
+        "Filimonova A",
+        "Sudarikova N",
+        "Kirillova A",
+        "Mazunin I"
+      ],
+      "abstract": "PURPOSE: Is blastocyst-stage trophectoderm (TE) biopsy informative for preimplantation genetic testing of the mitochondrial DNA (mtDNA) variant m.14487\u00a0T\u2009>\u2009C (MT-ND6), by providing heteroplasmy estimates representative of the inner cell mass (ICM), within a combined PGT-A/PGT-mt workflow?\n\nMETHODS: Single IVF/ICSI cycle study in one carrier woman; six blastocysts were obtained and underwent day 5-6 TE biopsy followed by combined PGT-A and targeted mtDNA heteroplasmy assessment.\n\nRESULTS: Six blastocysts underwent combined PGT-A/PGT-mt (day 5, n\u2009=\u20092; day 6, n\u2009=\u20094). PGT-A classified three embryos as euploid, two as aneuploid, and one as mosaic. PGT-mt showed a bimodal distribution of m.14487\u00a0T\u2009>\u2009C heteroplasmy: three embryos were\u2009<\u200918% (11.4-13.5%) and three were\u2009>\u200970% (73.2-99.6%); only one embryo met the predefined transfer criteria (euploid; 11.4% heteroplasmy). After warming and embryo fractionation, heteroplasmy estimates from the original TE biopsy and the corresponding post-warming embryo fraction (the remaining TE, ICM, or combined TE\u2009+\u2009ICM) were closely concordant, with only small paired differences.\n\nCONCLUSION: These findings provide variant-specific evidence that blastocyst TE biopsy can be representative of the ICM for m.14487\u00a0T\u2009>\u2009C, supporting combined PGT-A/PGT-mt at the blastocyst stage. Nevertheless, given the possibility of heteroplasmy shifts later in development, prenatal diagnosis and postnatal follow-up remain advisable when a heteroplasmic embryo is transferred.",
+      "doi": "10.1007/s10815-026-04012-y",
+      "matched_searches": [
+        "blastocyst_grading_outcomes"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42649365/",
+      "doi_url": "https://doi.org/10.1007/s10815-026-04012-y"
+    },
+    {
+      "pmid": "42647895",
+      "title": "Cytoplasmic strings in human in-vitro embryos are a promising indicator for enhanced live-birth outcomes: a systematic review and meta-analysis.",
+      "journal": "Hum Reprod Update",
+      "pub_date": "2026-08-26",
+      "authors": [
+        "Dodhia VF",
+        "Ng KYB",
+        "Fleming TP",
+        "Cheong Y"
+      ],
+      "abstract": "INTRODUCTION: Cytoplasmic strings (CS) are transient filamentous connections which traverse the blastocoel, connecting the inner cell mass to the mural trophectoderm in blastocysts. Although they have been observed in animal studies for years, their role in embryogenesis remains unclear. At first, CS were considered abnormal in expanded blastocysts, but recent time-lapse studies on human in-vitro embryos suggest that CS may indicate higher developmental potential. Although CS are now included in morphological and morphokinetic guidelines, their impact on embryo viability remains inconclusive due to limited evidence.\n\nOBJECTIVE AND RATIONALE: The aim of this review was to investigate whether CS in human in-vitro blastocysts influences IVF and pregnancy outcomes, primarily as indicated by livebirth rates.\n\nSEARCH METHODS: This systematic review and meta-analysis followed PRISMA guidelines. PubMed, Embase, Medline, Cochrane Library, and Web of Science were searched using key terms 'cytoplasmic strings' and related MeSH terms from 1946 till 30 September 2025 for all languages. Studies were selected per the PICO framework, screened independently, and back-reference searched. Inclusion criteria were studies on preimplantation embryos with CS. Meta-analysis required studies with control blastocysts without CS, and reporting on either the primary outcome, livebirth rate (LBR), or secondary outcomes, clinical pregnancy rate (CPR), embryo quality, morphokinetics, CS characteristics, and patient treatment characteristics. Non-human studies were excluded. Data were extracted for meta-analysis and represented in odds ratios (OR), standardized mean differences (SMD), and mean differences utilizing random-effects models on Revman v5.4. Bias was assessed via ROBINS-E and funnel plots, with subgroup analyses performed based on variables identified.\n\nOUTCOMES: From 1029 publications screened, 24 articles, including 15 observational studies with 14 datasets, were included. Meta-analysis of 13 studies (12 datasets) included 7583 blastocysts analysed for CS presence: 4417 exhibited CS (CS+), while 3166 did not (CS-). CS\u2009+\u2009blastocysts were associated with a higher LBR (OR = 1.88, 95% CI: 1.35, 2.61, I\u00b2 = 55%, n\u2009=\u20092766 transferred blastocysts, 6 studies) and an increase in CPR (OR = 2.20, 95% CI: 1.29-3.75, I\u00b2 = 59%, n\u2009=\u20091963, 5 studies). CS\u2009+\u2009blastocysts also demonstrated higher odds of good morphological quality (OR = 2.40, 95% CI: 1.17-4.92, I2 = 82%, n\u2009=\u20091967, 5 studies). Furthermore, this relationship was maintained with increased quantities of CS (blastocysts with \u22655 CS vs 1-4 CS: OR = 3.01, 95% CI: 2.22, 4.08, I2 = 0%, n\u2009=\u20091300, 3 studies), earlier CS onset, measured by hours post insemination (hpi), (SMD\u2009=\u2009-0.44, 95% CI: -0.58, -0.30, I2 = 9%, n\u2009=\u2009972 blastocysts, 3 studies) and earlier disappearance of CS (SMD\u2009=\u2009-0.45, 95% CI: -0.59, -0.30, I2 = 13%, n\u2009=\u2009962 blastocysts, 3 studies). Additionally, CS\u2009+\u2009blastocysts reached each successive morphokinetic stage progressively faster compared to CS\u2009-\u2009blastocysts, particularly post-blastulation (time of full blastocyst: SMD\u2009=\u2009-0.75, 95% CI: -0.99, -0.52, I2 = 53% n\u2009=\u20091525, 3 studies). GRADE assessment indicated very low certainty secondary to high heterogeneity and bias.\n\nWIDER IMPLICATIONS: Our meta-analysis demonstrated that CS in human in-vitro blastocysts is associated with improved IVF outcomes. Further research on the biological role of CS in embryogenesis and their influence on embryo viability is necessary. Following these answers, the integration of CS assessment into blastocyst evaluation protocols could improve embryo selection strategies and ultimately improve pregnancy success rates in IVF.\n\nREGISTRATION NUMBER: PROSPERO (CRD420250652014).",
+      "doi": "10.1093/humupd/dmag026",
+      "matched_searches": [
+        "blastocyst_grading_outcomes",
+        "time_lapse_morphokinetics"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42647895/",
+      "doi_url": "https://doi.org/10.1093/humupd/dmag026"
+    },
+    {
+      "pmid": "42644826",
+      "title": "ROCK inhibitor Y-27632 improves embryo transfer pregnancy rates following cryopreservation of biopsied embryos.",
+      "journal": "Reproduction",
+      "pub_date": "2026-08-26",
+      "authors": [
+        "Wang Y",
+        "Li K",
+        "Hao J",
+        "Liu X",
+        "Chen D",
+        "Cheng L",
+        "An L",
+        "Tian J",
+        "Xi G"
+      ],
+      "abstract": "Pre-implantation genetic testing relies on embryo biopsy, yet biopsied embryos exhibit reduced cryotolerance and compromised post-thaw viability. In this study, we optimized biopsy parameters and explored cryoprotective strategies in sheep embryos. Trophectoderm biopsy at a position two-thirds distant from the inner cell mass yielded optimal cell numbers (21.96 \u00b1 1.21 cells) while maintaining high post-biopsy re-expansion rates (92.56%). An 8-hour post-biopsy recovery period prior to vitrification was identified as optimal, achieving complete re-expansion with minimal apoptosis while avoiding progression to hatched stages unsuitable for transfer. Supplementation with 10\u2009\u03bcM Y-27632 at different vitrification stages was assessed for effects on re-expansion, cell viability, apoptosis, and pregnancy rates after transfer. Transcriptomic profiling revealed that Y-27632 effectively suppressed lipid and sterol biosynthesis, shifting metabolism toward energy conservation pathways that enhance cryoresistance. Treated embryos also showed significantly reduced lipid droplet accumulation, confirming metabolic remodeling. Y-27632 administration, particularly before and after vitrification, markedly improved cryotolerance, developmental capacity, and pregnancy outcomes of biopsied embryos, increasing pregnancy rates from 24.3% to 37.2%. These findings establish an optimized biopsy and recovery protocol and identify molecular changes associated with the protective effects of Y-27632 by which Y-27632 enhances embryo cryotolerance, presenting a practical strategy to improve cryopreservation efficacy in livestock and human assisted reproduction.",
+      "doi": "10.1093/reprod/xaag102",
+      "matched_searches": [
+        "blastocyst_grading_outcomes"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42644826/",
+      "doi_url": "https://doi.org/10.1093/reprod/xaag102"
+    },
+    {
+      "pmid": "42644824",
+      "title": "Beneficial effects of melatonin on mouse preimplantation embryo development and implantation potential: Possible involvement of clathrin-mediated endocytosis.",
+      "journal": "Reproduction",
+      "pub_date": "2026-08-26",
+      "authors": [
+        "Li Y",
+        "Wang Z"
+      ],
+      "abstract": "Melatonin is a pleiotropic hormone with essential roles in mammalian reproduction. Our previous study demonstrated that melatonin promotes human oocyte maturation and early embryo development through enhancement of clathrin-mediated endocytosis (CME). In the present study, we investigated whether a similar melatonin-associated regulatory relationship is also observed during mouse preimplantation embryo development and implantation. Following concentration optimization, mouse zygotes were cultured with 10-9 M melatonin, 20\u2009\u03bcM dynasore (a pharmacological inhibitor of dynamin-dependent endocytosis), or their combination. Melatonin supplementation significantly increased blastocyst formation and subsequent implantation potential. Conversely, dynasore treatment reduced blastocyst developmental progression and markedly impaired implantation potential. Importantly, melatonin supplementation significantly improved the implantation potential of dynasore-treated embryos. These findings demonstrate that melatonin promotes mouse preimplantation embryo development and implantation potential, and suggest that CME-related processes may contribute to these beneficial effects. Together with our previous findings in human oocytes and early embryos, the present study provides evidence supporting a shared melatonin-associated regulatory relationship between human and mouse reproductive systems. Given that suboptimal embryo implantation remains a major limitation in assisted reproductive technology, our findings suggest that melatonin supplementation warrants further investigation as a potential strategy for optimizing in vitro embryo culture conditions and improving implantation outcomes.",
+      "doi": "10.1093/reprod/xaag105",
+      "matched_searches": [
+        "antioxidant_culture_media"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42644824/",
+      "doi_url": "https://doi.org/10.1093/reprod/xaag105"
+    },
+    {
+      "pmid": "42648490",
+      "title": "Proteomic analysis of proprietary single step preimplantation embryo culture media widely used in the UK.",
+      "journal": "F S Sci",
+      "pub_date": "2026-08-26",
+      "authors": [
+        "Jarvis S",
+        "Want E",
+        "Rattos A",
+        "Salim R",
+        "Winston RML"
+      ],
+      "abstract": "OBJECTIVE: To study commercially available proprietary media used for human embryo culture to determine protein composition in a real-world UK clinic setting.\n\nDESIGN: Clinical and university-based laboratory study.\n\nSUBJECTS: Unconditioned embryo culture media was assessed and did not involve any patients EXPOSURE: Unconditioned embryo culture media from four manufacturers were collected. All media were pre-supplemented with manufacturer protein source (typically Human Serum Albumin [HSA] or Serum Substitute Supplement (SSS) to avoid any contamination. Different batches of 1-Step media (Sage) were also examined; these were collected directly from the bottle (Baseline) and kept in the Embryoscope culture system as a 'sham culture' undisturbed. Sensitive data-independent acquisition (DIA) liquid chromatography mass-spectrometry (LC-MS) was used in this study to record protein composition in four brands of proprietary embryo culture media using international guidelines for protein identification from Human Proteome Organisation (HUPO) standards MAIN OUTCOME MEASURE: The number, identity, and relative abundance of proteins detected in proprietary embryo culture media across brands and sham-culture conditions using DIA LC-MS.\n\nRESULTS: The composition of proteins and their abundance were studied also after sham culture in conditions closely resembling those during clinical embryo culture. Across the media brands, we identified many additional proteins alongside Human albumin. The proteomic dataset was annotated to proteins with known biological functions, including transcription regulators and cytoskeletal proteins. In a separate sham culture of an exemplar embryo culture media (Sage 1-step), proteomic analysis revealed the persistence of highly abundant proteins alongside albumin across multiple batches, including samples analysed directly from the bottle and after several days in culture. Sham culture experiments revealed persistence of detectable abundant proteins in unconditioned media.\n\nCONCLUSION: Proteomic analysis of commercially available unconditioned human embryo culture media identified numerous proteins alongside albumin, providing a reference atlas for interpretation of future omics-based biomarker studies. We detected proteins reliably but did not establish any biological activity in the embryo culture environment. The detected proteins may derive from the base medium, protein supplements, or manufacturing background material, and their functional relevance to embryo development remains to be determined. Greater transparency from manufacturers regarding media constituents is warranted.",
+      "doi": "10.1016/j.xfss.2026.08.002",
+      "matched_searches": [
+        "time_lapse_morphokinetics"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42648490/",
+      "doi_url": "https://doi.org/10.1016/j.xfss.2026.08.002"
+    }
+  ]
+}
