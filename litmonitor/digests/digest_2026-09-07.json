@@ -1,0 +1,350 @@
+{
+  "digest_date": "2026-09-07",
+  "generated_at": "2026-09-07T09:17:18Z",
+  "mode": "weekly",
+  "window_start": "2026-08-29",
+  "paper_count": 8,
+  "topic_counts": {
+    "antioxidant_culture_media": 1,
+    "time_lapse_morphokinetics": 1,
+    "blastocyst_grading_outcomes": 1,
+    "endometrial_receptivity_era": 1,
+    "recurrent_implantation_failure": 3,
+    "pgta_advanced_age": 2,
+    "antagonist_protocol_normoresponder": 1,
+    "duostim_luteal_phase": 1,
+    "methylation_mthfr_art": 1
+  },
+  "topics": {
+    "agonist_vs_dual_trigger": {
+      "label": "Dual vs agonist trigger",
+      "priority": "high"
+    },
+    "agonist_trigger_suboptimal": {
+      "label": "Suboptimal agonist trigger response",
+      "priority": "high"
+    },
+    "premature_ovulation": {
+      "label": "Premature ovulation",
+      "priority": "high"
+    },
+    "lead_follicle_oversize": {
+      "label": "Lead follicle size & trigger timing",
+      "priority": "high"
+    },
+    "zymot_microfluidic": {
+      "label": "ZyMot / microfluidic sperm selection",
+      "priority": "high"
+    },
+    "sperm_dna_fragmentation": {
+      "label": "Sperm DNA fragmentation (single-strand) & ART",
+      "priority": "high"
+    },
+    "sperm_dna_double_strand": {
+      "label": "Sperm double-strand DNA damage",
+      "priority": "high"
+    },
+    "tese_high_dfi": {
+      "label": "TESE for high DFI",
+      "priority": "high"
+    },
+    "pgta_advanced_age": {
+      "label": "PGT-A in advanced maternal age",
+      "priority": "high"
+    },
+    "blastocyst_grading_outcomes": {
+      "label": "Blastocyst grading & outcomes",
+      "priority": "medium"
+    },
+    "antagonist_protocol_normoresponder": {
+      "label": "Antagonist protocol in normo-responders",
+      "priority": "medium"
+    },
+    "intercycle_interval": {
+      "label": "Inter-cycle interval",
+      "priority": "low"
+    },
+    "methylation_mthfr_art": {
+      "label": "MTHFR / methylation & ART",
+      "priority": "high"
+    },
+    "one_pn_embryos": {
+      "label": "1PN / abnormal fertilisation",
+      "priority": "high"
+    },
+    "ss31_elamipretide": {
+      "label": "SS-31 / elamipretide & fertility",
+      "priority": "high"
+    },
+    "rapamycin": {
+      "label": "Rapamycin / sirolimus & fertility",
+      "priority": "high"
+    },
+    "embryo_arrest_d3_blast": {
+      "label": "Embryo arrest & blastulation",
+      "priority": "high"
+    },
+    "antioxidant_culture_media": {
+      "label": "Antioxidant culture media",
+      "priority": "high"
+    },
+    "growth_hormone_adjuvant": {
+      "label": "Growth hormone adjuvant in IVF",
+      "priority": "medium"
+    },
+    "time_lapse_morphokinetics": {
+      "label": "Time-lapse / morphokinetic embryo selection",
+      "priority": "medium"
+    },
+    "duostim_luteal_phase": {
+      "label": "DuoStim / luteal-phase stimulation",
+      "priority": "high"
+    },
+    "picsi_hyaluronan_binding": {
+      "label": "PICSI / hyaluronan binding sperm selection",
+      "priority": "medium"
+    },
+    "imsi_high_mag_morphology": {
+      "label": "IMSI / high-magnification sperm morphology",
+      "priority": "medium"
+    },
+    "endometrial_receptivity_era": {
+      "label": "Endometrial receptivity testing (ERA / ER-Map)",
+      "priority": "medium"
+    },
+    "recurrent_implantation_failure": {
+      "label": "Recurrent implantation failure",
+      "priority": "high"
+    },
+    "haploid_embryos_decondensation": {
+      "label": "Haploid embryos & sperm decondensation",
+      "priority": "high"
+    },
+    "varicocele_embolisation_ivf": {
+      "label": "Varicocele embolisation & IVF",
+      "priority": "high"
+    },
+    "choline_pemt_pregnancy": {
+      "label": "Choline / PEMT & pregnancy",
+      "priority": "medium"
+    },
+    "methylfolate_vs_folic_acid_ivf": {
+      "label": "Methylfolate vs folic acid in IVF",
+      "priority": "medium"
+    }
+  },
+  "journals_monitored": [
+    "Hum Reprod",
+    "Hum Reprod Update",
+    "Hum Reprod Open",
+    "Fertil Steril",
+    "F S Rep",
+    "F S Sci",
+    "Reprod Biomed Online",
+    "J Assist Reprod Genet",
+    "Reprod Biol Endocrinol",
+    "Hum Fertil (Camb)",
+    "Reprod Sci",
+    "Andrology",
+    "Mol Hum Reprod",
+    "Reproduction",
+    "Biol Reprod",
+    "Reprod Fertil Dev",
+    "Asian J Androl",
+    "Andrologia"
+  ],
+  "papers": [
+    {
+      "pmid": "42686653",
+      "title": "Trophectoderm biopsy and vitrification: survival, oxidative stress and cell count in bovine embryos.",
+      "journal": "Reprod Fertil Dev",
+      "pub_date": "2026-09-04",
+      "authors": [
+        "Ara\u00fajo DS",
+        "Dos Santos RM",
+        "Clarindo GLS",
+        "Saraiva NZ",
+        "Camargo LSA",
+        "Oliveira LZ",
+        "Oliveira CS"
+      ],
+      "abstract": "CONTEXT: Trophectoderm (TE) biopsy combined with embryo vitrification is increasingly being used; however, concerns remain regarding its effects on embryo survival and physiological stability after warming.\n\nAIMS: We aimed to evaluate whether TE biopsy performed prior to vitrification compromises early post-warming recovery and physiological responses of bovine embryos.\n\nMETHODS: Expanded blastocysts were allocated into two groups, namely, Control and Biopsy. After warming, embryos were evaluated at 0, 4, 24, and 48\u00a0h for re-expansion and hatching rates. Mitochondrial activity, oxidative stress, antioxidant activity estimated by intracellular thiol content, and total cell number were assessed after 48\u00a0h.\n\nKEY RESULTS: Re-expansion differed between groups at 0\u00a0h (Control 13.40% vs Biopsy 33.90%; P\u00a0=\u00a00.005) and 4\u00a0h (Control 93.81% vs Biopsy 84.75%; P\u00a0=\u00a00.038), with no differences at 24 or 48\u00a0h (P\u00a0\u2265\u00a00.346). Hatching rates were similar at 4\u00a0h (P\u00a0=\u00a00.447), but higher in the Biopsy group at 24\u00a0h (77.56% vs 53.35%; P\u00a0=\u00a00.005) and 48\u00a0h (90.79% vs 77.39%; P\u00a0=\u00a00.027). The Biopsy group showed higher mitochondrial activity (P\u00a0<\u00a00.001), reactive oxygen species (P\u00a0=\u00a00.009), intracellular thiol content (P\u00a0<\u00a00.001), and total cell number (216.68\u00a0\u00b1\u00a09.75 vs 186.82\u00a0\u00b1\u00a010.22; P\u00a0=\u00a00.038).\n\nCONCLUSIONS: TE biopsy prior to vitrification induced oxidative stress, increased mitochondrial activity and increased thiol content, but did not compromise early post-warming recovery of bovine embryos.\n\nIMPLICATIONS: TE biopsy before vitrification is safe under short-term in vitro conditions.",
+      "doi": "10.1071/RD26017",
+      "matched_searches": [
+        "antioxidant_culture_media"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42686653/",
+      "doi_url": "https://doi.org/10.1071/RD26017"
+    },
+    {
+      "pmid": "42691124",
+      "title": "Cytoplasmic velocity in polar trophectodermal cells reflects embryonic ability to implant in vitro.",
+      "journal": "Biol Reprod",
+      "pub_date": "2026-09-03",
+      "authors": [
+        "Walewska A",
+        "Pilaszek I",
+        "Milewski R",
+        "Ajduk A"
+      ],
+      "abstract": "The standard protocols used in clinics to assess quality of embryos are still unable to reliably assess the embryo's ability to implant and develop full term. On the other hand, being able to predict the implantation potential of a given embryo appears to be crucial, as implantation abnormalities are one of the major causes of reproductive loss in mammals. Notwithstanding the differences in the implantation mechanism between different species, the functional trophectoderm is prerequisite in this process. In the present study we investigated whether the velocity of cytoplasmic movement in mural and polar TE cells of mouse blastocysts can be used to assess the embryo implantation potential. The cytoplasmic velocity was measured using time-lapse imaging in E3.5 and E4.5 mouse embryos and analyzed using Particle Image Velocimetry. We found that it decreases during late preimplantation embryo development and is higher in polar than in mural trophectoderm cells of mouse blastocysts. Our data indicate that cytoplasmic movement velocity was only minimally affected by alterations in the keratin cytoskeleton, despite its established role in determining the biomechanical properties of trophectoderm cells. Furthermore, cytoplasmic movement velocity was not affected by either maternal or postovulatory aging, both of which are known to impair the developmental potential of embryos. However, using an outgrowth assay, we showed that the velocity of cytoplasmic movement in polar, but not mural, trophectodermal cells in E4.5 blastocysts reflects the embryo's ability to implant in vitro. Therefore, analysis of cytoplasmic speed may support evaluation of the embryo quality.",
+      "doi": "10.1093/biolre/ioag190",
+      "matched_searches": [
+        "time_lapse_morphokinetics"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42691124/",
+      "doi_url": "https://doi.org/10.1093/biolre/ioag190"
+    },
+    {
+      "pmid": "42679898",
+      "title": "Molecular and Developmental Integrity Following Trophectoderm Biopsy: Evidence from Human and Mouse Models.",
+      "journal": "F S Sci",
+      "pub_date": "2026-09-01",
+      "authors": [
+        "McCallie BR",
+        "Denomme MM",
+        "Bochantin-Winders KA",
+        "Haywood ME",
+        "Wilson JR",
+        "McCarty KJ",
+        "Hebert CM",
+        "Hamm JM",
+        "Schoolcraft WB",
+        "Katz-Jaffe MG"
+      ],
+      "abstract": "OBJECTIVE: To determine whether trophectoderm (TE) biopsy performed for preimplantation genetic testing induces molecular, epigenetic, or developmental perturbations in preimplantation embryos and subsequent placental development.\n\nDESIGN: Comparative multi-omics investigation of human blastocysts combined with a murine embryo transfer model.\n\nSUBJECTS: Surplus cryopreserved human euploid blastocysts donated to research and murine blastocysts that were either subjected to TE biopsy or no biopsy.\n\nEXPOSURE: The impact of blastocyst-stage trophectoderm biopsy on transcriptomic, epigenomic, developmental, and/or placental outcomes.\n\nMAIN OUTCOME MEASURES: Differential gene expression, imprinting methylation, whole-genome DNA methylation of inner cell mass (ICM) and TE, mitotic cell division mechanics, implantation rates, fetal and placental growth, placental methylation.\n\nRESULTS: Trophectoderm biopsy was not associated with biologically meaningful molecular or epigenetic alterations in human blastocysts. Gene expression, imprinting methylation, global DNA methylation, and DNA budding/shedding were comparable between biopsied and non-biopsied embryos. In a murine model, biopsy had no effect on implantation rates, fetal or placental growth, placental methylome, or imprinting methylation status.\n\nCONCLUSION: A comprehensive multi-omics assessment of human blastocysts, supported by developmental and placental analyses in a murine model, found no evidence that trophectoderm biopsy adversely affects early embryonic molecular regulation or subsequent developmental outcomes. These findings support the use of TE biopsy as a minimally invasive micro-manipulation procedure.",
+      "doi": "10.1016/j.xfss.2026.08.003",
+      "matched_searches": [
+        "blastocyst_grading_outcomes"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42679898/",
+      "doi_url": "https://doi.org/10.1016/j.xfss.2026.08.003"
+    },
+    {
+      "pmid": "42330755",
+      "title": "Endometrial metabolomic profiling reveals disruption of fatty-acid metabolism in unexplained recurrent pregnancy loss.",
+      "journal": "Reprod Biomed Online",
+      "pub_date": "2026-05-29",
+      "authors": [
+        "Boguenet M",
+        "Michel M",
+        "Bocca C",
+        "Chao de la Barca JM",
+        "Reynier P",
+        "May-Panloup P",
+        "Bouet PE"
+      ],
+      "abstract": "RESEARCH QUESTION: Are specific plasma or endometrial metabolomic profiles associated with recurrent implantation failure (RIF), unexplained recurrent pregnancy loss (U-RPL), or both?\n\nDESIGN: Prospective observational study of the plasma and endometrium from 80 women undergoing assisted reproductive technology. The women were classified into three groups: U-RPL (n = 19), RIF (n = 41) and controls (fertile women with male factor infertility, n = 20). A blood sample and an endometrial biopsy were collected during the window of implantation, 5-9 days after ovulation. Targeted and quantitative metabolomics analyses were conducted using high-performance liquid chromatography coupled with tandem mass spectrometry, using the Biocrates\u00ae MxP Quant 500 kit. A total of 630 metabolites were assessed using machine learning (ML) to identify specific metabolic profiles, and multivariate and univariate statistical approaches applied.\n\nRESULTS: Of the 630 metabolites analysed, 494 were accurately quantified in plasma and 228 in endometrial samples. A distinct metabolomic signature was identified in the endometrium of patients who had experienced U-RPL, characterized by 16 highly relevant metabolites. This signature includes an overall decrease in medium chain acylcarnitines, along with a significant increase in diglycerides and triglycerides, as well as in certain phospholipids (glycerophosphates) and several ceramides.\n\nCONCLUSION: A disruption of fatty acid metabolism was observed in the endometrium during the implantation window in U-RPL, paving the way for the identification of novel biomarkers of endometrial receptivity.",
+      "doi": "10.1016/j.rbmo.2026.105798",
+      "matched_searches": [
+        "endometrial_receptivity_era",
+        "recurrent_implantation_failure"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42330755/",
+      "doi_url": "https://doi.org/10.1016/j.rbmo.2026.105798"
+    },
+    {
+      "pmid": "42330756",
+      "title": "Advancing maternal age worsens pregnancy outcomes following single frozen embryo transfer with preimplantation genetic testing.",
+      "journal": "Reprod Biomed Online",
+      "pub_date": "2026-05-17",
+      "authors": [
+        "Luo C",
+        "Zhang X",
+        "Li J",
+        "Du YB",
+        "Lv H",
+        "Li X",
+        "Zhao RS",
+        "Yan L"
+      ],
+      "abstract": "RESEARCH QUESTION: What is the critical age for the onset of deterioration in pregnancy outcomes associated with advancing maternal age in frozen embryo transfer (FET) cycles following preimplantation genetic testing (PGT)?\n\nDESIGN: This retrospective analysis included 6354 women (aged 20-45 years) who underwent PGT with single blastocyst transfer within 1 year of oocyte retrieval at a single centre, utilizing data collected from February 2017 to December 2024. Only the first FET cycle after oocyte retrieval was included, and fertilization was performed via intracytoplasmic sperm injection. Maternal characteristics were examined by transfer age; outcomes included clinical pregnancy rate (CPR), live birth rate (LBR), implantation rate, implantation failure rate (IFR) and abortion rate. Locally estimated scatterplot smoothing (LOESS) curves were used to visualize continuous trends. Restricted cubic spline (RCS) curves were used to assess age-related associations and non-linear effects. Threshold effect analysis identified the pivotal age at which endometrial aging has an adverse effect on outcomes.\n\nRESULTS: Advancing maternal age at embryo transfer was associated with declining CPR and LBR, and increasing IFR and abortion rate. Non-linear associations between maternal age at embryo transfer and clinical pregnancy (P non-linear = 0.009), live birth (P non-linear = 0.026), and implantation failure (P non-linear=0.009) were identified based on RCS analysis. Each year beyond 33 years of age was associated with a relative 5.8% decrease in the likelihood of clinical pregnancy [adjusted hazard ratio (aHR) = 0.942, 95% CI 0.908-0.977; P = 0.001], a relative 7.2% decrease in the probability of live birth (aHR = 0.928, 95% CI 0.895-0.963; P = 0.006), and a relative 6.1% increase in the risk of implantation failure (aHR = 1.061, 95% CI 1.023-1.101; P = 0.001).\n\nCONCLUSIONS: Endometrial aging may be associated with significantly worsened pregnancy outcomes in women aged >33 years.",
+      "doi": "10.1016/j.rbmo.2026.105782",
+      "matched_searches": [
+        "pgta_advanced_age",
+        "recurrent_implantation_failure"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42330756/",
+      "doi_url": "https://doi.org/10.1016/j.rbmo.2026.105782"
+    },
+    {
+      "pmid": "42284694",
+      "title": "Random start natural progesterone-primed ovarian stimulation (NPPOS) enables maximal flexibility: analysis of 1202 freeze-all cycles.",
+      "journal": "Reprod Biomed Online",
+      "pub_date": "2026-05-17",
+      "authors": [
+        "Vandierendonck F",
+        "Biesbroek A",
+        "Dhaenens L",
+        "Rottiers AS",
+        "Meerschaut FV",
+        "Heindryckx B",
+        "Tilleman K",
+        "De Roo C",
+        "Stoop D"
+      ],
+      "abstract": "RESEARCH QUESTION: Can a random start natural micronized progestin-primed ovarian stimulation (NPPOS) protocol provide an equivalent and flexible alternative strategy for elective freeze-all stimulation cycles compared with a conventional start gonadotrophin-releasing hormone (GnRH) antagonist protocol?\n\nDESIGN: This retrospective cohort study included 1202 elective freeze-all cycles between 2022 and 2024. Four groups were compared: GnRH-antagonist early follicular (n = 503), NPPOS early follicular (n = 319), NPPOS late follicular (n = 163) and NPPOS luteal (n = 217) starts. The primary endpoint was the number of metaphase II (MII) oocytes retrieved. The secondary endpoints included the follicular output rate (FORT), follicle-oocyte index (FOI) and the duration of stimulation. A predefined subgroup analysis was conducted in poor ovarian responders.\n\nRESULTS: The concentration of anti-M\u00fcllerian hormone was comparable across groups, and the median number of MII oocytes retrieved was similar: NPPOS late follicular group, 8 (IQR 5-15); GnRH-antagonist group, 10 (IQR 6-16); NPPOS early follicular group, 10 (IQR 6-16); and NPPOS luteal group, 10 (IQR 5-16) (P = 0.20). A generalized estimating equation Poisson regression model analysis confirmed equivalence. FORT and FOI-MII remained stable across the NPPOS early and late follicular, and luteal groups: estimated marginal mean \u00b1 SD FORT, 37.1 \u00b1 9.9%, 40.4 \u00b1 24.8% and 39.8 \u00b1 24.9 (P = 0.30); and FOI-MOI, 70.8 \u00b1 38.7%, 73.5 \u00b1 44.2% and 75.0 \u00b1 43.6% (P = 0.60), respectively. The NPPOS luteal group required a longer mean \u00b1 SD duration of stimulation (11 \u00b1 2 days) compared with the NPPOS early follicular group (9 \u00b1 2 days; P < 0.001), NPPOS late follicular group (10 \u00b1 3 days; P = 0.004) and GnRH-antagonist group (10 \u00b1 2 days; P < 0.001). In poor ovarian responders, the MII yield was comparable across all groups.\n\nCONCLUSIONS: Random start NPPOS using micronized progesterone is an effective and flexible alternative to a conventional GnRH-antagonist protocol in freeze-all cycles. The ability to initiate stimulation irrespective of menstrual phase combined with the use of oral progesterone may reduce treatment delays and improve convenience without compromising ovarian response.",
+      "doi": "10.1016/j.rbmo.2026.105784",
+      "matched_searches": [
+        "antagonist_protocol_normoresponder",
+        "duostim_luteal_phase"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42284694/",
+      "doi_url": "https://doi.org/10.1016/j.rbmo.2026.105784"
+    },
+    {
+      "pmid": "42275750",
+      "title": "IVF patient subgroups benefit from preimplantation genetic testing for aneuploidy: a prospective multicentre cohort study.",
+      "journal": "Reprod Biomed Online",
+      "pub_date": "2026-05-14",
+      "authors": [
+        "M\u00f8ller SL",
+        "Borgstr\u00f8m M",
+        "Hindkj\u00e6r J",
+        "Kesmodel US",
+        "Bogstad J",
+        "Madsen MB",
+        "Alosi D",
+        "Petersen MR",
+        "Aagaard J",
+        "Ciss\u00e9 A",
+        "Olsen KW",
+        "Roos LK",
+        "Hertz JM",
+        "Madsen K",
+        "Klajnbard A",
+        "N\u00f8hr B",
+        "Gr\u00f8ndahl ML"
+      ],
+      "abstract": "RESEARCH QUESTION: Can preimplantation genetic testing for aneuploidy (PGT-A) improve the ongoing pregnancy rate per transfer and reduce miscarriage rate in patients with advanced maternal age (AMA), recurrent implantation failure (RIF), recurrent pregnancy loss (RPL), or both, without affecting cumulative pregnancy rate?\n\nDESIGN: Prospective cohort study of 260 patients undergoing PGT-A aged 36 years or over (AMA group), with a history of three or more blastocyst transfers without birth (RIF group), two or more early pregnancy losses (RPL group), or all. Trophectoderm biopsy was conducted day 5 or 6, and comprehensive chromosome screening was used for PGT-A before single frozen embryo transfer (PGT-A-FET). A total of 3060 patients undergoing single conventional frozen embryo transfer (FET) served as a historical reference group.\n\nRESULTS: Patients had increased odds of positive serum beta-HCG after PGT-A-FET compared with FET in the AMA (OR 1.53, 95% CI 1.06 to 2.21) and RIF (OR 2.11, 95% CI 1.41 to 3.14) groups. The PGT-A-FET group significantly improved the odds of ongoing pregnancy in the AMA (OR 2.20, 95% CI 1.52 to 3.18), RIF (OR 3.96, 95% CI 2.60 to 6.04) and RPL (OR 2.81, 95% CI 1.52 to 5.21) groups. The odds of pregnancy loss were significantly reduced with PGT-A-FET in the AMA (OR 0.36, 95% CI 0.21 to 0.64), RIF (OR 0.10, 95% CI 0.04 to 0.26) and RPL (OR 0.14, 95% CI 0.04 to 0.53) groups. Cumulative pregnancy rate did not differ between PGT-A and conventional cycles (RR 0.94, 95% CI 0.80 to 1.10).\n\nCONCLUSIONS: PGT-A improved the odds of ongoing pregnancy and reduced the odds of pregnancy loss in all groups. The cumulative pregnancy rate did not differ between PGT-A and conventional cycles. Findings should be interpreted in the context of the observational design.",
+      "doi": "10.1016/j.rbmo.2026.105776",
+      "matched_searches": [
+        "pgta_advanced_age",
+        "recurrent_implantation_failure"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42275750/",
+      "doi_url": "https://doi.org/10.1016/j.rbmo.2026.105776"
+    },
+    {
+      "pmid": "42330757",
+      "title": "Effect of a pro-fertility diet combined with omega-3 supplementation on embryo quality in infertile women undergoing IVF: a randomized controlled trial.",
+      "journal": "Reprod Biomed Online",
+      "pub_date": "2026-02-27",
+      "authors": [
+        "Ghadimi Yari M",
+        "Ghasemi-Tehrani H",
+        "Feizi A",
+        "Ziaei R",
+        "Derakhshan M",
+        "Rouhani MH"
+      ],
+      "abstract": "RESEARCH QUESTION: Does adherence to a pro-fertility diet (PFD) combined with omega-3 supplementation improve the fertilization rate and embryo quality in infertile women undergoing IVF?\n\nDESIGN: A randomized, single-blind, parallel clinical trial was conducted from June 2024 to June 2025 among 180 infertile women aged 18-42 years undergoing IVF at Hazrat Maryam Fertility Center, Isfahan, Iran. Participants were randomized (1:1) to receive either a structured PFD with daily omega-3 (1000 mg), vitamin D (1000 IU), folate (1 mg) and vitamin B12 (500 \u00b5g) supplementation for 60 days, or general dietary advice based on the Healthy Eating Plate model plus 500 \u00b5g/day folic acid. Fertilization rate, embryo formation rate and embryo quality (grades A-D) were evaluated.\n\nRESULTS: Compared with controls, the intervention group had significantly higher fertilization rates (0.81 \u00b1 0.16 versus 0.66 \u00b1 0.24; P < 0.001) and embryo formation rates (0.79 \u00b1 0.26 versus 0.62 \u00b1 0.30; P < 0.001), and an increased number of embryos formed (3.78 \u00b1 2.34 versus 2.22 \u00b1 1.46; P < 0.001). Additionally, the proportion of grade A embryos was markedly higher in the intervention group (45.2% versus 21.7%; P = 0.003).\n\nCONCLUSION: Adherence to a PFD combined with omega-3 supplementation significantly improved the fertilization rate and embryo quality in women undergoing IVF. This combined nutritional intervention represents a safe, feasible and cost-effective adjunctive approach to optimize embryological outcomes in assisted reproductive technology.",
+      "doi": "10.1016/j.rbmo.2026.105661",
+      "matched_searches": [
+        "methylation_mthfr_art"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42330757/",
+      "doi_url": "https://doi.org/10.1016/j.rbmo.2026.105661"
+    }
+  ]
+}
