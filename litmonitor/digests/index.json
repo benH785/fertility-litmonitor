@@ -1,5 +1,15 @@
 [
   {
+    "filename": "digest_2026-09-14.json",
+    "digest_date": "2026-09-14",
+    "generated_at": "2026-09-14T09:16:58Z",
+    "mode": "weekly",
+    "paper_count": 1,
+    "topic_counts": {
+      "endometrial_receptivity_era": 1
+    }
+  },
+  {
     "filename": "digest_2026-09-07.json",
     "digest_date": "2026-09-07",
     "generated_at": "2026-09-07T09:17:18Z",

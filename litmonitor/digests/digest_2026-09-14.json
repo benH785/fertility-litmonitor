@@ -1,0 +1,170 @@
+{
+  "digest_date": "2026-09-14",
+  "generated_at": "2026-09-14T09:16:58Z",
+  "mode": "weekly",
+  "window_start": "2026-09-05",
+  "paper_count": 1,
+  "topic_counts": {
+    "endometrial_receptivity_era": 1
+  },
+  "topics": {
+    "agonist_vs_dual_trigger": {
+      "label": "Dual vs agonist trigger",
+      "priority": "high"
+    },
+    "agonist_trigger_suboptimal": {
+      "label": "Suboptimal agonist trigger response",
+      "priority": "high"
+    },
+    "premature_ovulation": {
+      "label": "Premature ovulation",
+      "priority": "high"
+    },
+    "lead_follicle_oversize": {
+      "label": "Lead follicle size & trigger timing",
+      "priority": "high"
+    },
+    "zymot_microfluidic": {
+      "label": "ZyMot / microfluidic sperm selection",
+      "priority": "high"
+    },
+    "sperm_dna_fragmentation": {
+      "label": "Sperm DNA fragmentation (single-strand) & ART",
+      "priority": "high"
+    },
+    "sperm_dna_double_strand": {
+      "label": "Sperm double-strand DNA damage",
+      "priority": "high"
+    },
+    "tese_high_dfi": {
+      "label": "TESE for high DFI",
+      "priority": "high"
+    },
+    "pgta_advanced_age": {
+      "label": "PGT-A in advanced maternal age",
+      "priority": "high"
+    },
+    "blastocyst_grading_outcomes": {
+      "label": "Blastocyst grading & outcomes",
+      "priority": "medium"
+    },
+    "antagonist_protocol_normoresponder": {
+      "label": "Antagonist protocol in normo-responders",
+      "priority": "medium"
+    },
+    "intercycle_interval": {
+      "label": "Inter-cycle interval",
+      "priority": "low"
+    },
+    "methylation_mthfr_art": {
+      "label": "MTHFR / methylation & ART",
+      "priority": "high"
+    },
+    "one_pn_embryos": {
+      "label": "1PN / abnormal fertilisation",
+      "priority": "high"
+    },
+    "ss31_elamipretide": {
+      "label": "SS-31 / elamipretide & fertility",
+      "priority": "high"
+    },
+    "rapamycin": {
+      "label": "Rapamycin / sirolimus & fertility",
+      "priority": "high"
+    },
+    "embryo_arrest_d3_blast": {
+      "label": "Embryo arrest & blastulation",
+      "priority": "high"
+    },
+    "antioxidant_culture_media": {
+      "label": "Antioxidant culture media",
+      "priority": "high"
+    },
+    "growth_hormone_adjuvant": {
+      "label": "Growth hormone adjuvant in IVF",
+      "priority": "medium"
+    },
+    "time_lapse_morphokinetics": {
+      "label": "Time-lapse / morphokinetic embryo selection",
+      "priority": "medium"
+    },
+    "duostim_luteal_phase": {
+      "label": "DuoStim / luteal-phase stimulation",
+      "priority": "high"
+    },
+    "picsi_hyaluronan_binding": {
+      "label": "PICSI / hyaluronan binding sperm selection",
+      "priority": "medium"
+    },
+    "imsi_high_mag_morphology": {
+      "label": "IMSI / high-magnification sperm morphology",
+      "priority": "medium"
+    },
+    "endometrial_receptivity_era": {
+      "label": "Endometrial receptivity testing (ERA / ER-Map)",
+      "priority": "medium"
+    },
+    "recurrent_implantation_failure": {
+      "label": "Recurrent implantation failure",
+      "priority": "high"
+    },
+    "haploid_embryos_decondensation": {
+      "label": "Haploid embryos & sperm decondensation",
+      "priority": "high"
+    },
+    "varicocele_embolisation_ivf": {
+      "label": "Varicocele embolisation & IVF",
+      "priority": "high"
+    },
+    "choline_pemt_pregnancy": {
+      "label": "Choline / PEMT & pregnancy",
+      "priority": "medium"
+    },
+    "methylfolate_vs_folic_acid_ivf": {
+      "label": "Methylfolate vs folic acid in IVF",
+      "priority": "medium"
+    }
+  },
+  "journals_monitored": [
+    "Hum Reprod",
+    "Hum Reprod Update",
+    "Hum Reprod Open",
+    "Fertil Steril",
+    "F S Rep",
+    "F S Sci",
+    "Reprod Biomed Online",
+    "J Assist Reprod Genet",
+    "Reprod Biol Endocrinol",
+    "Hum Fertil (Camb)",
+    "Reprod Sci",
+    "Andrology",
+    "Mol Hum Reprod",
+    "Reproduction",
+    "Biol Reprod",
+    "Reprod Fertil Dev",
+    "Asian J Androl",
+    "Andrologia"
+  ],
+  "papers": [
+    {
+      "pmid": "42714239",
+      "title": "Heterologous cell-cell junctions support transepithelial endometrial trophoblast invasion in human.",
+      "journal": "Mol Hum Reprod",
+      "pub_date": "2026-09-09",
+      "authors": [
+        "Izmaylova L",
+        "Buhl EM",
+        "Classen-Linke I",
+        "R\u00f6sing B",
+        "Leube RE"
+      ],
+      "abstract": "The first step of embryonic trophoblast invasion involves penetration of the endometrial epithelium, which is a unique biological process involving the junction-free apical surfaces of two distinct epithelia. Although cell-cell junctions have been shown to play a role in the establishment of endometrial receptivity, data on their role in the invasion process are lacking. To examine whether human transepithelial trophoblast invasion is linked to heterologous junction formation between trophoblast and endometrial epithelial cells, we used a three-dimensional in vitro implantation model. Hybridoma-derived AC-1M88 extravillous trophoblast spheroids of defined size (300 \u00b5m) were placed either on endometrial adenocarcinoma-derived Ishikawa monolayers or on biopsy-derived primary endometrial epithelial cell monolayers. Labelling trophoblast and endometrial cells with different fluorescent dyes allowed differentiation of the two cell populations and monitoring of the invasion process for up to two days after attachment. Trophoblast invasion was tracked by fluorescence microscopy and quantified with the help of image analysis tools. We observed collective transepithelial invasion of the trophoblast into the endometrial monolayers. Junction formation was then assessed by transmission electron microscopy and immunofluorescence microscopy. We observed that transepithelial trophoblast invasion was accompanied by de novo formation of tight junctions, adherens junctions and desmosomes between trophoblast and endometrial cells. The relevance of desmosomal adhesion for invasion was furthermore examined by using blocking antibodies against the desmosomal cadherin desmoglein 2. We could demonstrate that the blocking antibodies stalled the invasion process. Together, we conclude that formation of heterologous cell-cell junctions between trophoblast and endometrial epithelial cells is a robust and important mechanism that facilitates implantation. These findings extend previous studies and offer completely new insights into the functional contribution of cell-cell junction rearrangement to embryo implantation.",
+      "doi": "10.1093/molehr/gaag053",
+      "matched_searches": [
+        "endometrial_receptivity_era"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42714239/",
+      "doi_url": "https://doi.org/10.1093/molehr/gaag053"
+    }
+  ]
+}
