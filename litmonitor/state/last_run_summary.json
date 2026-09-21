@@ -1,11 +1,14 @@
 {
-  "run_at": "2026-09-14T09:16:58Z",
+  "run_at": "2026-09-21T09:17:09Z",
   "mode": "weekly",
-  "since": "2026-09-05",
-  "new_papers": 1,
-  "total_seen": 1785,
-  "digest_filename": "digest_2026-09-14.md",
+  "since": "2026-09-12",
+  "new_papers": 4,
+  "total_seen": 1789,
+  "digest_filename": "digest_2026-09-21.md",
   "topic_counts": {
+    "embryo_arrest_d3_blast": 1,
+    "blastocyst_grading_outcomes": 1,
+    "rapamycin": 1,
     "endometrial_receptivity_era": 1
   }
 }

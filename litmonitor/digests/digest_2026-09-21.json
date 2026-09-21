@@ -1,0 +1,229 @@
+{
+  "digest_date": "2026-09-21",
+  "generated_at": "2026-09-21T09:17:09Z",
+  "mode": "weekly",
+  "window_start": "2026-09-12",
+  "paper_count": 4,
+  "topic_counts": {
+    "embryo_arrest_d3_blast": 1,
+    "blastocyst_grading_outcomes": 1,
+    "rapamycin": 1,
+    "endometrial_receptivity_era": 1
+  },
+  "topics": {
+    "agonist_vs_dual_trigger": {
+      "label": "Dual vs agonist trigger",
+      "priority": "high"
+    },
+    "agonist_trigger_suboptimal": {
+      "label": "Suboptimal agonist trigger response",
+      "priority": "high"
+    },
+    "premature_ovulation": {
+      "label": "Premature ovulation",
+      "priority": "high"
+    },
+    "lead_follicle_oversize": {
+      "label": "Lead follicle size & trigger timing",
+      "priority": "high"
+    },
+    "zymot_microfluidic": {
+      "label": "ZyMot / microfluidic sperm selection",
+      "priority": "high"
+    },
+    "sperm_dna_fragmentation": {
+      "label": "Sperm DNA fragmentation (single-strand) & ART",
+      "priority": "high"
+    },
+    "sperm_dna_double_strand": {
+      "label": "Sperm double-strand DNA damage",
+      "priority": "high"
+    },
+    "tese_high_dfi": {
+      "label": "TESE for high DFI",
+      "priority": "high"
+    },
+    "pgta_advanced_age": {
+      "label": "PGT-A in advanced maternal age",
+      "priority": "high"
+    },
+    "blastocyst_grading_outcomes": {
+      "label": "Blastocyst grading & outcomes",
+      "priority": "medium"
+    },
+    "antagonist_protocol_normoresponder": {
+      "label": "Antagonist protocol in normo-responders",
+      "priority": "medium"
+    },
+    "intercycle_interval": {
+      "label": "Inter-cycle interval",
+      "priority": "low"
+    },
+    "methylation_mthfr_art": {
+      "label": "MTHFR / methylation & ART",
+      "priority": "high"
+    },
+    "one_pn_embryos": {
+      "label": "1PN / abnormal fertilisation",
+      "priority": "high"
+    },
+    "ss31_elamipretide": {
+      "label": "SS-31 / elamipretide & fertility",
+      "priority": "high"
+    },
+    "rapamycin": {
+      "label": "Rapamycin / sirolimus & fertility",
+      "priority": "high"
+    },
+    "embryo_arrest_d3_blast": {
+      "label": "Embryo arrest & blastulation",
+      "priority": "high"
+    },
+    "antioxidant_culture_media": {
+      "label": "Antioxidant culture media",
+      "priority": "high"
+    },
+    "growth_hormone_adjuvant": {
+      "label": "Growth hormone adjuvant in IVF",
+      "priority": "medium"
+    },
+    "time_lapse_morphokinetics": {
+      "label": "Time-lapse / morphokinetic embryo selection",
+      "priority": "medium"
+    },
+    "duostim_luteal_phase": {
+      "label": "DuoStim / luteal-phase stimulation",
+      "priority": "high"
+    },
+    "picsi_hyaluronan_binding": {
+      "label": "PICSI / hyaluronan binding sperm selection",
+      "priority": "medium"
+    },
+    "imsi_high_mag_morphology": {
+      "label": "IMSI / high-magnification sperm morphology",
+      "priority": "medium"
+    },
+    "endometrial_receptivity_era": {
+      "label": "Endometrial receptivity testing (ERA / ER-Map)",
+      "priority": "medium"
+    },
+    "recurrent_implantation_failure": {
+      "label": "Recurrent implantation failure",
+      "priority": "high"
+    },
+    "haploid_embryos_decondensation": {
+      "label": "Haploid embryos & sperm decondensation",
+      "priority": "high"
+    },
+    "varicocele_embolisation_ivf": {
+      "label": "Varicocele embolisation & IVF",
+      "priority": "high"
+    },
+    "choline_pemt_pregnancy": {
+      "label": "Choline / PEMT & pregnancy",
+      "priority": "medium"
+    },
+    "methylfolate_vs_folic_acid_ivf": {
+      "label": "Methylfolate vs folic acid in IVF",
+      "priority": "medium"
+    }
+  },
+  "journals_monitored": [
+    "Hum Reprod",
+    "Hum Reprod Update",
+    "Hum Reprod Open",
+    "Fertil Steril",
+    "F S Rep",
+    "F S Sci",
+    "Reprod Biomed Online",
+    "J Assist Reprod Genet",
+    "Reprod Biol Endocrinol",
+    "Hum Fertil (Camb)",
+    "Reprod Sci",
+    "Andrology",
+    "Mol Hum Reprod",
+    "Reproduction",
+    "Biol Reprod",
+    "Reprod Fertil Dev",
+    "Asian J Androl",
+    "Andrologia"
+  ],
+  "papers": [
+    {
+      "pmid": "42760497",
+      "title": "Novel and recurrent TUBB8 variants cause irreversible meiotic spindle defects and refractory ART failure in Chinese women with oocyte maturation arrest.",
+      "journal": "J Assist Reprod Genet",
+      "pub_date": "2026-09-18",
+      "authors": [
+        "Zhuang XJ",
+        "Li Y",
+        "Lian Y",
+        "Qiu X",
+        "Liu NN",
+        "Wang Y",
+        "Li R",
+        "Liu P"
+      ],
+      "abstract": "PURPOSE: Oocyte maturation arrest (OMA) is a major monogenic cause of unexplained female infertility and recurrent assisted reproductive technology (ART) failure. TUBB8, which encodes an oocyte-specific \u03b2-tubulin isoform essential for acentrosomal spindle assembly, represents the most common genetic etiology of metaphase I (MI) arrest. This study aimed to identify pathogenic TUBB8 variants and characterize their clinical phenotypes and molecular mechanisms in Chinese women with unexplained recurrent OMA.\n\nMETHODS: Six unrelated Chinese women with primary infertility and persistent OMA were enrolled. Whole-exome sequencing and Sanger sequencing were performed to identify and validate TUBB8 variants. Inheritance patterns, oocyte morphology, spindle integrity, and clinical ART outcomes were systematically evaluated. Three-dimensional structural modeling was used to predict the functional impact of the identified variants.\n\nRESULTS: Five heterozygous missense variants were identified: c.292G\u2009>\u2009A (p.Gly98Arg), c.731G\u2009>\u2009A (p.Gly244Asp), c.735G\u2009>\u2009C (p.Gln245His), c.845G\u2009>\u2009C (p.Arg282Pro), and c.880\u00a0T\u2009>\u2009C (p.Phe294Leu). All variants mapped to evolutionarily conserved, functionally essential domains and were predicted to be deleterious. All patients exhibited normal ovarian reserve and endocrine profiles but uniform, irreversible MI arrest: 85.4% of retrieved oocytes arrested at MI, with only 5.7% reaching metaphase II. Polarization microscopy revealed absent or severely disorganized spindles. Despite ICSI combined with artificial oocyte activation, the fertilization rate was only 6.3%, with no blastocyst formation or clinical pregnancy. Structural modeling suggested that these variants may interfere with GTP hydrolysis, lateral protofilament interactions, and C-terminal hydrophobic networks, thereby exerting dominant-negative effects on spindle assembly.\n\nCONCLUSIONS: This study expands the pathogenic mutational spectrum of TUBB8 and confirms that novel and recurrent TUBB8 missense variants cause irreversible MI arrest and complete ART refractoriness in Chinese women. Our findings support routine TUBB8 genetic screening as a valuable diagnostic tool for unexplained recurrent OMA, facilitating early diagnosis, avoidance of futile ART cycles, and personalized reproductive counseling.",
+      "doi": "10.1007/s10815-026-04025-7",
+      "matched_searches": [
+        "embryo_arrest_d3_blast"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42760497/",
+      "doi_url": "https://doi.org/10.1007/s10815-026-04025-7"
+    },
+    {
+      "pmid": "42752920",
+      "title": "Mitochondria-Associated Transcription Precedes Oxidative Phosphorylation in Human Embryos.",
+      "journal": "Reproduction",
+      "pub_date": "2026-09-17",
+      "authors": [
+        "Piasecki AJ",
+        "Franco M",
+        "Capelluto F",
+        "Khrapko K",
+        "Tilly JL",
+        "Woods DC"
+      ],
+      "abstract": "Mitochondria undergo significant structural and functional changes during human pre-implantation embryogenesis, yet the transcriptional activity of both nuclear-encoded mitochondria-associated genes and mitochondrially transcribed genes across this developmental window remains poorly characterized. While mitochondria are established as the primary energy source for the early embryo, emerging evidence suggests they may also influence lineage specification through epigenetic regulation and metabolite availability. To investigate this, we applied a focused organelle-specific transcriptomic analysis framework, filtering expression data from two publicly available human single-cell RNA sequencing datasets against the MitoCarta 3.0 reference database. The first dataset spanned individual cells from the oocyte through blastocyst stage, and the second compared trophectoderm and inner cell mass cells isolated from blastocysts. Mitochondria-associated gene expression was sufficient to cluster human embryos by developmental stage. A pronounced shift in expression was identified at the 4-cell to 8-cell transition, with 115 unique differentially expressed genes across the two stages immediately following this transition compared to only 5 across the two prior stages. This transcriptional upregulation precedes the known onset of oxidative phosphorylation at approximately the 32-cell stage, suggesting mitochondrial roles in early embryogenesis beyond energy production. Mitochondrially transcribed genes were the primary drivers of clustering in earlier developmental stages, while nuclear-encoded genes drove clustering at the blastocyst stage, and mitochondrial gene expression profiles partially distinguished trophectoderm from inner cell mass lineages. These findings reframe mitochondria as active participants in early human developmental programming, with implications for lineage specification, epigenetic regulation, and the optimization of in vitro embryo culture conditions.",
+      "doi": "10.1093/reprod/xaag117",
+      "matched_searches": [
+        "blastocyst_grading_outcomes"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42752920/",
+      "doi_url": "https://doi.org/10.1093/reprod/xaag117"
+    },
+    {
+      "pmid": "42745020",
+      "title": "A Biological Disease-Staging Model of Polyendocrine Metabolic Ovarian Syndrome: From Plasticity-Dominant States to Pathological Remodeling.",
+      "journal": "Reprod Sci",
+      "pub_date": "2026-09-15",
+      "authors": [
+        "Kobayashi H"
+      ],
+      "abstract": "Polyendocrine metabolic ovarian syndrome (PMOS) is a heterogeneous endocrine-metabolic disorder characterized by reproductive dysfunction, metabolic abnormalities, and hormonal dysregulation. Although the Rotterdam criteria are widely used for phenotypic classification, accumulating evidence suggests that disease heterogeneity reflects varying contributions of insulin resistance, hyperandrogenism, chronic inflammation, mitochondrial dysfunction, autophagy dysregulation, and cellular senescence. To review the role of integrated intracellular signaling networks in PMOS and propose a conceptual model that explains disease progression and heterogeneity. A narrative review of studies published through December 2025 was conducted, focusing on insulin resistance, androgen excess, inflammation, autophagy, mitochondrial dysfunction, cellular senescence, and reproductive dysfunction. The present review proposes a three-stage disease spectrum consisting of a plasticity-dominant state, an adaptive-transition state, and a pathological-remodeling state. The plasticity-dominant state is characterized by preserved tissue adaptability despite metabolic and endocrine abnormalities. The adaptive-transition state involves persistent signaling dysregulation accompanied by impaired autophagy and mitochondrial dysfunction. In the pathological-remodeling state, cellular senescence, senescence-associated secretory phenotype (SASP)-driven inflammation, fibrosis, and tissue remodeling become increasingly prominent, resulting in reduced tissue plasticity and sustained disease maintenance. In conclusion, PMOS may be better understood as a dynamic pathophysiological spectrum rather than a static disorder. This model integrates metabolic dysfunction, inflammation, mitochondrial impairment, cellular senescence, and tissue remodeling, providing a complementary framework to the Rotterdam classification and a potential basis for improved disease stratification and personalized therapeutic strategies.",
+      "doi": "10.1007/s43032-026-02191-8",
+      "matched_searches": [
+        "rapamycin"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42745020/",
+      "doi_url": "https://doi.org/10.1007/s43032-026-02191-8"
+    },
+    {
+      "pmid": "42745023",
+      "title": "Dual Roles of Autophagy in Endometrial Fibrosis and Its Implications in Age-Related Reproductive Dysfunction.",
+      "journal": "Reprod Sci",
+      "pub_date": "2026-09-15",
+      "authors": [
+        "Kobayashi H"
+      ],
+      "abstract": "With the increasing prevalence of pregnancies at advanced maternal age, elucidating the molecular mechanisms underlying reproductive aging has become an important clinical challenge. In addition to ovarian aging, accumulating evidence suggests that age-related alterations in the endometrium contribute to impaired implantation and adverse reproductive outcomes. Autophagy, a highly conserved intracellular quality-control system, regulates mitochondrial homeostasis, metabolism, inflammation, and tissue remodeling. This review summarizes current evidence regarding the role of autophagy in endometrial fibrosis associated with reproductive aging. We first outline the general molecular mechanisms of autophagy-mediated fibrosis based on studies in multiple organs and then critically evaluate evidence specific to the endometrium. Impaired autophagy promotes oxidative stress, mitochondrial dysfunction, cellular senescence, epithelial-mesenchymal transition, fibroblast-to-myofibroblast transition, and extracellular matrix accumulation, thereby contributing to fibrotic remodeling and reduced endometrial receptivity. Conversely, under specific cellular and microenvironmental conditions, autophagy may facilitate profibrotic remodeling, highlighting its context-dependent dual role. We further discuss current evidence, limitations, and future research priorities, emphasizing the distinction between mechanisms established in the endometrium and concepts extrapolated from other organs. A better understanding of cell type-specific and age-dependent autophagy may facilitate the development of biomarkers and safe therapeutic strategies for endometrial fibrosis and reproductive aging.",
+      "doi": "10.1007/s43032-026-02192-7",
+      "matched_searches": [
+        "endometrial_receptivity_era"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42745023/",
+      "doi_url": "https://doi.org/10.1007/s43032-026-02192-7"
+    }
+  ]
+}
