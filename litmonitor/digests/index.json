@@ -1,5 +1,24 @@
 [
   {
+    "filename": "digest_2026-09-28.json",
+    "digest_date": "2026-09-28",
+    "generated_at": "2026-09-28T09:20:54Z",
+    "mode": "weekly",
+    "paper_count": 11,
+    "topic_counts": {
+      "agonist_trigger_suboptimal": 1,
+      "antagonist_protocol_normoresponder": 2,
+      "zymot_microfluidic": 2,
+      "methylation_mthfr_art": 2,
+      "recurrent_implantation_failure": 2,
+      "embryo_arrest_d3_blast": 2,
+      "choline_pemt_pregnancy": 1,
+      "pgta_advanced_age": 1,
+      "endometrial_receptivity_era": 1,
+      "sperm_dna_fragmentation": 2
+    }
+  },
+  {
     "filename": "digest_2026-09-21.json",
     "digest_date": "2026-09-21",
     "generated_at": "2026-09-21T09:17:09Z",

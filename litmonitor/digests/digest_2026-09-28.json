@@ -1,0 +1,392 @@
+{
+  "digest_date": "2026-09-28",
+  "generated_at": "2026-09-28T09:20:54Z",
+  "mode": "weekly",
+  "window_start": "2026-09-19",
+  "paper_count": 11,
+  "topic_counts": {
+    "agonist_trigger_suboptimal": 1,
+    "antagonist_protocol_normoresponder": 2,
+    "zymot_microfluidic": 2,
+    "methylation_mthfr_art": 2,
+    "recurrent_implantation_failure": 2,
+    "embryo_arrest_d3_blast": 2,
+    "choline_pemt_pregnancy": 1,
+    "pgta_advanced_age": 1,
+    "endometrial_receptivity_era": 1,
+    "sperm_dna_fragmentation": 2
+  },
+  "topics": {
+    "agonist_vs_dual_trigger": {
+      "label": "Dual vs agonist trigger",
+      "priority": "high"
+    },
+    "agonist_trigger_suboptimal": {
+      "label": "Suboptimal agonist trigger response",
+      "priority": "high"
+    },
+    "premature_ovulation": {
+      "label": "Premature ovulation",
+      "priority": "high"
+    },
+    "lead_follicle_oversize": {
+      "label": "Lead follicle size & trigger timing",
+      "priority": "high"
+    },
+    "zymot_microfluidic": {
+      "label": "ZyMot / microfluidic sperm selection",
+      "priority": "high"
+    },
+    "sperm_dna_fragmentation": {
+      "label": "Sperm DNA fragmentation (single-strand) & ART",
+      "priority": "high"
+    },
+    "sperm_dna_double_strand": {
+      "label": "Sperm double-strand DNA damage",
+      "priority": "high"
+    },
+    "tese_high_dfi": {
+      "label": "TESE for high DFI",
+      "priority": "high"
+    },
+    "pgta_advanced_age": {
+      "label": "PGT-A in advanced maternal age",
+      "priority": "high"
+    },
+    "blastocyst_grading_outcomes": {
+      "label": "Blastocyst grading & outcomes",
+      "priority": "medium"
+    },
+    "antagonist_protocol_normoresponder": {
+      "label": "Antagonist protocol in normo-responders",
+      "priority": "medium"
+    },
+    "intercycle_interval": {
+      "label": "Inter-cycle interval",
+      "priority": "low"
+    },
+    "methylation_mthfr_art": {
+      "label": "MTHFR / methylation & ART",
+      "priority": "high"
+    },
+    "one_pn_embryos": {
+      "label": "1PN / abnormal fertilisation",
+      "priority": "high"
+    },
+    "ss31_elamipretide": {
+      "label": "SS-31 / elamipretide & fertility",
+      "priority": "high"
+    },
+    "rapamycin": {
+      "label": "Rapamycin / sirolimus & fertility",
+      "priority": "high"
+    },
+    "embryo_arrest_d3_blast": {
+      "label": "Embryo arrest & blastulation",
+      "priority": "high"
+    },
+    "antioxidant_culture_media": {
+      "label": "Antioxidant culture media",
+      "priority": "high"
+    },
+    "growth_hormone_adjuvant": {
+      "label": "Growth hormone adjuvant in IVF",
+      "priority": "medium"
+    },
+    "time_lapse_morphokinetics": {
+      "label": "Time-lapse / morphokinetic embryo selection",
+      "priority": "medium"
+    },
+    "duostim_luteal_phase": {
+      "label": "DuoStim / luteal-phase stimulation",
+      "priority": "high"
+    },
+    "picsi_hyaluronan_binding": {
+      "label": "PICSI / hyaluronan binding sperm selection",
+      "priority": "medium"
+    },
+    "imsi_high_mag_morphology": {
+      "label": "IMSI / high-magnification sperm morphology",
+      "priority": "medium"
+    },
+    "endometrial_receptivity_era": {
+      "label": "Endometrial receptivity testing (ERA / ER-Map)",
+      "priority": "medium"
+    },
+    "recurrent_implantation_failure": {
+      "label": "Recurrent implantation failure",
+      "priority": "high"
+    },
+    "haploid_embryos_decondensation": {
+      "label": "Haploid embryos & sperm decondensation",
+      "priority": "high"
+    },
+    "varicocele_embolisation_ivf": {
+      "label": "Varicocele embolisation & IVF",
+      "priority": "high"
+    },
+    "choline_pemt_pregnancy": {
+      "label": "Choline / PEMT & pregnancy",
+      "priority": "medium"
+    },
+    "methylfolate_vs_folic_acid_ivf": {
+      "label": "Methylfolate vs folic acid in IVF",
+      "priority": "medium"
+    }
+  },
+  "journals_monitored": [
+    "Hum Reprod",
+    "Hum Reprod Update",
+    "Hum Reprod Open",
+    "Fertil Steril",
+    "F S Rep",
+    "F S Sci",
+    "Reprod Biomed Online",
+    "J Assist Reprod Genet",
+    "Reprod Biol Endocrinol",
+    "Hum Fertil (Camb)",
+    "Reprod Sci",
+    "Andrology",
+    "Mol Hum Reprod",
+    "Reproduction",
+    "Biol Reprod",
+    "Reprod Fertil Dev",
+    "Asian J Androl",
+    "Andrologia"
+  ],
+  "papers": [
+    {
+      "pmid": "42786378",
+      "title": "The two-shot protocol. A randomized controlled trial of a novel two-injection ovarian stimulation strategy.",
+      "journal": "Hum Reprod",
+      "pub_date": "2026-09-25",
+      "authors": [
+        "Donno V",
+        "Sachs-Guedj N",
+        "Devesa M",
+        "Garc\u00eda-Martinez S",
+        "Rodriguez I",
+        "Polyzos NP"
+      ],
+      "abstract": "STUDY QUESTION: Is the number of MII (metaphase II) oocytes comparable in the two-shot protocol versus the conventional corifollitropin alfa (CFA) followed by follitropin-beta protocol?\n\nSUMMARY ANSWER: Although the mean number of MII oocytes did not differ significantly between the two-shot protocol and the control group, non-inferiority was not statistically met.\n\nWHAT IS KNOWN ALREADY: Controlled ovarian stimulation (COS) protocols are often associated with significant side effects, largely due to the burden of multiple daily injections. Efforts to develop more patient-friendly protocols include the shift from GnRH-agonist to antagonist protocols and the introduction of progestin protocol for pituitary suppression\u00a0(PPS). While such patient-friendly approaches benefit infertile patients, they are even more appealing for women undergoing COS for elective fertility preservation. The current study aims to compare a novel ovarian stimulation protocol involving two sequential CFA injections (two-shot protocol) with a conventional approach using CFA and follitropin-beta in elective fertility preservation.\n\nSTUDY DESIGN, SIZE, DURATION: Phase III, randomized, controlled, single-center, non-inferiority clinical trial conducted at a Fertility Unit within a University-Affiliated Hospital between December 2023 and July 2025. A total of 194 women were enrolled with a 1:1 allocation. Eligible participants were \u226440, with antral follicular count <20, and anti-Mullerian hormone (AMH)\u2009\u2264\u20093 ng/ml. Participants were randomized to receive either two sequential shots of CFA (150\u2009mcg on Day 1\u2009+\u2009100 mcg on Day 5) or CFA (150\u2009mcg) on Day 1, followed by recombinant FSH (200\u2009IU/day) from Day 8.\n\nPARTICIPANTS/MATERIALS, SETTING, METHODS: In both groups, the LH surge was suppressed using a PPS protocol with daily oral desogestrel 75\u2009mcg from the beginning of stimulation until the trigger day. Final oocyte maturation was triggered with GnRH-agonist (triptorelin 0.2\u2009mg). The primary outcome was to compare the two ovarian stimulation protocols in terms of the number of MII oocytes. Comparisons will be made using the estimated mean difference (MD) and corresponding 95% CI.\n\nMAIN RESULTS AND THE ROLE OF CHANCE: A total of 194 patients were assessed for eligibility and randomized into two groups: 97 patients were assigned to the two-shot protocol (Group A), while 97 patients followed the conventional protocol involving CFA followed by rFSH (Group B). No statistically significant differences were found in the mean number of oocytes nor MII oocytes between the two-shot protocol and the control group, respectively, 8.09\u2009\u00b1\u20095.87 vs 9.11\u2009\u00b1\u20096.86; MD -1.02 [95% CI: -2.83; 0.79] and 6.14\u2009\u00b1\u20094.59 vs 7.19\u2009\u00b1\u20095.67, MD -1.04 [95% CI: -2.27; 0.18]. However, because the lower bound of the CI for the primary endpoint (-2.27) exceeded the pre-specified non-inferiority margin of -1.5 MII oocytes, non-inferiority of the two-shot protocol could not be demonstrated. Duration of stimulation (10.27\u2009\u00b1\u20091.69 vs 10.19\u2009\u00b1\u20091.47\u2009days; MD 0.09 [95% CI -0.39; 0.56]) and number of follicles \u226514\u2009mm on trigger day (10.67\u2009\u00b1\u20095.36 vs 11.14\u2009\u00b1\u20095.46; MD -0.47 [95% CI -2.11; 1.17]) were comparable between groups. The hormonal assessment performed during the stimulation revealed no clinically meaningful differences, except for the FSH concentrations, which were markedly higher in Group A on Day 8 (53.43\u2009\u00b1\u200913.28 vs 24.60\u2009\u00b1\u20098.33\u2009IU/l; MD 28.82 [95% CI: 25.39; 32.25]) and remained higher on the day of ovulation trigger (31.28\u2009\u00b1\u20099.50 vs 24.46\u2009\u00b1\u20095.01\u2009IU/l; MD 6.82 [95% CI: 4.32; 9.32]).\n\nLIMITATIONS, REASONS FOR CAUTION: The current study focused only in elective fertility preservation women, preventing conclusions on embryological differences between the protocols. Furthermore, since the sample size was powered to detect differences in the number of MII oocytes, findings for secondary outcomes, such as the hormonal profile, should be interpreted with caution.\n\nWIDER IMPLICATIONS OF THE FINDINGS: The two-shot protocol yielded a comparable number of MII oocytes to conventional stimulation; however, the pre-specified non-inferiority margin was not met, as the CI could not exclude a true reduction exceeding 1.5 MII oocytes. The point estimate of approximately one fewer MII oocyte is unlikely to be clinically meaningful, but larger studies are required before the protocol can be formally established as non-inferior.\n\nFUNDING: The study was supported by Fundaci\u00f3n Santiago Dexeus Font and an unrestricted grant by Organon.\n\nDISCLOSURES: N.P.P. has received research grant funding paid to the institution and personal honoraria for lectures from Organon. V.D. has received payment or honoraria for lectures from Organon. N.S.-G., M.D., S.G.-M., and I.R. have not conflict of interest to declare.\n\nTRIAL REGISTRATION NUMBER: NCT06134479.\n\nTRIAL REGISTRATION DATE: 18 November 2023.\n\nDATE OF FIRST PATIENT\u2019S ENROLMENT: 18 December 2023.",
+      "doi": "10.1093/humrep/deag142",
+      "matched_searches": [
+        "agonist_trigger_suboptimal",
+        "antagonist_protocol_normoresponder"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42786378/",
+      "doi_url": "https://doi.org/10.1093/humrep/deag142"
+    },
+    {
+      "pmid": "42791498",
+      "title": "From Cell Clusters to Complexity: Testicular Organoids as Emerging Platforms in Male Reproductive Research and Biotechnological Innovation.",
+      "journal": "Andrology",
+      "pub_date": "2026-09-25",
+      "authors": [
+        "Gorgulu M",
+        "Sati L"
+      ],
+      "abstract": "Conventional 2D cultures and animal models incompletely recapitulate the human testicular niche, limiting translation for male infertility, toxicology, and endocrine research. Limited and highly variable access to human testicular tissue restricts translational research. Testicular organoids (TOs), self-organizing assemblies of germ and somatic cells within biomimetic scaffolds, microfluidic chips, or bioprinted constructs, can reproduce seminiferous cord/tubule-like organization, elements of the blood-testis barrier and steroidogenic function, and increasingly support germ-cell progression. By integrating defined media, matrix cues, and controlled microenvironments, TO platforms enable mechanism-driven studies and human-relevant new approach methodologies for toxicology, disease modeling, and fertility-preservation research. This, in turn, supports endocrine and reprotoxicology testing, disease modeling, and prepubertal fertility-preservation strategies. Broad and responsible adoption will require clinically concordant read-outs, stable long-term cultures, reproducible and complete human spermatogenesis, and a robust ethical framework. This review aims to comprehensively evaluate TO systems, spanning cell sources, biomaterials, and microenvironmental control to functional read-outs of morphogenesis, steroidogenesis, and germ-cell progression. By synthesizing recent advances, we clarify mechanistic determinants of organoid performance and outline their translational implications for male infertility research, toxicology, and fertility-preservation strategies.",
+      "doi": "10.1111/andr.70397",
+      "matched_searches": [
+        "zymot_microfluidic"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42791498/",
+      "doi_url": "https://doi.org/10.1111/andr.70397"
+    },
+    {
+      "pmid": "42786259",
+      "title": "Interindividual variability of sperm DNA methylation is associated with reduced fecundability in couples attempting natural conception.",
+      "journal": "Hum Reprod",
+      "pub_date": "2026-09-25",
+      "authors": [
+        "Nowak K",
+        "Nobles CJ",
+        "Oluwayiose OA",
+        "Bertolla RP",
+        "Suvorov A",
+        "Pilsner JR"
+      ],
+      "abstract": "STUDY QUESTION: Is sperm DNA methylation variability, referred here as sperm Epigenetic Variability Outliers and Stochasticity (EVOS), associated with time-to-pregnancy (TTP) and pregnancy outcomes in couples attempting to conceive naturally?\n\nSUMMARY ANSWER: Higher sperm EVOS is linked to reduced fecundability in couples attempting to conceive naturally.\n\nWHAT IS KNOWN ALREADY: Sperm methylation variability in promoter regions has been linked to poor reproductive outcomes in the clinical population.\n\nSTUDY DESIGN, SIZE, DURATION: The study was conducted among couples from the Longitudinal Investigation of Fertility and the Environment (LIFE) Study (n\u2009=\u2009372), which comprised couples attempting natural conception.\n\nPARTICIPANTS/MATERIALS, SETTING, METHODS: Sperm EVOS was calculated as the sum of sperm DNA methylation CpG outliers on the Illumina EPIC (v1) array. The association of log-transformed sperm EVOS and TTP was examined using Cox proportional hazards model (CoxPH) and Kaplan-Meier survival analysis (KM), and by comparing pregnancy rates at 3, 6, and 12\u2009months of follow-up. Associations between sperm EVOS and pregnancy outcomes (gestational age, live birth, and newborn metrics) were also investigated using multivariable linear or logistic regression. Models were performed with and without adjustments for potential confounders, including male and female age, BMI, smoking status, and average methylation at the DLK1 region as an indicator for potential somatic cell contamination. Sensitivity analysis was restricted to couples with normospermic men based on 5th percentile values from the World Health Organization (WHO) 2010. The functional and biological relevance of CpGs identified with EVOS were evaluated using Metascape.\n\nMAIN RESULTS AND THE ROLE OF CHANCE: Sperm EVOS displayed a right-skewed distribution, with median numbers of EVOS CpGs of 673. Men from non-pregnant couples had higher median sperm EVOS than men from pregnant couples at 3, 6, and 12\u2009months (P\u2009<\u20090.05). In both crude and adjusted CoxPH, sperm EVOS was associated with reduced fecundability of couples attempting natural conception (adjusted fecundability odds ratio (FOR)\u2009=\u20090.79; 95% CI: 0.67, 0.94; P\u2009=\u20090.01), indicating a longer TTP. KM analysis revealed that couples in the highest quartile (Q4) of EVOS had longer times to pregnancy compared to those in the middle (Q2+Q3) and lowest (Q1) quartiles (P\u2009=\u20090.001), with respective 66% (95% CI: 53%, 75%), 81% (95% CI: 73%, 87%), and 86% (95% CI: 76%, 91%) predicted probabilities of conceiving within 12\u2009months for each group. No association was found between sperm EVOS and live birth, gestational age or newborn metrics. Functional enrichment analysis revealed that most variable EVOS-associated sites were enriched in genes involved in glycolysis, carbohydrate metabolism, DNA damage checkpoint signaling, and ciliary landscape pathways. Sensitivity analysis restricted to couples of men classified as normospermic (n\u2009=\u2009285) according to 2010 WHO criteria indicated a similar inverse association between sperm EVOS and couple fecundability (FOR = 0.82, 95% CI: 0.68, 0.99; P\u2009=\u20090.04).\n\nLARGE SCALE DATE: Sperm DNA methylation data are available at the GEO repository GSE185445.\n\nLIMITATIONS, REASONS FOR CAUTION: Identification of normospermic men was performed irrespective of sperm motility, which was measured after overnight transport on ice.\n\nWIDER IMPLICATIONS OF THE FINDINGS: Sperm EVOS captures inter-individual epigenetic variability characterized by the accumulation of deviations from normal site-specific DNA methylation patterns throughout the sperm methylome, which may reflect DNA damage and alterations in epigenetic maintenance. Our findings indicate that the accumulation of DNA methylation outliers in sperm is associated with lower pregnancy probabilities in the general population. Such findings suggest that sperm EVOS may represent a novel epigenetic biomarker of fecundability in couples attempting natural conception, including couples in which men are classified as having normal semen parameters.\n\nFUNDING: This work was funded in part by grants from the National Institutes of Health (R01-ES028298 J.R.P.) and the Robert J. Sokol, MD Endowed Chair of Molecular Obstetrics and Gynecology (J.R.P.).\n\nDISCLOSURES: The authors declare no competing financial interests or personal interests.\n\nTRIAL REGISTRATION NUMBER: N/A.",
+      "doi": "10.1093/humrep/deag145",
+      "matched_searches": [
+        "methylation_mthfr_art"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42786259/",
+      "doi_url": "https://doi.org/10.1093/humrep/deag145"
+    },
+    {
+      "pmid": "42786421",
+      "title": "Male infertility research for the ART clinic: priorities to enhance patient outcomes, education and wellbeing.",
+      "journal": "Hum Reprod Update",
+      "pub_date": "2026-09-24",
+      "authors": [
+        "Bennett GA",
+        "Smyth SP",
+        "Gardner DK",
+        "Bromfield EG"
+      ],
+      "abstract": "BACKGROUND: Men attending ART clinics often have poor fertility awareness and are typically overlooked for psychological support. Recent developments in understanding the link between sub-fertility, healthspan and lifespan enforce the need for comprehensive health assessments of men attending ART clinics. Evidence now suggests paternal factors including genetics, epigenetics, paternal age, oxidative stress and DNA damage contribute to embryo development and the health of the offspring. With the described decline in global sperm counts, overall male reproductive health and the increased utilisation of ART, it is imperative that research focuses on improving ART protocols for male factor infertility and investigates novel treatments for patients. Sperm contributions in ART are often overlooked, leading to optimisation of the clinical environment to focus on oocytes and embryos. Research into improving ART protocols for sperm is growing, but the clinical implementation has been slow. In parallel, current treatment options for male infertility are limited to procedures like ICSI, which bypass the underlying physiological causes of infertility. Ongoing research into sperm in clinical settings, as well as better patient psychosocial care, is therefore key to improving patient outcomes and wellbeing.\n\nOBJECTIVE AND RATIONALE: This review aims to evaluate the current standing of male reproductive health management in ART clinics with a unique focus on integrated patient care from men's fertility awareness, through to psychosocial support and targeted education. Additionally, this review aims to identify major barriers that currently prevent rapid integration of novel technologies for male infertility diagnostics and treatments into ART clinics.\n\nSEARCH METHODS: PubMed searches were performed to identify peer-reviewed articles and reviews using the following terms: 'sperm preparation/selection', 'male reproductive health', 'male infertility', 'diagnostics', 'cryopreservation', 'ART', 'fertility education', 'fertility awareness', 'artificial intelligence', and 'sperm' in combination with other key words related to the subject. No restriction was placed on date; all relevant studies up until March\u00a02026 were evaluated and discussed. References within articles were also searched.\n\nOUTCOMES: In an ART setting, men rarely receive routine healthcare follow-up after providing a sample for assisted reproduction. Through integration of several underrepresented aspects of male health care, this review concludes that male reproductive health should be managed more collaboratively by medical specialists, including general practitioners, urologists, endocrinologists and andrologists, to understand the underlying cause of male infertility and determine an appropriate treatment. Moreover, this review finds that the integration of mental health professionals into the ART clinic environment is urgently needed to ensure appropriate counselling and care for people during and following fertility treatment. Finally, we determined that a lack of direct collaboration between researchers and clinical practitioners may be partly responsible for the slow uptake of novel technologies into the ART clinic.\n\nWIDER IMPLICATIONS: Further research needs to be undertaken to improve public health messaging and education for men about their fertility. An overarching theme identified by this review is the need for targeted collaboration between research scientists and clinicians to improve men's reproductive care, in turn, culminating in faster clinical adoption of beneficial techniques and products to improve patient outcomes. This review highlights an urgent need for more integrated models of fertility care that extend from men's fertility awareness and education, through to improvements of 'in clinic' appraisal of the underlying causes of male infertility, and finally, better inclusion of men's psychosocial support into reproductive care.\n\nREGISTRATION NUMBER: n/a.",
+      "doi": "10.1093/humupd/dmag027",
+      "matched_searches": [
+        "zymot_microfluidic"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42786421/",
+      "doi_url": "https://doi.org/10.1093/humupd/dmag027"
+    },
+    {
+      "pmid": "42786469",
+      "title": "A novel approach to treating Endometriosis-Related Repeated IVF failures- insights from single case report.",
+      "journal": "Reprod Biol Endocrinol",
+      "pub_date": "2026-09-24",
+      "authors": [
+        "Orvieto R"
+      ],
+      "abstract": "This report explores the case of a young, normal-responder nulligravida with peritoneal endometriosis and recurrent implantation failure, with poor embryo quality during multiple failed attempts at IVF treatment. The patient underwent Dienogest (Visabelle\u00ae) pretreatment followed by a combination protocol of Stop GnRH-agonist/GnRH-antagonist for controlled ovarian stimulation, culminating in a natural cycle frozen-thawed embryo transfer with modified luteal phase support. This combined approach produced several high-quality embryos leading to a successful singleton pregnancy. These findings provide new insights into addressing endometriosis-associated infertility and repeated IVF failure.",
+      "doi": "10.1186/s12958-026-01610-4",
+      "matched_searches": [
+        "antagonist_protocol_normoresponder",
+        "recurrent_implantation_failure"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42786469/",
+      "doi_url": "https://doi.org/10.1186/s12958-026-01610-4"
+    },
+    {
+      "pmid": "42777255",
+      "title": "Maternal TRIM28 safeguards bovine embryonic genome activation by regulating SAM-dependent methylation via lipid metabolism.",
+      "journal": "Hum Reprod",
+      "pub_date": "2026-09-23",
+      "authors": [
+        "Zhan C",
+        "Guo J",
+        "Zhong C",
+        "Long F",
+        "Wang C",
+        "Cui XS",
+        "Schultz RM",
+        "Lyu W",
+        "Ma X"
+      ],
+      "abstract": "STUDY QUESTION: Does maternal TRIM28 coordinate lipid metabolism and epigenetic regulation during bovine preimplantation development?\n\nSUMMARY ANSWER: Maternal TRIM28 preserves phospholipid homeostasis and S-adenosylmethionine (SAM) availability to maintain H3K9me3-dependent transcriptional repression during embryonic genome activation (EGA).\n\nWHAT IS KNOWN ALREADY: Successful preimplantation development requires tight coordination between metabolic remodeling and epigenetic reprogramming. TRIM28 is a conserved transcriptional co-repressor essential for chromatin silencing and embryonic development, but whether it integrates metabolic and epigenetic regulation during mammalian EGA remains unclear. Bovine embryos share several developmental features with human embryos, including the timing of major EGA and aspects of metabolic and epigenetic remodeling, making them a useful comparative model for investigating preimplantation development.\n\nSTUDY DESIGN, SIZE, DURATION: A mechanistic study was performed using bovine embryos generated by IVF after siRNA-mediated TRIM28 knockdown (KD) in oocytes. Embryonic development, transcriptional activity, lipid metabolism, SAM homeostasis, and epigenetic remodeling were evaluated across at least three independent biological replicates using RNA sequencing, lipidomics, immunofluorescence, ELISA assays, and metabolic rescue experiments.\n\nPARTICIPANTS/MATERIALS, SETTING, METHODS: TRIM28 KD embryos were generated by microinjection of siRNAs into bovine oocytes prior to IVF. Embryonic development was evaluated through the blastocyst stage. RNA sequencing, lipidomic profiling, ATP measurement, immunofluorescence staining, and ELISA assays were used to assess transcriptional regulation, lipid metabolism, SAM availability, and epigenetic modifications. Choline and betaine supplementation experiments were performed to evaluate rescue of developmental and epigenetic defects.\n\nMAIN RESULTS AND THE ROLE OF CHANCE: TRIM28 KD embryos showed impaired developmental progression around the 8-cell-to-morula transition, coinciding with major bovine EGA, and exhibited significantly reduced blastocyst formation. KD embryos exhibited widespread transcriptional dysregulation, increased global RNA synthesis, DNA damage, apoptosis, and ATP depletion. Lipidomic analyses revealed marked accumulation of triacylglycerols together with depletion of phosphatidylethanolamine (PE) and phosphatidylcholine (PC), indicating disrupted phospholipid homeostasis. TRIM28-deficient embryos also showed reduced H3K9me3 and DNA methylation levels accompanied by aberrant activation of EGA-associated genes. Mechanistically, altered phospholipid metabolism was associated with reduced intracellular SAM levels, raising the possibility that phospholipid remodeling affects the allocation of methyl donors between metabolic and chromatin methylation pathways. Importantly, supplementation with choline or betaine partially restored SAM levels, rescued H3K9me3 and DNA methylation defects, reduced DNA damage, and improved embryonic developmental competence.\n\nLARGE SCALE DATA: The RNA-seq data generated in this study have been deposited in the Gene Expression Omnibus (GEO) database under accession number GSE330503.\n\nLIMITATIONS, REASONS FOR CAUTION: The study was performed exclusively in an in vitro bovine embryo system. Therefore, the TRIM28-dependent mechanism described here should be considered experimentally established only in bovine embryos. Further studies using human stem cell-based embryo models or other ethically appropriate human experimental systems will be required to determine whether this pathway is conserved in human development.\n\nWIDER IMPLICATIONS OF THE FINDINGS: These findings suggest that TRIM28 may contribute to the coordination of lipid metabolism, SAM availability, and epigenetic repression during bovine preimplantation development. The study also supports a possible link between methyl-donor availability and transcriptional regulation during the major EGA period. Given selected developmental similarities between bovine and human embryos, this mechanism warrants further investigation in human embryo-compatible experimental models.\n\nFUNDING: This research was supported by National Key R&D Program of China (2021YFD1200400), National Natural Science Foundation of China (NSFC) (32472913), China Agriculture Research System of MOF and MARA (CARS-37).\n\nDISCLOSURES: The authors declare no competing interests.",
+      "doi": "10.1093/humrep/deag152",
+      "matched_searches": [
+        "methylation_mthfr_art",
+        "embryo_arrest_d3_blast",
+        "choline_pemt_pregnancy"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42777255/",
+      "doi_url": "https://doi.org/10.1093/humrep/deag152"
+    },
+    {
+      "pmid": "42772432",
+      "title": "FMR1-Associated Diminished Ovarian Reserve: Reduced Oocyte Yield Without Loss of Per-Embryo Ploidy.",
+      "journal": "Fertil Steril",
+      "pub_date": "2026-09-22",
+      "authors": [
+        "Fouks Y",
+        "Morse B",
+        "Stern C",
+        "Kirshenbaum M",
+        "Lalioti M",
+        "Sakkas D"
+      ],
+      "abstract": "OBJECTIVE: To determine whether diminished ovarian reserve in FMR1 premutation carriers reflects a purely quantitative deficit or is also associated with impaired per-embryo chromosomal competence, including embryo aneuploidy risk.\n\nDESIGN: Identification of FMR1 premutation patients from a clinic database. Subsequent retrospective cohort study with two analytic frameworks: (1) a carrier PGT subcohort analysis characterizing ovarian-reserve markers and per-embryo ploidy across PGT modalities; (2) a 1:1 matched-cohort analysis of FMR1 premutation-carrier PGT-A cycles (n=33) versus non-carrier PGT-A controls (n=33) matched on age, BMI and oocyte yield.\n\nSETTING: Single private academically affiliated IVF center, January 2014-December 2023.\n\nSUBJECTS: 173 fresh IVF/ICSI cycles from FMR1 premutation carriers formed the carrier cohort; 142 underwent PGT (PGT-A and/or PGT-M) and formed the PGT subcohort. For the matched-cohort analysis, 33 carrier PGT-A cycles were matched 1:1 to 33 controls drawn from 5,376 non-carrier PGT-A cycles.\n\nEXPOSURE: FMR1 premutation carrier status.\n\nMAIN OUTCOME MEASURES: Quantitative metrics: AMH, oocyte yield, mature oocytes, normal fertilizations, and usable blastocysts. The primary embryo-competence outcome was euploidy per embryo biopsied (Poisson incidence-rate ratio with log-offset for embryos biopsied) in PGT-A-only cycles; secondary outcomes were the proportion of cycles with \u22651 euploid embryo and the all-aneuploid proportion.\n\nRESULTS: Quantitative ovarian-reserve markers (AMH, oocyte yield, mature oocytes, fertilisations, usable blastocysts) were lower in carriers, with a graded descriptive relationship to CGG repeat length (most evident for AMH and oocyte/mature-oocyte yield) in the subset with available CGG data. Of 173 carrier cycles, 142 underwent PGT, with at least one blastocyst biopsied in 124. In the carrier PGT subcohort, the odds of obtaining \u22651 euploid embryo were lower with advancing maternal age and in co-tested PGT-A+M versus PGT-A cycles, with no independent association for AMH or BMI; the usable-blastocyst rate per oocyte was not associated with PGT modality, age or BMI (AMH trend p=0.07). In the matched cohort, 84.8% of carriers versus 75.8% of controls achieved \u22651 euploid embryo; the three-category biopsy-outcome distribution did not differ between groups (p=0.67). Poisson regression confirmed no significant difference in per-embryo euploidy rate between groups (rate ratio 1.01, 95% CI 0.82-1.25, p=0.91). An IPTW sensitivity analysis was concordant with the matching results (IRR 0.996, 95% CI 0.83-1.19).\n\nCONCLUSION: FMR1 premutation carriers exhibit quantitative reductions in ovarian reserve and early embryology outcomes, but do not demonstrate impaired embryo ploidy once blastocysts reach biopsy stage. Although premutation carriers may yield fewer eggs, their per-embryo euploidy risk remains comparable to age-, BMI- and yield-matched non-carriers. These findings are restricted to clinically ascertained, PGT-A-eligible premutation carriers and to per-embryo ploidy among biopsied blastocysts, and should not be generalised to unscreened carriers, diminished ovarian reserve of other aetiologies, or non-chromosomal aspects of embryo competence.",
+      "doi": "10.1016/j.fertnstert.2026.09.010",
+      "matched_searches": [
+        "pgta_advanced_age"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42772432/",
+      "doi_url": "https://doi.org/10.1016/j.fertnstert.2026.09.010"
+    },
+    {
+      "pmid": "42770601",
+      "title": "The roles of the STAT3 signaling pathway in the establishment of endometrial receptivity and decidualization.",
+      "journal": "Biol Reprod",
+      "pub_date": "2026-09-22",
+      "authors": [
+        "Zhao H",
+        "Zou Z",
+        "Yang Y"
+      ],
+      "abstract": "The establishment of endometrial receptivity is a fundamental prerequisite for successful embryo implantation and the maintenance of pregnancy. Decidualization, a critical process in the maturation of endometrial receptivity, is intimately linked to implantation success. The precise molecular regulation of both processes is essential for normal pregnancy outcomes. Within the endometrium, the activation of the transcription factor signal transducer and activator of transcription 3 (STAT3) exhibits strict temporal and spatial specificity. Its phosphorylation levels peak during the mid-secretory phase, aligning perfectly with the window of implantation, thereby establishing STAT3 as a primary indicator of endometrial receptivity. Activated by crucial cytokines-including leukemia inhibitory factor (LIF), interleukin (IL)-11, and epidermal growth factor (EGF)-STAT3 operates through the Janus kinase (JAK)/STAT signaling pathway. It regulates the functional maturation, adhesive capacity, and polarity remodeling of endometrial epithelial cells, creating an optimal environment for blastocyst attachment. Concurrently, STAT3 acts as a central regulator of decidualization by directly driving the proliferation and differentiation of endometrial stromal cells (ESCs) while maintaining the stability of the decidual microenvironment. Furthermore, STAT3 modulates the local immune milieu by orchestrating immune cell polarization and cytokine networks, providing essential immunological support. Conversely, dysregulation of the STAT3 signaling pathway leads to impaired endometrial receptivity and defective decidualization, contributing to adverse reproductive outcomes such as implantation failure and miscarriage. This review comprehensively highlights the pivotal regulatory functions of the STAT3 pathway in endometrial receptivity and decidualization, establishing a robust theoretical foundation for future basic research and targeted clinical strategies.",
+      "doi": "10.1093/biolre/ioag202",
+      "matched_searches": [
+        "endometrial_receptivity_era"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42770601/",
+      "doi_url": "https://doi.org/10.1093/biolre/ioag202"
+    },
+    {
+      "pmid": "42768793",
+      "title": "Artificial Intelligence in Semen Analysis and Sperm Selection: Opportunities and Challenges.",
+      "journal": "Andrology",
+      "pub_date": "2026-09-21",
+      "authors": [
+        "Quaranta F",
+        "Cilia ND",
+        "Cicolani G",
+        "Pietro VD",
+        "Paoli ED",
+        "Chiano SD",
+        "Lombardo F",
+        "Paoli D",
+        "Pallotti F"
+      ],
+      "abstract": "BACKGROUND: Male factors contribute to approximately half of all cases of couple infertility, and semen analysis remains the cornerstone of the diagnostic evaluation. In recent years, artificial intelligence (AI) has emerged as a promising tool to improve the objectivity and reproducibility of semen analysis and sperm selection in assisted reproductive technologies (ART).\n\nMATERIALS AND METHODS: This narrative review provides an overview of the current applications of AI in seminology, focusing on sperm motility, morphology, DNA fragmentation, sperm selection for intracytoplasmic sperm injection (ICSI), and sperm retrieval in men with nonobstructive azoospermia. Beyond laboratory applications, the review also highlights the emerging role of machine learning in predicting reproductive outcomes and supporting clinical decision-making in andrology.\n\nRESULTS AND DISCUSSION: Although the available evidence is encouraging, most studies remain limited by small and highly selected datasets, a lack of external validation, and scarce evidence on clinically meaningful outcomes. Future progress in the field will likely depend not only on improvements in algorithm performance, but also on the availability of high-quality, representative datasets to enable robust validation and reliable clinical translation. While issues related to data quality, algorithmic bias, and regulatory and ethical aspects still need to be addressed, AI has the potential to become a valuable decision-support tool in reproductive medicine.\n\nCONCLUSIONS: Nonetheless, further prospective multicenter studies are needed before these technologies can be routinely integrated into clinical practice.",
+      "doi": "10.1111/andr.70389",
+      "matched_searches": [
+        "sperm_dna_fragmentation"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42768793/",
+      "doi_url": "https://doi.org/10.1111/andr.70389"
+    },
+    {
+      "pmid": "42765472",
+      "title": "Density Gradient Centrifugation Versus Swim-Up for Cumulative Live Birth in IVF/ICSI Cycles With High Sperm DNA Fragmentation: A Propensity Score Matching Analysis.",
+      "journal": "Andrology",
+      "pub_date": "2026-09-21",
+      "authors": [
+        "Luo Z",
+        "Bai X",
+        "Gui S",
+        "Wang L",
+        "Yang W",
+        "Lu L",
+        "Yao Y",
+        "Wang K",
+        "Zhao S"
+      ],
+      "abstract": "BACKGROUND: A high sperm DNA fragmentation index (DFI) has been found to be associated with male infertility and suboptimal outcomes in assisted reproductive technology (ART). Although sperm preparation techniques can reduce DFI following processing, it is unclear whether density gradient centrifugation (DGC) or swim-up (SU) achieves better clinical outcomes, particularly in terms of cumulative live birth rates (cLBR), for patients with elevated DFI.\n\nOBJECTIVE: Using a propensity score-matched statistical approach, this study aims to compare the clinical effectiveness of DGC versus swim-up sperm preparation in male infertility patients with elevated sperm DFI. The primary objective is to determine which technique is associated with a higher cLBR following ART. Secondary objectives include evaluating post-processing DFI reduction, fertilization rates, embryo quality, high quality blastocyst rate, and other relevant laboratory and clinical outcomes.\n\nMATERIALS AND METHODS: This study was a retrospective design conducted at a single-center reproductive center. A total of 1769 couples were included in the study. They were receiving their first autologous IVF/ICSI cycle with a male partner who had a DFI of \u2265\u00a020%. Following matching for propensity, 279 cycles were allocated to each of the DGC and SU groups. The primary outcome was cLBR per oocyte retrieval.\n\nRESULTS: The SU group had a longer duration of abstinence and a higher proportion of conventional IVF cycles, while the DGC group included more ICSI cycles. There were no significant differences observed in cLBR (adjusted odds ratio [OR] = 1.06, 95% confidence interval [CI]: 0.76-1.49) or live birth rate per transfer (adjusted OR = 1.16, 95% CI: 0.89-1.52). The absolute difference in cLBR between groups was small. Laboratory outcomes, including fertilization rate, high-quality embryo rate, high-quality blastocyst rate, and blastocyst formation rate, showed similar point estimates, with no statistically significant differences. Results were broadly consistent across subgroups stratified by abstinence duration (less than 3 days, 3-5 days, or more than 5 days) and baseline semen parameter status (normal or abnormal).\n\nDISCUSSION AND CONCLUSION: Among patients with DFI \u2265\u00a020% undergoing IVF/ICSI, no statistically significant differences in cLBRs or laboratory outcomes were observed between DGC and SU. The effect estimates were close to the null and consistent across analyses; however, confidence intervals were wide, indicating limited precision. These findings suggest no clear evidence of a difference under the conditions studied. Further adequately powered prospective studies are warranted to more precisely estimate potential differences between these techniques.",
+      "doi": "10.1111/andr.70377",
+      "matched_searches": [
+        "sperm_dna_fragmentation",
+        "embryo_arrest_d3_blast"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42765472/",
+      "doi_url": "https://doi.org/10.1111/andr.70377"
+    },
+    {
+      "pmid": "42764640",
+      "title": "The correlation between maternal expression of miR-146b and repeated failure of frozen-thawed embryo transfer pregnancy.",
+      "journal": "Hum Fertil (Camb)",
+      "pub_date": "2026-09-20",
+      "authors": [
+        "Wu Y",
+        "Zhou Q",
+        "Zhao X",
+        "Wang W",
+        "Zhang Q",
+        "Wang Z",
+        "Tang M",
+        "Zhou X"
+      ],
+      "abstract": "Frozen-thawed embryo transfer (FET) failure rates still account for a considerable percentage in assisted reproductive technology (ART) treatment, which seriously hinders the reproductive needs of infertile families. This study investigates the potential role of miR-146b level in repeated failures of FET. 175 patients with repeated implantation failure (RIF) after FET (the RIF population [RIFP]) and 155 patients with successful pregnancy after FET (SP) (the SP population [SPP]) were enrolled. The plasma miR-146b level was measured by RT-qPCR. The ROC curve was utilised to evaluate the predictive value of miR-146b for RIF after FET. The chi-square test was employed to explore the correlation between clinical items and miR-146b expression. Logistic regression analysis was used to identify the risk factors for RIF after FET. The miR-146b expression was higher in the RIFP group than in the SPP group, and miR-146b exerts a higher predictive value for RIF after FET. Endometrial thickness, serum E2/P, AMH, and 25-hydroxy vitamin-D3 levels were correlated with miR-146b expression. The endometrial thickness and miR-146b expression were risk factors for RIF after FET. Collectively, these findings indicate that miR-146b may be a potential target for predicting the repeated failures of FET.",
+      "doi": "10.1080/14647273.2026.2725675",
+      "matched_searches": [
+        "recurrent_implantation_failure"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42764640/",
+      "doi_url": "https://doi.org/10.1080/14647273.2026.2725675"
+    }
+  ]
+}
