@@ -1,5 +1,21 @@
 [
   {
+    "filename": "digest_2026-10-05.json",
+    "digest_date": "2026-10-05",
+    "generated_at": "2026-10-05T09:23:04Z",
+    "mode": "weekly",
+    "paper_count": 8,
+    "topic_counts": {
+      "blastocyst_grading_outcomes": 1,
+      "rapamycin": 2,
+      "methylation_mthfr_art": 1,
+      "embryo_arrest_d3_blast": 1,
+      "imsi_high_mag_morphology": 1,
+      "pgta_advanced_age": 1,
+      "endometrial_receptivity_era": 1
+    }
+  },
+  {
     "filename": "digest_2026-09-28.json",
     "digest_date": "2026-09-28",
     "generated_at": "2026-09-28T09:20:54Z",

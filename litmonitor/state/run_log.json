@@ -422,5 +422,22 @@
       "endometrial_receptivity_era": 1,
       "sperm_dna_fragmentation": 2
     }
+  },
+  {
+    "run_at": "2026-10-05T09:23:04Z",
+    "mode": "weekly",
+    "since": "2026-09-26",
+    "new_papers": 8,
+    "total_seen": 1808,
+    "digest_filename": "digest_2026-10-05.md",
+    "topic_counts": {
+      "blastocyst_grading_outcomes": 1,
+      "rapamycin": 2,
+      "methylation_mthfr_art": 1,
+      "embryo_arrest_d3_blast": 1,
+      "imsi_high_mag_morphology": 1,
+      "pgta_advanced_age": 1,
+      "endometrial_receptivity_era": 1
+    }
   }
 ]
