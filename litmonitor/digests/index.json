@@ -1,5 +1,23 @@
 [
   {
+    "filename": "digest_2026-10-12.json",
+    "digest_date": "2026-10-12",
+    "generated_at": "2026-10-12T09:27:01Z",
+    "mode": "weekly",
+    "paper_count": 10,
+    "topic_counts": {
+      "sperm_dna_fragmentation": 1,
+      "endometrial_receptivity_era": 2,
+      "recurrent_implantation_failure": 3,
+      "pgta_advanced_age": 2,
+      "embryo_arrest_d3_blast": 2,
+      "premature_ovulation": 1,
+      "antagonist_protocol_normoresponder": 2,
+      "rapamycin": 1,
+      "agonist_vs_dual_trigger": 1
+    }
+  },
+  {
     "filename": "digest_2026-10-05.json",
     "digest_date": "2026-10-05",
     "generated_at": "2026-10-05T09:23:04Z",
