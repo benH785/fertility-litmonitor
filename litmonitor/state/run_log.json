@@ -458,5 +458,23 @@
       "rapamycin": 1,
       "agonist_vs_dual_trigger": 1
     }
+  },
+  {
+    "run_at": "2026-10-19T09:19:02Z",
+    "mode": "weekly",
+    "since": "2026-10-10",
+    "new_papers": 9,
+    "total_seen": 1827,
+    "digest_filename": "digest_2026-10-19.md",
+    "topic_counts": {
+      "embryo_arrest_d3_blast": 3,
+      "sperm_dna_fragmentation": 3,
+      "time_lapse_morphokinetics": 1,
+      "zymot_microfluidic": 1,
+      "antioxidant_culture_media": 1,
+      "recurrent_implantation_failure": 1,
+      "methylation_mthfr_art": 1,
+      "pgta_advanced_age": 1
+    }
   }
 ]

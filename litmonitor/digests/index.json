@@ -1,5 +1,22 @@
 [
   {
+    "filename": "digest_2026-10-19.json",
+    "digest_date": "2026-10-19",
+    "generated_at": "2026-10-19T09:19:02Z",
+    "mode": "weekly",
+    "paper_count": 9,
+    "topic_counts": {
+      "embryo_arrest_d3_blast": 3,
+      "sperm_dna_fragmentation": 3,
+      "time_lapse_morphokinetics": 1,
+      "zymot_microfluidic": 1,
+      "antioxidant_culture_media": 1,
+      "recurrent_implantation_failure": 1,
+      "methylation_mthfr_art": 1,
+      "pgta_advanced_age": 1
+    }
+  },
+  {
     "filename": "digest_2026-10-12.json",
     "digest_date": "2026-10-12",
     "generated_at": "2026-10-12T09:27:01Z",
