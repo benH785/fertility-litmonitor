@@ -1,5 +1,17 @@
 [
   {
+    "filename": "digest_2026-10-26.json",
+    "digest_date": "2026-10-26",
+    "generated_at": "2026-10-26T09:20:48Z",
+    "mode": "weekly",
+    "paper_count": 5,
+    "topic_counts": {
+      "endometrial_receptivity_era": 3,
+      "zymot_microfluidic": 1,
+      "sperm_dna_fragmentation": 1
+    }
+  },
+  {
     "filename": "digest_2026-10-19.json",
     "digest_date": "2026-10-19",
     "generated_at": "2026-10-19T09:19:02Z",

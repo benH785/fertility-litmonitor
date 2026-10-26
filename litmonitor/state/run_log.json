@@ -476,5 +476,18 @@
       "methylation_mthfr_art": 1,
       "pgta_advanced_age": 1
     }
+  },
+  {
+    "run_at": "2026-10-26T09:20:48Z",
+    "mode": "weekly",
+    "since": "2026-10-17",
+    "new_papers": 5,
+    "total_seen": 1832,
+    "digest_filename": "digest_2026-10-26.md",
+    "topic_counts": {
+      "endometrial_receptivity_era": 3,
+      "zymot_microfluidic": 1,
+      "sperm_dna_fragmentation": 1
+    }
   }
 ]
