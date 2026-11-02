@@ -1,13 +1,18 @@
 {
-  "run_at": "2026-10-26T09:20:48Z",
+  "run_at": "2026-11-02T09:11:11Z",
   "mode": "weekly",
-  "since": "2026-10-17",
-  "new_papers": 5,
-  "total_seen": 1832,
-  "digest_filename": "digest_2026-10-26.md",
+  "since": "2026-10-24",
+  "new_papers": 12,
+  "total_seen": 1844,
+  "digest_filename": "digest_2026-11-02.md",
   "topic_counts": {
-    "endometrial_receptivity_era": 3,
-    "zymot_microfluidic": 1,
-    "sperm_dna_fragmentation": 1
+    "sperm_dna_double_strand": 1,
+    "antagonist_protocol_normoresponder": 2,
+    "endometrial_receptivity_era": 1,
+    "haploid_embryos_decondensation": 1,
+    "embryo_arrest_d3_blast": 3,
+    "time_lapse_morphokinetics": 2,
+    "rapamycin": 1,
+    "one_pn_embryos": 2
   }
 }
