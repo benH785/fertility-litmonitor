@@ -1,18 +1,17 @@
 {
-  "run_at": "2026-11-02T09:11:11Z",
+  "run_at": "2026-11-09T09:10:56Z",
   "mode": "weekly",
-  "since": "2026-10-24",
-  "new_papers": 12,
-  "total_seen": 1844,
-  "digest_filename": "digest_2026-11-02.md",
+  "since": "2026-10-31",
+  "new_papers": 7,
+  "total_seen": 1851,
+  "digest_filename": "digest_2026-11-09.md",
   "topic_counts": {
-    "sperm_dna_double_strand": 1,
-    "antagonist_protocol_normoresponder": 2,
-    "endometrial_receptivity_era": 1,
-    "haploid_embryos_decondensation": 1,
+    "methylation_mthfr_art": 1,
+    "methylfolate_vs_folic_acid_ivf": 1,
+    "varicocele_embolisation_ivf": 1,
     "embryo_arrest_d3_blast": 3,
-    "time_lapse_morphokinetics": 2,
-    "rapamycin": 1,
-    "one_pn_embryos": 2
+    "time_lapse_morphokinetics": 1,
+    "duostim_luteal_phase": 1,
+    "endometrial_receptivity_era": 1
   }
 }

@@ -1,5 +1,21 @@
 [
   {
+    "filename": "digest_2026-11-09.json",
+    "digest_date": "2026-11-09",
+    "generated_at": "2026-11-09T09:10:56Z",
+    "mode": "weekly",
+    "paper_count": 7,
+    "topic_counts": {
+      "methylation_mthfr_art": 1,
+      "methylfolate_vs_folic_acid_ivf": 1,
+      "varicocele_embolisation_ivf": 1,
+      "embryo_arrest_d3_blast": 3,
+      "time_lapse_morphokinetics": 1,
+      "duostim_luteal_phase": 1,
+      "endometrial_receptivity_era": 1
+    }
+  },
+  {
     "filename": "digest_2026-11-02.json",
     "digest_date": "2026-11-02",
     "generated_at": "2026-11-02T09:11:11Z",
