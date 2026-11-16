@@ -1,0 +1,211 @@
+{
+  "digest_date": "2026-11-16",
+  "generated_at": "2026-11-16T09:12:16Z",
+  "mode": "weekly",
+  "window_start": "2026-11-07",
+  "paper_count": 3,
+  "topic_counts": {
+    "methylation_mthfr_art": 1,
+    "haploid_embryos_decondensation": 1,
+    "zymot_microfluidic": 1,
+    "sperm_dna_fragmentation": 1,
+    "picsi_hyaluronan_binding": 1,
+    "imsi_high_mag_morphology": 1
+  },
+  "topics": {
+    "agonist_vs_dual_trigger": {
+      "label": "Dual vs agonist trigger",
+      "priority": "high"
+    },
+    "agonist_trigger_suboptimal": {
+      "label": "Suboptimal agonist trigger response",
+      "priority": "high"
+    },
+    "premature_ovulation": {
+      "label": "Premature ovulation",
+      "priority": "high"
+    },
+    "lead_follicle_oversize": {
+      "label": "Lead follicle size & trigger timing",
+      "priority": "high"
+    },
+    "zymot_microfluidic": {
+      "label": "ZyMot / microfluidic sperm selection",
+      "priority": "high"
+    },
+    "sperm_dna_fragmentation": {
+      "label": "Sperm DNA fragmentation (single-strand) & ART",
+      "priority": "high"
+    },
+    "sperm_dna_double_strand": {
+      "label": "Sperm double-strand DNA damage",
+      "priority": "high"
+    },
+    "tese_high_dfi": {
+      "label": "TESE for high DFI",
+      "priority": "high"
+    },
+    "pgta_advanced_age": {
+      "label": "PGT-A in advanced maternal age",
+      "priority": "high"
+    },
+    "blastocyst_grading_outcomes": {
+      "label": "Blastocyst grading & outcomes",
+      "priority": "medium"
+    },
+    "antagonist_protocol_normoresponder": {
+      "label": "Antagonist protocol in normo-responders",
+      "priority": "medium"
+    },
+    "intercycle_interval": {
+      "label": "Inter-cycle interval",
+      "priority": "low"
+    },
+    "methylation_mthfr_art": {
+      "label": "MTHFR / methylation & ART",
+      "priority": "high"
+    },
+    "one_pn_embryos": {
+      "label": "1PN / abnormal fertilisation",
+      "priority": "high"
+    },
+    "ss31_elamipretide": {
+      "label": "SS-31 / elamipretide & fertility",
+      "priority": "high"
+    },
+    "rapamycin": {
+      "label": "Rapamycin / sirolimus & fertility",
+      "priority": "high"
+    },
+    "embryo_arrest_d3_blast": {
+      "label": "Embryo arrest & blastulation",
+      "priority": "high"
+    },
+    "antioxidant_culture_media": {
+      "label": "Antioxidant culture media",
+      "priority": "high"
+    },
+    "growth_hormone_adjuvant": {
+      "label": "Growth hormone adjuvant in IVF",
+      "priority": "medium"
+    },
+    "time_lapse_morphokinetics": {
+      "label": "Time-lapse / morphokinetic embryo selection",
+      "priority": "medium"
+    },
+    "duostim_luteal_phase": {
+      "label": "DuoStim / luteal-phase stimulation",
+      "priority": "high"
+    },
+    "picsi_hyaluronan_binding": {
+      "label": "PICSI / hyaluronan binding sperm selection",
+      "priority": "medium"
+    },
+    "imsi_high_mag_morphology": {
+      "label": "IMSI / high-magnification sperm morphology",
+      "priority": "medium"
+    },
+    "endometrial_receptivity_era": {
+      "label": "Endometrial receptivity testing (ERA / ER-Map)",
+      "priority": "medium"
+    },
+    "recurrent_implantation_failure": {
+      "label": "Recurrent implantation failure",
+      "priority": "high"
+    },
+    "haploid_embryos_decondensation": {
+      "label": "Haploid embryos & sperm decondensation",
+      "priority": "high"
+    },
+    "varicocele_embolisation_ivf": {
+      "label": "Varicocele embolisation & IVF",
+      "priority": "high"
+    },
+    "choline_pemt_pregnancy": {
+      "label": "Choline / PEMT & pregnancy",
+      "priority": "medium"
+    },
+    "methylfolate_vs_folic_acid_ivf": {
+      "label": "Methylfolate vs folic acid in IVF",
+      "priority": "medium"
+    }
+  },
+  "journals_monitored": [
+    "Hum Reprod",
+    "Hum Reprod Update",
+    "Hum Reprod Open",
+    "Fertil Steril",
+    "F S Rep",
+    "F S Sci",
+    "Reprod Biomed Online",
+    "J Assist Reprod Genet",
+    "Reprod Biol Endocrinol",
+    "Hum Fertil (Camb)",
+    "Reprod Sci",
+    "Andrology",
+    "Mol Hum Reprod",
+    "Reproduction",
+    "Biol Reprod",
+    "Reprod Fertil Dev",
+    "Asian J Androl",
+    "Andrologia"
+  ],
+  "papers": [
+    {
+      "pmid": "43033096",
+      "title": "Mitochondrial mass and cell ratio: predictors of maternal-specific imprinted methylation levels in ART-produced embryos.",
+      "journal": "Biol Reprod",
+      "pub_date": "2026-11-14",
+      "authors": [
+        "Panko AJ",
+        "White CR",
+        "Zhang J",
+        "Watt M",
+        "Mann MRW"
+      ],
+      "abstract": "Infertile couples worldwide seek assisted reproductive technologies (ARTs) to help conceive biological children. Even when treatment is successful, there is increased risk for perinatal complications, including preterm birth, intrauterine growth restriction, low and high birth weight, and genomic imprinting disorders. Consequently, there is a need to investigate effects of ARTs on oocytes and preimplantation embryos, simultaneously, for metabolism (mitochondria), development and genomic imprinting. We hypothesized that ARTs disrupt mitochondrial dynamics and function, altering embryo developmental rates and maintenance of imprinted methylation during preimplantation development. To address this, we used a mouse model to determine relationships between these processes across multiple preimplantation stages. We observed that superovulation disrupted mitochondria in mouse oocytes, including decreased mean total and active mitochondrial mass, and altered mitochondrial distribution in superovulated MII oocytes. In preimplantation embryos, mean active mitochondrial mass was decreased in morula and blastocyst-stage embryos, with outer cells possessing asymmetric distribution of active mitochondria mass and increased superoxide levels. Further comparison of No ART controls to ART-produced blastocysts revealed lower inner:outer cell ratios, higher cavity:blastocyst volume ratios, lower mean total mitochondrial mass/cell, and lower mean active mitochondrial mass/cell. Regression analyses demonstrated that mitochondrial mass and inner:outer cell ratio independently predicted maternal Snrpn and Kcnq1ot1 methylation loss in ART-produced blastocysts, respectively. This contrasted with paternal H19 methylation. ART treatment acted as the primary driver of paternal methylation loss, with altered blastocyst variables acting downstream of ART treatment. Overall, this work provides novel linkages between metabolism, embryo developmental rates and genomic imprint regulation in preimplantation embryos.",
+      "doi": "10.1093/biolre/ioag257",
+      "matched_searches": [
+        "methylation_mthfr_art"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43033096/",
+      "doi_url": "https://doi.org/10.1093/biolre/ioag257"
+    },
+    {
+      "pmid": "43023806",
+      "title": "SIRT3 and crotonylation during the minor-to-major ZGA transition in porcine embryos.",
+      "journal": "Reproduction",
+      "pub_date": "2026-11-13",
+      "authors": [
+        "Lee SH",
+        "Cui XS"
+      ],
+      "abstract": "Zygotic genome activation (ZGA) depends on the timed reprogramming of histone acylation, and lysine crotonylation has emerged as a mark that couples metabolism to transcription during early development. Sirtuin 3 (SIRT3) is an NAD+-dependent deacylase with both nuclear and mitochondrial functions and a reported decrotonylase activity, yet its role during the minor-to-major ZGA transition is unclear. Here, the distribution of SIRT3 and histone H3 lysine 4 crotonylation (H3K4cr) was examined in porcine parthenogenetic embryos, and SIRT3 activity was modulated across the 2- to 4-cell window with a pharmacological activator and inhibitor, alone and together with sodium crotonate. SIRT3 became nuclear-enriched from the 4-cell stage as nuclear H3K4cr declined, and embryos arrested at the 2-cell stage showed premature nuclear SIRT3 and low H3K4cr. SIRT3 activation accelerated cleavage to the 4-cell stage and preserved blastocyst formation, whereas SIRT3 inhibition slowed cleavage and reduced blastocyst formation, without a change in cytoplasmic rotation. SIRT3 inhibition increased Kcr in both the nucleus and the cytoplasm. Mitochondrial reactive oxygen species were lowered by SIRT3 inhibition and by sodium crotonate, whereas the mitochondrial membrane potential was raised by SIRT3 inhibition but not by sodium crotonate, and SIRT3 activation changed neither. Expression of the ZGA genes ZSCAN4, EIF1A, and DPPA2 was reduced by sodium crotonate alone and was higher when crotonate was combined with SIRT3 modulation. These findings indicate that SIRT3 redistribution and the compartment-specific, timed regulation of crotonylation accompany the minor-to-major ZGA transition in porcine embryos.",
+      "doi": "10.1093/reprod/xaag147",
+      "matched_searches": [
+        "haploid_embryos_decondensation"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43023806/",
+      "doi_url": "https://doi.org/10.1093/reprod/xaag147"
+    },
+    {
+      "pmid": "43010778",
+      "title": "Mammalian sperm selection in vivo and in vitro: an evolutionary perspective on advanced ICSI techniques.",
+      "journal": "Reproduction",
+      "pub_date": "2026-11-10",
+      "authors": [
+        "Kerem Dirican E"
+      ],
+      "abstract": "Fertilisation in mammals is preceded by a multilayered selection process shaped by more than 600 million years of evolution. The female reproductive tract acts as a sequential filter-through vaginal pH, cervical mucus, the uterotubal junction, the isthmic sperm reservoir, the cumulus matrix and the zona pellucida-such that only a few hundred capacitated, structurally and molecularly competent spermatozoa reach the ampulla. Intracytoplasmic sperm injection (ICSI), introduced in 1992, bypasses these filters. Advanced techniques-including IMSI, physiological ICSI (PICSI), magnetic-activated cell sorting (MACS), microfluidic sorting and deep-learning image classification-aim to restore part of this discriminatory capacity in the laboratory. Systematic reviews and current professional guidance indicate that none has produced a robust improvement in cumulative live birth in unselected assisted-reproduction populations, although ESHRE considers microfluidic selection an option. This review maps each technique to the in vivo filter it purports to mimic, evaluates the clinical evidence, considers long-term follow-up of ICSI-conceived offspring and imprinting-disorder surveillance, and asks whether targeted, mechanism-based selection in defined subgroups could succeed where unselected use has not. Evidence from non-human mammals-colloid and microfluidic selection in horses and cattle, sex-sorted semen, species differences in ICSI efficiency and mouse ICSI with DNA-damaged spermatozoa-is used to test the framework where human data are observational only. The evolutionary perspective is used as a design framework: for each technique, it identifies the mechanism to be recapitulated and the maternal, pregnancy and offspring outcomes by which benefit and safety should be judged.",
+      "doi": "10.1093/reprod/xaag145",
+      "matched_searches": [
+        "zymot_microfluidic",
+        "sperm_dna_fragmentation",
+        "picsi_hyaluronan_binding",
+        "imsi_high_mag_morphology"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43010778/",
+      "doi_url": "https://doi.org/10.1093/reprod/xaag145"
+    }
+  ]
+}

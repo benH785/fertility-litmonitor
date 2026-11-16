@@ -524,5 +524,21 @@
       "duostim_luteal_phase": 1,
       "endometrial_receptivity_era": 1
     }
+  },
+  {
+    "run_at": "2026-11-16T09:12:16Z",
+    "mode": "weekly",
+    "since": "2026-11-07",
+    "new_papers": 3,
+    "total_seen": 1854,
+    "digest_filename": "digest_2026-11-16.md",
+    "topic_counts": {
+      "methylation_mthfr_art": 1,
+      "haploid_embryos_decondensation": 1,
+      "zymot_microfluidic": 1,
+      "sperm_dna_fragmentation": 1,
+      "picsi_hyaluronan_binding": 1,
+      "imsi_high_mag_morphology": 1
+    }
   }
 ]

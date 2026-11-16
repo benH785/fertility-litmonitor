@@ -1,5 +1,20 @@
 [
   {
+    "filename": "digest_2026-11-16.json",
+    "digest_date": "2026-11-16",
+    "generated_at": "2026-11-16T09:12:16Z",
+    "mode": "weekly",
+    "paper_count": 3,
+    "topic_counts": {
+      "methylation_mthfr_art": 1,
+      "haploid_embryos_decondensation": 1,
+      "zymot_microfluidic": 1,
+      "sperm_dna_fragmentation": 1,
+      "picsi_hyaluronan_binding": 1,
+      "imsi_high_mag_morphology": 1
+    }
+  },
+  {
     "filename": "digest_2026-11-09.json",
     "digest_date": "2026-11-09",
     "generated_at": "2026-11-09T09:10:56Z",
