@@ -1,0 +1,260 @@
+{
+  "digest_date": "2026-11-23",
+  "generated_at": "2026-11-23T09:11:25Z",
+  "mode": "weekly",
+  "window_start": "2026-11-14",
+  "paper_count": 5,
+  "topic_counts": {
+    "recurrent_implantation_failure": 3,
+    "embryo_arrest_d3_blast": 2
+  },
+  "topics": {
+    "agonist_vs_dual_trigger": {
+      "label": "Dual vs agonist trigger",
+      "priority": "high"
+    },
+    "agonist_trigger_suboptimal": {
+      "label": "Suboptimal agonist trigger response",
+      "priority": "high"
+    },
+    "premature_ovulation": {
+      "label": "Premature ovulation",
+      "priority": "high"
+    },
+    "lead_follicle_oversize": {
+      "label": "Lead follicle size & trigger timing",
+      "priority": "high"
+    },
+    "zymot_microfluidic": {
+      "label": "ZyMot / microfluidic sperm selection",
+      "priority": "high"
+    },
+    "sperm_dna_fragmentation": {
+      "label": "Sperm DNA fragmentation (single-strand) & ART",
+      "priority": "high"
+    },
+    "sperm_dna_double_strand": {
+      "label": "Sperm double-strand DNA damage",
+      "priority": "high"
+    },
+    "tese_high_dfi": {
+      "label": "TESE for high DFI",
+      "priority": "high"
+    },
+    "pgta_advanced_age": {
+      "label": "PGT-A in advanced maternal age",
+      "priority": "high"
+    },
+    "blastocyst_grading_outcomes": {
+      "label": "Blastocyst grading & outcomes",
+      "priority": "medium"
+    },
+    "antagonist_protocol_normoresponder": {
+      "label": "Antagonist protocol in normo-responders",
+      "priority": "medium"
+    },
+    "intercycle_interval": {
+      "label": "Inter-cycle interval",
+      "priority": "low"
+    },
+    "methylation_mthfr_art": {
+      "label": "MTHFR / methylation & ART",
+      "priority": "high"
+    },
+    "one_pn_embryos": {
+      "label": "1PN / abnormal fertilisation",
+      "priority": "high"
+    },
+    "ss31_elamipretide": {
+      "label": "SS-31 / elamipretide & fertility",
+      "priority": "high"
+    },
+    "rapamycin": {
+      "label": "Rapamycin / sirolimus & fertility",
+      "priority": "high"
+    },
+    "embryo_arrest_d3_blast": {
+      "label": "Embryo arrest & blastulation",
+      "priority": "high"
+    },
+    "antioxidant_culture_media": {
+      "label": "Antioxidant culture media",
+      "priority": "high"
+    },
+    "growth_hormone_adjuvant": {
+      "label": "Growth hormone adjuvant in IVF",
+      "priority": "medium"
+    },
+    "time_lapse_morphokinetics": {
+      "label": "Time-lapse / morphokinetic embryo selection",
+      "priority": "medium"
+    },
+    "duostim_luteal_phase": {
+      "label": "DuoStim / luteal-phase stimulation",
+      "priority": "high"
+    },
+    "picsi_hyaluronan_binding": {
+      "label": "PICSI / hyaluronan binding sperm selection",
+      "priority": "medium"
+    },
+    "imsi_high_mag_morphology": {
+      "label": "IMSI / high-magnification sperm morphology",
+      "priority": "medium"
+    },
+    "endometrial_receptivity_era": {
+      "label": "Endometrial receptivity testing (ERA / ER-Map)",
+      "priority": "medium"
+    },
+    "recurrent_implantation_failure": {
+      "label": "Recurrent implantation failure",
+      "priority": "high"
+    },
+    "haploid_embryos_decondensation": {
+      "label": "Haploid embryos & sperm decondensation",
+      "priority": "high"
+    },
+    "varicocele_embolisation_ivf": {
+      "label": "Varicocele embolisation & IVF",
+      "priority": "high"
+    },
+    "choline_pemt_pregnancy": {
+      "label": "Choline / PEMT & pregnancy",
+      "priority": "medium"
+    },
+    "methylfolate_vs_folic_acid_ivf": {
+      "label": "Methylfolate vs folic acid in IVF",
+      "priority": "medium"
+    }
+  },
+  "journals_monitored": [
+    "Hum Reprod",
+    "Hum Reprod Update",
+    "Hum Reprod Open",
+    "Fertil Steril",
+    "F S Rep",
+    "F S Sci",
+    "Reprod Biomed Online",
+    "J Assist Reprod Genet",
+    "Reprod Biol Endocrinol",
+    "Hum Fertil (Camb)",
+    "Reprod Sci",
+    "Andrology",
+    "Mol Hum Reprod",
+    "Reproduction",
+    "Biol Reprod",
+    "Reprod Fertil Dev",
+    "Asian J Androl",
+    "Andrologia"
+  ],
+  "papers": [
+    {
+      "pmid": "43056058",
+      "title": "Maternal KIR-Fetal HLA-C Interactions in IVF and Pregnancy: Evidence, Clinical Implications, and Ethics; A Narrative Review.",
+      "journal": "Reprod Sci",
+      "pub_date": "2026-11-19",
+      "authors": [
+        "Margiana R",
+        "El-Sehrawy AAMA",
+        "Basunduwah TS",
+        "Baig MR",
+        "Nematov O",
+        "Omran I",
+        "Oza A"
+      ],
+      "abstract": "A successful pregnancy depends on tightly regulated communication between maternal uterine natural killer (uNK) cells and fetal extravillous trophoblasts (EVTs), in which maternal killer-cell immunoglobulin-like receptors (KIRs) and fetal human leukocyte antigen-C (HLA-C) help shape uNK-cell activation, trophoblast migration, and uterine vascular remodeling. Some genetic combinations of maternal KIR and fetal HLA-C have been found to be linked to problems in pregnancy and fertility; however, the evidence is evaluated in an inconsistent way when it comes to the definitions of ancestry, gestation, outcomes, study designs, and genetic testing methods. A clinically useful level of risk has not yet been established, and the fact that a specific genotype pairing is associated with an individual's reproductive outcome does not mean that it was the cause of that outcome. The review looks at the molecular evidence, compares the results from studies on assisted reproduction with those from population-based reproductive studies, and evaluates whether testing the parents or the embryos could lead to improvements in therapeutic methods. It also reviews established indications of preimplantation genetic testing (PGT), embryo HLA-C selection trials, donor selection, the use of intralipid, intravenous immunoglobulin (IVIG), granulocyte colony-stimulating factor (G-CSF), and single-embryo transfer. Current guidelines do not recommend routine HLA-C matching or KIR-directed immune modulation for recurrent implantation failure (RIF). The results of KIR/HLA-C testing also do not currently alter evidence-based prenatal care, which still depends on the patient's medical history and the presence of clear clinical findings. Although preliminary studies provide substantial evidence, the findings still require validation through larger studies and randomized trials, and adverse effects and equity concerns need to be addressed before embryo selection or specific treatments can be formally introduced into standard clinical practice.",
+      "doi": "10.1007/s43032-026-02254-w",
+      "matched_searches": [
+        "recurrent_implantation_failure"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43056058/",
+      "doi_url": "https://doi.org/10.1007/s43032-026-02254-w"
+    },
+    {
+      "pmid": "43046338",
+      "title": "Predictive ability of hyperspectral signatures from single immobilized spermatozoa as a novel approach to non-invasive sperm selection during ICSI.",
+      "journal": "Hum Reprod",
+      "pub_date": "2026-11-18",
+      "authors": [
+        "Gil Juli\u00e1 M",
+        "Pacheco-Rend\u00f3n RM",
+        "de Los Santos JM",
+        "Mu\u00f1oz D",
+        "Beltr\u00e1n D",
+        "G\u00e1miz P",
+        "Escrich L",
+        "Viloria T",
+        "Trinidad R",
+        "Rivera-Egea R",
+        "de Los Santos MJ",
+        "Garrido N"
+      ],
+      "abstract": "STUDY QUESTION: Can hyperspectral imaging of single immobilized spermatozoa prior to ICSI be used to characterize individual spermatozoa quality and develop predictive models for fertilization, blastulation, and blastocyst usability?\n\nSUMMARY ANSWER: Hyperspectral imaging characterization of individual immobilized spermatozoa was successfully implemented prior to ICSI and enabled the development of predictive models for key reproductive outcomes.\n\nWHAT IS KNOWN ALREADY: Sperm selection during ICSI is mainly based on morphology and motility, which provide limited information about functional competence. Most techniques capable of assessing molecular sperm quality are destructive and cannot be applied to the injected spermatozoon. Hyperspectral imaging (HS) is a non-invasive technique capable of generating molecular spectral fingerprints of individual cells.\n\nSTUDY DESIGN, SIZE, DURATION: This prospective two-phase study was conducted between March 2020 and August 2024 and included 93 couples undergoing ICSI cycles at a single IVF centre.\n\nPARTICIPANTS/MATERIALS, SETTING, METHODS: Single immobilized spermatozoa were imaged prior to ICSI using a hyperspectral camera coupled to a micromanipulation microscope. Phase I evaluated the feasibility and short-term technical repeatability of hyperspectral acquisition, as well as preliminary classification consistency across repeated acquisitions. Phase II included a safety evaluation using a sibling donor-oocyte design and the development of predictive models using hyperspectral spectra and clinical data. Machine learning models based on XGBoost decision trees were trained to predict fertilization, blastulation, and usable blastocyst formation.\n\nMAIN RESULTS AND THE ROLE OF CHANCE: Hyperspectral imaging was successfully implemented prior to ICSI. Phase I supported high short-term technical repeatability under stable acquisition conditions, with a global intraclass correlation coefficient of 0.999. Exploratory spectral classification across repeated technical acquisitions achieved a sensitivity of 93.84% and a specificity of 96.76%. In the safety evaluation, fertilization, blastulation, and usable blastocyst rates were comparable between HS-ICSI and standard ICSI groups. Predictive models based on hyperspectral spectra and clinical data were developed, with chained models integrating both data types showing the most favourable balance between predictive precision and uncertainty among the evaluated model configurations.\n\nLIMITATIONS, REASONS FOR CAUTION: Model performance may be influenced by limited training data and class imbalance; therefore, further validation in larger datasets is required. This approach may enable non-invasive functional characterization of individual spermatozoa and could support the future development of more informed sperm selection strategies during ICSI.\n\nWIDER IMPLICATIONS OF THE FINDINGS: This study demonstrates the feasibility of implementing hyperspectral imaging of single spermatozoa within the routine workflow of an IVF laboratory. This approach could enable non-invasive functional characterization, predict reproductive chances of individual spermatozoa, and support the future development of more informed sperm selection strategies during ICSI.\n\nFUNDING: This work was supported by the Centro para el Desarrollo Tecnol\u00f3gico Industrial (CDTI, Spain; Project ID: IDI-20210432).\n\nDISCLOSURES: The authors declare no competing interests.\n\nTRIAL REGISTRATION NUMBER: N/A.",
+      "doi": "10.1093/humrep/deag176",
+      "matched_searches": [
+        "embryo_arrest_d3_blast"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43046338/",
+      "doi_url": "https://doi.org/10.1093/humrep/deag176"
+    },
+    {
+      "pmid": "42658825",
+      "title": "Making better embryos-not more: omics-guided lessons to redesign in vitro systems\u2020.",
+      "journal": "Biol Reprod",
+      "pub_date": "2026-11-17",
+      "authors": [
+        "Milazzotto MP"
+      ],
+      "abstract": "In vitro embryo production (IVP) has achieved remarkable gains in efficiency, yet these advances remain based on oversimplified models that prioritize blastocyst yield over biological quality. Embryos reaching the blastocyst stage in vitro frequently exhibit molecular and functional deviations with consequences for implantation, placental function, and offspring health. Omics studies indicate that non-physiological culture conditions during epigenetically vulnerable developmental windows can rewire regulatory architecture by altering metabolic flux, epigenetic landscapes, and gene expression networks. However, most studies remain descriptive, limiting mechanistic understanding. Advancing embryo quality requires functional perturbation, multi-omics integration, and mechanistically driven experimental design. Here, we propose a conceptual framework for next-generation IVP based on adaptive culture conditions responsive to embryo-derived signals, restoration of epigenetic integrity, and bidirectional embryo-environment communication through oviductal signals, extracellular vesicles, and bioengineered interfaces. Success must shift from blastocyst formation toward functionally validated developmental outcomes.",
+      "doi": "10.1093/biolre/ioag177",
+      "matched_searches": [
+        "embryo_arrest_d3_blast"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42658825/",
+      "doi_url": "https://doi.org/10.1093/biolre/ioag177"
+    },
+    {
+      "pmid": "42720313",
+      "title": "Galectin-1 signaling dysregulation impairs stromal senescence and decidualization in recurrent implantation failure\u2020.",
+      "journal": "Biol Reprod",
+      "pub_date": "2026-11-17",
+      "authors": [
+        "Huang X",
+        "Lin Z",
+        "Chen M",
+        "Zheng ZM",
+        "Shi JL",
+        "Wang JR",
+        "Li MQ",
+        "Shao J"
+      ],
+      "abstract": "Endometrial decidualization is indispensable for embryo implantation, and moderate cellular senescence has recently been recognized as a functional component of this process. However, how this senescence response is regulated upstream and whether its disruption contributes to recurrent implantation failure (RIF) remain unclear. Here, we identify Galectin-1 (GAL1) as a potential regulator of senescence-associated decidual responses in human endometrial stromal cells. Moderate senescence induction in human endometrial stromal cells and primary decidual stromal cells (DSCs) was accompanied by enhanced decidualization responses, which was further supported by the co-localization of senescence markers with bone morphogenetic protein 2 (Bmp2) in the murine decidual zone during early gestation. GAL1 promoted senescence-associated and decidualization responses, whereas GAL1 inhibition or LGALS1 knockdown attenuated these effects. Estradiol and progesterone treatment increased GAL1 secretion and the expression of GAL1-associated extracellular components, while integrin inhibition reduced GAL1-induced decidual responses. In RIF endometrium, GAL1 expression was elevated, whereas genes associated with GAL1 signaling were downregulated in stromal cells, accompanied by reduced senescence marker expression. Collectively, our findings identify GAL1 signaling dysregulation as a potential mechanism underlying insufficient stromal senescence and impaired decidualization in a subset of RIF endometrium, providing new insights into the molecular heterogeneity of RIF.",
+      "doi": "10.1093/biolre/ioag194",
+      "matched_searches": [
+        "recurrent_implantation_failure"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42720313/",
+      "doi_url": "https://doi.org/10.1093/biolre/ioag194"
+    },
+    {
+      "pmid": "42640945",
+      "title": "IDO1-Kyn-AhR axis mediates glutamine/\u03b1-ketoglutarate-dependent decidualization in recurrent implantation failure\u2020.",
+      "journal": "Biol Reprod",
+      "pub_date": "2026-11-17",
+      "authors": [
+        "Zheng Z",
+        "Shi J",
+        "Zhou W",
+        "Zhang T",
+        "Shao J",
+        "Li M"
+      ],
+      "abstract": "One of the principal pathogens in recurrent implantation failure (RIF) is poor decidualization. Although various factors have been identified as involved in regulating decidualization, much remains unknown. Studies have shown that the decidualization process is accompanied by active glutamine/\u03b1-ketoglutarate (\u03b1-KG) metabolism, but the specific mechanisms warrant further investigation. Here, through RNA-Seq, we have discovered that \u03b1-KG may regulate decidualization via indoleamine 2,3-dioxygenase 1 (IDO1), one of the key enzymes involved in the conversion of tryptophan to kynurenine. Mechanistically, this process relies on the demethylation of H3K27me3 in the IDO1 promoter region, thereby regulating the IDO1-Kyn-Aryl hydrocarbon receptor (AhR) pathway. At the same time, RIF patients exhibit downregulated glutamine/\u03b1-KG/IDO1 metabolism in the endometrium compared with fertile women. In mouse models with disrupted glutamine/\u03b1- KG metabolism, supplementation with \u03b1-ketoglutarate or tryptophan promotes decidualization and enhances pregnancy rates. Consequently, this study underscores the pivotal role of the glutamine/\u03b1- KG /IDO1 metabolic axis in the prevention and treatment of implantation failure.",
+      "doi": "10.1093/biolre/ioag179",
+      "matched_searches": [
+        "recurrent_implantation_failure"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42640945/",
+      "doi_url": "https://doi.org/10.1093/biolre/ioag179"
+    }
+  ]
+}

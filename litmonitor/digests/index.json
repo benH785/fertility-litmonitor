@@ -1,5 +1,16 @@
 [
   {
+    "filename": "digest_2026-11-23.json",
+    "digest_date": "2026-11-23",
+    "generated_at": "2026-11-23T09:11:25Z",
+    "mode": "weekly",
+    "paper_count": 5,
+    "topic_counts": {
+      "recurrent_implantation_failure": 3,
+      "embryo_arrest_d3_blast": 2
+    }
+  },
+  {
     "filename": "digest_2026-11-16.json",
     "digest_date": "2026-11-16",
     "generated_at": "2026-11-16T09:12:16Z",

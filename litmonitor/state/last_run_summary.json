@@ -1,16 +1,12 @@
 {
-  "run_at": "2026-11-16T09:12:16Z",
+  "run_at": "2026-11-23T09:11:25Z",
   "mode": "weekly",
-  "since": "2026-11-07",
-  "new_papers": 3,
-  "total_seen": 1854,
-  "digest_filename": "digest_2026-11-16.md",
+  "since": "2026-11-14",
+  "new_papers": 5,
+  "total_seen": 1859,
+  "digest_filename": "digest_2026-11-23.md",
   "topic_counts": {
-    "methylation_mthfr_art": 1,
-    "haploid_embryos_decondensation": 1,
-    "zymot_microfluidic": 1,
-    "sperm_dna_fragmentation": 1,
-    "picsi_hyaluronan_binding": 1,
-    "imsi_high_mag_morphology": 1
+    "recurrent_implantation_failure": 3,
+    "embryo_arrest_d3_blast": 2
   }
 }
